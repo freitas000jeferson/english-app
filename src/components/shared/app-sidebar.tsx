@@ -1,68 +1,89 @@
-import {  Home, Book, Dumbbell } from "lucide-react"
-import Image from "next/image";
- 
+import {
+  Home,
+  Book,
+  Dumbbell,
+  Settings,
+  Database,
+  Blocks,
+  BrainCircuit
+} from 'lucide-react';
+
 import {
   Sidebar,
   SidebarContent,
-  SidebarGroup,
-  SidebarGroupContent,
-  SidebarGroupLabel,
+  SidebarFooter,
   SidebarHeader,
   SidebarMenu,
   SidebarMenuButton,
   SidebarMenuItem,
-} from "@/components/ui/sidebar"
-import { ROUTES } from "@/constants/routes";
+  SidebarRail
+} from '@/components/ui/sidebar';
+import { NavUser } from './nav-user';
+import { NavMain } from './nav-menu';
 
 export const SideBarMenuItems = [
   {
     icon: Home,
+    title: 'Home',
+    url: '/'
+  },
+  {
+    icon: Blocks,
     title: 'Dashboard',
-    url: ROUTES.dashboard
+    url: '/dashboard'
   },
   {
     icon: Book,
     title: 'Vocabulary',
-    url: ROUTES.vocabulary
+    url: '/vocabulary'
   },
   {
     icon: Dumbbell,
     title: 'Exercices',
-    url: ROUTES.exercices
+    url: '/exercices'
+  },
+  {
+    icon: Database,
+    title: 'Resources',
+    url: '/resources'
+  },
+  {
+    icon: Settings,
+    title: 'Settings',
+    url: '/settings'
   }
 ];
-export function AppSidebar() {
+const user = {
+  name: 'patman',
+  email: 'freitas000jeferson@gmail.com',
+  avatar: '/avatar.png'
+} as const;
+
+export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
   return (
-    <Sidebar>
+    <Sidebar collapsible="icon" {...props}>
       <SidebarHeader>
-         <Image
-            className="dark:invert"
-            src="/logo.png"
-            alt="Next.js logo"
-            height={40}
-            width={180}
-            priority
-          />
+        <SidebarMenu>
+          <SidebarMenuItem>
+            <SidebarMenuButton
+              asChild
+              className="data-[slot=sidebar-menu-button]:!p-1.5"
+            >
+              <a href="#">
+                <BrainCircuit className="!size-5" />
+                <span className="text-base font-semibold">My <span className='bg-primary text-primary-foreground'> English</span> App.</span>
+              </a>
+            </SidebarMenuButton>
+          </SidebarMenuItem>
+        </SidebarMenu>
       </SidebarHeader>
       <SidebarContent>
-        <SidebarGroup>
-          <SidebarGroupLabel>Application</SidebarGroupLabel>
-          <SidebarGroupContent>
-            <SidebarMenu>
-              {SideBarMenuItems.map((item) => (
-                <SidebarMenuItem key={item.title}>
-                  <SidebarMenuButton asChild>
-                    <a href={item.url}>
-                      <item.icon />
-                      <span>{item.title}</span>
-                    </a>
-                  </SidebarMenuButton>
-                </SidebarMenuItem>
-              ))}
-            </SidebarMenu>
-          </SidebarGroupContent>
-        </SidebarGroup>
+        <NavMain />
       </SidebarContent>
+      <SidebarFooter>
+        <NavUser user={user} />
+      </SidebarFooter>
+      <SidebarRail />
     </Sidebar>
-  )
+  );
 }
