@@ -1,11 +1,11 @@
 'use client';
-import { CheckCircle2Icon, Mic, Volume2 } from 'lucide-react';
+import { Mic, Volume2 } from 'lucide-react';
 import { toast } from 'sonner';
 import { Button } from '@/components/ui/button';
 import { Textarea } from '@/components/ui/textarea';
 import { P } from '@/components/ui/typography';
 
-export function ChangePhrase({ className, ...props }: React.ComponentProps<'h1'>) {
+export function ChangePhrase() {
 	function verifyStrings() {
 		// toast.success('Congratulations, you got it right!', { position: 'bottom-center', style: { color: "var(--success)"} });
 		toast.error('You got it wrong!', {

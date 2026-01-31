@@ -1,12 +1,11 @@
-import { Annoyed, Frown, Mic, Repeat, Smile, ThumbsDown, ThumbsUp, Volume2 } from 'lucide-react';
-import { SpeechPlayer } from '@/components/features/speech/speech-player';
-import { AudioExercices } from '@/components/features/vocabulary/audio-exercices';
-import { TranslationButton } from '@/components/features/vocabulary/translationButton';
+import { Annoyed, Smile, ThumbsDown, ThumbsUp } from 'lucide-react';
+import { AudioExercices } from '@/app/(private)/vocabulary/_components/audio-exercices';
 import { Container } from '@/components/shared/container';
+import { SpeechPlayer } from '@/components/shared/speech/speech-player';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
-import { H1, H3, Muted, P } from '@/components/ui/typography';
+import { H3, Muted, P } from '@/components/ui/typography';
 
 export default function VocabularyPlayPage() {
 	return (
@@ -34,7 +33,7 @@ export default function VocabularyPlayPage() {
 							<CardTitle>Tradução</CardTitle>
 							<CardDescription>Cachorro</CardDescription>
 						</CardHeader>
-						<CardContent className="text-muted-foreground text-sm"></CardContent>
+						<CardContent className="text-muted-foreground text-sm" />
 					</Card>
 				</TabsContent>
 			</Tabs>

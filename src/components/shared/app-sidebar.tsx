@@ -58,7 +58,7 @@ export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
 				<SidebarMenu>
 					<SidebarMenuItem>
 						<SidebarMenuButton asChild className="data-[slot=sidebar-menu-button]:!p-1.5">
-							<a href="#">
+							<a href="/">
 								<BrainCircuit className="!size-5" />
 								<span className="text-base font-semibold">
 									My <span className="bg-primary text-primary-foreground"> English</span> App.

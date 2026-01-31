@@ -1,7 +1,7 @@
 'use client';
 
+import { normalize } from 'node:path';
 import { CircleMinus, CircleQuestionMark } from 'lucide-react';
-import { normalize } from 'path';
 import { useState } from 'react';
 import { toast } from 'sonner';
 import {
@@ -12,7 +12,7 @@ import {
 	InputGroupTextarea,
 } from '@/components/ui/input-group';
 import { similarity } from '@/utils/similarity';
-import { SpeechRecorder } from '../speech/speech-recorder';
+import { SpeechRecorder } from '../../../../components/shared/speech/speech-recorder';
 
 const ICONS = {
 	question: CircleQuestionMark,

@@ -1,6 +1,5 @@
-import { CircleMinus, CircleQuestionMark } from 'lucide-react';
 import { P } from '@/components/ui/typography';
-import { SpeechPlayer } from '../speech/speech-player';
+import { SpeechPlayer } from '../../../../components/shared/speech/speech-player';
 import { AudioToTextComparisonInput } from './audio-to-text-comparison-input';
 import { TranslationButton } from './translationButton';
 
@@ -9,7 +8,7 @@ type AudioExercicesProps = {
 	translation: string;
 };
 
-export function AudioExercices({ text, translation, ...props }: AudioExercicesProps) {
+export function AudioExercices({ text, translation }: AudioExercicesProps) {
 	return (
 		<div className="flex flex-col gap-4">
 			<div className="flex flex-row gap-4 items-center">
