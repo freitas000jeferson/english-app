@@ -5,8 +5,7 @@
 // Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
 
 generator client {
-  provider = "prisma-client"
-  output   = "../src/generated/prisma/client"
+  provider = "prisma-client-js"
 }
 
 datasource db {
@@ -14,18 +13,33 @@ datasource db {
 }
 
 model Word {
-  id          Int      @id @default(autoincrement())
-  en          String
-  pt          String
-  description String?
-  imageUrl    String?
-  categoryId  Int
-  category    Category @relation(fields: [categoryId], references: [id])
+  id            Int     @id @default(autoincrement())
+  en            String @unique
+  pt            String
+  description   String?
 
-  examples Example[]
+  dictionary    Json?
+  isAbstract    Boolean @default(false)
+  partOfSpeech  PartOfSpeech?
 
-  createdAt DateTime @default(now())
-  updatedAt DateTime @updatedAt
+  imageUrl      String?
+  imageTried    Boolean @default(false)
+
+  gifUrl        String?
+  gifTried      Boolean @default(false)
+
+  categoryId    Int?
+  category      Category? @relation(fields: [categoryId], references: [id])
+
+  examples      Example[]
+
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  review      Review?
+  
+  @@index([categoryId])
+  @@index([isAbstract])
 }
 
 model Category {
@@ -48,4 +62,28 @@ model Example {
 
   interrogativeEn String
   interrogativePt String
+}
+enum PartOfSpeech {
+  noun
+  verb
+  adjective
+  adverb
+  preposition
+  conjunction
+  pronoun
+  interjection
+}
+
+model Review {
+  id           Int   @id @default(autoincrement())
+  wordId       Int   @unique
+  word         Word     @relation(fields: [wordId], references: [id])
+
+  interval     Int      // dias
+  easeFactor   Float    // normalmente começa em 2.5
+  repetitions  Int
+  nextReviewAt DateTime
+  lastGrade    Int?
+
+  createdAt    DateTime @default(now())
 }

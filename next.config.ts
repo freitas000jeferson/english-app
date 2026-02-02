@@ -4,7 +4,14 @@ const nextConfig: NextConfig = {
 	/* config options here */
 	reactCompiler: true,
 	images: {
-		domains: ['giphy.com', 'media4.giphy.com', 'media.giphy.com', 'i.giphy.com'],
+		domains: [
+			'giphy.com',
+			'media4.giphy.com',
+			'media.giphy.com',
+			'i.giphy.com',
+			'api.unsplash.com',
+			'pixabay.com',
+		],
 	},
 };
 

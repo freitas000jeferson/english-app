@@ -22,9 +22,14 @@ const ICONS = {
 type AudioToTextComparisonInputProps = {
 	label?: string;
 	icon?: keyof typeof ICONS;
-	text: string;
+	textPt?: string;
+	textEn: string;
 };
-export function AudioToTextComparisonInput({ text, label, icon }: AudioToTextComparisonInputProps) {
+export function AudioToTextComparisonInput({
+	textEn,
+	label,
+	icon,
+}: AudioToTextComparisonInputProps) {
 	const [spoken, setSpoken] = useState('');
 	const Icon = icon ? ICONS[icon] : null;
 
@@ -33,7 +38,7 @@ export function AudioToTextComparisonInput({ text, label, icon }: AudioToTextCom
 		verify(received);
 	};
 	const verify = (received: string) => {
-		const targetNomalized = normalize(text);
+		const targetNomalized = normalize(textEn);
 		const receivedNomalized = normalize(received);
 
 		const score = similarity(targetNomalized, receivedNomalized);

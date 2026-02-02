@@ -29,3 +29,17 @@ export function similarity(a: string, b: string): number {
 	const distance = matrix[lenB][lenA];
 	return 1 - distance / Math.max(lenA, lenB);
 }
+
+export function wordSimilarity(expected: string, spoken: string) {
+	const e = expected.split(' ');
+	const s = spoken.split(' ');
+
+	let total = 0;
+
+	e.forEach((word) => {
+		const best = Math.max(...s.map((spokenWord) => similarity(word, spokenWord)));
+		total += best;
+	});
+
+	return total / e.length;
+}

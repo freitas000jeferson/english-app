@@ -1,5 +1,7 @@
+import { fetchDictionary } from '@/features/dictionary/dictionary.service';
+import { prisma } from '@/lib/prisma';
+import { detectAbstract } from '@/utils/detectAbstractWords';
 import words from '../data/words_01.json';
-import { prisma } from '../src/lib/prisma';
 
 type WordData = {
 	en: string;
@@ -7,6 +9,7 @@ type WordData = {
 	category?: string;
 	description?: string;
 	imageUrl?: string;
+	gifUrl?: string;
 	examples?: Array<{
 		affirmativeEn?: string;
 		affirmativePt?: string;
@@ -32,6 +35,7 @@ async function createCategoryIfNotExists(categoryName: string) {
 	}
 	return category.id;
 }
+
 async function run() {
 	let created = 0;
 	for (const w of words as WordData[]) {
@@ -41,24 +45,37 @@ async function run() {
 				continue;
 			}
 
-			const categoryId = await createCategoryIfNotExists(w.category ?? 'General');
-
-			// skip if same word in same category already exists
-			const existing = await prisma.word.findFirst({
-				where: { en: w.en, categoryId },
+			// skip if same word already exists (schema has unique en)
+			const existing = await prisma.word.findUnique({
+				where: { en: w.en },
 			});
 			if (existing) {
-				console.log(`Skipping existing word: ${w.en} (${w.category ?? 'General'})`);
+				console.log(`Skipping existing word: ${w.en}`);
 				continue;
 			}
+
+			// fetch dictionary data
+			const dict = await fetchDictionary(w.en); // returns array or null
+			if (!dict) console.warn(`No dictionary data for "${w.en}"`);
+
+			// determine abstractness and partOfSpeech (from first meaning if available)
+			const isAbstract = detectAbstract(w.en, dict);
+			const partOfSpeech = (dict?.[0]?.meanings?.[0]?.partOfSpeech as string) ?? null;
+
+			const categoryId = await createCategoryIfNotExists(w.category ?? 'General');
 
 			const data: any = {
 				en: w.en,
 				pt: w.pt,
 				categoryId,
+				dictionary: dict ?? null,
+				isAbstract,
+				partOfSpeech,
 			};
+
 			if (w.description) data.description = w.description;
 			if (w.imageUrl) data.imageUrl = w.imageUrl;
+			if (w.gifUrl) data.gifUrl = w.gifUrl;
 
 			// handle examples if present
 			if (Array.isArray(w.examples) && w.examples.length > 0) {
@@ -80,7 +97,7 @@ async function run() {
 			await prisma.word.create({ data });
 			created++;
 		} catch (err) {
-			console.error('Failed to import word', w, err);
+			console.error('❌ Failed to import word', w, err);
 		}
 	}
 

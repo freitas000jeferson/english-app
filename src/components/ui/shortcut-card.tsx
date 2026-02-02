@@ -7,7 +7,7 @@ import { H3, H4, Muted } from './typography';
 export type ShortcutCardProps = {
 	title: string;
 	description?: string;
-	icon: React.ElementType;
+	icon?: React.ElementType;
 	href: string;
 	shortcut?: string;
 	className?: string;
