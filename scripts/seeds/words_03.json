@@ -1,0 +1,256 @@
+[{
+        "en": "plus",
+        "pt": "mais",
+        "partOfSpeech": "verb",
+        "category": "operations",
+        "description": "The addition operation represented by the symbol +",
+        "examples": [
+            {
+                "affirmativeEn": "Two plus two equals four",
+                "affirmativePt": "Dois mais dois é igual a quatro",
+                "negativeEn": "Two plus two doesn't equal four",
+                "negativePt": "Dois mais dois não é igual a quatro",
+                "interrogativeEn": "Does two plus two equal four?",
+                "interrogativePt": "Dois mais dois é igual a quatro?"
+            }
+        ]
+    },
+    {
+        "en": "minus",
+        "pt": "menos",
+        "partOfSpeech": "verb",
+        "category": "operations",
+        "description": "The subtraction operation represented by the symbol -",
+        "examples": [
+            {
+                "affirmativeEn": "Five minus three equals two",
+                "affirmativePt": "Cinco menos três é igual a dois",
+                "negativeEn": "Five minus three doesn't equal two",
+                "negativePt": "Cinco menos três não é igual a dois",
+                "interrogativeEn": "Does five minus three equal two?",
+                "interrogativePt": "Cinco menos três é igual a dois?"
+            }
+        ]
+    },
+    {
+        "en": "times",
+        "pt": "vezes",
+        "partOfSpeech": "verb",
+        "category": "operations",
+        "description": "The multiplication operation represented by the symbol *",
+        "examples": [
+            {
+                "affirmativeEn": "Three times four equals twelve",
+                "affirmativePt": "Três vezes quatro é igual a doze",
+                "negativeEn": "Three times four doesn't equal twelve",
+                "negativePt": "Três vezes quatro não é igual a doze",
+                "interrogativeEn": "Does three times four equal twelve?",
+                "interrogativePt": "Três vezes quatro é igual a doze?"
+            }
+        ]
+    },
+    {
+        "en": "divided by",
+        "pt": "dividido por",
+        "partOfSpeech": "verb",
+        "category": "operations",
+        "description": "The division operation represented by the symbol /",
+        "examples": [
+            {
+                "affirmativeEn": "Eight divided by two equals four",
+                "affirmativePt": "Oito dividido por dois é igual a quatro",
+                "negativeEn": "Eight divided by two doesn't equal four",
+                "negativePt": "Oito dividido por dois não é igual a quatro",
+                "interrogativeEn": "Does eight divided by two equal four?",
+                "interrogativePt": "Oito dividido por dois é igual a quatro?"
+            }
+        ]
+    },
+    {
+        "en": "square root",
+        "pt": "raiz quadrada",
+        "partOfSpeech": "noun",
+        "category": "operations",
+        "description": "The operation that finds the number that when multiplied by itself gives the original number",
+        "examples": [
+            {
+                "affirmativeEn": "The square root of sixteen is four",
+                "affirmativePt": "A raiz quadrada de dezesseis é quatro",
+                "negativeEn": "The square root of sixteen is not four",
+                "negativePt": "A raiz quadrada de dezesseis não é quatro",
+                "interrogativeEn": "Is the square root of sixteen four?",
+                "interrogativePt": "A raiz quadrada de dezesseis é quatro?"
+            }
+        ]
+    },
+    {
+        "en": "power",
+        "pt": "potência",
+        "partOfSpeech": "noun",
+        "category": "operations",
+        "description": "The exponentiation operation where a number is multiplied by itself a certain number of times",
+        "examples": [
+            {
+                "affirmativeEn": "Two to the power of three equals eight",
+                "affirmativePt": "Dois à potência de três é igual a oito",
+                "negativeEn": "Two to the power of three doesn't equal eight",
+                "negativePt": "Dois à potência de três não é igual a oito",
+                "interrogativeEn": "Does two to the power of three equal eight?",
+                "interrogativePt": "Dois à potência de três é igual a oito?"
+            }
+        ]
+    },
+    {
+        "en": "greater than",
+        "pt": "maior que",
+        "partOfSpeech": "verb",
+        "category": "operations",
+        "description": "The comparison operation that checks if one number is larger than another, represented by the symbol >",
+        "examples": [
+            {
+                "affirmativeEn": "Ten is greater than five",
+                "affirmativePt": "Dez é maior que cinco",
+                "negativeEn": "Ten is not greater than five",
+                "negativePt": "Dez não é maior que cinco",
+                "interrogativeEn": "Is ten greater than five?",
+                "interrogativePt": "Dez é maior que cinco?"
+            }
+        ]
+    },
+    {
+        "en": "less than",
+        "pt": "menor que",
+        "partOfSpeech": "verb",
+        "category": "operations",
+        "description": "The comparison operation that checks if one number is smaller than another, represented by the symbol <",
+        "examples": [
+            {
+                "affirmativeEn": "Three is less than seven",
+                "affirmativePt": "Três é menor que sete",
+                "negativeEn": "Three is not less than seven",
+                "negativePt": "Três não é menor que sete",
+                "interrogativeEn": "Is three less than seven?",
+                "interrogativePt": "Três é menor que sete?"
+            }
+        ]
+    },
+    {
+        "en": "equal to",
+        "pt": "igual a",
+        "partOfSpeech": "verb",
+        "category": "operations",
+        "description": "The comparison operation that checks if two numbers are the same, represented by the symbol =",
+        "examples": [
+            {
+                "affirmativeEn": "Four plus four is equal to eight",
+                "affirmativePt": "Quatro mais quatro é igual a oito",
+                "negativeEn": "Four plus four is not equal to eight",
+                "negativePt": "Quatro mais quatro não é igual a oito",
+                "interrogativeEn": "Is four plus four equal to eight?",
+                "interrogativePt": "Quatro mais quatro é igual a oito?"
+            }
+        ]
+    },
+    {
+        "en": "not equal to",
+        "pt": "não é igual a",
+        "partOfSpeech": "verb",
+        "category": "operations",
+        "description": "The comparison operation that checks if two numbers are different, represented by the symbol ≠",
+        "examples": [
+            {
+                "affirmativeEn": "Five is not equal to three",
+                "affirmativePt": "Cinco não é igual a três",
+                "negativeEn": "Five is equal to three",
+                "negativePt": "Cinco é igual a três",
+                "interrogativeEn": "Is five not equal to three?",
+                "interrogativePt": "Cinco não é igual a três?"
+            }
+        ]
+    },
+    {
+        "en": "greater than or equal to",
+        "pt": "maior ou igual a",
+        "partOfSpeech": "verb",
+        "category": "operations",
+        "description": "The comparison operation that checks if one number is larger than or the same as another, represented by the symbol ≥",
+        "examples": [
+            {
+                "affirmativeEn": "Six is greater than or equal to six",
+                "affirmativePt": "Seis é maior ou igual a seis",
+                "negativeEn": "Six is not greater than or equal to six",
+                "negativePt": "Seis não é maior ou igual a seis",
+                "interrogativeEn": "Is six greater than or equal to six?",
+                "interrogativePt": "Seis é maior ou igual a seis?"
+            }
+        ]
+    },
+    {
+        "en": "less than or equal to",
+        "pt": "menor ou igual a",
+        "partOfSpeech": "verb",
+        "category": "operations",
+        "description": "The comparison operation that checks if one number is smaller than or the same as another, represented by the symbol ≤",
+        "examples": [
+            {
+                "affirmativeEn": "Two is less than or equal to two",
+                "affirmativePt": "Dois é menor ou igual a dois",
+                "negativeEn": "Two is not less than or equal to two",
+                "negativePt": "Dois não é menor ou igual a dois",
+                "interrogativeEn": "Is two less than or equal to two?",
+                "interrogativePt": "Dois é menor ou igual a dois?"
+            }
+        ]
+    },
+    {
+        "en": "percentage",
+        "pt": "porcentagem",
+        "partOfSpeech": "noun",
+        "category": "operations",
+        "description": "A number expressed as a fraction of 100, represented by the symbol %",
+        "examples": [
+            {
+                "affirmativeEn": "Fifty percent of one hundred is fifty",
+                "affirmativePt": "Cinquenta por cento de cem é cinquenta",
+                "negativeEn": "Fifty percent of one hundred is not fifty",
+                "negativePt": "Cinquenta por cento de cem não é cinquenta",
+                "interrogativeEn": "Is fifty percent of one hundred fifty?",
+                "interrogativePt": "Cinquenta por cento de cem é cinquenta?"
+            }
+        ]
+    },
+    {
+        "en": "factorial",
+        "pt": "fatorial",
+        "partOfSpeech": "noun",
+        "category": "operations",
+        "description": "The product of all positive integers from 1 to a given number, represented by the symbol !",
+        "examples": [
+            {
+                "affirmativeEn": "The factorial of five is one hundred twenty",
+                "affirmativePt": "O fatorial de cinco é cento e vinte",
+                "negativeEn": "The factorial of five is not one hundred twenty",
+                "negativePt": "O fatorial de cinco não é cento e vinte",
+                "interrogativeEn": "Is the factorial of five one hundred twenty?",
+                "interrogativePt": "O fatorial de cinco é cento e vinte?"
+            }
+        ]
+    },
+    {
+        "en": "modulo",
+        "pt": "módulo",
+        "partOfSpeech": "noun",
+        "category": "operations",
+        "description": "The remainder operation that returns the remainder after division, represented by the symbol %",
+        "examples": [
+            {
+                "affirmativeEn": "Ten modulo three equals one",
+                "affirmativePt": "Dez módulo três é igual a um",
+                "negativeEn": "Ten modulo three doesn't equal one",
+                "negativePt": "Dez módulo três não é igual a um",
+                "interrogativeEn": "Does ten modulo three equal one?",
+                "interrogativePt": "Dez módulo três é igual a um?"
+            }
+        ]
+    }
+]

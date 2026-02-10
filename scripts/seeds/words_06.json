@@ -1,0 +1,794 @@
+[
+    {
+      "en": "chair",
+      "pt": "cadeira",
+      "partOfSpeech": "noun",
+      "category": "furniture",
+      "description": "A seat with a back, typically for one person",
+      "examples": [
+        {
+          "affirmativeEn": "I sit on the chair every day.",
+          "affirmativePt": "Eu sento na cadeira todos os dias.",
+          "negativeEn": "I don't sit on the chair every day.",
+          "negativePt": "Eu não sento na cadeira todos os dias.",
+          "interrogativeEn": "Do you sit on the chair every day?",
+          "interrogativePt": "Você senta na cadeira todos os dias?"
+        },
+        {
+          "affirmativeEn": "The chair is comfortable.",
+          "affirmativePt": "A cadeira é confortável.",
+          "negativeEn": "The chair is not comfortable.",
+          "negativePt": "A cadeira não é confortável.",
+          "interrogativeEn": "Is the chair comfortable?",
+          "interrogativePt": "A cadeira é confortável?"
+        },
+        {
+          "affirmativeEn": "She bought a new chair.",
+          "affirmativePt": "Ela comprou uma cadeira nova.",
+          "negativeEn": "She didn't buy a new chair.",
+          "negativePt": "Ela não comprou uma cadeira nova.",
+          "interrogativeEn": "Did she buy a new chair?",
+          "interrogativePt": "Ela comprou uma cadeira nova?"
+        }
+      ]
+    },
+    {
+      "en": "table",
+      "pt": "mesa",
+      "partOfSpeech": "noun",
+      "category": "furniture",
+      "description": "A flat surface supported by legs, used for eating or working",
+      "examples": [
+        {
+          "affirmativeEn": "The table is in the dining room.",
+          "affirmativePt": "A mesa está na sala de jantar.",
+          "negativeEn": "The table is not in the dining room.",
+          "negativePt": "A mesa não está na sala de jantar.",
+          "interrogativeEn": "Is the table in the dining room?",
+          "interrogativePt": "A mesa está na sala de jantar?"
+        },
+        {
+          "affirmativeEn": "We eat dinner at the table.",
+          "affirmativePt": "Nós jantamos na mesa.",
+          "negativeEn": "We don't eat dinner at the table.",
+          "negativePt": "Nós não jantamos na mesa.",
+          "interrogativeEn": "Do you eat dinner at the table?",
+          "interrogativePt": "Vocês jantam na mesa?"
+        },
+        {
+          "affirmativeEn": "He cleaned the wooden table.",
+          "affirmativePt": "Ele limpou a mesa de madeira.",
+          "negativeEn": "He didn't clean the wooden table.",
+          "negativePt": "Ele não limpou a mesa de madeira.",
+          "interrogativeEn": "Did he clean the wooden table?",
+          "interrogativePt": "Ele limpou a mesa de madeira?"
+        }
+      ]
+    },
+    {
+      "en": "bed",
+      "pt": "cama",
+      "partOfSpeech": "noun",
+      "category": "furniture",
+      "description": "A piece of furniture for sleeping",
+      "examples": [
+        {
+          "affirmativeEn": "I sleep in my bed at night.",
+          "affirmativePt": "Eu durmo na minha cama à noite.",
+          "negativeEn": "I don't sleep in my bed at night.",
+          "negativePt": "Eu não durmo na minha cama à noite.",
+          "interrogativeEn": "Do you sleep in your bed at night?",
+          "interrogativePt": "Você dorme na sua cama à noite?"
+        },
+        {
+          "affirmativeEn": "The bed is very comfortable.",
+          "affirmativePt": "A cama é muito confortável.",
+          "negativeEn": "The bed is not very comfortable.",
+          "negativePt": "A cama não é muito confortável.",
+          "interrogativeEn": "Is the bed comfortable?",
+          "interrogativePt": "A cama é confortável?"
+        },
+        {
+          "affirmativeEn": "She makes her bed every morning.",
+          "affirmativePt": "Ela arruma a cama dela todas as manhãs.",
+          "negativeEn": "She doesn't make her bed every morning.",
+          "negativePt": "Ela não arruma a cama dela todas as manhãs.",
+          "interrogativeEn": "Does she make her bed every morning?",
+          "interrogativePt": "Ela arruma a cama dela todas as manhãs?"
+        }
+      ]
+    },
+    {
+      "en": "sofa",
+      "pt": "sofá",
+      "partOfSpeech": "noun",
+      "category": "furniture",
+      "description": "A long upholstered seat for multiple people",
+      "examples": [
+        {
+          "affirmativeEn": "We relax on the sofa in the evening.",
+          "affirmativePt": "Nós relaxamos no sofá à noite.",
+          "negativeEn": "We don't relax on the sofa in the evening.",
+          "negativePt": "Nós não relaxamos no sofá à noite.",
+          "interrogativeEn": "Do you relax on the sofa in the evening?",
+          "interrogativePt": "Vocês relaxam no sofá à noite?"
+        },
+        {
+          "affirmativeEn": "The sofa is covered with pillows.",
+          "affirmativePt": "O sofá está coberto com almofadas.",
+          "negativeEn": "The sofa is not covered with pillows.",
+          "negativePt": "O sofá não está coberto com almofadas.",
+          "interrogativeEn": "Is the sofa covered with pillows?",
+          "interrogativePt": "O sofá está coberto com almofadas?"
+        },
+        {
+          "affirmativeEn": "They bought a new sofa last week.",
+          "affirmativePt": "Eles compraram um sofá novo semana passada.",
+          "negativeEn": "They didn't buy a new sofa last week.",
+          "negativePt": "Eles não compraram um sofá novo semana passada.",
+          "interrogativeEn": "Did they buy a new sofa last week?",
+          "interrogativePt": "Eles compraram um sofá novo semana passada?"
+        }
+      ]
+    },
+    {
+      "en": "desk",
+      "pt": "escrivaninha",
+      "partOfSpeech": "noun",
+      "category": "furniture",
+      "description": "A table for writing or working",
+      "examples": [
+        {
+          "affirmativeEn": "I work at my desk every day.",
+          "affirmativePt": "Eu trabalho na minha escrivaninha todos os dias.",
+          "negativeEn": "I don't work at my desk every day.",
+          "negativePt": "Eu não trabalho na minha escrivaninha todos os dias.",
+          "interrogativeEn": "Do you work at your desk every day?",
+          "interrogativePt": "Você trabalha na sua escrivaninha todos os dias?"
+        },
+        {
+          "affirmativeEn": "The desk is organized and clean.",
+          "affirmativePt": "A escrivaninha está organizada e limpa.",
+          "negativeEn": "The desk is not organized and clean.",
+          "negativePt": "A escrivaninha não está organizada e limpa.",
+          "interrogativeEn": "Is the desk organized and clean?",
+          "interrogativePt": "A escrivaninha está organizada e limpa?"
+        },
+        {
+          "affirmativeEn": "He has books on his desk.",
+          "affirmativePt": "Ele tem livros na sua escrivaninha.",
+          "negativeEn": "He doesn't have books on his desk.",
+          "negativePt": "Ele não tem livros na sua escrivaninha.",
+          "interrogativeEn": "Does he have books on his desk?",
+          "interrogativePt": "Ele tem livros na sua escrivaninha?"
+        }
+      ]
+    },
+    {
+      "en": "wardrobe",
+      "pt": "guarda-roupa",
+      "partOfSpeech": "noun",
+      "category": "furniture",
+      "description": "A large cabinet for storing clothes",
+      "examples": [
+        {
+          "affirmativeEn": "My wardrobe is full of clothes.",
+          "affirmativePt": "Meu guarda-roupa está cheio de roupas.",
+          "negativeEn": "My wardrobe is not full of clothes.",
+          "negativePt": "Meu guarda-roupa não está cheio de roupas.",
+          "interrogativeEn": "Is your wardrobe full of clothes?",
+          "interrogativePt": "Seu guarda-roupa está cheio de roupas?"
+        },
+        {
+          "affirmativeEn": "She organized her wardrobe yesterday.",
+          "affirmativePt": "Ela organizou seu guarda-roupa ontem.",
+          "negativeEn": "She didn't organize her wardrobe yesterday.",
+          "negativePt": "Ela não organizou seu guarda-roupa ontem.",
+          "interrogativeEn": "Did she organize her wardrobe yesterday?",
+          "interrogativePt": "Ela organizou seu guarda-roupa ontem?"
+        },
+        {
+          "affirmativeEn": "The wardrobe is in the bedroom.",
+          "affirmativePt": "O guarda-roupa está no quarto.",
+          "negativeEn": "The wardrobe is not in the bedroom.",
+          "negativePt": "O guarda-roupa não está no quarto.",
+          "interrogativeEn": "Is the wardrobe in the bedroom?",
+          "interrogativePt": "O guarda-roupa está no quarto?"
+        }
+      ]
+    },
+    {
+      "en": "shelf",
+      "pt": "prateleira",
+      "partOfSpeech": "noun",
+      "category": "furniture",
+      "description": "A flat horizontal surface for storing items",
+      "examples": [
+        {
+          "affirmativeEn": "The books are on the shelf.",
+          "affirmativePt": "Os livros estão na prateleira.",
+          "negativeEn": "The books are not on the shelf.",
+          "negativePt": "Os livros não estão na prateleira.",
+          "interrogativeEn": "Are the books on the shelf?",
+          "interrogativePt": "Os livros estão na prateleira?"
+        },
+        {
+          "affirmativeEn": "I installed a new shelf in my room.",
+          "affirmativePt": "Eu instalei uma prateleira nova no meu quarto.",
+          "negativeEn": "I didn't install a new shelf in my room.",
+          "negativePt": "Eu não instalei uma prateleira nova no meu quarto.",
+          "interrogativeEn": "Did you install a new shelf in your room?",
+          "interrogativePt": "Você instalou uma prateleira nova no seu quarto?"
+        },
+        {
+          "affirmativeEn": "The shelf holds five boxes.",
+          "affirmativePt": "A prateleira segura cinco caixas.",
+          "negativeEn": "The shelf doesn't hold five boxes.",
+          "negativePt": "A prateleira não segura cinco caixas.",
+          "interrogativeEn": "Does the shelf hold five boxes?",
+          "interrogativePt": "A prateleira segura cinco caixas?"
+        }
+      ]
+    },
+    {
+      "en": "lamp",
+      "pt": "luminária",
+      "partOfSpeech": "noun",
+      "category": "furniture",
+      "description": "A device that produces light",
+      "examples": [
+        {
+          "affirmativeEn": "The lamp is on the table.",
+          "affirmativePt": "A luminária está na mesa.",
+          "negativeEn": "The lamp is not on the table.",
+          "negativePt": "A luminária não está na mesa.",
+          "interrogativeEn": "Is the lamp on the table?",
+          "interrogativePt": "A luminária está na mesa?"
+        },
+        {
+          "affirmativeEn": "I turned off the lamp before sleep.",
+          "affirmativePt": "Eu desligar a luminária antes de dormir.",
+          "negativeEn": "I didn't turn off the lamp before sleep.",
+          "negativePt": "Eu não desligar a luminária antes de dormir.",
+          "interrogativeEn": "Did you turn off the lamp before sleep?",
+          "interrogativePt": "Você desligou a luminária antes de dormir?"
+        },
+        {
+          "affirmativeEn": "She bought a beautiful bedside lamp.",
+          "affirmativePt": "Ela comprou uma luminária de cabeceira bonita.",
+          "negativeEn": "She didn't buy a beautiful bedside lamp.",
+          "negativePt": "Ela não comprou uma luminária de cabeceira bonita.",
+          "interrogativeEn": "Did she buy a beautiful bedside lamp?",
+          "interrogativePt": "Ela comprou uma luminária de cabeceira bonita?"
+        }
+      ]
+    },
+    {
+      "en": "cabinet",
+      "pt": "armário",
+      "partOfSpeech": "noun",
+      "category": "furniture",
+      "description": "A piece of furniture with shelves or drawers for storage",
+      "examples": [
+        {
+          "affirmativeEn": "The dishes are in the kitchen cabinet.",
+          "affirmativePt": "Os pratos estão no armário da cozinha.",
+          "negativeEn": "The dishes are not in the kitchen cabinet.",
+          "negativePt": "Os pratos não estão no armário da cozinha.",
+          "interrogativeEn": "Are the dishes in the kitchen cabinet?",
+          "interrogativePt": "Os pratos estão no armário da cozinha?"
+        },
+        {
+          "affirmativeEn": "He opened the medicine cabinet.",
+          "affirmativePt": "Ele abriu o armário de remédios.",
+          "negativeEn": "He didn't open the medicine cabinet.",
+          "negativePt": "Ele não abriu o armário de remédios.",
+          "interrogativeEn": "Did he open the medicine cabinet?",
+          "interrogativePt": "Ele abriu o armário de remédios?"
+        },
+        {
+          "affirmativeEn": "The cabinet needs new hinges.",
+          "affirmativePt": "O armário precisa de dobradiças novas.",
+          "negativeEn": "The cabinet doesn't need new hinges.",
+          "negativePt": "O armário não precisa de dobradiças novas.",
+          "interrogativeEn": "Does the cabinet need new hinges?",
+          "interrogativePt": "O armário precisa de dobradiças novas?"
+        }
+      ]
+    },
+    {
+      "en": "mirror",
+      "pt": "espelho",
+      "partOfSpeech": "noun",
+      "category": "furniture",
+      "description": "A reflective surface typically used to see one's appearance",
+      "examples": [
+        {
+          "affirmativeEn": "The mirror is on the wall.",
+          "affirmativePt": "O espelho está na parede.",
+          "negativeEn": "The mirror is not on the wall.",
+          "negativePt": "O espelho não está na parede.",
+          "interrogativeEn": "Is the mirror on the wall?",
+          "interrogativePt": "O espelho está na parede?"
+        },
+        {
+          "affirmativeEn": "She looked at herself in the mirror.",
+          "affirmativePt": "Ela se olhou no espelho.",
+          "negativeEn": "She didn't look at herself in the mirror.",
+          "negativePt": "Ela não se olhou no espelho.",
+          "interrogativeEn": "Did she look at herself in the mirror?",
+          "interrogativePt": "Ela se olhou no espelho?"
+        },
+        {
+          "affirmativeEn": "The large mirror makes the room feel bigger.",
+          "affirmativePt": "O espelho grande faz o quarto parecer maior.",
+          "negativeEn": "The large mirror doesn't make the room feel bigger.",
+          "negativePt": "O espelho grande não faz o quarto parecer maior.",
+          "interrogativeEn": "Does the large mirror make the room feel bigger?",
+          "interrogativePt": "O espelho grande faz o quarto parecer maior?"
+        }
+      ]
+    },
+    {
+      "en": "dresser",
+      "pt": "cômoda",
+      "partOfSpeech": "noun",
+      "category": "furniture",
+      "description": "A piece of furniture with drawers for storing clothes",
+      "examples": [
+        {
+          "affirmativeEn": "My socks are in the dresser.",
+          "affirmativePt": "Minhas meias estão na cômoda.",
+          "negativeEn": "My socks are not in the dresser.",
+          "negativePt": "Minhas meias não estão na cômoda.",
+          "interrogativeEn": "Are your socks in the dresser?",
+          "interrogativePt": "Suas meias estão na cômoda?"
+        },
+        {
+          "affirmativeEn": "She organized the dresser drawers.",
+          "affirmativePt": "Ela organizou as gavetas da cômoda.",
+          "negativeEn": "She didn't organize the dresser drawers.",
+          "negativePt": "Ela não organizou as gavetas da cômoda.",
+          "interrogativeEn": "Did she organize the dresser drawers?",
+          "interrogativePt": "Ela organizou as gavetas da cômoda?"
+        },
+        {
+          "affirmativeEn": "The wooden dresser is antique.",
+          "affirmativePt": "A cômoda de madeira é antiga.",
+          "negativeEn": "The wooden dresser is not antique.",
+          "negativePt": "A cômoda de madeira não é antiga.",
+          "interrogativeEn": "Is the wooden dresser antique?",
+          "interrogativePt": "A cômoda de madeira é antiga?"
+        }
+      ]
+    },
+    {
+      "en": "bookcase",
+      "pt": "estante de livros",
+      "partOfSpeech": "noun",
+      "category": "furniture",
+      "description": "A piece of furniture with shelves for holding books",
+      "examples": [
+        {
+          "affirmativeEn": "The bookcase is full of books.",
+          "affirmativePt": "A estante de livros está cheia de livros.",
+          "negativeEn": "The bookcase is not full of books.",
+          "negativePt": "A estante de livros não está cheia de livros.",
+          "interrogativeEn": "Is the bookcase full of books?",
+          "interrogativePt": "A estante de livros está cheia de livros?"
+        },
+        {
+          "affirmativeEn": "He built a tall bookcase in the living room.",
+          "affirmativePt": "Ele construiu uma estante de livros alta na sala de estar.",
+          "negativeEn": "He didn't build a tall bookcase in the living room.",
+          "negativePt": "Ele não construiu uma estante de livros alta na sala de estar.",
+          "interrogativeEn": "Did he build a tall bookcase in the living room?",
+          "interrogativePt": "Ele construiu uma estante de livros alta na sala de estar?"
+        },
+        {
+          "affirmativeEn": "The white bookcase looks modern.",
+          "affirmativePt": "A estante de livros branca parece moderna.",
+          "negativeEn": "The white bookcase doesn't look modern.",
+          "negativePt": "A estante de livros branca não parece moderna.",
+          "interrogativeEn": "Does the white bookcase look modern?",
+          "interrogativePt": "A estante de livros branca parece moderna?"
+        }
+      ]
+    },
+    {
+      "en": "stool",
+      "pt": "banqueta",
+      "partOfSpeech": "noun",
+      "category": "furniture",
+      "description": "A seat without a backrest or armrests",
+      "examples": [
+        {
+          "affirmativeEn": "I sit on the stool while cooking.",
+          "affirmativePt": "Eu sento na banqueta enquanto cozinho.",
+          "negativeEn": "I don't sit on the stool while cooking.",
+          "negativePt": "Eu não sento na banqueta enquanto cozinho.",
+          "interrogativeEn": "Do you sit on the stool while cooking?",
+          "interrogativePt": "Você senta na banqueta enquanto cozinha?"
+        },
+        {
+          "affirmativeEn": "The bar stools are adjustable.",
+          "affirmativePt": "As banquetas de bar são ajustáveis.",
+          "negativeEn": "The bar stools are not adjustable.",
+          "negativePt": "As banquetas de bar não são ajustáveis.",
+          "interrogativeEn": "Are the bar stools adjustable?",
+          "interrogativePt": "As banquetas de bar são ajustáveis?"
+        },
+        {
+          "affirmativeEn": "She bought three new stools.",
+          "affirmativePt": "Ela comprou três banquetas novas.",
+          "negativeEn": "She didn't buy three new stools.",
+          "negativePt": "Ela não comprou três banquetas novas.",
+          "interrogativeEn": "Did she buy three new stools?",
+          "interrogativePt": "Ela comprou três banquetas novas?"
+        }
+      ]
+    },
+    {
+      "en": "nightstand",
+      "pt": "criado-mudo",
+      "partOfSpeech": "noun",
+      "category": "furniture",
+      "description": "A small table next to a bed",
+      "examples": [
+        {
+          "affirmativeEn": "The lamp is on the nightstand.",
+          "affirmativePt": "A luminária está no criado-mudo.",
+          "negativeEn": "The lamp is not on the nightstand.",
+          "negativePt": "A luminária não está no criado-mudo.",
+          "interrogativeEn": "Is the lamp on the nightstand?",
+          "interrogativePt": "A luminária está no criado-mudo?"
+        },
+        {
+          "affirmativeEn": "I keep books on my nightstand.",
+          "affirmativePt": "Eu guardo livros no meu criado-mudo.",
+          "negativeEn": "I don't keep books on my nightstand.",
+          "negativePt": "Eu não guardo livros no meu criado-mudo.",
+          "interrogativeEn": "Do you keep books on your nightstand?",
+          "interrogativePt": "Você guarda livros no seu criado-mudo?"
+        },
+        {
+          "affirmativeEn": "She placed her phone on the nightstand.",
+          "affirmativePt": "Ela colocou seu telefone no criado-mudo.",
+          "negativeEn": "She didn't place her phone on the nightstand.",
+          "negativePt": "Ela não colocou seu telefone no criado-mudo.",
+          "interrogativeEn": "Did she place her phone on the nightstand?",
+          "interrogativePt": "Ela colocou seu telefone no criado-mudo?"
+        }
+      ]
+    },
+    {
+      "en": "bench",
+      "pt": "banco",
+      "partOfSpeech": "noun",
+      "category": "furniture",
+      "description": "A long seat for multiple people",
+      "examples": [
+        {
+          "affirmativeEn": "We sit on the bench in the garden.",
+          "affirmativePt": "Nós sentamos no banco no jardim.",
+          "negativeEn": "We don't sit on the bench in the garden.",
+          "negativePt": "Nós não sentamos no banco no jardim.",
+          "interrogativeEn": "Do you sit on the bench in the garden?",
+          "interrogativePt": "Vocês sentam no banco no jardim?"
+        },
+        {
+          "affirmativeEn": "The wooden bench is sturdy.",
+          "affirmativePt": "O banco de madeira é consistente.",
+          "negativeEn": "The wooden bench is not sturdy.",
+          "negativePt": "O banco de madeira não é consistente.",
+          "interrogativeEn": "Is the wooden bench sturdy?",
+          "interrogativePt": "O banco de madeira é consistente?"
+        },
+        {
+          "affirmativeEn": "He painted the bench white.",
+          "affirmativePt": "Ele pintou o banco de branco.",
+          "negativeEn": "He didn't paint the bench white.",
+          "negativePt": "Ele não pintou o banco de branco.",
+          "interrogativeEn": "Did he paint the bench white?",
+          "interrogativePt": "Ele pintou o banco de branco?"
+        }
+      ]
+    },
+    {
+      "en": "armchair",
+      "pt": "poltrona",
+      "partOfSpeech": "noun",
+      "category": "furniture",
+      "description": "A comfortable chair with armrests",
+      "examples": [
+        {
+          "affirmativeEn": "He relaxes in the armchair every evening.",
+          "affirmativePt": "Ele relaxa na poltrona todas as noites.",
+          "negativeEn": "He doesn't relax in the armchair every evening.",
+          "negativePt": "Ele não relaxa na poltrona todas as noites.",
+          "interrogativeEn": "Does he relax in the armchair every evening?",
+          "interrogativePt": "Ele relaxa na poltrona todas as noites?"
+        },
+        {
+          "affirmativeEn": "The armchair is very soft.",
+          "affirmativePt": "A poltrona é muito macia.",
+          "negativeEn": "The armchair is not very soft.",
+          "negativePt": "A poltrona não é muito macia.",
+          "interrogativeEn": "Is the armchair very soft?",
+          "interrogativePt": "A poltrona é muito macia?"
+        },
+        {
+          "affirmativeEn": "She bought a leather armchair.",
+          "affirmativePt": "Ela comprou uma poltrona de couro.",
+          "negativeEn": "She didn't buy a leather armchair.",
+          "negativePt": "Ela não comprou uma poltrona de couro.",
+          "interrogativeEn": "Did she buy a leather armchair?",
+          "interrogativePt": "Ela comprou uma poltrona de couro?"
+        }
+      ]
+    },
+    {
+      "en": "couch",
+      "pt": "divã",
+      "partOfSpeech": "noun",
+      "category": "furniture",
+      "description": "A long upholstered seat for lying down",
+      "examples": [
+        {
+          "affirmativeEn": "I nap on the couch in the afternoon.",
+          "affirmativePt": "Eu tiro uma soneca no divã à tarde.",
+          "negativeEn": "I don't nap on the couch in the afternoon.",
+          "negativePt": "Eu não tiro uma soneca no divã à tarde.",
+          "interrogativeEn": "Do you nap on the couch in the afternoon?",
+          "interrogativePt": "Você tira uma soneca no divã à tarde?"
+        },
+        {
+          "affirmativeEn": "The couch is covered with a blanket.",
+          "affirmativePt": "O divã está coberto com um cobertor.",
+          "negativeEn": "The couch is not covered with a blanket.",
+          "negativePt": "O divã não está coberto com um cobertor.",
+          "interrogativeEn": "Is the couch covered with a blanket?",
+          "interrogativePt": "O divã está coberto com um cobertor?"
+        },
+        {
+          "affirmativeEn": "They moved the couch to another room.",
+          "affirmativePt": "Eles moveram o divã para outro quarto.",
+          "negativeEn": "They didn't move the couch to another room.",
+          "negativePt": "Eles não moveram o divã para outro quarto.",
+          "interrogativeEn": "Did they move the couch to another room?",
+          "interrogativePt": "Eles moveram o divã para outro quarto?"
+        }
+      ]
+    },
+    {
+      "en": "ottoman",
+      "pt": "otomana",
+      "partOfSpeech": "noun",
+      "category": "furniture",
+      "description": "A piece of upholstered furniture without a backrest, used as a footrest or seat",
+      "examples": [
+        {
+          "affirmativeEn": "I put my feet on the ottoman.",
+          "affirmativePt": "Eu coloco meus pés na otomana.",
+          "negativeEn": "I don't put my feet on the ottoman.",
+          "negativePt": "Eu não coloco meus pés na otomana.",
+          "interrogativeEn": "Do you put your feet on the ottoman?",
+          "interrogativePt": "Você coloca seus pés na otomana?"
+        },
+        {
+          "affirmativeEn": "The ottoman is red and square.",
+          "affirmativePt": "A otomana é vermelha e quadrada.",
+          "negativeEn": "The ottoman is not red and square.",
+          "negativePt": "A otomana não é vermelha e quadrada.",
+          "interrogativeEn": "Is the ottoman red and square?",
+          "interrogativePt": "A otomana é vermelha e quadrada?"
+        },
+        {
+          "affirmativeEn": "She bought a small ottoman for the living room.",
+          "affirmativePt": "Ela comprou uma otomana pequena para a sala de estar.",
+          "negativeEn": "She didn't buy a small ottoman for the living room.",
+          "negativePt": "Ela não comprou uma otomana pequena para a sala de estar.",
+          "interrogativeEn": "Did she buy a small ottoman for the living room?",
+          "interrogativePt": "Ela comprou uma otomana pequena para a sala de estar?"
+        }
+      ]
+    },
+    {
+      "en": "credenza",
+      "pt": "cristaleira",
+      "partOfSpeech": "noun",
+      "category": "furniture",
+      "description": "A piece of storage furniture with shelves or drawers",
+      "examples": [
+        {
+          "affirmativeEn": "The credenza displays fine china.",
+          "affirmativePt": "A cristaleira exibe porcelana fina.",
+          "negativeEn": "The credenza doesn't display fine china.",
+          "negativePt": "A cristaleira não exibe porcelana fina.",
+          "interrogativeEn": "Does the credenza display fine china?",
+          "interrogativePt": "A cristaleira exibe porcelana fina?"
+        },
+        {
+          "affirmativeEn": "I store documents in the credenza.",
+          "affirmativePt": "Eu guardo documentos na cristaleira.",
+          "negativeEn": "I don't store documents in the credenza.",
+          "negativePt": "Eu não guardo documentos na cristaleira.",
+          "interrogativeEn": "Do you store documents in the credenza?",
+          "interrogativePt": "Você guarda documentos na cristaleira?"
+        },
+        {
+          "affirmativeEn": "The wooden credenza is elegant.",
+          "affirmativePt": "A cristaleira de madeira é elegante.",
+          "negativeEn": "The wooden credenza is not elegant.",
+          "negativePt": "A cristaleira de madeira não é elegante.",
+          "interrogativeEn": "Is the wooden credenza elegant?",
+          "interrogativePt": "A cristaleira de madeira é elegante?"
+        }
+      ]
+    },
+    {
+      "en": "recliner",
+      "pt": "poltrona reclinável",
+      "partOfSpeech": "noun",
+      "category": "furniture",
+      "description": "A chair that reclines backward for comfort",
+      "examples": [
+        {
+          "affirmativeEn": "He watches TV in his recliner.",
+          "affirmativePt": "Ele assiste TV na sua poltrona reclinável.",
+          "negativeEn": "He doesn't watch TV in his recliner.",
+          "negativePt": "Ele não assiste TV na sua poltrona reclinável.",
+          "interrogativeEn": "Does he watch TV in his recliner?",
+          "interrogativePt": "Ele assiste TV na sua poltrona reclinável?"
+        },
+        {
+          "affirmativeEn": "The recliner is very comfortable.",
+          "affirmativePt": "A poltrona reclinável é muito confortável.",
+          "negativeEn": "The recliner is not very comfortable.",
+          "negativePt": "A poltrona reclinável não é muito confortável.",
+          "interrogativeEn": "Is the recliner very comfortable?",
+          "interrogativePt": "A poltrona reclinável é muito confortável?"
+        },
+        {
+          "affirmativeEn": "She reclined in the recliner after work.",
+          "affirmativePt": "Ela se recostou na poltrona reclinável após o trabalho.",
+          "negativeEn": "She didn't recline in the recliner after work.",
+          "negativePt": "Ela não se recostou na poltrona reclinável após o trabalho.",
+          "interrogativeEn": "Did she recline in the recliner after work?",
+          "interrogativePt": "Ela se recostou na poltrona reclinável após o trabalho?"
+        }
+      ]
+    },
+    {
+      "en": "hutch",
+      "pt": "aparador",
+      "partOfSpeech": "noun",
+      "category": "furniture",
+      "description": "A cupboard with shelves above for displaying items",
+      "examples": [
+        {
+          "affirmativeEn": "The hutch holds decorative plates.",
+          "affirmativePt": "O aparador segura pratos decorativos.",
+          "negativeEn": "The hutch doesn't hold decorative plates.",
+          "negativePt": "O aparador não segura pratos decorativos.",
+          "interrogativeEn": "Does the hutch hold decorative plates?",
+          "interrogativePt": "O aparador segura pratos decorativos?"
+        },
+        {
+          "affirmativeEn": "I cleaned the glass doors of the hutch.",
+          "affirmativePt": "Eu limpei as portas de vidro do aparador.",
+          "negativeEn": "I didn't clean the glass doors of the hutch.",
+          "negativePt": "Eu não limpei as portas de vidro do aparador.",
+          "interrogativeEn": "Did you clean the glass doors of the hutch?",
+          "interrogativePt": "Você limpou as portas de vidro do aparador?"
+        },
+        {
+          "affirmativeEn": "The antique hutch was passed down through generations.",
+          "affirmativePt": "O aparador antigo foi passado de geração em geração.",
+          "negativeEn": "The antique hutch wasn't passed down through generations.",
+          "negativePt": "O aparador antigo não foi passado de geração em geração.",
+          "interrogativeEn": "Was the antique hutch passed down through generations?",
+          "interrogativePt": "O aparador antigo foi passado de geração em geração?"
+        }
+      ]
+    },
+    {
+      "en": "console table",
+      "pt": "consola",
+      "partOfSpeech": "noun",
+      "category": "furniture",
+      "description": "A narrow table, usually against a wall",
+      "examples": [
+        {
+          "affirmativeEn": "The console table is in the hallway.",
+          "affirmativePt": "A consola está no corredor.",
+          "negativeEn": "The console table is not in the hallway.",
+          "negativePt": "A consola não está no corredor.",
+          "interrogativeEn": "Is the console table in the hallway?",
+          "interrogativePt": "A consola está no corredor?"
+        },
+        {
+          "affirmativeEn": "She placed a mirror above the console table.",
+          "affirmativePt": "Ela colocou um espelho acima da consola.",
+          "negativeEn": "She didn't place a mirror above the console table.",
+          "negativePt": "Ela não colocou um espelho acima da consola.",
+          "interrogativeEn": "Did she place a mirror above the console table?",
+          "interrogativePt": "Ela colocou um espelho acima da consola?"
+        },
+        {
+          "affirmativeEn": "The console table holds decorative items.",
+          "affirmativePt": "A consola segura itens decorativos.",
+          "negativeEn": "The console table doesn't hold decorative items.",
+          "negativePt": "A consola não segura itens decorativos.",
+          "interrogativeEn": "Does the console table hold decorative items?",
+          "interrogativePt": "A consola segura itens decorativos?"
+        }
+      ]
+    },
+    {
+      "en": "settee",
+      "pt": "canapé",
+      "partOfSpeech": "noun",
+      "category": "furniture",
+      "description": "A small sofa with a back and armrests",
+      "examples": [
+        {
+          "affirmativeEn": "The settee is upholstered in velvet.",
+          "affirmativePt": "O canapé é estofado em veludo.",
+          "negativeEn": "The settee is not upholstered in velvet.",
+          "negativePt": "O canapé não é estofado em veludo.",
+          "interrogativeEn": "Is the settee upholstered in velvet?",
+          "interrogativePt": "O canapé é estofado em veludo?"
+        },
+        {
+          "affirmativeEn": "They sat on the settee in the waiting room.",
+          "affirmativePt": "Eles sentaram no canapé na sala de espera.",
+          "negativeEn": "They didn't sit on the settee in the waiting room.",
+          "negativePt": "Eles não sentaram no canapé na sala de espera.",
+          "interrogativeEn": "Did they sit on the settee in the waiting room?",
+          "interrogativePt": "Eles sentaram no canapé na sala de espera?"
+        },
+        {
+          "affirmativeEn": "The vintage settee adds charm to the room.",
+          "affirmativePt": "O canapé vintage adiciona charme ao quarto.",
+          "negativeEn": "The vintage settee doesn't add charm to the room.",
+          "negativePt": "O canapé vintage não adiciona charme ao quarto.",
+          "interrogativeEn": "Does the vintage settee add charm to the room?",
+          "interrogativePt": "O canapé vintage adiciona charme ao quarto?"
+        }
+      ]
+    },
+    {
+      "en": "chaise lounge",
+      "pt": "espreguiçadeira",
+      "partOfSpeech": "noun",
+      "category": "furniture",
+      "description": "A long chair for reclining with back support",
+      "examples": [
+        {
+          "affirmativeEn": "She relaxes on the chaise lounge by the pool.",
+          "affirmativePt": "Ela relaxa na espreguiçadeira perto da piscina.",
+          "negativeEn": "She doesn't relax on the chaise lounge by the pool.",
+          "negativePt": "Ela não relaxa na espreguiçadeira perto da piscina.",
+          "interrogativeEn": "Does she relax on the chaise lounge by the pool?",
+          "interrogativePt": "Ela relaxa na espreguiçadeira perto da piscina?"
+        },
+        {
+          "affirmativeEn": "The chaise lounge is made of wicker.",
+          "affirmativePt": "A espreguiçadeira é feita de vime.",
+          "negativeEn": "The chaise lounge is not made of wicker.",
+          "negativePt": "A espreguiçadeira não é feita de vime.",
+          "interrogativeEn": "Is the chaise lounge made of wicker?",
+          "interrogativePt": "A espreguiçadeira é feita de vime?"
+        },
+        {
+          "affirmativeEn": "He bought a cushion for the chaise lounge.",
+          "affirmativePt": "Ele comprou uma almofada para a espreguiçadeira.",
+          "negativeEn": "He didn't buy a cushion for the chaise lounge.",
+          "negativePt": "Ele não comprou uma almofada para a espreguiçadeira.",
+          "interrogativeEn": "Did he buy a cushion for the chaise lounge?",
+          "interrogativePt": "Ele comprou uma almofada para a espreguiçadeira?"
+        }
+      ]
+    }
+]

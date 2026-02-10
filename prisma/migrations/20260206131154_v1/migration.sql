@@ -20,7 +20,10 @@ CREATE TABLE "Word" (
 -- CreateTable
 CREATE TABLE "Category" (
     "id" INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
-    "name" TEXT NOT NULL
+    "slug" TEXT NOT NULL,
+    "name" TEXT NOT NULL,
+    "level" TEXT,
+    "description" TEXT
 );
 
 -- CreateTable
@@ -59,7 +62,7 @@ CREATE INDEX "Word_categoryId_idx" ON "Word"("categoryId");
 CREATE INDEX "Word_isAbstract_idx" ON "Word"("isAbstract");
 
 -- CreateIndex
-CREATE UNIQUE INDEX "Category_name_key" ON "Category"("name");
+CREATE UNIQUE INDEX "Category_slug_key" ON "Category"("slug");
 
 -- CreateIndex
 CREATE UNIQUE INDEX "Review_wordId_key" ON "Review"("wordId");

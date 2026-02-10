@@ -44,7 +44,10 @@ model Word {
 
 model Category {
   id   Int    @id @default(autoincrement())
-  name String @unique
+  slug String @unique
+  name String 
+  level String?
+  description String?
 
   words Word[]
 }
@@ -72,6 +75,7 @@ enum PartOfSpeech {
   conjunction
   pronoun
   interjection
+  numeral
 }
 
 model Review {

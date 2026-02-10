@@ -1,0 +1,992 @@
+[
+    {
+        "en": "car",
+        "pt": "carro",
+        "partOfSpeech": "noun",
+        "category": "transportation",
+        "description": "A vehicle with four wheels used for transporting people",
+        "examples": [
+            {
+                "affirmativeEn": "I drive a car to work.",
+                "affirmativePt": "Eu dirijo um carro para o trabalho.",
+                "negativeEn": "I don't drive a car to work.",
+                "negativePt": "Eu não dirijo um carro para o trabalho.",
+                "interrogativeEn": "Do you drive a car to work?",
+                "interrogativePt": "Você dirige um carro para o trabalho?"
+            },
+            {
+                "affirmativeEn": "My car is red.",
+                "affirmativePt": "Meu carro é vermelho.",
+                "negativeEn": "My car is not red.",
+                "negativePt": "Meu carro não é vermelho.",
+                "interrogativeEn": "Is your car red?",
+                "interrogativePt": "Seu carro é vermelho?"
+            },
+            {
+                "affirmativeEn": "She parks her car here.",
+                "affirmativePt": "Ela estaciona seu carro aqui.",
+                "negativeEn": "She doesn't park her car here.",
+                "negativePt": "Ela não estaciona seu carro aqui.",
+                "interrogativeEn": "Does she park her car here?",
+                "interrogativePt": "Ela estaciona seu carro aqui?"
+            }
+        ]
+    },
+    {
+        "en": "bus",
+        "pt": "ônibus",
+        "partOfSpeech": "noun",
+        "category": "transportation",
+        "description": "A large vehicle designed to carry many passengers",
+        "examples": [
+            {
+                "affirmativeEn": "I take the bus every morning.",
+                "affirmativePt": "Eu pego o ônibus toda manhã.",
+                "negativeEn": "I don't take the bus every morning.",
+                "negativePt": "Eu não pego o ônibus toda manhã.",
+                "interrogativeEn": "Do you take the bus every morning?",
+                "interrogativePt": "Você pega o ônibus toda manhã?"
+            },
+            {
+                "affirmativeEn": "The bus is late.",
+                "affirmativePt": "O ônibus está atrasado.",
+                "negativeEn": "The bus is not late.",
+                "negativePt": "O ônibus não está atrasado.",
+                "interrogativeEn": "Is the bus late?",
+                "interrogativePt": "O ônibus está atrasado?"
+            },
+            {
+                "affirmativeEn": "She waits for the bus.",
+                "affirmativePt": "Ela espera pelo ônibus.",
+                "negativeEn": "She doesn't wait for the bus.",
+                "negativePt": "Ela não espera pelo ônibus.",
+                "interrogativeEn": "Does she wait for the bus?",
+                "interrogativePt": "Ela espera pelo ônibus?"
+            }
+        ]
+    },
+    {
+        "en": "bicycle",
+        "pt": "bicicleta",
+        "partOfSpeech": "noun",
+        "category": "transportation",
+        "description": "A two-wheeled vehicle powered by pedaling",
+        "examples": [
+            {
+                "affirmativeEn": "He rides his bicycle in the park.",
+                "affirmativePt": "Ele anda de bicicleta no parque.",
+                "negativeEn": "He doesn't ride his bicycle in the park.",
+                "negativePt": "Ele não anda de bicicleta no parque.",
+                "interrogativeEn": "Does he ride his bicycle in the park?",
+                "interrogativePt": "Ele anda de bicicleta no parque?"
+            },
+            {
+                "affirmativeEn": "My bicycle is new.",
+                "affirmativePt": "Minha bicicleta é nova.",
+                "negativeEn": "My bicycle is not new.",
+                "negativePt": "Minha bicicleta não é nova.",
+                "interrogativeEn": "Is your bicycle new?",
+                "interrogativePt": "Sua bicicleta é nova?"
+            },
+            {
+                "affirmativeEn": "They ride bicycles to school.",
+                "affirmativePt": "Eles andam de bicicleta para a escola.",
+                "negativeEn": "They don't ride bicycles to school.",
+                "negativePt": "Eles não andam de bicicleta para a escola.",
+                "interrogativeEn": "Do they ride bicycles to school?",
+                "interrogativePt": "Eles andam de bicicleta para a escola?"
+            }
+        ]
+    },
+    {
+        "en": "train",
+        "pt": "trem",
+        "partOfSpeech": "noun",
+        "category": "transportation",
+        "description": "A railway vehicle for transporting passengers or cargo",
+        "examples": [
+            {
+                "affirmativeEn": "The train arrives at 5 PM.",
+                "affirmativePt": "O trem chega às 5 da tarde.",
+                "negativeEn": "The train doesn't arrive at 5 PM.",
+                "negativePt": "O trem não chega às 5 da tarde.",
+                "interrogativeEn": "Does the train arrive at 5 PM?",
+                "interrogativePt": "O trem chega às 5 da tarde?"
+            },
+            {
+                "affirmativeEn": "I travel by train.",
+                "affirmativePt": "Eu viajo de trem.",
+                "negativeEn": "I don't travel by train.",
+                "negativePt": "Eu não viajo de trem.",
+                "interrogativeEn": "Do you travel by train?",
+                "interrogativePt": "Você viaja de trem?"
+            },
+            {
+                "affirmativeEn": "The train is crowded.",
+                "affirmativePt": "O trem está lotado.",
+                "negativeEn": "The train is not crowded.",
+                "negativePt": "O trem não está lotado.",
+                "interrogativeEn": "Is the train crowded?",
+                "interrogativePt": "O trem está lotado?"
+            }
+        ]
+    },
+    {
+        "en": "airplane",
+        "pt": "avião",
+        "partOfSpeech": "noun",
+        "category": "transportation",
+        "description": "An aircraft used for transporting passengers over long distances",
+        "examples": [
+            {
+                "affirmativeEn": "The airplane flies to Paris.",
+                "affirmativePt": "O avião voa para Paris.",
+                "negativeEn": "The airplane doesn't fly to Paris.",
+                "negativePt": "O avião não voa para Paris.",
+                "interrogativeEn": "Does the airplane fly to Paris?",
+                "interrogativePt": "O avião voa para Paris?"
+            },
+            {
+                "affirmativeEn": "She takes an airplane for vacation.",
+                "affirmativePt": "Ela pega um avião para as férias.",
+                "negativeEn": "She doesn't take an airplane for vacation.",
+                "negativePt": "Ela não pega um avião para as férias.",
+                "interrogativeEn": "Does she take an airplane for vacation?",
+                "interrogativePt": "Ela pega um avião para as férias?"
+            },
+            {
+                "affirmativeEn": "The airplane is fast.",
+                "affirmativePt": "O avião é rápido.",
+                "negativeEn": "The airplane is not fast.",
+                "negativePt": "O avião não é rápido.",
+                "interrogativeEn": "Is the airplane fast?",
+                "interrogativePt": "O avião é rápido?"
+            }
+        ]
+    },
+    {
+        "en": "boat",
+        "pt": "barco",
+        "partOfSpeech": "noun",
+        "category": "transportation",
+        "description": "A vessel designed for traveling on water",
+        "examples": [
+            {
+                "affirmativeEn": "We sail a boat on the lake.",
+                "affirmativePt": "Nós navegamos um barco no lago.",
+                "negativeEn": "We don't sail a boat on the lake.",
+                "negativePt": "Nós não navegamos um barco no lago.",
+                "interrogativeEn": "Do you sail a boat on the lake?",
+                "interrogativePt": "Você navega um barco no lago?"
+            },
+            {
+                "affirmativeEn": "The boat is white.",
+                "affirmativePt": "O barco é branco.",
+                "negativeEn": "The boat is not white.",
+                "negativePt": "O barco não é branco.",
+                "interrogativeEn": "Is the boat white?",
+                "interrogativePt": "O barco é branco?"
+            },
+            {
+                "affirmativeEn": "They travel by boat.",
+                "affirmativePt": "Eles viajam de barco.",
+                "negativeEn": "They don't travel by boat.",
+                "negativePt": "Eles não viajam de barco.",
+                "interrogativeEn": "Do they travel by boat?",
+                "interrogativePt": "Eles viajam de barco?"
+            }
+        ]
+    },
+    {
+        "en": "taxi",
+        "pt": "táxi",
+        "partOfSpeech": "noun",
+        "category": "transportation",
+        "description": "A vehicle for hire with a driver for transporting passengers",
+        "examples": [
+            {
+                "affirmativeEn": "I call a taxi to go home.",
+                "affirmativePt": "Eu chamo um táxi para ir para casa.",
+                "negativeEn": "I don't call a taxi to go home.",
+                "negativePt": "Eu não chamo um táxi para ir para casa.",
+                "interrogativeEn": "Do you call a taxi to go home?",
+                "interrogativePt": "Você chama um táxi para ir para casa?"
+            },
+            {
+                "affirmativeEn": "The taxi driver is friendly.",
+                "affirmativePt": "O motorista de táxi é amigável.",
+                "negativeEn": "The taxi driver is not friendly.",
+                "negativePt": "O motorista de táxi não é amigável.",
+                "interrogativeEn": "Is the taxi driver friendly?",
+                "interrogativePt": "O motorista de táxi é amigável?"
+            },
+            {
+                "affirmativeEn": "We take a taxi at the airport.",
+                "affirmativePt": "Nós pegamos um táxi no aeroporto.",
+                "negativeEn": "We don't take a taxi at the airport.",
+                "negativePt": "Nós não pegamos um táxi no aeroporto.",
+                "interrogativeEn": "Do you take a taxi at the airport?",
+                "interrogativePt": "Você pega um táxi no aeroporto?"
+            }
+        ]
+    },
+    {
+        "en": "motorcycle",
+        "pt": "motocicleta",
+        "partOfSpeech": "noun",
+        "category": "transportation",
+        "description": "A two-wheeled motor vehicle for one or two riders",
+        "examples": [
+            {
+                "affirmativeEn": "He drives a motorcycle.",
+                "affirmativePt": "Ele dirige uma motocicleta.",
+                "negativeEn": "He doesn't drive a motorcycle.",
+                "negativePt": "Ele não dirige uma motocicleta.",
+                "interrogativeEn": "Does he drive a motorcycle?",
+                "interrogativePt": "Ele dirige uma motocicleta?"
+            },
+            {
+                "affirmativeEn": "The motorcycle is fast.",
+                "affirmativePt": "A motocicleta é rápida.",
+                "negativeEn": "The motorcycle is not fast.",
+                "negativePt": "A motocicleta não é rápida.",
+                "interrogativeEn": "Is the motorcycle fast?",
+                "interrogativePt": "A motocicleta é rápida?"
+            },
+            {
+                "affirmativeEn": "She wears a helmet on her motorcycle.",
+                "affirmativePt": "Ela usa um capacete em sua motocicleta.",
+                "negativeEn": "She doesn't wear a helmet on her motorcycle.",
+                "negativePt": "Ela não usa um capacete em sua motocicleta.",
+                "interrogativeEn": "Does she wear a helmet on her motorcycle?",
+                "interrogativePt": "Ela usa um capacete em sua motocicleta?"
+            }
+        ]
+    },
+    {
+        "en": "truck",
+        "pt": "caminhão",
+        "partOfSpeech": "noun",
+        "category": "transportation",
+        "description": "A large motor vehicle for transporting goods",
+        "examples": [
+            {
+                "affirmativeEn": "The truck carries heavy cargo.",
+                "affirmativePt": "O caminhão carrega cargas pesadas.",
+                "negativeEn": "The truck doesn't carry heavy cargo.",
+                "negativePt": "O caminhão não carrega cargas pesadas.",
+                "interrogativeEn": "Does the truck carry heavy cargo?",
+                "interrogativePt": "O caminhão carrega cargas pesadas?"
+            },
+            {
+                "affirmativeEn": "He drives a truck for a living.",
+                "affirmativePt": "Ele dirige um caminhão para viver.",
+                "negativeEn": "He doesn't drive a truck for a living.",
+                "negativePt": "Ele não dirige um caminhão para viver.",
+                "interrogativeEn": "Does he drive a truck for a living?",
+                "interrogativePt": "Ele dirige um caminhão para viver?"
+            },
+            {
+                "affirmativeEn": "The truck is parked outside.",
+                "affirmativePt": "O caminhão está estacionado lá fora.",
+                "negativeEn": "The truck is not parked outside.",
+                "negativePt": "O caminhão não está estacionado lá fora.",
+                "interrogativeEn": "Is the truck parked outside?",
+                "interrogativePt": "O caminhão está estacionado lá fora?"
+            }
+        ]
+    },
+    {
+        "en": "ferry",
+        "pt": "balsa",
+        "partOfSpeech": "noun",
+        "category": "transportation",
+        "description": "A ship or boat for transporting passengers and vehicles across water",
+        "examples": [
+            {
+                "affirmativeEn": "The ferry crosses the river.",
+                "affirmativePt": "A balsa atravessa o rio.",
+                "negativeEn": "The ferry doesn't cross the river.",
+                "negativePt": "A balsa não atravessa o rio.",
+                "interrogativeEn": "Does the ferry cross the river?",
+                "interrogativePt": "A balsa atravessa o rio?"
+            },
+            {
+                "affirmativeEn": "We take the ferry to the island.",
+                "affirmativePt": "Nós pegamos a balsa para a ilha.",
+                "negativeEn": "We don't take the ferry to the island.",
+                "negativePt": "Nós não pegamos a balsa para a ilha.",
+                "interrogativeEn": "Do you take the ferry to the island?",
+                "interrogativePt": "Você pega a balsa para a ilha?"
+            },
+            {
+                "affirmativeEn": "The ferry is full today.",
+                "affirmativePt": "A balsa está cheia hoje.",
+                "negativeEn": "The ferry is not full today.",
+                "negativePt": "A balsa não está cheia hoje.",
+                "interrogativeEn": "Is the ferry full today?",
+                "interrogativePt": "A balsa está cheia hoje?"
+            }
+        ]
+    },
+    {
+        "en": "scooter",
+        "pt": "scooter",
+        "partOfSpeech": "noun",
+        "category": "transportation",
+        "description": "A small motorized vehicle with a platform for standing",
+        "examples": [
+            {
+                "affirmativeEn": "I ride a scooter to work.",
+                "affirmativePt": "Eu ando de scooter para o trabalho.",
+                "negativeEn": "I don't ride a scooter to work.",
+                "negativePt": "Eu não ando de scooter para o trabalho.",
+                "interrogativeEn": "Do you ride a scooter to work?",
+                "interrogativePt": "Você anda de scooter para o trabalho?"
+            },
+            {
+                "affirmativeEn": "The scooter is fast.",
+                "affirmativePt": "A scooter é rápida.",
+                "negativeEn": "The scooter is not fast.",
+                "negativePt": "A scooter não é rápida.",
+                "interrogativeEn": "Is the scooter fast?",
+                "interrogativePt": "A scooter é rápida?"
+            },
+            {
+                "affirmativeEn": "He parks his scooter nearby.",
+                "affirmativePt": "Ele estaciona sua scooter perto.",
+                "negativeEn": "He doesn't park his scooter nearby.",
+                "negativePt": "Ele não estaciona sua scooter perto.",
+                "interrogativeEn": "Does he park his scooter nearby?",
+                "interrogativePt": "Ele estaciona sua scooter perto?"
+            }
+        ]
+    },
+    {
+        "en": "wagon",
+        "pt": "carroça",
+        "partOfSpeech": "noun",
+        "category": "transportation",
+        "description": "A vehicle with four wheels pulled by horses or oxen",
+        "examples": [
+            {
+                "affirmativeEn": "The farmer drives a wagon.",
+                "affirmativePt": "O fazendeiro dirige uma carroça.",
+                "negativeEn": "The farmer doesn't drive a wagon.",
+                "negativePt": "O fazendeiro não dirige uma carroça.",
+                "interrogativeEn": "Does the farmer drive a wagon?",
+                "interrogativePt": "O fazendeiro dirige uma carroça?"
+            },
+            {
+                "affirmativeEn": "The wagon carries hay.",
+                "affirmativePt": "A carroça carrega feno.",
+                "negativeEn": "The wagon doesn't carry hay.",
+                "negativePt": "A carroça não carrega feno.",
+                "interrogativeEn": "Does the wagon carry hay?",
+                "interrogativePt": "A carroça carrega feno?"
+            },
+            {
+                "affirmativeEn": "They travel by wagon.",
+                "affirmativePt": "Eles viajam de carroça.",
+                "negativeEn": "They don't travel by wagon.",
+                "negativePt": "Eles não viajam de carroça.",
+                "interrogativeEn": "Do they travel by wagon?",
+                "interrogativePt": "Eles viajam de carroça?"
+            }
+        ]
+    },
+    {
+        "en": "helicopter",
+        "pt": "helicóptero",
+        "partOfSpeech": "noun",
+        "category": "transportation",
+        "description": "An aircraft with rotating blades for vertical takeoff",
+        "examples": [
+            {
+                "affirmativeEn": "The helicopter takes off vertically.",
+                "affirmativePt": "O helicóptero decola verticalmente.",
+                "negativeEn": "The helicopter doesn't take off vertically.",
+                "negativePt": "O helicóptero não decola verticalmente.",
+                "interrogativeEn": "Does the helicopter take off vertically?",
+                "interrogativePt": "O helicóptero decola verticalmente?"
+            },
+            {
+                "affirmativeEn": "She flies in a helicopter.",
+                "affirmativePt": "Ela voa em um helicóptero.",
+                "negativeEn": "She doesn't fly in a helicopter.",
+                "negativePt": "Ela não voa em um helicóptero.",
+                "interrogativeEn": "Does she fly in a helicopter?",
+                "interrogativePt": "Ela voa em um helicóptero?"
+            },
+            {
+                "affirmativeEn": "The helicopter is expensive.",
+                "affirmativePt": "O helicóptero é caro.",
+                "negativeEn": "The helicopter is not expensive.",
+                "negativePt": "O helicóptero não é caro.",
+                "interrogativeEn": "Is the helicopter expensive?",
+                "interrogativePt": "O helicóptero é caro?"
+            }
+        ]
+    },
+    {
+        "en": "subway",
+        "pt": "metrô",
+        "partOfSpeech": "noun",
+        "category": "transportation",
+        "description": "An underground railway system for urban transportation",
+        "examples": [
+            {
+                "affirmativeEn": "I take the subway every day.",
+                "affirmativePt": "Eu pego o metrô todos os dias.",
+                "negativeEn": "I don't take the subway every day.",
+                "negativePt": "Eu não pego o metrô todos os dias.",
+                "interrogativeEn": "Do you take the subway every day?",
+                "interrogativePt": "Você pega o metrô todos os dias?"
+            },
+            {
+                "affirmativeEn": "The subway is crowded in the morning.",
+                "affirmativePt": "O metrô está lotado pela manhã.",
+                "negativeEn": "The subway is not crowded in the morning.",
+                "negativePt": "O metrô não está lotado pela manhã.",
+                "interrogativeEn": "Is the subway crowded in the morning?",
+                "interrogativePt": "O metrô está lotado pela manhã?"
+            },
+            {
+                "affirmativeEn": "She waits for the subway.",
+                "affirmativePt": "Ela espera pelo metrô.",
+                "negativeEn": "She doesn't wait for the subway.",
+                "negativePt": "Ela não espera pelo metrô.",
+                "interrogativeEn": "Does she wait for the subway?",
+                "interrogativePt": "Ela espera pelo metrô?"
+            }
+        ]
+    },
+    {
+        "en": "camper",
+        "pt": "motorhome",
+        "partOfSpeech": "noun",
+        "category": "transportation",
+        "description": "A vehicle equipped for living accommodation on trips",
+        "examples": [
+            {
+                "affirmativeEn": "We travel in a camper.",
+                "affirmativePt": "Nós viajamos em um motorhome.",
+                "negativeEn": "We don't travel in a camper.",
+                "negativePt": "Nós não viajamos em um motorhome.",
+                "interrogativeEn": "Do you travel in a camper?",
+                "interrogativePt": "Você viaja em um motorhome?"
+            },
+            {
+                "affirmativeEn": "The camper is comfortable.",
+                "affirmativePt": "O motorhome é confortável.",
+                "negativeEn": "The camper is not comfortable.",
+                "negativePt": "O motorhome não é confortável.",
+                "interrogativeEn": "Is the camper comfortable?",
+                "interrogativePt": "O motorhome é confortável?"
+            },
+            {
+                "affirmativeEn": "He parks his camper in the forest.",
+                "affirmativePt": "Ele estaciona seu motorhome na floresta.",
+                "negativeEn": "He doesn't park his camper in the forest.",
+                "negativePt": "Ele não estaciona seu motorhome na floresta.",
+                "interrogativeEn": "Does he park his camper in the forest?",
+                "interrogativePt": "Ele estaciona seu motorhome na floresta?"
+            }
+        ]
+    },
+    {
+        "en": "tram",
+        "pt": "bonde",
+        "partOfSpeech": "noun",
+        "category": "transportation",
+        "description": "A streetcar running on rails for urban transportation",
+        "examples": [
+            {
+                "affirmativeEn": "I ride the tram to the city center.",
+                "affirmativePt": "Eu ando de bonde para o centro da cidade.",
+                "negativeEn": "I don't ride the tram to the city center.",
+                "negativePt": "Eu não ando de bonde para o centro da cidade.",
+                "interrogativeEn": "Do you ride the tram to the city center?",
+                "interrogativePt": "Você anda de bonde para o centro da cidade?"
+            },
+            {
+                "affirmativeEn": "The tram is punctual.",
+                "affirmativePt": "O bonde é pontual.",
+                "negativeEn": "The tram is not punctual.",
+                "negativePt": "O bonde não é pontual.",
+                "interrogativeEn": "Is the tram punctual?",
+                "interrogativePt": "O bonde é pontual?"
+            },
+            {
+                "affirmativeEn": "They wait for the tram at the station.",
+                "affirmativePt": "Eles esperam pelo bonde na estação.",
+                "negativeEn": "They don't wait for the tram at the station.",
+                "negativePt": "Eles não esperam pelo bonde na estação.",
+                "interrogativeEn": "Do they wait for the tram at the station?",
+                "interrogativePt": "Eles esperam pelo bonde na estação?"
+            }
+        ]
+    },
+    {
+        "en": "kayak",
+        "pt": "caiaque",
+        "partOfSpeech": "noun",
+        "category": "transportation",
+        "description": "A small narrow boat propelled by a double-bladed paddle",
+        "examples": [
+            {
+                "affirmativeEn": "He paddles a kayak on the river.",
+                "affirmativePt": "Ele rema um caiaque no rio.",
+                "negativeEn": "He doesn't paddle a kayak on the river.",
+                "negativePt": "Ele não rema um caiaque no rio.",
+                "interrogativeEn": "Does he paddle a kayak on the river?",
+                "interrogativePt": "Ele rema um caiaque no rio?"
+            },
+            {
+                "affirmativeEn": "The kayak is lightweight.",
+                "affirmativePt": "O caiaque é leve.",
+                "negativeEn": "The kayak is not lightweight.",
+                "negativePt": "O caiaque não é leve.",
+                "interrogativeEn": "Is the kayak lightweight?",
+                "interrogativePt": "O caiaque é leve?"
+            },
+            {
+                "affirmativeEn": "They carry the kayak to the water.",
+                "affirmativePt": "Eles carregam o caiaque para a água.",
+                "negativeEn": "They don't carry the kayak to the water.",
+                "negativePt": "Eles não carregam o caiaque para a água.",
+                "interrogativeEn": "Do they carry the kayak to the water?",
+                "interrogativePt": "Eles carregam o caiaque para a água?"
+            }
+        ]
+    },
+    {
+        "en": "skis",
+        "pt": "esquis",
+        "partOfSpeech": "noun",
+        "category": "transportation",
+        "description": "Long runners worn on feet for gliding over snow",
+        "examples": [
+            {
+                "affirmativeEn": "She wears skis down the mountain.",
+                "affirmativePt": "Ela usa esquis descendo a montanha.",
+                "negativeEn": "She doesn't wear skis down the mountain.",
+                "negativePt": "Ela não usa esquis descendo a montanha.",
+                "interrogativeEn": "Does she wear skis down the mountain?",
+                "interrogativePt": "Ela usa esquis descendo a montanha?"
+            },
+            {
+                "affirmativeEn": "The skis are new.",
+                "affirmativePt": "Os esquis são novos.",
+                "negativeEn": "The skis are not new.",
+                "negativePt": "Os esquis não são novos.",
+                "interrogativeEn": "Are the skis new?",
+                "interrogativePt": "Os esquis são novos?"
+            },
+            {
+                "affirmativeEn": "They rent skis at the resort.",
+                "affirmativePt": "Eles alugam esquis na estação.",
+                "negativeEn": "They don't rent skis at the resort.",
+                "negativePt": "Eles não alugam esquis na estação.",
+                "interrogativeEn": "Do they rent skis at the resort?",
+                "interrogativePt": "Eles alugam esquis na estação?"
+            }
+        ]
+    },
+    {
+        "en": "crane",
+        "pt": "guindaste",
+        "partOfSpeech": "noun",
+        "category": "transportation",
+        "description": "A large machine used to lift and move heavy objects",
+        "examples": [
+            {
+                "affirmativeEn": "The crane lifts the steel beam.",
+                "affirmativePt": "O guindaste levanta a viga de aço.",
+                "negativeEn": "The crane doesn't lift the steel beam.",
+                "negativePt": "O guindaste não levanta a viga de aço.",
+                "interrogativeEn": "Does the crane lift the steel beam?",
+                "interrogativePt": "O guindaste levanta a viga de aço?"
+            },
+            {
+                "affirmativeEn": "The crane is powerful.",
+                "affirmativePt": "O guindaste é poderoso.",
+                "negativeEn": "The crane is not powerful.",
+                "negativePt": "O guindaste não é poderoso.",
+                "interrogativeEn": "Is the crane powerful?",
+                "interrogativePt": "O guindaste é poderoso?"
+            },
+            {
+                "affirmativeEn": "Workers operate the crane at the construction site.",
+                "affirmativePt": "Trabalhadores operando o guindaste no canteiro de obras.",
+                "negativeEn": "Workers don't operate the crane at the construction site.",
+                "negativePt": "Trabalhadores não operam o guindaste no canteiro de obras.",
+                "interrogativeEn": "Do workers operate the crane at the construction site?",
+                "interrogativePt": "Trabalhadores operam o guindaste no canteiro de obras?"
+            }
+        ]
+    },
+    {
+        "en": "roller skates",
+        "pt": "patins",
+        "partOfSpeech": "noun",
+        "category": "transportation",
+        "description": "Shoes with wheels attached for gliding on smooth surfaces",
+        "examples": [
+            {
+                "affirmativeEn": "She rides roller skates in the park.",
+                "affirmativePt": "Ela anda de patins no parque.",
+                "negativeEn": "She doesn't ride roller skates in the park.",
+                "negativePt": "Ela não anda de patins no parque.",
+                "interrogativeEn": "Does she ride roller skates in the park?",
+                "interrogativePt": "Ela anda de patins no parque?"
+            },
+            {
+                "affirmativeEn": "The roller skates are colorful.",
+                "affirmativePt": "Os patins são coloridos.",
+                "negativeEn": "The roller skates are not colorful.",
+                "negativePt": "Os patins não são coloridos.",
+                "interrogativeEn": "Are the roller skates colorful?",
+                "interrogativePt": "Os patins são coloridos?"
+            },
+            {
+                "affirmativeEn": "He wears roller skates to school.",
+                "affirmativePt": "Ele usa patins para a escola.",
+                "negativeEn": "He doesn't wear roller skates to school.",
+                "negativePt": "Ele não usa patins para a escola.",
+                "interrogativeEn": "Does he wear roller skates to school?",
+                "interrogativePt": "Ele usa patins para a escola?"
+            }
+        ]
+    },
+    {
+        "en": "skateboard",
+        "pt": "skate",
+        "partOfSpeech": "noun",
+        "category": "transportation",
+        "description": "A board with wheels for riding and performing tricks",
+        "examples": [
+            {
+                "affirmativeEn": "He rides a skateboard in the street.",
+                "affirmativePt": "Ele anda de skate na rua.",
+                "negativeEn": "He doesn't ride a skateboard in the street.",
+                "negativePt": "Ele não anda de skate na rua.",
+                "interrogativeEn": "Does he ride a skateboard in the street?",
+                "interrogativePt": "Ele anda de skate na rua?"
+            },
+            {
+                "affirmativeEn": "The skateboard is damaged.",
+                "affirmativePt": "O skate está danificado.",
+                "negativeEn": "The skateboard is not damaged.",
+                "negativePt": "O skate não está danificado.",
+                "interrogativeEn": "Is the skateboard damaged?",
+                "interrogativePt": "O skate está danificado?"
+            },
+            {
+                "affirmativeEn": "She practices skateboarding tricks.",
+                "affirmativePt": "Ela pratica manobras de skate.",
+                "negativeEn": "She doesn't practice skateboarding tricks.",
+                "negativePt": "Ela não pratica manobras de skate.",
+                "interrogativeEn": "Does she practice skateboarding tricks?",
+                "interrogativePt": "Ela pratica manobras de skate?"
+            }
+        ]
+    },
+    {
+        "en": "limousine",
+        "pt": "limusine",
+        "partOfSpeech": "noun",
+        "category": "transportation",
+        "description": "A luxury sedan with a separate driver's compartment",
+        "examples": [
+            {
+                "affirmativeEn": "They arrive in a limousine.",
+                "affirmativePt": "Eles chegam de limusine.",
+                "negativeEn": "They don't arrive in a limousine.",
+                "negativePt": "Eles não chegam de limusine.",
+                "interrogativeEn": "Do they arrive in a limousine?",
+                "interrogativePt": "Eles chegam de limusine?"
+            },
+            {
+                "affirmativeEn": "The limousine is elegant.",
+                "affirmativePt": "A limusine é elegante.",
+                "negativeEn": "The limousine is not elegant.",
+                "negativePt": "A limusine não é elegante.",
+                "interrogativeEn": "Is the limousine elegant?",
+                "interrogativePt": "A limusine é elegante?"
+            },
+            {
+                "affirmativeEn": "She rides in a limousine for the event.",
+                "affirmativePt": "Ela anda de limusine para o evento.",
+                "negativeEn": "She doesn't ride in a limousine for the event.",
+                "negativePt": "Ela não anda de limusine para o evento.",
+                "interrogativeEn": "Does she ride in a limousine for the event?",
+                "interrogativePt": "Ela anda de limusine para o evento?"
+            }
+        ]
+    },
+    {
+        "en": "glider",
+        "pt": "planador",
+        "partOfSpeech": "noun",
+        "category": "transportation",
+        "description": "A motorless aircraft that glides on air currents",
+        "examples": [
+            {
+                "affirmativeEn": "The glider soars in the sky.",
+                "affirmativePt": "O planador planar no céu.",
+                "negativeEn": "The glider doesn't soar in the sky.",
+                "negativePt": "O planador não planar no céu.",
+                "interrogativeEn": "Does the glider soar in the sky?",
+                "interrogativePt": "O planador planar no céu?"
+            },
+            {
+                "affirmativeEn": "He pilots a glider.",
+                "affirmativePt": "Ele pilota um planador.",
+                "negativeEn": "He doesn't pilot a glider.",
+                "negativePt": "Ele não pilota um planador.",
+                "interrogativeEn": "Does he pilot a glider?",
+                "interrogativePt": "Ele pilota um planador?"
+            },
+            {
+                "affirmativeEn": "The glider is silent.",
+                "affirmativePt": "O planador é silencioso.",
+                "negativeEn": "The glider is not silent.",
+                "negativePt": "O planador não é silencioso.",
+                "interrogativeEn": "Is the glider silent?",
+                "interrogativePt": "O planador é silencioso?"
+            }
+        ]
+    },
+    {
+        "en": "sedan",
+        "pt": "sedan",
+        "partOfSpeech": "noun",
+        "category": "transportation",
+        "description": "A four-door passenger car with a separate trunk",
+        "examples": [
+            {
+                "affirmativeEn": "My family drives a sedan.",
+                "affirmativePt": "Minha família dirige um sedan.",
+                "negativeEn": "My family doesn't drive a sedan.",
+                "negativePt": "Minha família não dirige um sedan.",
+                "interrogativeEn": "Does your family drive a sedan?",
+                "interrogativePt": "Sua família dirige um sedan?"
+            },
+            {
+                "affirmativeEn": "The sedan is comfortable.",
+                "affirmativePt": "O sedan é confortável.",
+                "negativeEn": "The sedan is not comfortable.",
+                "negativePt": "O sedan não é confortável.",
+                "interrogativeEn": "Is the sedan comfortable?",
+                "interrogativePt": "O sedan é confortável?"
+            },
+            {
+                "affirmativeEn": "She parks her sedan in the garage.",
+                "affirmativePt": "Ela estaciona seu sedan na garagem.",
+                "negativeEn": "She doesn't park her sedan in the garage.",
+                "negativePt": "Ela não estaciona seu sedan na garagem.",
+                "interrogativeEn": "Does she park her sedan in the garage?",
+                "interrogativePt": "Ela estaciona seu sedan na garagem?"
+            }
+        ]
+    },
+    {
+        "en": "carriage",
+        "pt": "carruagem",
+        "partOfSpeech": "noun",
+        "category": "transportation",
+        "description": "A vehicle drawn by horses for transporting people",
+        "examples": [
+            {
+                "affirmativeEn": "The carriage arrives at the palace.",
+                "affirmativePt": "A carruagem chega ao palácio.",
+                "negativeEn": "The carriage doesn't arrive at the palace.",
+                "negativePt": "A carruagem não chega ao palácio.",
+                "interrogativeEn": "Does the carriage arrive at the palace?",
+                "interrogativePt": "A carruagem chega ao palácio?"
+            },
+            {
+                "affirmativeEn": "The carriage is ornate.",
+                "affirmativePt": "A carruagem é ornamentada.",
+                "negativeEn": "The carriage is not ornate.",
+                "negativePt": "A carruagem não é ornamentada.",
+                "interrogativeEn": "Is the carriage ornate?",
+                "interrogativePt": "A carruagem é ornamentada?"
+            },
+            {
+                "affirmativeEn": "They ride in a carriage through the city.",
+                "affirmativePt": "Eles andam de carruagem pela cidade.",
+                "negativeEn": "They don't ride in a carriage through the city.",
+                "negativePt": "Eles não andam de carruagem pela cidade.",
+                "interrogativeEn": "Do they ride in a carriage through the city?",
+                "interrogativePt": "Eles andam de carruagem pela cidade?"
+            }
+        ]
+    },
+    {
+        "en": "hovercraft",
+        "pt": "aerodeslizador",
+        "partOfSpeech": "noun",
+        "category": "transportation",
+        "description": "A vehicle that travels over land or water on a cushion of air",
+        "examples": [
+            {
+                "affirmativeEn": "The hovercraft moves swiftly.",
+                "affirmativePt": "O aerodeslizador se move rapidamente.",
+                "negativeEn": "The hovercraft doesn't move swiftly.",
+                "negativePt": "O aerodeslizador não se move rapidamente.",
+                "interrogativeEn": "Does the hovercraft move swiftly?",
+                "interrogativePt": "O aerodeslizador se move rapidamente?"
+            },
+            {
+                "affirmativeEn": "She travels by hovercraft.",
+                "affirmativePt": "Ela viaja de aerodeslizador.",
+                "negativeEn": "She doesn't travel by hovercraft.",
+                "negativePt": "Ela não viaja de aerodeslizador.",
+                "interrogativeEn": "Does she travel by hovercraft?",
+                "interrogativePt": "Ela viaja de aerodeslizador?"
+            },
+            {
+                "affirmativeEn": "The hovercraft is efficient.",
+                "affirmativePt": "O aerodeslizador é eficiente.",
+                "negativeEn": "The hovercraft is not efficient.",
+                "negativePt": "O aerodeslizador não é eficiente.",
+                "interrogativeEn": "Is the hovercraft efficient?",
+                "interrogativePt": "O aerodeslizador é eficiente?"
+            }
+        ]
+    },
+    {
+        "en": "gondola",
+        "pt": "gôndola",
+        "partOfSpeech": "noun",
+        "category": "transportation",
+        "description": "A long narrow boat used in Venice for transportation",
+        "examples": [
+            {
+                "affirmativeEn": "They ride in a gondola in Venice.",
+                "affirmativePt": "Eles andam de gôndola em Veneza.",
+                "negativeEn": "They don't ride in a gondola in Venice.",
+                "negativePt": "Eles não andam de gôndola em Veneza.",
+                "interrogativeEn": "Do they ride in a gondola in Venice?",
+                "interrogativePt": "Eles andam de gôndola em Veneza?"
+            },
+            {
+                "affirmativeEn": "The gondola is iconic.",
+                "affirmativePt": "A gôndola é icônica.",
+                "negativeEn": "The gondola is not iconic.",
+                "negativePt": "A gôndola não é icônica.",
+                "interrogativeEn": "Is the gondola iconic?",
+                "interrogativePt": "A gôndola é icônica?"
+            },
+            {
+                "affirmativeEn": "A gondolier steers the gondola.",
+                "affirmativePt": "Um gondoleiro dirige a gôndola.",
+                "negativeEn": "A gondolier doesn't steer the gondola.",
+                "negativePt": "Um gondoleiro não dirige a gôndola.",
+                "interrogativeEn": "Does a gondolier steer the gondola?",
+                "interrogativePt": "Um gondoleiro dirige a gôndola?"
+            }
+        ]
+    },
+    {
+        "en": "jeep",
+        "pt": "jipe",
+        "partOfSpeech": "noun",
+        "category": "transportation",
+        "description": "A small sturdy motor vehicle for rough terrain",
+        "examples": [
+            {
+                "affirmativeEn": "He drives a jeep through the desert.",
+                "affirmativePt": "Ele dirige um jipe pelo deserto.",
+                "negativeEn": "He doesn't drive a jeep through the desert.",
+                "negativePt": "Ele não dirige um jipe pelo deserto.",
+                "interrogativeEn": "Does he drive a jeep through the desert?",
+                "interrogativePt": "Ele dirige um jipe pelo deserto?"
+            },
+            {
+                "affirmativeEn": "The jeep is rugged.",
+                "affirmativePt": "O jipe é robusto.",
+                "negativeEn": "The jeep is not rugged.",
+                "negativePt": "O jipe não é robusto.",
+                "interrogativeEn": "Is the jeep rugged?",
+                "interrogativePt": "O jipe é robusto?"
+            },
+            {
+                "affirmativeEn": "They travel by jeep on safari.",
+                "affirmativePt": "Eles viajam de jipe em safári.",
+                "negativeEn": "They don't travel by jeep on safari.",
+                "negativePt": "Eles não viajam de jipe em safári.",
+                "interrogativeEn": "Do they travel by jeep on safari?",
+                "interrogativePt": "Eles viajam de jipe em safári?"
+            }
+        ]
+    },
+    {
+        "en": "tanker",
+        "pt": "tanque",
+        "partOfSpeech": "noun",
+        "category": "transportation",
+        "description": "A large vehicle or ship designed to transport liquids",
+        "examples": [
+            {
+                "affirmativeEn": "The tanker transports oil.",
+                "affirmativePt": "O tanque transporta óleo.",
+                "negativeEn": "The tanker doesn't transport oil.",
+                "negativePt": "O tanque não transporta óleo.",
+                "interrogativeEn": "Does the tanker transport oil?",
+                "interrogativePt": "O tanque transporta óleo?"
+            },
+            {
+                "affirmativeEn": "The tanker is large.",
+                "affirmativePt": "O tanque é grande.",
+                "negativeEn": "The tanker is not large.",
+                "negativePt": "O tanque não é grande.",
+                "interrogativeEn": "Is the tanker large?",
+                "interrogativePt": "O tanque é grande?"
+            },
+            {
+                "affirmativeEn": "Ships deliver the tanker to the port.",
+                "affirmativePt": "Navios entregam o tanque ao porto.",
+                "negativeEn": "Ships don't deliver the tanker to the port.",
+                "negativePt": "Navios não entregam o tanque ao porto.",
+                "interrogativeEn": "Do ships deliver the tanker to the port?",
+                "interrogativePt": "Navios entregam o tanque ao porto?"
+            }
+        ]
+    },
+    {
+        "en": "spaceship",
+        "pt": "nave espacial",
+        "partOfSpeech": "noun",
+        "category": "transportation",
+        "description": "A vehicle designed for traveling through space",
+        "examples": [
+            {
+                "affirmativeEn": "The spaceship lands on the moon.",
+                "affirmativePt": "A nave espacial pousa na lua.",
+                "negativeEn": "The spaceship doesn't land on the moon.",
+                "negativePt": "A nave espacial não pousa na lua.",
+                "interrogativeEn": "Does the spaceship land on the moon?",
+                "interrogativePt": "A nave espacial pousa na lua?"
+            },
+            {
+                "affirmativeEn": "The spaceship is advanced.",
+                "affirmativePt": "A nave espacial é avançada.",
+                "negativeEn": "The spaceship is not advanced.",
+                "negativePt": "A nave espacial não é avançada.",
+                "interrogativeEn": "Is the spaceship advanced?",
+                "interrogativePt": "A nave espacial é avançada?"
+            },
+            {
+                "affirmativeEn": "Astronauts travel in a spaceship.",
+                "affirmativePt": "Astronautas viajam em uma nave espacial.",
+                "negativeEn": "Astronauts don't travel in a spaceship.",
+                "negativePt": "Astronautas não viajam em uma nave espacial.",
+                "interrogativeEn": "Do astronauts travel in a spaceship?",
+                "interrogativePt": "Astronautas viajam em uma nave espacial?"
+            }
+        ]
+    }
+]

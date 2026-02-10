@@ -1,0 +1,909 @@
+[
+    {
+        "en": "one",
+        "pt": "um",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 1, used for counting and mathematics",
+        "examples": [
+            {
+                "affirmativeEn": "I have one apple",
+                "affirmativePt": "Eu tenho uma maçã",
+                "negativeEn": "I don't have one apple",
+                "negativePt": "Eu não tenho uma maçã",
+                "interrogativeEn": "Do you have one apple?",
+                "interrogativePt": "Você tem uma maçã?"
+            },
+            {
+                "affirmativeEn": "There is one cat in the house",
+                "affirmativePt": "Há um gato na casa",
+                "negativeEn": "There is not one cat in the house",
+                "negativePt": "Não há um gato na casa",
+                "interrogativeEn": "Is there one cat in the house?",
+                "interrogativePt": "Há um gato na casa?"
+            }
+        ]
+    },
+    {
+        "en": "two",
+        "pt": "dois",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 2, used for counting pairs",
+        "examples": [
+            {
+                "affirmativeEn": "I have two brothers",
+                "affirmativePt": "Eu tenho dois irmãos",
+                "negativeEn": "I don't have two brothers",
+                "negativePt": "Eu não tenho dois irmãos",
+                "interrogativeEn": "Do you have two brothers?",
+                "interrogativePt": "Você tem dois irmãos?"
+            },
+            {
+                "affirmativeEn": "She bought two books yesterday",
+                "affirmativePt": "Ela comprou dois livros ontem",
+                "negativeEn": "She didn't buy two books yesterday",
+                "negativePt": "Ela não comprou dois livros ontem",
+                "interrogativeEn": "Did she buy two books yesterday?",
+                "interrogativePt": "Ela comprou dois livros ontem?"
+            }
+        ]
+    },
+    {
+        "en": "three",
+        "pt": "três",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 3, used in counting and measurements",
+        "examples": [
+            {
+                "affirmativeEn": "We have three cars",
+                "affirmativePt": "Nós temos três carros",
+                "negativeEn": "We don't have three cars",
+                "negativePt": "Nós não temos três carros",
+                "interrogativeEn": "Do we have three cars?",
+                "interrogativePt": "Nós temos três carros?"
+            },
+            {
+                "affirmativeEn": "He waited three hours",
+                "affirmativePt": "Ele esperou três horas",
+                "negativeEn": "He didn't wait three hours",
+                "negativePt": "Ele não esperou três horas",
+                "interrogativeEn": "Did he wait three hours?",
+                "interrogativePt": "Ele esperou três horas?"
+            }
+        ]
+    },
+    {
+        "en": "ten",
+        "pt": "dez",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 10, a fundamental number in the decimal system",
+        "examples": [
+            {
+                "affirmativeEn": "There are ten students in the class",
+                "affirmativePt": "Há dez alunos na sala",
+                "negativeEn": "There are not ten students in the class",
+                "negativePt": "Não há dez alunos na sala",
+                "interrogativeEn": "Are there ten students in the class?",
+                "interrogativePt": "Há dez alunos na sala?"
+            },
+            {
+                "affirmativeEn": "I scored ten points",
+                "affirmativePt": "Eu marquei dez pontos",
+                "negativeEn": "I didn't score ten points",
+                "negativePt": "Eu não marquei dez pontos",
+                "interrogativeEn": "Did you score ten points?",
+                "interrogativePt": "Você marcou dez pontos?"
+            }
+        ]
+    },
+    {
+        "en": "hundred",
+        "pt": "cem",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 100, a large round number",
+        "examples": [
+            {
+                "affirmativeEn": "The price is one hundred dollars",
+                "affirmativePt": "O preço é cem dólares",
+                "negativeEn": "The price is not one hundred dollars",
+                "negativePt": "O preço não é cem dólares",
+                "interrogativeEn": "Is the price one hundred dollars?",
+                "interrogativePt": "O preço é cem dólares?"
+            },
+            {
+                "affirmativeEn": "She read one hundred pages",
+                "affirmativePt": "Ela leu cem páginas",
+                "negativeEn": "She didn't read one hundred pages",
+                "negativePt": "Ela não leu cem páginas",
+                "interrogativeEn": "Did she read one hundred pages?",
+                "interrogativePt": "Ela leu cem páginas?"
+            }
+        ]
+    },
+    {
+        "en": "five",
+        "pt": "cinco",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 5, commonly used for counting and telling time",
+        "examples": [
+            {
+                "affirmativeEn": "I have five pencils",
+                "affirmativePt": "Eu tenho cinco lápis",
+                "negativeEn": "I don't have five pencils",
+                "negativePt": "Eu não tenho cinco lápis",
+                "interrogativeEn": "Do you have five pencils?",
+                "interrogativePt": "Você tem cinco lápis?"
+            },
+            {
+                "affirmativeEn": "She works five days a week",
+                "affirmativePt": "Ela trabalha cinco dias por semana",
+                "negativeEn": "She doesn't work five days a week",
+                "negativePt": "Ela não trabalha cinco dias por semana",
+                "interrogativeEn": "Does she work five days a week?",
+                "interrogativePt": "Ela trabalha cinco dias por semana?"
+            },
+            {
+                "affirmativeEn": "We need five more minutes",
+                "affirmativePt": "Precisamos de mais cinco minutos",
+                "negativeEn": "We don't need five more minutes",
+                "negativePt": "Nós não precisamos de mais cinco minutos",
+                "interrogativeEn": "Do we need five more minutes?",
+                "interrogativePt": "Nós precisamos de mais cinco minutos?"
+            },
+            {
+                "affirmativeEn": "The team scored five goals",
+                "affirmativePt": "O time marcou cinco gols",
+                "negativeEn": "The team didn't score five goals",
+                "negativePt": "O time não marcou cinco gols",
+                "interrogativeEn": "Did the team score five goals?",
+                "interrogativePt": "O time marcou cinco gols?"
+            }
+        ]
+    },
+    {
+        "en": "twenty",
+        "pt": "vinte",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 20, used in counting and measurements",
+        "examples": [
+            {
+                "affirmativeEn": "He is twenty years old",
+                "affirmativePt": "Ele tem vinte anos",
+                "negativeEn": "He is not twenty years old",
+                "negativePt": "Ele não tem vinte anos",
+                "interrogativeEn": "Is he twenty years old?",
+                "interrogativePt": "Ele tem vinte anos?"
+            },
+            {
+                "affirmativeEn": "The book costs twenty dollars",
+                "affirmativePt": "O livro custa vinte dólares",
+                "negativeEn": "The book doesn't cost twenty dollars",
+                "negativePt": "O livro não custa vinte dólares",
+                "interrogativeEn": "Does the book cost twenty dollars?",
+                "interrogativePt": "O livro custa vinte dólares?"
+            },
+            {
+                "affirmativeEn": "We traveled twenty kilometers",
+                "affirmativePt": "Viajamos vinte quilômetros",
+                "negativeEn": "We didn't travel twenty kilometers",
+                "negativePt": "Nós não viajamos vinte quilômetros",
+                "interrogativeEn": "Did we travel twenty kilometers?",
+                "interrogativePt": "Nós viajamos vinte quilômetros?"
+            }
+        ]
+    },
+    {
+        "en": "thousand",
+        "pt": "mil",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 1000, used for large quantities",
+        "examples": [
+            {
+                "affirmativeEn": "The city has one thousand inhabitants",
+                "affirmativePt": "A cidade tem mil habitantes",
+                "negativeEn": "The city doesn't have one thousand inhabitants",
+                "negativePt": "A cidade não tem mil habitantes",
+                "interrogativeEn": "Does the city have one thousand inhabitants?",
+                "interrogativePt": "A cidade tem mil habitantes?"
+            },
+            {
+                "affirmativeEn": "She saved one thousand reais",
+                "affirmativePt": "Ela economizou mil reais",
+                "negativeEn": "She didn't save one thousand reais",
+                "negativePt": "Ela não economizou mil reais",
+                "interrogativeEn": "Did she save one thousand reais?",
+                "interrogativePt": "Ela economizou mil reais?"
+            },
+            {
+                "affirmativeEn": "The project costs one thousand euros",
+                "affirmativePt": "O projeto custa mil euros",
+                "negativeEn": "The project doesn't cost one thousand euros",
+                "negativePt": "O projeto não custa mil euros",
+                "interrogativeEn": "Does the project cost one thousand euros?",
+                "interrogativePt": "O projeto custa mil euros?"
+            }
+        ]
+    },
+    {
+        "en": "four",
+        "pt": "quatro",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 4, used in counting and grouping",
+        "examples": [
+            {
+                "affirmativeEn": "I have four seasons",
+                "affirmativePt": "Eu tenho quatro estações",
+                "negativeEn": "I don't have four seasons",
+                "negativePt": "Eu não tenho quatro estações",
+                "interrogativeEn": "Do you have four seasons?",
+                "interrogativePt": "Você tem quatro estações?"
+            },
+            {
+                "affirmativeEn": "The table has four legs",
+                "affirmativePt": "A mesa tem quatro pernas",
+                "negativeEn": "The table doesn't have four legs",
+                "negativePt": "A mesa não tem quatro pernas",
+                "interrogativeEn": "Does the table have four legs?",
+                "interrogativePt": "A mesa tem quatro pernas?"
+            },
+            {
+                "affirmativeEn": "She has four sisters",
+                "affirmativePt": "Ela tem quatro irmãs",
+                "negativeEn": "She doesn't have four sisters",
+                "negativePt": "Ela não tem quatro irmãs",
+                "interrogativeEn": "Does she have four sisters?",
+                "interrogativePt": "Ela tem quatro irmãs?"
+            }
+        ]
+    },
+    {
+        "en": "six",
+        "pt": "seis",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 6, used in counting and time",
+        "examples": [
+            {
+                "affirmativeEn": "The package contains six items",
+                "affirmativePt": "O pacote contém seis itens",
+                "negativeEn": "The package doesn't contain six items",
+                "negativePt": "O pacote não contém seis itens",
+                "interrogativeEn": "Does the package contain six items?",
+                "interrogativePt": "O pacote contém seis itens?"
+            },
+            {
+                "affirmativeEn": "He worked six hours",
+                "affirmativePt": "Ele trabalhou seis horas",
+                "negativeEn": "He didn't work six hours",
+                "negativePt": "Ele não trabalhou seis horas",
+                "interrogativeEn": "Did he work six hours?",
+                "interrogativePt": "Ele trabalhou seis horas?"
+            },
+            {
+                "affirmativeEn": "We invited six people",
+                "affirmativePt": "Nós convidamos seis pessoas",
+                "negativeEn": "We didn't invite six people",
+                "negativePt": "Nós não convidamos seis pessoas",
+                "interrogativeEn": "Did we invite six people?",
+                "interrogativePt": "Nós convidamos seis pessoas?"
+            }
+        ]
+    },
+    {
+        "en": "nine",
+        "pt": "nove",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 9, used in counting and sequences",
+        "examples": [
+            {
+                "affirmativeEn": "The building has nine floors",
+                "affirmativePt": "O prédio tem nove andares",
+                "negativeEn": "The building doesn't have nine floors",
+                "negativePt": "O prédio não tem nove andares",
+                "interrogativeEn": "Does the building have nine floors?",
+                "interrogativePt": "O prédio tem nove andares?"
+            },
+            {
+                "affirmativeEn": "She scored nine points",
+                "affirmativePt": "Ela marcou nove pontos",
+                "negativeEn": "She didn't score nine points",
+                "negativePt": "Ela não marcou nove pontos",
+                "interrogativeEn": "Did she score nine points?",
+                "interrogativePt": "Ela marcou nove pontos?"
+            },
+            {
+                "affirmativeEn": "We planted nine trees",
+                "affirmativePt": "Nós plantamos nove árvores",
+                "negativeEn": "We didn't plant nine trees",
+                "negativePt": "Nós não plantamos nove árvores",
+                "interrogativeEn": "Did we plant nine trees?",
+                "interrogativePt": "Nós plantamos nove árvores?"
+            }
+        ]
+    },
+    {
+        "en": "fifty",
+        "pt": "cinquenta",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 50, used in counting and percentages",
+        "examples": [
+            {
+                "affirmativeEn": "The discount is fifty percent",
+                "affirmativePt": "O desconto é cinquenta por cento",
+                "negativeEn": "The discount is not fifty percent",
+                "negativePt": "O desconto não é cinquenta por cento",
+                "interrogativeEn": "Is the discount fifty percent?",
+                "interrogativePt": "O desconto é cinquenta por cento?"
+            },
+            {
+                "affirmativeEn": "He ran fifty meters",
+                "affirmativePt": "Ele correu cinquenta metros",
+                "negativeEn": "He didn't run fifty meters",
+                "negativePt": "Ele não correu cinquenta metros",
+                "interrogativeEn": "Did he run fifty meters?",
+                "interrogativePt": "Ele correu cinquenta metros?"
+            },
+            {
+                "affirmativeEn": "There are fifty students",
+                "affirmativePt": "Há cinquenta alunos",
+                "negativeEn": "There are not fifty students",
+                "negativePt": "Não há cinquenta alunos",
+                "interrogativeEn": "Are there fifty students?",
+                "interrogativePt": "Há cinquenta alunos?"
+            }
+        ]
+    },
+    {
+        "en": "eleven",
+        "pt": "onze",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 11, the first teen number",
+        "examples": [
+            {
+                "affirmativeEn": "There are eleven players on the team",
+                "affirmativePt": "Há onze jogadores no time",
+                "negativeEn": "There are not eleven players on the team",
+                "negativePt": "Não há onze jogadores no time",
+                "interrogativeEn": "Are there eleven players on the team?",
+                "interrogativePt": "Há onze jogadores no time?"
+            }
+        ]
+    },
+    {
+        "en": "twelve",
+        "pt": "doze",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 12, representing a dozen",
+        "examples": [
+            {
+                "affirmativeEn": "A year has twelve months",
+                "affirmativePt": "Um ano tem doze meses",
+                "negativeEn": "A year doesn't have twelve months",
+                "negativePt": "Um ano não tem doze meses",
+                "interrogativeEn": "Does a year have twelve months?",
+                "interrogativePt": "Um ano tem doze meses?"
+            }
+        ]
+    },
+    {
+        "en": "thirteen",
+        "pt": "treze",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 13, considered unlucky in some cultures",
+        "examples": [
+            {
+                "affirmativeEn": "She invited thirteen guests to the party",
+                "affirmativePt": "Ela convidou treze convidados para a festa",
+                "negativeEn": "She didn't invite thirteen guests to the party",
+                "negativePt": "Ela não convidou treze convidados para a festa",
+                "interrogativeEn": "Did she invite thirteen guests to the party?",
+                "interrogativePt": "Ela convidou treze convidados para a festa?"
+            }
+        ]
+    },
+    {
+        "en": "fourteen",
+        "pt": "quatorze",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 14, used in counting and dates",
+        "examples": [
+            {
+                "affirmativeEn": "February has fourteen days in leap years",
+                "affirmativePt": "Fevereiro tem quatorze dias em anos bissextos",
+                "negativeEn": "February doesn't have fourteen days in leap years",
+                "negativePt": "Fevereiro não tem quatorze dias em anos bissextos",
+                "interrogativeEn": "Does February have fourteen days in leap years?",
+                "interrogativePt": "Fevereiro tem quatorze dias em anos bissextos?"
+            }
+        ]
+    },
+    {
+        "en": "fifteen",
+        "pt": "quinze",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 15, commonly used in time and age",
+        "examples": [
+            {
+                "affirmativeEn": "The teenager is fifteen years old",
+                "affirmativePt": "O adolescente tem quinze anos",
+                "negativeEn": "The teenager is not fifteen years old",
+                "negativePt": "O adolescente não tem quinze anos",
+                "interrogativeEn": "Is the teenager fifteen years old?",
+                "interrogativePt": "O adolescente tem quinze anos?"
+            }
+        ]
+    },
+    {
+        "en": "sixteen",
+        "pt": "dezesseis",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 16, used in counting and age milestones",
+        "examples": [
+            {
+                "affirmativeEn": "She can drive at sixteen in some countries",
+                "affirmativePt": "Ela pode dirigir aos dezesseis em alguns países",
+                "negativeEn": "She can't drive at sixteen in some countries",
+                "negativePt": "Ela não pode dirigir aos dezesseis em alguns países",
+                "interrogativeEn": "Can she drive at sixteen in some countries?",
+                "interrogativePt": "Ela pode dirigir aos dezesseis em alguns países?"
+            }
+        ]
+    },
+    {
+        "en": "seventeen",
+        "pt": "dezessete",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 17, used in counting and sequences",
+        "examples": [
+            {
+                "affirmativeEn": "The student answered seventeen questions correctly",
+                "affirmativePt": "O aluno respondeu dezessete perguntas corretamente",
+                "negativeEn": "The student didn't answer seventeen questions correctly",
+                "negativePt": "O aluno não respondeu dezessete perguntas corretamente",
+                "interrogativeEn": "Did the student answer seventeen questions correctly?",
+                "interrogativePt": "O aluno respondeu dezessete perguntas corretamente?"
+            }
+        ]
+    },
+    {
+        "en": "eighteen",
+        "pt": "dezoito",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 18, the age of legal adulthood",
+        "examples": [
+            {
+                "affirmativeEn": "He became an adult at eighteen",
+                "affirmativePt": "Ele ficou adulto aos dezoito",
+                "negativeEn": "He didn't become an adult at eighteen",
+                "negativePt": "Ele não ficou adulto aos dezoito",
+                "interrogativeEn": "Did he become an adult at eighteen?",
+                "interrogativePt": "Ele ficou adulto aos dezoito?"
+            }
+        ]
+    },
+    {
+        "en": "nineteen",
+        "pt": "dezenove",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 19, the last teen number",
+        "examples": [
+            {
+                "affirmativeEn": "The team scored nineteen points in the game",
+                "affirmativePt": "O time marcou dezenove pontos no jogo",
+                "negativeEn": "The team didn't score nineteen points in the game",
+                "negativePt": "O time não marcou dezenove pontos no jogo",
+                "interrogativeEn": "Did the team score nineteen points in the game?",
+                "interrogativePt": "O time marcou dezenove pontos no jogo?"
+            }
+        ]
+    },
+    {
+        "en": "twenty-one",
+        "pt": "vinte e um",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 21, a significant age in many cultures",
+        "examples": [
+            {
+                "affirmativeEn": "She turned twenty-one yesterday",
+                "affirmativePt": "Ela fez vinte e um ontem",
+                "negativeEn": "She didn't turn twenty-one yesterday",
+                "negativePt": "Ela não fez vinte e um ontem",
+                "interrogativeEn": "Did she turn twenty-one yesterday?",
+                "interrogativePt": "Ela fez vinte e um ontem?"
+            }
+        ]
+    },
+    {
+        "en": "twenty-two",
+        "pt": "vinte e dois",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 22, used in counting and sequences",
+        "examples": [
+            {
+                "affirmativeEn": "There are twenty-two players in both teams",
+                "affirmativePt": "Há vinte e dois jogadores nos dois times",
+                "negativeEn": "There are not twenty-two players in both teams",
+                "negativePt": "Não há vinte e dois jogadores nos dois times",
+                "interrogativeEn": "Are there twenty-two players in both teams?",
+                "interrogativePt": "Há vinte e dois jogadores nos dois times?"
+            }
+        ]
+    },
+    {
+        "en": "thirty",
+        "pt": "trinta",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 30, representing thirty units",
+        "examples": [
+            {
+                "affirmativeEn": "June has thirty days",
+                "affirmativePt": "Junho tem trinta dias",
+                "negativeEn": "June doesn't have thirty days",
+                "negativePt": "Junho não tem trinta dias",
+                "interrogativeEn": "Does June have thirty days?",
+                "interrogativePt": "Junho tem trinta dias?"
+            }
+        ]
+    },
+    {
+        "en": "thirty-one",
+        "pt": "trinta e um",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 31, used in dates and counting",
+        "examples": [
+            {
+                "affirmativeEn": "December has thirty-one days",
+                "affirmativePt": "Dezembro tem trinta e um dias",
+                "negativeEn": "December doesn't have thirty-one days",
+                "negativePt": "Dezembro não tem trinta e um dias",
+                "interrogativeEn": "Does December have thirty-one days?",
+                "interrogativePt": "Dezembro tem trinta e um dias?"
+            }
+        ]
+    },
+    {
+        "en": "forty",
+        "pt": "quarenta",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 40, representing forty units",
+        "examples": [
+            {
+                "affirmativeEn": "He has been working for forty years",
+                "affirmativePt": "Ele trabalha há quarenta anos",
+                "negativeEn": "He hasn't been working for forty years",
+                "negativePt": "Ele não trabalha há quarenta anos",
+                "interrogativeEn": "Has he been working for forty years?",
+                "interrogativePt": "Ele trabalha há quarenta anos?"
+            }
+        ]
+    },
+    {
+        "en": "one hundred and one",
+        "pt": "cento e um",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 101, used in counting large quantities",
+        "examples": [
+            {
+                "affirmativeEn": "The book has one hundred and one pages",
+                "affirmativePt": "O livro tem cento e uma páginas",
+                "negativeEn": "The book doesn't have one hundred and one pages",
+                "negativePt": "O livro não tem cento e uma páginas",
+                "interrogativeEn": "Does the book have one hundred and one pages?",
+                "interrogativePt": "O livro tem cento e uma páginas?"
+            }
+        ]
+    },
+    {
+        "en": "one hundred and twenty",
+        "pt": "cento e vinte",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 120, representing one hundred twenty units",
+        "examples": [
+            {
+                "affirmativeEn": "The speed limit is one hundred and twenty kilometers per hour",
+                "affirmativePt": "O limite de velocidade é cento e vinte quilômetros por hora",
+                "negativeEn": "The speed limit is not one hundred and twenty kilometers per hour",
+                "negativePt": "O limite de velocidade não é cento e vinte quilômetros por hora",
+                "interrogativeEn": "Is the speed limit one hundred and twenty kilometers per hour?",
+                "interrogativePt": "O limite de velocidade é cento e vinte quilômetros por hora?"
+            }
+        ]
+    },
+    {
+        "en": "one hundred and forty-two",
+        "pt": "cento e quarenta e dois",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 142, used in counting and measurements",
+        "examples": [
+            {
+                "affirmativeEn": "The population of the village is one hundred and forty-two",
+                "affirmativePt": "A população da aldeia é cento e quarenta e dois",
+                "negativeEn": "The population of the village is not one hundred and forty-two",
+                "negativePt": "A população da aldeia não é cento e quarenta e dois",
+                "interrogativeEn": "Is the population of the village one hundred and forty-two?",
+                "interrogativePt": "A população da aldeia é cento e quarenta e dois?"
+            }
+        ]
+    },
+    {
+        "en": "one thousand nine hundred ninety-nine",
+        "pt": "mil novecentos e noventa e nove",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 1999, a historical year",
+        "examples": [
+            {
+                "affirmativeEn": "The movie was released in one thousand nine hundred ninety-nine",
+                "affirmativePt": "O filme foi lançado em mil novecentos e noventa e nove",
+                "negativeEn": "The movie wasn't released in one thousand nine hundred ninety-nine",
+                "negativePt": "O filme não foi lançado em mil novecentos e noventa e nove",
+                "interrogativeEn": "Was the movie released in one thousand nine hundred ninety-nine?",
+                "interrogativePt": "O filme foi lançado em mil novecentos e noventa e nove?"
+            }
+        ]
+    },
+    {
+        "en": "one thousand nine hundred eighty",
+        "pt": "mil novecentos e oitenta",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 1980, a significant year in history",
+        "examples": [
+            {
+                "affirmativeEn": "She was born in one thousand nine hundred eighty",
+                "affirmativePt": "Ela nasceu em mil novecentos e oitenta",
+                "negativeEn": "She wasn't born in one thousand nine hundred eighty",
+                "negativePt": "Ela não nasceu em mil novecentos e oitenta",
+                "interrogativeEn": "Was she born in one thousand nine hundred eighty?",
+                "interrogativePt": "Ela nasceu em mil novecentos e oitenta?"
+            }
+        ]
+    },
+    {
+        "en": "one thousand eight hundred thirty",
+        "pt": "mil oitocentos e trinta",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 1830, a historical year",
+        "examples": [
+            {
+                "affirmativeEn": "The building was constructed in one thousand eight hundred thirty",
+                "affirmativePt": "O edifício foi construído em mil oitocentos e trinta",
+                "negativeEn": "The building wasn't constructed in one thousand eight hundred thirty",
+                "negativePt": "O edifício não foi construído em mil oitocentos e trinta",
+                "interrogativeEn": "Was the building constructed in one thousand eight hundred thirty?",
+                "interrogativePt": "O edifício foi construído em mil oitocentos e trinta?"
+            }
+        ]
+    },
+    {
+        "en": "seven",
+        "pt": "sete",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 7, considered lucky in many cultures",
+        "examples": [
+            {
+                "affirmativeEn": "There are seven days in a week",
+                "affirmativePt": "Há sete dias em uma semana",
+                "negativeEn": "There are not seven days in a week",
+                "negativePt": "Não há sete dias em uma semana",
+                "interrogativeEn": "Are there seven days in a week?",
+                "interrogativePt": "Há sete dias em uma semana?"
+            },
+            {
+                "affirmativeEn": "She has seven cats",
+                "affirmativePt": "Ela tem sete gatos",
+                "negativeEn": "She doesn't have seven cats",
+                "negativePt": "Ela não tem sete gatos",
+                "interrogativeEn": "Does she have seven cats?",
+                "interrogativePt": "Ela tem sete gatos?"
+            }
+        ]
+    },
+    {
+        "en": "eight",
+        "pt": "oito",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 8, representing symmetry and balance",
+        "examples": [
+            {
+                "affirmativeEn": "An octopus has eight arms",
+                "affirmativePt": "Um polvo tem oito braços",
+                "negativeEn": "An octopus doesn't have eight arms",
+                "negativePt": "Um polvo não tem oito braços",
+                "interrogativeEn": "Does an octopus have eight arms?",
+                "interrogativePt": "Um polvo tem oito braços?"
+            },
+            {
+                "affirmativeEn": "She worked eight hours today",
+                "affirmativePt": "Ela trabalhou oito horas hoje",
+                "negativeEn": "She didn't work eight hours today",
+                "negativePt": "Ela não trabalhou oito horas hoje",
+                "interrogativeEn": "Did she work eight hours today?",
+                "interrogativePt": "Ela trabalhou oito horas hoje?"
+            }
+        ]
+    },
+    {
+        "en": "sixty",
+        "pt": "sessenta",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 60, used in time and measurements",
+        "examples": [
+            {
+                "affirmativeEn": "There are sixty seconds in a minute",
+                "affirmativePt": "Há sessenta segundos em um minuto",
+                "negativeEn": "There are not sixty seconds in a minute",
+                "negativePt": "Não há sessenta segundos em um minuto",
+                "interrogativeEn": "Are there sixty seconds in a minute?",
+                "interrogativePt": "Há sessenta segundos em um minuto?"
+            }
+        ]
+    },
+    {
+        "en": "seventy",
+        "pt": "setenta",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 70, representing seventy units",
+        "examples": [
+            {
+                "affirmativeEn": "My grandfather is seventy years old",
+                "affirmativePt": "Meu avô tem setenta anos",
+                "negativeEn": "My grandfather is not seventy years old",
+                "negativePt": "Meu avó não tem setenta anos",
+                "interrogativeEn": "Is your grandfather seventy years old?",
+                "interrogativePt": "Seu avó tem setenta anos?"
+            }
+        ]
+    },
+    {
+        "en": "eighty",
+        "pt": "oitenta",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 80, representing eighty units",
+        "examples": [
+            {
+                "affirmativeEn": "The car travels eighty kilometers per hour",
+                "affirmativePt": "O carro viaja oitenta quilômetros por hora",
+                "negativeEn": "The car doesn't travel eighty kilometers per hour",
+                "negativePt": "O carro não viaja oitenta quilômetros por hora",
+                "interrogativeEn": "Does the car travel eighty kilometers per hour?",
+                "interrogativePt": "O carro viaja oitenta quilômetros por hora?"
+            }
+        ]
+    },
+    {
+        "en": "ninety",
+        "pt": "noventa",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 90, representing ninety units",
+        "examples": [
+            {
+                "affirmativeEn": "The exam had ninety questions",
+                "affirmativePt": "O exame tinha noventa questões",
+                "negativeEn": "The exam didn't have ninety questions",
+                "negativePt": "O exame não tinha noventa questões",
+                "interrogativeEn": "Did the exam have ninety questions?",
+                "interrogativePt": "O exame tinha noventa questões?"
+            }
+        ]
+    },
+    {
+        "en": "two thousand",
+        "pt": "dois mil",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 2000, marking the millennium",
+        "examples": [
+            {
+                "affirmativeEn": "The new century began in two thousand",
+                "affirmativePt": "O novo século começou em dois mil",
+                "negativeEn": "The new century didn't begin in two thousand",
+                "negativePt": "O novo século não começou em dois mil",
+                "interrogativeEn": "Did the new century begin in two thousand?",
+                "interrogativePt": "O novo século começou em dois mil?"
+            }
+        ]
+    },
+    {
+        "en": "two thousand twenty-four",
+        "pt": "dois mil e vinte e quatro",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 2024, the current year",
+        "examples": [
+            {
+                "affirmativeEn": "The Olympics took place in two thousand twenty-four",
+                "affirmativePt": "As Olimpíadas ocorreram em dois mil e vinte e quatro",
+                "negativeEn": "The Olympics didn't take place in two thousand twenty-four",
+                "negativePt": "As Olimpíadas não ocorreram em dois mil e vinte e quatro",
+                "interrogativeEn": "Did the Olympics take place in two thousand twenty-four?",
+                "interrogativePt": "As Olimpíadas ocorreram em dois mil e vinte e quatro?"
+            }
+        ]
+    },
+    {
+        "en": "ten thousand",
+        "pt": "dez mil",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 10,000, a large round number",
+        "examples": [
+            {
+                "affirmativeEn": "The stadium holds ten thousand spectators",
+                "affirmativePt": "O estádio comporta dez mil espectadores",
+                "negativeEn": "The stadium doesn't hold ten thousand spectators",
+                "negativePt": "O estádio não comporta dez mil espectadores",
+                "interrogativeEn": "Does the stadium hold ten thousand spectators?",
+                "interrogativePt": "O estádio comporta dez mil espectadores?"
+            }
+        ]
+    },
+    {
+        "en": "one hundred thousand",
+        "pt": "cem mil",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 100,000, representing a hundred thousands",
+        "examples": [
+            {
+                "affirmativeEn": "The city has one hundred thousand inhabitants",
+                "affirmativePt": "A cidade tem cem mil habitantes",
+                "negativeEn": "The city doesn't have one hundred thousand inhabitants",
+                "negativePt": "A cidade não tem cem mil habitantes",
+                "interrogativeEn": "Does the city have one hundred thousand inhabitants?",
+                "interrogativePt": "A cidade tem cem mil habitantes?"
+            }
+        ]
+    },
+    {
+        "en": "one million",
+        "pt": "um milhão",
+        "partOfSpeech": "numeral",
+        "category": "numbers",
+        "description": "The number 1,000,000, representing a million units",
+        "examples": [
+            {
+                "affirmativeEn": "The company earned one million dollars",
+                "affirmativePt": "A empresa ganhou um milhão de dólares",
+                "negativeEn": "The company didn't earn one million dollars",
+                "negativePt": "A empresa não ganhou um milhão de dólares",
+                "interrogativeEn": "Did the company earn one million dollars?",
+                "interrogativePt": "A empresa ganhou um milhão de dólares?"
+            }
+        ]
+    }    
+]

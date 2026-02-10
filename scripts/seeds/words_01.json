@@ -1,0 +1,2312 @@
+[
+    {
+        "en": "dog",
+        "pt": "cachorro",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A domesticated animal often kept as a pet.",
+        "examples": [
+            {
+                "affirmativeEn": "The dog is friendly.",
+                "affirmativePt": "O cachorro é amigável.",
+                "negativeEn": "The dog is not friendly.",
+                "negativePt": "O cachorro não é amigável.",
+                "interrogativeEn": "Is the dog friendly?",
+                "interrogativePt": "O cachorro é amigável?"
+            },
+            {
+                "affirmativeEn": "I have a dog.",
+                "affirmativePt": "Eu tenho um cachorro.",
+                "negativeEn": "I do not have a dog.",
+                "negativePt": "Eu não tenho um cachorro.",
+                "interrogativeEn": "Do you have a dog?",
+                "interrogativePt": "Você tem um cachorro?"
+            },
+            {
+                "affirmativeEn": "The dog likes to run.",
+                "affirmativePt": "O cachorro gosta de correr.",
+                "negativeEn": "The dog does not like to run.",
+                "negativePt": "O cachorro não gosta de correr.",
+                "interrogativeEn": "Does the dog like to run?",
+                "interrogativePt": "O cachorro gosta de correr?"
+            }
+        ]
+    },
+    {
+        "en": "cat",
+        "pt": "gato",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A small domesticated animal known for independence.",
+        "examples": [
+            {
+                "affirmativeEn": "The cat is sleeping.",
+                "affirmativePt": "O gato está dormindo.",
+                "negativeEn": "The cat is not sleeping.",
+                "negativePt": "O gato não está dormindo.",
+                "interrogativeEn": "Is the cat sleeping?",
+                "interrogativePt": "O gato está dormindo?"
+            },
+            {
+                "affirmativeEn": "The cat likes milk.",
+                "affirmativePt": "O gato gosta de leite.",
+                "negativeEn": "The cat does not like milk.",
+                "negativePt": "O gato não gosta de leite.",
+                "interrogativeEn": "Does the cat like milk?",
+                "interrogativePt": "O gato gosta de leite?"
+            },
+            {
+                "affirmativeEn": "I see a cat.",
+                "affirmativePt": "Eu vejo um gato.",
+                "negativeEn": "I do not see a cat.",
+                "negativePt": "Eu não vejo um gato.",
+                "interrogativeEn": "Do you see a cat?",
+                "interrogativePt": "Você vê um gato?"
+            }
+        ]
+    },
+    {
+        "en": "bird",
+        "pt": "pássaro",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "An animal with feathers that can usually fly.",
+        "examples": [
+            {
+                "affirmativeEn": "The bird is flying.",
+                "affirmativePt": "O pássaro está voando.",
+                "negativeEn": "The bird is not flying.",
+                "negativePt": "O pássaro não está voando.",
+                "interrogativeEn": "Is the bird flying?",
+                "interrogativePt": "O pássaro está voando?"
+            },
+            {
+                "affirmativeEn": "The bird sings in the morning.",
+                "affirmativePt": "O pássaro canta de manhã.",
+                "negativeEn": "The bird does not sing in the morning.",
+                "negativePt": "O pássaro não canta de manhã.",
+                "interrogativeEn": "Does the bird sing in the morning?",
+                "interrogativePt": "O pássaro canta de manhã?"
+            },
+            {
+                "affirmativeEn": "I like this bird.",
+                "affirmativePt": "Eu gosto deste pássaro.",
+                "negativeEn": "I do not like this bird.",
+                "negativePt": "Eu não gosto deste pássaro.",
+                "interrogativeEn": "Do you like this bird?",
+                "interrogativePt": "Você gosta deste pássaro?"
+            }
+        ]
+    },
+    {
+        "en": "fish",
+        "pt": "peixe",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "An animal that lives in water.",
+        "examples": [
+            {
+                "affirmativeEn": "The fish is in the water.",
+                "affirmativePt": "O peixe está na água.",
+                "negativeEn": "The fish is not in the water.",
+                "negativePt": "O peixe não está na água.",
+                "interrogativeEn": "Is the fish in the water?",
+                "interrogativePt": "O peixe está na água?"
+            },
+            {
+                "affirmativeEn": "I see a fish.",
+                "affirmativePt": "Eu vejo um peixe.",
+                "negativeEn": "I do not see a fish.",
+                "negativePt": "Eu não vejo um peixe.",
+                "interrogativeEn": "Do you see a fish?",
+                "interrogativePt": "Você vê um peixe?"
+            },
+            {
+                "affirmativeEn": "The fish is small.",
+                "affirmativePt": "O peixe é pequeno.",
+                "negativeEn": "The fish is not small.",
+                "negativePt": "O peixe não é pequeno.",
+                "interrogativeEn": "Is the fish small?",
+                "interrogativePt": "O peixe é pequeno?"
+            }
+        ]
+    },
+    {
+        "en": "horse",
+        "pt": "cavalo",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A large animal used for riding or work.",
+        "examples": [
+            {
+                "affirmativeEn": "The horse is fast.",
+                "affirmativePt": "O cavalo é rápido.",
+                "negativeEn": "The horse is not fast.",
+                "negativePt": "O cavalo não é rápido.",
+                "interrogativeEn": "Is the horse fast?",
+                "interrogativePt": "O cavalo é rápido?"
+            },
+            {
+                "affirmativeEn": "I see a horse.",
+                "affirmativePt": "Eu vejo um cavalo.",
+                "negativeEn": "I do not see a horse.",
+                "negativePt": "Eu não vejo um cavalo.",
+                "interrogativeEn": "Do you see a horse?",
+                "interrogativePt": "Você vê um cavalo?"
+            },
+            {
+                "affirmativeEn": "The horse is strong.",
+                "affirmativePt": "O cavalo é forte.",
+                "negativeEn": "The horse is not strong.",
+                "negativePt": "O cavalo não é forte.",
+                "interrogativeEn": "Is the horse strong?",
+                "interrogativePt": "O cavalo é forte?"
+            }
+        ]
+    },
+    {
+        "en": "cow",
+        "pt": "vaca",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A farm animal that produces milk.",
+        "examples": [
+            {
+                "affirmativeEn": "The cow gives milk.",
+                "affirmativePt": "A vaca dá leite.",
+                "negativeEn": "The cow does not give milk.",
+                "negativePt": "A vaca não dá leite.",
+                "interrogativeEn": "Does the cow give milk?",
+                "interrogativePt": "A vaca dá leite?"
+            },
+            {
+                "affirmativeEn": "The cow is big.",
+                "affirmativePt": "A vaca é grande.",
+                "negativeEn": "The cow is not big.",
+                "negativePt": "A vaca não é grande.",
+                "interrogativeEn": "Is the cow big?",
+                "interrogativePt": "A vaca é grande?"
+            },
+            {
+                "affirmativeEn": "I see a cow.",
+                "affirmativePt": "Eu vejo uma vaca.",
+                "negativeEn": "I do not see a cow.",
+                "negativePt": "Eu não vejo uma vaca.",
+                "interrogativeEn": "Do you see a cow?",
+                "interrogativePt": "Você vê uma vaca?"
+            }
+        ]
+    },
+    {
+        "en": "lion",
+        "pt": "leão",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A large wild cat known as the king of the jungle.",
+        "examples": [
+            {
+                "affirmativeEn": "The lion is dangerous.",
+                "affirmativePt": "O leão é perigoso.",
+                "negativeEn": "The lion is not dangerous.",
+                "negativePt": "O leão não é perigoso.",
+                "interrogativeEn": "Is the lion dangerous?",
+                "interrogativePt": "O leão é perigoso?"
+            },
+            {
+                "affirmativeEn": "The lion lives in Africa.",
+                "affirmativePt": "O leão vive na África.",
+                "negativeEn": "The lion does not live in Africa.",
+                "negativePt": "O leão não vive na África.",
+                "interrogativeEn": "Does the lion live in Africa?",
+                "interrogativePt": "O leão vive na África?"
+            },
+            {
+                "affirmativeEn": "I see a lion.",
+                "affirmativePt": "Eu vejo um leão.",
+                "negativeEn": "I do not see a lion.",
+                "negativePt": "Eu não vejo um leão.",
+                "interrogativeEn": "Do you see a lion?",
+                "interrogativePt": "Você vê um leão?"
+            }
+        ]
+    },
+    {
+        "en": "pig",
+        "pt": "porco",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A farm animal raised for meat.",
+        "examples": [
+            {
+                "affirmativeEn": "The pig is dirty.",
+                "affirmativePt": "O porco está sujo.",
+                "negativeEn": "The pig is not dirty.",
+                "negativePt": "O porco não está sujo.",
+                "interrogativeEn": "Is the pig dirty?",
+                "interrogativePt": "O porco está sujo?"
+            },
+            {
+                "affirmativeEn": "The pig eats a lot.",
+                "affirmativePt": "O porco come muito.",
+                "negativeEn": "The pig does not eat a lot.",
+                "negativePt": "O porco não come muito.",
+                "interrogativeEn": "Does the pig eat a lot?",
+                "interrogativePt": "O porco come muito?"
+            },
+            {
+                "affirmativeEn": "I see a pig.",
+                "affirmativePt": "Eu vejo um porco.",
+                "negativeEn": "I do not see a pig.",
+                "negativePt": "Eu não vejo um porco.",
+                "interrogativeEn": "Do you see a pig?",
+                "interrogativePt": "Você vê um porco?"
+            }
+        ]
+    },
+    {
+        "en": "sheep",
+        "pt": "ovelha",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A farm animal raised for wool.",
+        "examples": [
+            {
+                "affirmativeEn": "The sheep is white.",
+                "affirmativePt": "A ovelha é branca.",
+                "negativeEn": "The sheep is not white.",
+                "negativePt": "A ovelha não é branca.",
+                "interrogativeEn": "Is the sheep white?",
+                "interrogativePt": "A ovelha é branca?"
+            },
+            {
+                "affirmativeEn": "The sheep eats grass.",
+                "affirmativePt": "A ovelha come grama.",
+                "negativeEn": "The sheep does not eat grass.",
+                "negativePt": "A ovelha não come grama.",
+                "interrogativeEn": "Does the sheep eat grass?",
+                "interrogativePt": "A ovelha come grama?"
+            },
+            {
+                "affirmativeEn": "I see a sheep.",
+                "affirmativePt": "Eu vejo uma ovelha.",
+                "negativeEn": "I do not see a sheep.",
+                "negativePt": "Eu não vejo uma ovelha.",
+                "interrogativeEn": "Do you see a sheep?",
+                "interrogativePt": "Você vê uma ovelha?"
+            }
+        ]
+    },
+    {
+        "en": "chicken",
+        "pt": "galinha",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A farm bird raised for eggs and meat.",
+        "examples": [
+            {
+                "affirmativeEn": "The chicken lays eggs.",
+                "affirmativePt": "A galinha põe ovos.",
+                "negativeEn": "The chicken does not lay eggs.",
+                "negativePt": "A galinha não põe ovos.",
+                "interrogativeEn": "Does the chicken lay eggs?",
+                "interrogativePt": "A galinha põe ovos?"
+            },
+            {
+                "affirmativeEn": "The chicken is small.",
+                "affirmativePt": "A galinha é pequena.",
+                "negativeEn": "The chicken is not small.",
+                "negativePt": "A galinha não é pequena.",
+                "interrogativeEn": "Is the chicken small?",
+                "interrogativePt": "A galinha é pequena?"
+            },
+            {
+                "affirmativeEn": "I see a chicken.",
+                "affirmativePt": "Eu vejo uma galinha.",
+                "negativeEn": "I do not see a chicken.",
+                "negativePt": "Eu não vejo uma galinha.",
+                "interrogativeEn": "Do you see a chicken?",
+                "interrogativePt": "Você vê uma galinha?"
+            }
+        ]
+    },
+    {
+        "en": "bee",
+        "pt": "abelha",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "An insect that produces honey.",
+        "examples": [
+            {
+                "affirmativeEn": "The bee makes honey.",
+                "affirmativePt": "A abelha faz mel.",
+                "negativeEn": "The bee does not make honey.",
+                "negativePt": "A abelha não faz mel.",
+                "interrogativeEn": "Does the bee make honey?",
+                "interrogativePt": "A abelha faz mel?"
+            },
+            {
+                "affirmativeEn": "The bee is flying.",
+                "affirmativePt": "A abelha está voando.",
+                "negativeEn": "The bee is not flying.",
+                "negativePt": "A abelha não está voando.",
+                "interrogativeEn": "Is the bee flying?",
+                "interrogativePt": "A abelha está voando?"
+            },
+            {
+                "affirmativeEn": "I see a bee.",
+                "affirmativePt": "Eu vejo uma abelha.",
+                "negativeEn": "I do not see a bee.",
+                "negativePt": "Eu não vejo uma abelha.",
+                "interrogativeEn": "Do you see a bee?",
+                "interrogativePt": "Você vê uma abelha?"
+            }
+        ]
+    },
+    {
+        "en": "ant",
+        "pt": "formiga",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A small insect that lives in colonies.",
+        "examples": [
+            {
+                "affirmativeEn": "The ant is small.",
+                "affirmativePt": "A formiga é pequena.",
+                "negativeEn": "The ant is not small.",
+                "negativePt": "A formiga não é pequena.",
+                "interrogativeEn": "Is the ant small?",
+                "interrogativePt": "A formiga é pequena?"
+            },
+            {
+                "affirmativeEn": "The ant carries food.",
+                "affirmativePt": "A formiga carrega comida.",
+                "negativeEn": "The ant does not carry food.",
+                "negativePt": "A formiga não carrega comida.",
+                "interrogativeEn": "Does the ant carry food?",
+                "interrogativePt": "A formiga carrega comida?"
+            },
+            {
+                "affirmativeEn": "I see an ant.",
+                "affirmativePt": "Eu vejo uma formiga.",
+                "negativeEn": "I do not see an ant.",
+                "negativePt": "Eu não vejo uma formiga.",
+                "interrogativeEn": "Do you see an ant?",
+                "interrogativePt": "Você vê uma formiga?"
+            }
+        ]
+    },
+    {
+        "en": "butterfly",
+        "pt": "borboleta",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "An insect with colorful wings.",
+        "examples": [
+            {
+                "affirmativeEn": "The butterfly is beautiful.",
+                "affirmativePt": "A borboleta é bonita.",
+                "negativeEn": "The butterfly is not beautiful.",
+                "negativePt": "A borboleta não é bonita.",
+                "interrogativeEn": "Is the butterfly beautiful?",
+                "interrogativePt": "A borboleta é bonita?"
+            },
+            {
+                "affirmativeEn": "The butterfly is flying.",
+                "affirmativePt": "A borboleta está voando.",
+                "negativeEn": "The butterfly is not flying.",
+                "negativePt": "A borboleta não está voando.",
+                "interrogativeEn": "Is the butterfly flying?",
+                "interrogativePt": "A borboleta está voando?"
+            },
+            {
+                "affirmativeEn": "I see a butterfly.",
+                "affirmativePt": "Eu vejo uma borboleta.",
+                "negativeEn": "I do not see a butterfly.",
+                "negativePt": "Eu não vejo uma borboleta.",
+                "interrogativeEn": "Do you see a butterfly?",
+                "interrogativePt": "Você vê uma borboleta?"
+            }
+        ]
+    },
+    {
+        "en": "shark",
+        "pt": "tubarão",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A large sea animal with sharp teeth.",
+        "examples": [
+            {
+                "affirmativeEn": "The shark is dangerous.",
+                "affirmativePt": "O tubarão é perigoso.",
+                "negativeEn": "The shark is not dangerous.",
+                "negativePt": "O tubarão não é perigoso.",
+                "interrogativeEn": "Is the shark dangerous?",
+                "interrogativePt": "O tubarão é perigoso?"
+            },
+            {
+                "affirmativeEn": "The shark swims fast.",
+                "affirmativePt": "O tubarão nada rápido.",
+                "negativeEn": "The shark does not swim fast.",
+                "negativePt": "O tubarão não nada rápido.",
+                "interrogativeEn": "Does the shark swim fast?",
+                "interrogativePt": "O tubarão nada rápido?"
+            },
+            {
+                "affirmativeEn": "I see a shark.",
+                "affirmativePt": "Eu vejo um tubarão.",
+                "negativeEn": "I do not see a shark.",
+                "negativePt": "Eu não vejo um tubarão.",
+                "interrogativeEn": "Do you see a shark?",
+                "interrogativePt": "Você vê um tubarão?"
+            }
+        ]
+    },
+    {
+        "en": "octopus",
+        "pt": "polvo",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A sea animal with eight arms.",
+        "examples": [
+            {
+                "affirmativeEn": "The octopus has eight arms.",
+                "affirmativePt": "O polvo tem oito braços.",
+                "negativeEn": "The octopus does not have eight arms.",
+                "negativePt": "O polvo não tem oito braços.",
+                "interrogativeEn": "Does the octopus have eight arms?",
+                "interrogativePt": "O polvo tem oito braços?"
+            },
+            {
+                "affirmativeEn": "The octopus lives in the sea.",
+                "affirmativePt": "O polvo vive no mar.",
+                "negativeEn": "The octopus does not live in the sea.",
+                "negativePt": "O polvo não vive no mar.",
+                "interrogativeEn": "Does the octopus live in the sea?",
+                "interrogativePt": "O polvo vive no mar?"
+            },
+            {
+                "affirmativeEn": "I see an octopus.",
+                "affirmativePt": "Eu vejo um polvo.",
+                "negativeEn": "I do not see an octopus.",
+                "negativePt": "Eu não vejo um polvo.",
+                "interrogativeEn": "Do you see an octopus?",
+                "interrogativePt": "Você vê um polvo?"
+            }
+        ]
+    },
+    {
+        "en": "whale",
+        "pt": "baleia",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A very large marine mammal.",
+        "examples": [
+            {
+                "affirmativeEn": "The whale is very big.",
+                "affirmativePt": "A baleia é muito grande.",
+                "negativeEn": "The whale is not very big.",
+                "negativePt": "A baleia não é muito grande.",
+                "interrogativeEn": "Is the whale very big?",
+                "interrogativePt": "A baleia é muito grande?"
+            },
+            {
+                "affirmativeEn": "The whale lives in the ocean.",
+                "affirmativePt": "A baleia vive no oceano.",
+                "negativeEn": "The whale does not live in the ocean.",
+                "negativePt": "A baleia não vive no oceano.",
+                "interrogativeEn": "Does the whale live in the ocean?",
+                "interrogativePt": "A baleia vive no oceano?"
+            },
+            {
+                "affirmativeEn": "I see a whale.",
+                "affirmativePt": "Eu vejo uma baleia.",
+                "negativeEn": "I do not see a whale.",
+                "negativePt": "Eu não vejo uma baleia.",
+                "interrogativeEn": "Do you see a whale?",
+                "interrogativePt": "Você vê uma baleia?"
+            }
+        ]
+    },
+    {
+        "en": "crab",
+        "pt": "caranguejo",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A sea animal with claws and a hard shell.",
+        "examples": [
+            {
+                "affirmativeEn": "The crab has claws.",
+                "affirmativePt": "O caranguejo tem garras.",
+                "negativeEn": "The crab does not have claws.",
+                "negativePt": "O caranguejo não tem garras.",
+                "interrogativeEn": "Does the crab have claws?",
+                "interrogativePt": "O caranguejo tem garras?"
+            },
+            {
+                "affirmativeEn": "The crab walks sideways.",
+                "affirmativePt": "O caranguejo anda de lado.",
+                "negativeEn": "The crab does not walk sideways.",
+                "negativePt": "O caranguejo não anda de lado.",
+                "interrogativeEn": "Does the crab walk sideways?",
+                "interrogativePt": "O caranguejo anda de lado?"
+            },
+            {
+                "affirmativeEn": "I see a crab.",
+                "affirmativePt": "Eu vejo um caranguejo.",
+                "negativeEn": "I do not see a crab.",
+                "negativePt": "Eu não vejo um caranguejo.",
+                "interrogativeEn": "Do you see a crab?",
+                "interrogativePt": "Você vê um caranguejo?"
+            }
+        ]
+    },
+    {
+        "en": "rat",
+        "pt": "rato",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A small animal commonly found in cities.",
+        "examples": [
+            {
+                "affirmativeEn": "The rat is small.",
+                "affirmativePt": "O rato é pequeno.",
+                "negativeEn": "The rat is not small.",
+                "negativePt": "O rato não é pequeno.",
+                "interrogativeEn": "Is the rat small?",
+                "interrogativePt": "O rato é pequeno?"
+            },
+            {
+                "affirmativeEn": "The rat lives in the city.",
+                "affirmativePt": "O rato vive na cidade.",
+                "negativeEn": "The rat does not live in the city.",
+                "negativePt": "O rato não vive na cidade.",
+                "interrogativeEn": "Does the rat live in the city?",
+                "interrogativePt": "O rato vive na cidade?"
+            },
+            {
+                "affirmativeEn": "I see a rat.",
+                "affirmativePt": "Eu vejo um rato.",
+                "negativeEn": "I do not see a rat.",
+                "negativePt": "Eu não vejo um rato.",
+                "interrogativeEn": "Do you see a rat?",
+                "interrogativePt": "Você vê um rato?"
+            }
+        ]
+    },
+    {
+        "en": "tiger",
+        "pt": "tigre",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A large wild cat that lives in the jungle.",
+        "examples": [
+            {
+                "affirmativeEn": "The tiger is strong.",
+                "affirmativePt": "O tigre é forte.",
+                "negativeEn": "The tiger is not strong.",
+                "negativePt": "O tigre não é forte.",
+                "interrogativeEn": "Is the tiger strong?",
+                "interrogativePt": "O tigre é forte?"
+            },
+            {
+                "affirmativeEn": "The tiger lives in the jungle.",
+                "affirmativePt": "O tigre vive na selva.",
+                "negativeEn": "The tiger does not live in the jungle.",
+                "negativePt": "O tigre não vive na selva.",
+                "interrogativeEn": "Does the tiger live in the jungle?",
+                "interrogativePt": "O tigre vive na selva?"
+            },
+            {
+                "affirmativeEn": "I see a tiger.",
+                "affirmativePt": "Eu vejo um tigre.",
+                "negativeEn": "I do not see a tiger.",
+                "negativePt": "Eu não vejo um tigre.",
+                "interrogativeEn": "Do you see a tiger?",
+                "interrogativePt": "Você vê um tigre?"
+            }
+        ]
+    },
+    {
+        "en": "monkey",
+        "pt": "macaco",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A smart animal that lives in trees.",
+        "examples": [
+            {
+                "affirmativeEn": "The monkey is smart.",
+                "affirmativePt": "O macaco é inteligente.",
+                "negativeEn": "The monkey is not smart.",
+                "negativePt": "O macaco não é inteligente.",
+                "interrogativeEn": "Is the monkey smart?",
+                "interrogativePt": "O macaco é inteligente?"
+            },
+            {
+                "affirmativeEn": "The monkey climbs trees.",
+                "affirmativePt": "O macaco sobe em árvores.",
+                "negativeEn": "The monkey does not climb trees.",
+                "negativePt": "O macaco não sobe em árvores.",
+                "interrogativeEn": "Does the monkey climb trees?",
+                "interrogativePt": "O macaco sobe em árvores?"
+            },
+            {
+                "affirmativeEn": "I see a monkey.",
+                "affirmativePt": "Eu vejo um macaco.",
+                "negativeEn": "I do not see a monkey.",
+                "negativePt": "Eu não vejo um macaco.",
+                "interrogativeEn": "Do you see a monkey?",
+                "interrogativePt": "Você vê um macaco?"
+            }
+        ]
+    },
+    {
+        "en": "goat",
+        "pt": "cabra",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A farm animal that eats grass and leaves.",
+        "examples": [
+            {
+                "affirmativeEn": "The goat eats grass.",
+                "affirmativePt": "A cabra come grama.",
+                "negativeEn": "The goat does not eat grass.",
+                "negativePt": "A cabra não come grama.",
+                "interrogativeEn": "Does the goat eat grass?",
+                "interrogativePt": "A cabra come grama?"
+            },
+            {
+                "affirmativeEn": "The goat is on the farm.",
+                "affirmativePt": "A cabra está na fazenda.",
+                "negativeEn": "The goat is not on the farm.",
+                "negativePt": "A cabra não está na fazenda.",
+                "interrogativeEn": "Is the goat on the farm?",
+                "interrogativePt": "A cabra está na fazenda?"
+            },
+            {
+                "affirmativeEn": "I see a goat.",
+                "affirmativePt": "Eu vejo uma cabra.",
+                "negativeEn": "I do not see a goat.",
+                "negativePt": "Eu não vejo uma cabra.",
+                "interrogativeEn": "Do you see a goat?",
+                "interrogativePt": "Você vê uma cabra?"
+            }
+        ]
+    },
+    {
+        "en": "mosquito",
+        "pt": "mosquito",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "An insect that bites people.",
+        "examples": [
+            {
+                "affirmativeEn": "The mosquito is annoying.",
+                "affirmativePt": "O mosquito é irritante.",
+                "negativeEn": "The mosquito is not annoying.",
+                "negativePt": "O mosquito não é irritante.",
+                "interrogativeEn": "Is the mosquito annoying?",
+                "interrogativePt": "O mosquito é irritante?"
+            },
+            {
+                "affirmativeEn": "The mosquito bites people.",
+                "affirmativePt": "O mosquito pica pessoas.",
+                "negativeEn": "The mosquito does not bite people.",
+                "negativePt": "O mosquito não pica pessoas.",
+                "interrogativeEn": "Does the mosquito bite people?",
+                "interrogativePt": "O mosquito pica pessoas?"
+            },
+            {
+                "affirmativeEn": "I see a mosquito.",
+                "affirmativePt": "Eu vejo um mosquito.",
+                "negativeEn": "I do not see a mosquito.",
+                "negativePt": "Eu não vejo um mosquito.",
+                "interrogativeEn": "Do you see a mosquito?",
+                "interrogativePt": "Você vê um mosquito?"
+            }
+        ]
+    },
+    {
+        "en": "seal",
+        "pt": "foca",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A marine mammal that lives near the ocean.",
+        "examples": [
+            {
+                "affirmativeEn": "The seal is swimming.",
+                "affirmativePt": "A foca está nadando.",
+                "negativeEn": "The seal is not swimming.",
+                "negativePt": "A foca não está nadando.",
+                "interrogativeEn": "Is the seal swimming?",
+                "interrogativePt": "A foca está nadando?"
+            },
+            {
+                "affirmativeEn": "The seal lives in the sea.",
+                "affirmativePt": "A foca vive no mar.",
+                "negativeEn": "The seal does not live in the sea.",
+                "negativePt": "A foca não vive no mar.",
+                "interrogativeEn": "Does the seal live in the sea?",
+                "interrogativePt": "A foca vive no mar?"
+            },
+            {
+                "affirmativeEn": "I see a seal.",
+                "affirmativePt": "Eu vejo uma foca.",
+                "negativeEn": "I do not see a seal.",
+                "negativePt": "Eu não vejo uma foca.",
+                "interrogativeEn": "Do you see a seal?",
+                "interrogativePt": "Você vê uma foca?"
+            }
+        ]
+    },
+    {
+        "en": "jellyfish",
+        "pt": "água-viva",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A sea animal with a soft body and tentacles.",
+        "examples": [
+            {
+                "affirmativeEn": "The jellyfish is dangerous.",
+                "affirmativePt": "A água-viva é perigosa.",
+                "negativeEn": "The jellyfish is not dangerous.",
+                "negativePt": "A água-viva não é perigosa.",
+                "interrogativeEn": "Is the jellyfish dangerous?",
+                "interrogativePt": "A água-viva é perigosa?"
+            },
+            {
+                "affirmativeEn": "The jellyfish lives in the ocean.",
+                "affirmativePt": "A água-viva vive no oceano.",
+                "negativeEn": "The jellyfish does not live in the ocean.",
+                "negativePt": "A água-viva não vive no oceano.",
+                "interrogativeEn": "Does the jellyfish live in the ocean?",
+                "interrogativePt": "A água-viva vive no oceano?"
+            },
+            {
+                "affirmativeEn": "I see a jellyfish.",
+                "affirmativePt": "Eu vejo uma água-viva.",
+                "negativeEn": "I do not see a jellyfish.",
+                "negativePt": "Eu não vejo uma água-viva.",
+                "interrogativeEn": "Do you see a jellyfish?",
+                "interrogativePt": "Você vê uma água-viva?"
+            }
+        ]
+    },
+    {
+        "en": "camel",
+        "pt": "camelo",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "An animal that lives in deserts.",
+        "examples": [
+            {
+                "affirmativeEn": "The camel is tall.",
+                "affirmativePt": "O camelo é alto.",
+                "negativeEn": "The camel is not tall.",
+                "negativePt": "O camelo não é alto.",
+                "interrogativeEn": "Is the camel tall?",
+                "interrogativePt": "O camelo é alto?"
+            },
+            {
+                "affirmativeEn": "The camel lives in the desert.",
+                "affirmativePt": "O camelo vive no deserto.",
+                "negativeEn": "The camel does not live in the desert.",
+                "negativePt": "O camelo não vive no deserto.",
+                "interrogativeEn": "Does the camel live in the desert?",
+                "interrogativePt": "O camelo vive no deserto?"
+            },
+            {
+                "affirmativeEn": "I see a camel.",
+                "affirmativePt": "Eu vejo um camelo.",
+                "negativeEn": "I do not see a camel.",
+                "negativePt": "Eu não vejo um camelo.",
+                "interrogativeEn": "Do you see a camel?",
+                "interrogativePt": "Você vê um camelo?"
+            }
+        ]
+    },
+    {
+        "en": "donkey",
+        "pt": "burro",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A farm animal used to carry loads.",
+        "examples": [
+            {
+                "affirmativeEn": "The donkey is strong.",
+                "affirmativePt": "O burro é forte.",
+                "negativeEn": "The donkey is not strong.",
+                "negativePt": "O burro não é forte.",
+                "interrogativeEn": "Is the donkey strong?",
+                "interrogativePt": "O burro é forte?"
+            },
+            {
+                "affirmativeEn": "The donkey works on the farm.",
+                "affirmativePt": "O burro trabalha na fazenda.",
+                "negativeEn": "The donkey does not work on the farm.",
+                "negativePt": "O burro não trabalha na fazenda.",
+                "interrogativeEn": "Does the donkey work on the farm?",
+                "interrogativePt": "O burro trabalha na fazenda?"
+            },
+            {
+                "affirmativeEn": "I see a donkey.",
+                "affirmativePt": "Eu vejo um burro.",
+                "negativeEn": "I do not see a donkey.",
+                "negativePt": "Eu não vejo um burro.",
+                "interrogativeEn": "Do you see a donkey?",
+                "interrogativePt": "Você vê um burro?"
+            }
+        ]
+    },
+    {
+        "en": "duck",
+        "pt": "pato",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A farm bird that lives near water.",
+        "examples": [
+            {
+                "affirmativeEn": "The duck is in the water.",
+                "affirmativePt": "O pato está na água.",
+                "negativeEn": "The duck is not in the water.",
+                "negativePt": "O pato não está na água.",
+                "interrogativeEn": "Is the duck in the water?",
+                "interrogativePt": "O pato está na água?"
+            },
+            {
+                "affirmativeEn": "The duck can swim.",
+                "affirmativePt": "O pato sabe nadar.",
+                "negativeEn": "The duck cannot swim.",
+                "negativePt": "O pato não sabe nadar.",
+                "interrogativeEn": "Can the duck swim?",
+                "interrogativePt": "O pato sabe nadar?"
+            },
+            {
+                "affirmativeEn": "I see a duck.",
+                "affirmativePt": "Eu vejo um pato.",
+                "negativeEn": "I do not see a duck.",
+                "negativePt": "Eu não vejo um pato.",
+                "interrogativeEn": "Do you see a duck?",
+                "interrogativePt": "Você vê um pato?"
+            }
+        ]
+    },
+    {
+        "en": "spider",
+        "pt": "aranha",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "An animal with eight legs that makes webs.",
+        "examples": [
+            {
+                "affirmativeEn": "The spider is small.",
+                "affirmativePt": "A aranha é pequena.",
+                "negativeEn": "The spider is not small.",
+                "negativePt": "A aranha não é pequena.",
+                "interrogativeEn": "Is the spider small?",
+                "interrogativePt": "A aranha é pequena?"
+            },
+            {
+                "affirmativeEn": "The spider makes a web.",
+                "affirmativePt": "A aranha faz uma teia.",
+                "negativeEn": "The spider does not make a web.",
+                "negativePt": "A aranha não faz uma teia.",
+                "interrogativeEn": "Does the spider make a web?",
+                "interrogativePt": "A aranha faz uma teia?"
+            },
+            {
+                "affirmativeEn": "I see a spider.",
+                "affirmativePt": "Eu vejo uma aranha.",
+                "negativeEn": "I do not see a spider.",
+                "negativePt": "Eu não vejo uma aranha.",
+                "interrogativeEn": "Do you see a spider?",
+                "interrogativePt": "Você vê uma aranha?"
+            }
+        ]
+    },
+    {
+        "en": "cockroach",
+        "pt": "barata",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "An insect commonly found in cities.",
+        "examples": [
+            {
+                "affirmativeEn": "The cockroach is fast.",
+                "affirmativePt": "A barata é rápida.",
+                "negativeEn": "The cockroach is not fast.",
+                "negativePt": "A barata não é rápida.",
+                "interrogativeEn": "Is the cockroach fast?",
+                "interrogativePt": "A barata é rápida?"
+            },
+            {
+                "affirmativeEn": "The cockroach lives in the city.",
+                "affirmativePt": "A barata vive na cidade.",
+                "negativeEn": "The cockroach does not live in the city.",
+                "negativePt": "A barata não vive na cidade.",
+                "interrogativeEn": "Does the cockroach live in the city?",
+                "interrogativePt": "A barata vive na cidade?"
+            },
+            {
+                "affirmativeEn": "I see a cockroach.",
+                "affirmativePt": "Eu vejo uma barata.",
+                "negativeEn": "I do not see a cockroach.",
+                "negativePt": "Eu não vejo uma barata.",
+                "interrogativeEn": "Do you see a cockroach?",
+                "interrogativePt": "Você vê uma barata?"
+            }
+        ]
+    },
+    {
+        "en": "crocodile",
+        "pt": "crocodilo",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A large reptile that lives in rivers and swamps.",
+        "examples": [
+            {
+                "affirmativeEn": "The crocodile is dangerous.",
+                "affirmativePt": "O crocodilo é perigoso.",
+                "negativeEn": "The crocodile is not dangerous.",
+                "negativePt": "O crocodilo não é perigoso.",
+                "interrogativeEn": "Is the crocodile dangerous?",
+                "interrogativePt": "O crocodilo é perigoso?"
+            },
+            {
+                "affirmativeEn": "The crocodile lives in the river.",
+                "affirmativePt": "O crocodilo vive no rio.",
+                "negativeEn": "The crocodile does not live in the river.",
+                "negativePt": "O crocodilo não vive no rio.",
+                "interrogativeEn": "Does the crocodile live in the river?",
+                "interrogativePt": "O crocodilo vive no rio?"
+            },
+            {
+                "affirmativeEn": "I see a crocodile.",
+                "affirmativePt": "Eu vejo um crocodilo.",
+                "negativeEn": "I do not see a crocodile.",
+                "negativePt": "Eu não vejo um crocodilo.",
+                "interrogativeEn": "Do you see a crocodile?",
+                "interrogativePt": "Você vê um crocodilo?"
+            }
+        ]
+    },
+    {
+        "en": "alligator",
+        "pt": "jacaré",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A large reptile similar to a crocodile.",
+        "examples": [
+            {
+                "affirmativeEn": "The alligator is big.",
+                "affirmativePt": "O jacaré é grande.",
+                "negativeEn": "The alligator is not big.",
+                "negativePt": "O jacaré não é grande.",
+                "interrogativeEn": "Is the alligator big?",
+                "interrogativePt": "O jacaré é grande?"
+            },
+            {
+                "affirmativeEn": "The alligator lives near water.",
+                "affirmativePt": "O jacaré vive perto da água.",
+                "negativeEn": "The alligator does not live near water.",
+                "negativePt": "O jacaré não vive perto da água.",
+                "interrogativeEn": "Does the alligator live near water?",
+                "interrogativePt": "O jacaré vive perto da água?"
+            },
+            {
+                "affirmativeEn": "I see an alligator.",
+                "affirmativePt": "Eu vejo um jacaré.",
+                "negativeEn": "I do not see an alligator.",
+                "negativePt": "Eu não vejo um jacaré.",
+                "interrogativeEn": "Do you see an alligator?",
+                "interrogativePt": "Você vê um jacaré?"
+            }
+        ]
+    },
+    {
+        "en": "eagle",
+        "pt": "águia",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A large bird with excellent vision.",
+        "examples": [
+            {
+                "affirmativeEn": "The eagle is flying high.",
+                "affirmativePt": "A águia está voando alto.",
+                "negativeEn": "The eagle is not flying high.",
+                "negativePt": "A águia não está voando alto.",
+                "interrogativeEn": "Is the eagle flying high?",
+                "interrogativePt": "A águia está voando alto?"
+            },
+            {
+                "affirmativeEn": "The eagle has sharp eyes.",
+                "affirmativePt": "A águia tem olhos aguçados.",
+                "negativeEn": "The eagle does not have sharp eyes.",
+                "negativePt": "A águia não tem olhos aguçados.",
+                "interrogativeEn": "Does the eagle have sharp eyes?",
+                "interrogativePt": "A águia tem olhos aguçados?"
+            },
+            {
+                "affirmativeEn": "I see an eagle.",
+                "affirmativePt": "Eu vejo uma águia.",
+                "negativeEn": "I do not see an eagle.",
+                "negativePt": "Eu não vejo uma águia.",
+                "interrogativeEn": "Do you see an eagle?",
+                "interrogativePt": "Você vê uma águia?"
+            }
+        ]
+    },
+    {
+        "en": "owl",
+        "pt": "coruja",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A bird that is active at night.",
+        "examples": [
+            {
+                "affirmativeEn": "The owl is quiet.",
+                "affirmativePt": "A coruja é silenciosa.",
+                "negativeEn": "The owl is not quiet.",
+                "negativePt": "A coruja não é silenciosa.",
+                "interrogativeEn": "Is the owl quiet?",
+                "interrogativePt": "A coruja é silenciosa?"
+            },
+            {
+                "affirmativeEn": "The owl flies at night.",
+                "affirmativePt": "A coruja voa à noite.",
+                "negativeEn": "The owl does not fly at night.",
+                "negativePt": "A coruja não voa à noite.",
+                "interrogativeEn": "Does the owl fly at night?",
+                "interrogativePt": "A coruja voa à noite?"
+            },
+            {
+                "affirmativeEn": "I see an owl.",
+                "affirmativePt": "Eu vejo uma coruja.",
+                "negativeEn": "I do not see an owl.",
+                "negativePt": "Eu não vejo uma coruja.",
+                "interrogativeEn": "Do you see an owl?",
+                "interrogativePt": "Você vê uma coruja?"
+            }
+        ]
+    },
+    {
+        "en": "horsefly",
+        "pt": "mutuca",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A large biting insect.",
+        "examples": [
+            {
+                "affirmativeEn": "The horsefly is annoying.",
+                "affirmativePt": "A mutuca é irritante.",
+                "negativeEn": "The horsefly is not annoying.",
+                "negativePt": "A mutuca não é irritante.",
+                "interrogativeEn": "Is the horsefly annoying?",
+                "interrogativePt": "A mutuca é irritante?"
+            },
+            {
+                "affirmativeEn": "The horsefly bites animals.",
+                "affirmativePt": "A mutuca pica animais.",
+                "negativeEn": "The horsefly does not bite animals.",
+                "negativePt": "A mutuca não pica animais.",
+                "interrogativeEn": "Does the horsefly bite animals?",
+                "interrogativePt": "A mutuca pica animais?"
+            },
+            {
+                "affirmativeEn": "I see a horsefly.",
+                "affirmativePt": "Eu vejo uma mutuca.",
+                "negativeEn": "I do not see a horsefly.",
+                "negativePt": "Eu não vejo uma mutuca.",
+                "interrogativeEn": "Do you see a horsefly?",
+                "interrogativePt": "Você vê uma mutuca?"
+            }
+        ]
+    },
+    {
+        "en": "snail",
+        "pt": "caracol",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A small animal that moves very slowly.",
+        "examples": [
+            {
+                "affirmativeEn": "The snail is slow.",
+                "affirmativePt": "O caracol é lento.",
+                "negativeEn": "The snail is not slow.",
+                "negativePt": "O caracol não é lento.",
+                "interrogativeEn": "Is the snail slow?",
+                "interrogativePt": "O caracol é lento?"
+            },
+            {
+                "affirmativeEn": "The snail has a shell.",
+                "affirmativePt": "O caracol tem uma concha.",
+                "negativeEn": "The snail does not have a shell.",
+                "negativePt": "O caracol não tem uma concha.",
+                "interrogativeEn": "Does the snail have a shell?",
+                "interrogativePt": "O caracol tem uma concha?"
+            },
+            {
+                "affirmativeEn": "I see a snail.",
+                "affirmativePt": "Eu vejo um caracol.",
+                "negativeEn": "I do not see a snail.",
+                "negativePt": "Eu não vejo um caracol.",
+                "interrogativeEn": "Do you see a snail?",
+                "interrogativePt": "Você vê um caracol?"
+            }
+        ]
+    },
+    {
+        "en": "hedgehog",
+        "pt": "ouriço",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A small animal with sharp spines.",
+        "examples": [
+            {
+                "affirmativeEn": "The hedgehog is small.",
+                "affirmativePt": "O ouriço é pequeno.",
+                "negativeEn": "The hedgehog is not small.",
+                "negativePt": "O ouriço não é pequeno.",
+                "interrogativeEn": "Is the hedgehog small?",
+                "interrogativePt": "O ouriço é pequeno?"
+            },
+            {
+                "affirmativeEn": "The hedgehog has spines.",
+                "affirmativePt": "O ouriço tem espinhos.",
+                "negativeEn": "The hedgehog does not have spines.",
+                "negativePt": "O ouriço não tem espinhos.",
+                "interrogativeEn": "Does the hedgehog have spines?",
+                "interrogativePt": "O ouriço tem espinhos?"
+            },
+            {
+                "affirmativeEn": "I see a hedgehog.",
+                "affirmativePt": "Eu vejo um ouriço.",
+                "negativeEn": "I do not see a hedgehog.",
+                "negativePt": "Eu não vejo um ouriço.",
+                "interrogativeEn": "Do you see a hedgehog?",
+                "interrogativePt": "Você vê um ouriço?"
+            }
+        ]
+    },
+    {
+        "en": "kangaroo",
+        "pt": "canguru",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "An animal that jumps and carries its baby in a pouch.",
+        "examples": [
+            {
+                "affirmativeEn": "The kangaroo jumps high.",
+                "affirmativePt": "O canguru pula alto.",
+                "negativeEn": "The kangaroo does not jump high.",
+                "negativePt": "O canguru não pula alto.",
+                "interrogativeEn": "Does the kangaroo jump high?",
+                "interrogativePt": "O canguru pula alto?"
+            },
+            {
+                "affirmativeEn": "The kangaroo lives in Australia.",
+                "affirmativePt": "O canguru vive na Austrália.",
+                "negativeEn": "The kangaroo does not live in Australia.",
+                "negativePt": "O canguru não vive na Austrália.",
+                "interrogativeEn": "Does the kangaroo live in Australia?",
+                "interrogativePt": "O canguru vive na Austrália?"
+            },
+            {
+                "affirmativeEn": "I see a kangaroo.",
+                "affirmativePt": "Eu vejo um canguru.",
+                "negativeEn": "I do not see a kangaroo.",
+                "negativePt": "Eu não vejo um canguru.",
+                "interrogativeEn": "Do you see a kangaroo?",
+                "interrogativePt": "Você vê um canguru?"
+            }
+        ]
+    },
+    {
+        "en": "panda",
+        "pt": "panda",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A black and white animal that eats bamboo.",
+        "examples": [
+            {
+                "affirmativeEn": "The panda is calm.",
+                "affirmativePt": "O panda é calmo.",
+                "negativeEn": "The panda is not calm.",
+                "negativePt": "O panda não é calmo.",
+                "interrogativeEn": "Is the panda calm?",
+                "interrogativePt": "O panda é calmo?"
+            },
+            {
+                "affirmativeEn": "The panda eats bamboo.",
+                "affirmativePt": "O panda come bambu.",
+                "negativeEn": "The panda does not eat bamboo.",
+                "negativePt": "O panda não come bambu.",
+                "interrogativeEn": "Does the panda eat bamboo?",
+                "interrogativePt": "O panda come bambu?"
+            },
+            {
+                "affirmativeEn": "I see a panda.",
+                "affirmativePt": "Eu vejo um panda.",
+                "negativeEn": "I do not see a panda.",
+                "negativePt": "Eu não vejo um panda.",
+                "interrogativeEn": "Do you see a panda?",
+                "interrogativePt": "Você vê um panda?"
+            }
+        ]
+    },
+    {
+        "en": "bat",
+        "pt": "morcego",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A flying animal active at night.",
+        "examples": [
+            {
+                "affirmativeEn": "The bat is flying.",
+                "affirmativePt": "O morcego está voando.",
+                "negativeEn": "The bat is not flying.",
+                "negativePt": "O morcego não está voando.",
+                "interrogativeEn": "Is the bat flying?",
+                "interrogativePt": "O morcego está voando?"
+            },
+            {
+                "affirmativeEn": "The bat sleeps during the day.",
+                "affirmativePt": "O morcego dorme durante o dia.",
+                "negativeEn": "The bat does not sleep during the day.",
+                "negativePt": "O morcego não dorme durante o dia.",
+                "interrogativeEn": "Does the bat sleep during the day?",
+                "interrogativePt": "O morcego dorme durante o dia?"
+            },
+            {
+                "affirmativeEn": "I see a bat.",
+                "affirmativePt": "Eu vejo um morcego.",
+                "negativeEn": "I do not see a bat.",
+                "negativePt": "Eu não vejo um morcego.",
+                "interrogativeEn": "Do you see a bat?",
+                "interrogativePt": "Você vê um morcego?"
+            }
+        ]
+    },
+    {
+        "en": "ferret",
+        "pt": "furão",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A small animal sometimes kept as a pet.",
+        "examples": [
+            {
+                "affirmativeEn": "The ferret is playful.",
+                "affirmativePt": "O furão é brincalhão.",
+                "negativeEn": "The ferret is not playful.",
+                "negativePt": "O furão não é brincalhão.",
+                "interrogativeEn": "Is the ferret playful?",
+                "interrogativePt": "O furão é brincalhão?"
+            },
+            {
+                "affirmativeEn": "The ferret runs fast.",
+                "affirmativePt": "O furão corre rápido.",
+                "negativeEn": "The ferret does not run fast.",
+                "negativePt": "O furão não corre rápido.",
+                "interrogativeEn": "Does the ferret run fast?",
+                "interrogativePt": "O furão corre rápido?"
+            },
+            {
+                "affirmativeEn": "I see a ferret.",
+                "affirmativePt": "Eu vejo um furão.",
+                "negativeEn": "I do not see a ferret.",
+                "negativePt": "Eu não vejo um furão.",
+                "interrogativeEn": "Do you see a ferret?",
+                "interrogativePt": "Você vê um furão?"
+            }
+        ]
+    },
+    {
+        "en": "lobster",
+        "pt": "lagosta",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A sea animal with a hard shell and claws.",
+        "examples": [
+            {
+                "affirmativeEn": "The lobster has claws.",
+                "affirmativePt": "A lagosta tem garras.",
+                "negativeEn": "The lobster does not have claws.",
+                "negativePt": "A lagosta não tem garras.",
+                "interrogativeEn": "Does the lobster have claws?",
+                "interrogativePt": "A lagosta tem garras?"
+            },
+            {
+                "affirmativeEn": "The lobster lives in the ocean.",
+                "affirmativePt": "A lagosta vive no oceano.",
+                "negativeEn": "The lobster does not live in the ocean.",
+                "negativePt": "A lagosta não vive no oceano.",
+                "interrogativeEn": "Does the lobster live in the ocean?",
+                "interrogativePt": "A lagosta vive no oceano?"
+            },
+            {
+                "affirmativeEn": "I see a lobster.",
+                "affirmativePt": "Eu vejo uma lagosta.",
+                "negativeEn": "I do not see a lobster.",
+                "negativePt": "Eu não vejo uma lagosta.",
+                "interrogativeEn": "Do you see a lobster?",
+                "interrogativePt": "Você vê uma lagosta?"
+            }
+        ]
+    },
+    {
+        "en": "grasshopper",
+        "pt": "gafanhoto",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "An insect that jumps and makes sounds.",
+        "examples": [
+            {
+                "affirmativeEn": "The grasshopper jumps far.",
+                "affirmativePt": "O gafanhoto pula longe.",
+                "negativeEn": "The grasshopper does not jump far.",
+                "negativePt": "O gafanhoto não pula longe.",
+                "interrogativeEn": "Does the grasshopper jump far?",
+                "interrogativePt": "O gafanhoto pula longe?"
+            },
+            {
+                "affirmativeEn": "The grasshopper is green.",
+                "affirmativePt": "O gafanhoto é verde.",
+                "negativeEn": "The grasshopper is not green.",
+                "negativePt": "O gafanhoto não é verde.",
+                "interrogativeEn": "Is the grasshopper green?",
+                "interrogativePt": "O gafanhoto é verde?"
+            },
+            {
+                "affirmativeEn": "I see a grasshopper.",
+                "affirmativePt": "Eu vejo um gafanhoto.",
+                "negativeEn": "I do not see a grasshopper.",
+                "negativePt": "Eu não vejo um gafanhoto.",
+                "interrogativeEn": "Do you see a grasshopper?",
+                "interrogativePt": "Você vê um gafanhoto?"
+            }
+        ]
+    },
+    {
+        "en": "turkey",
+        "pt": "peru",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A large farm bird.",
+        "examples": [
+            {
+                "affirmativeEn": "The turkey is big.",
+                "affirmativePt": "O peru é grande.",
+                "negativeEn": "The turkey is not big.",
+                "negativePt": "O peru não é grande.",
+                "interrogativeEn": "Is the turkey big?",
+                "interrogativePt": "O peru é grande?"
+            },
+            {
+                "affirmativeEn": "The turkey lives on the farm.",
+                "affirmativePt": "O peru vive na fazenda.",
+                "negativeEn": "The turkey does not live on the farm.",
+                "negativePt": "O peru não vive na fazenda.",
+                "interrogativeEn": "Does the turkey live on the farm?",
+                "interrogativePt": "O peru vive na fazenda?"
+            },
+            {
+                "affirmativeEn": "I see a turkey.",
+                "affirmativePt": "Eu vejo um peru.",
+                "negativeEn": "I do not see a turkey.",
+                "negativePt": "Eu não vejo um peru.",
+                "interrogativeEn": "Do you see a turkey?",
+                "interrogativePt": "Você vê um peru?"
+            }
+        ]
+    },
+    {
+        "en": "deer",
+        "pt": "veado",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A wild animal with long legs, often found in forests.",
+        "examples": [
+            {
+                "affirmativeEn": "The deer is fast.",
+                "affirmativePt": "O veado é rápido.",
+                "negativeEn": "The deer is not fast.",
+                "negativePt": "O veado não é rápido.",
+                "interrogativeEn": "Is the deer fast?",
+                "interrogativePt": "O veado é rápido?"
+            },
+            {
+                "affirmativeEn": "The deer lives in the forest.",
+                "affirmativePt": "O veado vive na floresta.",
+                "negativeEn": "The deer does not live in the forest.",
+                "negativePt": "O veado não vive na floresta.",
+                "interrogativeEn": "Does the deer live in the forest?",
+                "interrogativePt": "O veado vive na floresta?"
+            },
+            {
+                "affirmativeEn": "I see a deer.",
+                "affirmativePt": "Eu vejo um veado.",
+                "negativeEn": "I do not see a deer.",
+                "negativePt": "Eu não vejo um veado.",
+                "interrogativeEn": "Do you see a deer?",
+                "interrogativePt": "Você vê um veado?"
+            }
+        ]
+    },
+    {
+        "en": "boar",
+        "pt": "javali",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A wild pig that lives in forests.",
+        "examples": [
+            {
+                "affirmativeEn": "The boar is strong.",
+                "affirmativePt": "O javali é forte.",
+                "negativeEn": "The boar is not strong.",
+                "negativePt": "O javali não é forte.",
+                "interrogativeEn": "Is the boar strong?",
+                "interrogativePt": "O javali é forte?"
+            },
+            {
+                "affirmativeEn": "The boar lives in the forest.",
+                "affirmativePt": "O javali vive na floresta.",
+                "negativeEn": "The boar does not live in the forest.",
+                "negativePt": "O javali não vive na floresta.",
+                "interrogativeEn": "Does the boar live in the forest?",
+                "interrogativePt": "O javali vive na floresta?"
+            },
+            {
+                "affirmativeEn": "I see a boar.",
+                "affirmativePt": "Eu vejo um javali.",
+                "negativeEn": "I do not see a boar.",
+                "negativePt": "Eu não vejo um javali.",
+                "interrogativeEn": "Do you see a boar?",
+                "interrogativePt": "Você vê um javali?"
+            }
+        ]
+    },
+    {
+        "en": "peacock",
+        "pt": "pavão",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A bird known for its colorful tail.",
+        "examples": [
+            {
+                "affirmativeEn": "The peacock is colorful.",
+                "affirmativePt": "O pavão é colorido.",
+                "negativeEn": "The peacock is not colorful.",
+                "negativePt": "O pavão não é colorido.",
+                "interrogativeEn": "Is the peacock colorful?",
+                "interrogativePt": "O pavão é colorido?"
+            },
+            {
+                "affirmativeEn": "The peacock opens its tail.",
+                "affirmativePt": "O pavão abre a cauda.",
+                "negativeEn": "The peacock does not open its tail.",
+                "negativePt": "O pavão não abre a cauda.",
+                "interrogativeEn": "Does the peacock open its tail?",
+                "interrogativePt": "O pavão abre a cauda?"
+            },
+            {
+                "affirmativeEn": "I see a peacock.",
+                "affirmativePt": "Eu vejo um pavão.",
+                "negativeEn": "I do not see a peacock.",
+                "negativePt": "Eu não vejo um pavão.",
+                "interrogativeEn": "Do you see a peacock?",
+                "interrogativePt": "Você vê um pavão?"
+            }
+        ]
+    },
+    {
+        "en": "goose",
+        "pt": "ganso",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A farm bird similar to a duck.",
+        "examples": [
+            {
+                "affirmativeEn": "The goose is loud.",
+                "affirmativePt": "O ganso é barulhento.",
+                "negativeEn": "The goose is not loud.",
+                "negativePt": "O ganso não é barulhento.",
+                "interrogativeEn": "Is the goose loud?",
+                "interrogativePt": "O ganso é barulhento?"
+            },
+            {
+                "affirmativeEn": "The goose lives on the farm.",
+                "affirmativePt": "O ganso vive na fazenda.",
+                "negativeEn": "The goose does not live on the farm.",
+                "negativePt": "O ganso não vive na fazenda.",
+                "interrogativeEn": "Does the goose live on the farm?",
+                "interrogativePt": "O ganso vive na fazenda?"
+            },
+            {
+                "affirmativeEn": "I see a goose.",
+                "affirmativePt": "Eu vejo um ganso.",
+                "negativeEn": "I do not see a goose.",
+                "negativePt": "Eu não vejo um ganso.",
+                "interrogativeEn": "Do you see a goose?",
+                "interrogativePt": "Você vê um ganso?"
+            }
+        ]
+    },
+    {
+        "en": "worm",
+        "pt": "verme",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A small animal that lives in the soil.",
+        "examples": [
+            {
+                "affirmativeEn": "The worm is small.",
+                "affirmativePt": "O verme é pequeno.",
+                "negativeEn": "The worm is not small.",
+                "negativePt": "O verme não é pequeno.",
+                "interrogativeEn": "Is the worm small?",
+                "interrogativePt": "O verme é pequeno?"
+            },
+            {
+                "affirmativeEn": "The worm lives in the ground.",
+                "affirmativePt": "O verme vive no chão.",
+                "negativeEn": "The worm does not live in the ground.",
+                "negativePt": "O verme não vive no chão.",
+                "interrogativeEn": "Does the worm live in the ground?",
+                "interrogativePt": "O verme vive no chão?"
+            },
+            {
+                "affirmativeEn": "I see a worm.",
+                "affirmativePt": "Eu vejo um verme.",
+                "negativeEn": "I do not see a worm.",
+                "negativePt": "Eu não vejo um verme.",
+                "interrogativeEn": "Do you see a worm?",
+                "interrogativePt": "Você vê um verme?"
+            }
+        ]
+    },
+    {
+        "en": "seahorse",
+        "pt": "cavalo-marinho",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A small marine animal shaped like a horse.",
+        "examples": [
+            {
+                "affirmativeEn": "The seahorse is small.",
+                "affirmativePt": "O cavalo-marinho é pequeno.",
+                "negativeEn": "The seahorse is not small.",
+                "negativePt": "O cavalo-marinho não é pequeno.",
+                "interrogativeEn": "Is the seahorse small?",
+                "interrogativePt": "O cavalo-marinho é pequeno?"
+            },
+            {
+                "affirmativeEn": "The seahorse lives in the sea.",
+                "affirmativePt": "O cavalo-marinho vive no mar.",
+                "negativeEn": "The seahorse does not live in the sea.",
+                "negativePt": "O cavalo-marinho não vive no mar.",
+                "interrogativeEn": "Does the seahorse live in the sea?",
+                "interrogativePt": "O cavalo-marinho vive no mar?"
+            },
+            {
+                "affirmativeEn": "I see a seahorse.",
+                "affirmativePt": "Eu vejo um cavalo-marinho.",
+                "negativeEn": "I do not see a seahorse.",
+                "negativePt": "Eu não vejo um cavalo-marinho.",
+                "interrogativeEn": "Do you see a seahorse?",
+                "interrogativePt": "Você vê um cavalo-marinho?"
+            }
+        ]
+    },
+    {
+        "en": "buffalo",
+        "pt": "búfalo",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A large farm or wild animal with horns.",
+        "examples": [
+            {
+                "affirmativeEn": "The buffalo is strong.",
+                "affirmativePt": "O búfalo é forte.",
+                "negativeEn": "The buffalo is not strong.",
+                "negativePt": "O búfalo não é forte.",
+                "interrogativeEn": "Is the buffalo strong?",
+                "interrogativePt": "O búfalo é forte?"
+            },
+            {
+                "affirmativeEn": "The buffalo lives on the farm.",
+                "affirmativePt": "O búfalo vive na fazenda.",
+                "negativeEn": "The buffalo does not live on the farm.",
+                "negativePt": "O búfalo não vive na fazenda.",
+                "interrogativeEn": "Does the buffalo live on the farm?",
+                "interrogativePt": "O búfalo vive na fazenda?"
+            },
+            {
+                "affirmativeEn": "I see a buffalo.",
+                "affirmativePt": "Eu vejo um búfalo.",
+                "negativeEn": "I do not see a buffalo.",
+                "negativePt": "Eu não vejo um búfalo.",
+                "interrogativeEn": "Do you see a buffalo?",
+                "interrogativePt": "Você vê um búfalo?"
+            }
+        ]
+    },
+    {
+        "en": "otter",
+        "pt": "lontra",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A water animal that swims and plays.",
+        "examples": [
+            {
+                "affirmativeEn": "The otter is playful.",
+                "affirmativePt": "A lontra é brincalhona.",
+                "negativeEn": "The otter is not playful.",
+                "negativePt": "A lontra não é brincalhona.",
+                "interrogativeEn": "Is the otter playful?",
+                "interrogativePt": "A lontra é brincalhona?"
+            },
+            {
+                "affirmativeEn": "The otter swims well.",
+                "affirmativePt": "A lontra nada bem.",
+                "negativeEn": "The otter does not swim well.",
+                "negativePt": "A lontra não nada bem.",
+                "interrogativeEn": "Does the otter swim well?",
+                "interrogativePt": "A lontra nada bem?"
+            },
+            {
+                "affirmativeEn": "I see an otter.",
+                "affirmativePt": "Eu vejo uma lontra.",
+                "negativeEn": "I do not see an otter.",
+                "negativePt": "Eu não vejo uma lontra.",
+                "interrogativeEn": "Do you see an otter?",
+                "interrogativePt": "Você vê uma lontra?"
+            }
+        ]
+    },
+    {
+        "en": "wasp",
+        "pt": "vespa",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "An insect similar to a bee that can sting.",
+        "examples": [
+            {
+                "affirmativeEn": "The wasp is aggressive.",
+                "affirmativePt": "A vespa é agressiva.",
+                "negativeEn": "The wasp is not aggressive.",
+                "negativePt": "A vespa não é agressiva.",
+                "interrogativeEn": "Is the wasp aggressive?",
+                "interrogativePt": "A vespa é agressiva?"
+            },
+            {
+                "affirmativeEn": "The wasp can sting.",
+                "affirmativePt": "A vespa pode ferroar.",
+                "negativeEn": "The wasp cannot sting.",
+                "negativePt": "A vespa não pode ferroar.",
+                "interrogativeEn": "Can the wasp sting?",
+                "interrogativePt": "A vespa pode ferroar?"
+            },
+            {
+                "affirmativeEn": "I see a wasp.",
+                "affirmativePt": "Eu vejo uma vespa.",
+                "negativeEn": "I do not see a wasp.",
+                "negativePt": "Eu não vejo uma vespa.",
+                "interrogativeEn": "Do you see a wasp?",
+                "interrogativePt": "Você vê uma vespa?"
+            }
+        ]
+    },
+    {
+        "en": "rooster",
+        "pt": "galo",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A male chicken that crows in the morning.",
+        "examples": [
+            {
+                "affirmativeEn": "The rooster crows loudly.",
+                "affirmativePt": "O galo canta alto.",
+                "negativeEn": "The rooster does not crow loudly.",
+                "negativePt": "O galo não canta alto.",
+                "interrogativeEn": "Does the rooster crow loudly?",
+                "interrogativePt": "O galo canta alto?"
+            },
+            {
+                "affirmativeEn": "The rooster is red.",
+                "affirmativePt": "O galo é vermelho.",
+                "negativeEn": "The rooster is not red.",
+                "negativePt": "O galo não é vermelho.",
+                "interrogativeEn": "Is the rooster red?",
+                "interrogativePt": "O galo é vermelho?"
+            },
+            {
+                "affirmativeEn": "I see a rooster.",
+                "affirmativePt": "Eu vejo um galo.",
+                "negativeEn": "I do not see a rooster.",
+                "negativePt": "Eu não vejo um galo.",
+                "interrogativeEn": "Do you see a rooster?",
+                "interrogativePt": "Você vê um galo?"
+            }
+        ]
+    },
+    {
+        "en": "hen",
+        "pt": "galinha",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A female chicken that lays eggs.",
+        "examples": [
+            {
+                "affirmativeEn": "The hen lays eggs.",
+                "affirmativePt": "A galinha põe ovos.",
+                "negativeEn": "The hen does not lay eggs.",
+                "negativePt": "A galinha não põe ovos.",
+                "interrogativeEn": "Does the hen lay eggs?",
+                "interrogativePt": "A galinha põe ovos?"
+            },
+            {
+                "affirmativeEn": "The hen is brown.",
+                "affirmativePt": "A galinha é marrom.",
+                "negativeEn": "The hen is not brown.",
+                "negativePt": "A galinha não é marrom.",
+                "interrogativeEn": "Is the hen brown?",
+                "interrogativePt": "A galinha é marrom?"
+            },
+            {
+                "affirmativeEn": "I see a hen.",
+                "affirmativePt": "Eu vejo uma galinha.",
+                "negativeEn": "I do not see a hen.",
+                "negativePt": "Eu não vejo uma galinha.",
+                "interrogativeEn": "Do you see a hen?",
+                "interrogativePt": "Você vê uma galinha?"
+            }
+        ]
+    },
+    {
+        "en": "chick",
+        "pt": "pinto",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A baby chicken.",
+        "examples": [
+            {
+                "affirmativeEn": "The chick is small.",
+                "affirmativePt": "O pinto é pequeno.",
+                "negativeEn": "The chick is not small.",
+                "negativePt": "O pinto não é pequeno.",
+                "interrogativeEn": "Is the chick small?",
+                "interrogativePt": "O pinto é pequeno?"
+            },
+            {
+                "affirmativeEn": "The chick follows the hen.",
+                "affirmativePt": "O pinto segue a galinha.",
+                "negativeEn": "The chick does not follow the hen.",
+                "negativePt": "O pinto não segue a galinha.",
+                "interrogativeEn": "Does the chick follow the hen?",
+                "interrogativePt": "O pinto segue a galinha?"
+            },
+            {
+                "affirmativeEn": "I see a chick.",
+                "affirmativePt": "Eu vejo um pinto.",
+                "negativeEn": "I do not see a chick.",
+                "negativePt": "Eu não vejo um pinto.",
+                "interrogativeEn": "Do you see a chick?",
+                "interrogativePt": "Você vê um pinto?"
+            }
+        ]
+    },
+    {
+        "en": "parrot",
+        "pt": "papagaio",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A colorful bird that can mimic sounds.",
+        "examples": [
+            {
+                "affirmativeEn": "The parrot is colorful.",
+                "affirmativePt": "O papagaio é colorido.",
+                "negativeEn": "The parrot is not colorful.",
+                "negativePt": "O papagaio não é colorido.",
+                "interrogativeEn": "Is the parrot colorful?",
+                "interrogativePt": "O papagaio é colorido?"
+            },
+            {
+                "affirmativeEn": "The parrot can talk.",
+                "affirmativePt": "O papagaio pode falar.",
+                "negativeEn": "The parrot cannot talk.",
+                "negativePt": "O papagaio não pode falar.",
+                "interrogativeEn": "Can the parrot talk?",
+                "interrogativePt": "O papagaio pode falar?"
+            },
+            {
+                "affirmativeEn": "I see a parrot.",
+                "affirmativePt": "Eu vejo um papagaio.",
+                "negativeEn": "I do not see a parrot.",
+                "negativePt": "Eu não vejo um papagaio.",
+                "interrogativeEn": "Do you see a parrot?",
+                "interrogativePt": "Você vê um papagaio?"
+            }
+        ]
+    },
+    {
+        "en": "crow",
+        "pt": "corvo",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A black bird often seen in cities and forests.",
+        "examples": [
+            {
+                "affirmativeEn": "The crow is black.",
+                "affirmativePt": "O corvo é preto.",
+                "negativeEn": "The crow is not black.",
+                "negativePt": "O corvo não é preto.",
+                "interrogativeEn": "Is the crow black?",
+                "interrogativePt": "O corvo é preto?"
+            },
+            {
+                "affirmativeEn": "The crow can fly high.",
+                "affirmativePt": "O corvo pode voar alto.",
+                "negativeEn": "The crow cannot fly high.",
+                "negativePt": "O corvo não pode voar alto.",
+                "interrogativeEn": "Can the crow fly high?",
+                "interrogativePt": "O corvo pode voar alto?"
+            },
+            {
+                "affirmativeEn": "I see a crow.",
+                "affirmativePt": "Eu vejo um corvo.",
+                "negativeEn": "I do not see a crow.",
+                "negativePt": "Eu não vejo um corvo.",
+                "interrogativeEn": "Do you see a crow?",
+                "interrogativePt": "Você vê um corvo?"
+            }
+        ]
+    },
+    {
+        "en": "sparrow",
+        "pt": "pardal",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A small bird often found in cities.",
+        "examples": [
+            {
+                "affirmativeEn": "The sparrow is small.",
+                "affirmativePt": "O pardal é pequeno.",
+                "negativeEn": "The sparrow is not small.",
+                "negativePt": "O pardal não é pequeno.",
+                "interrogativeEn": "Is the sparrow small?",
+                "interrogativePt": "O pardal é pequeno?"
+            },
+            {
+                "affirmativeEn": "The sparrow can sing.",
+                "affirmativePt": "O pardal pode cantar.",
+                "negativeEn": "The sparrow cannot sing.",
+                "negativePt": "O pardal não pode cantar.",
+                "interrogativeEn": "Can the sparrow sing?",
+                "interrogativePt": "O pardal pode cantar?"
+            },
+            {
+                "affirmativeEn": "I see a sparrow.",
+                "affirmativePt": "Eu vejo um pardal.",
+                "negativeEn": "I do not see a sparrow.",
+                "negativePt": "Eu não vejo um pardal.",
+                "interrogativeEn": "Do you see a sparrow?",
+                "interrogativePt": "Você vê um pardal?"
+            }
+        ]
+    },
+    {
+        "en": "pigeon",
+        "pt": "pombo",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A common city bird.",
+        "examples": [
+            {
+                "affirmativeEn": "The pigeon is grey.",
+                "affirmativePt": "O pombo é cinza.",
+                "negativeEn": "The pigeon is not grey.",
+                "negativePt": "O pombo não é cinza.",
+                "interrogativeEn": "Is the pigeon grey?",
+                "interrogativePt": "O pombo é cinza?"
+            },
+            {
+                "affirmativeEn": "The pigeon can fly.",
+                "affirmativePt": "O pombo pode voar.",
+                "negativeEn": "The pigeon cannot fly.",
+                "negativePt": "O pombo não pode voar.",
+                "interrogativeEn": "Can the pigeon fly?",
+                "interrogativePt": "O pombo pode voar?"
+            },
+            {
+                "affirmativeEn": "I see a pigeon.",
+                "affirmativePt": "Eu vejo um pombo.",
+                "negativeEn": "I do not see a pigeon.",
+                "negativePt": "Eu não vejo um pombo.",
+                "interrogativeEn": "Do you see a pigeon?",
+                "interrogativePt": "Você vê um pombo?"
+            }
+        ]
+    },
+    {
+        "en": "falcon",
+        "pt": "falcão",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A bird of prey that is very fast.",
+        "examples": [
+            {
+                "affirmativeEn": "The falcon flies fast.",
+                "affirmativePt": "O falcão voa rápido.",
+                "negativeEn": "The falcon does not fly fast.",
+                "negativePt": "O falcão não voa rápido.",
+                "interrogativeEn": "Does the falcon fly fast?",
+                "interrogativePt": "O falcão voa rápido?"
+            },
+            {
+                "affirmativeEn": "The falcon hunts small animals.",
+                "affirmativePt": "O falcão caça animais pequenos.",
+                "negativeEn": "The falcon does not hunt small animals.",
+                "negativePt": "O falcão não caça animais pequenos.",
+                "interrogativeEn": "Does the falcon hunt small animals?",
+                "interrogativePt": "O falcão caça animais pequenos?"
+            },
+            {
+                "affirmativeEn": "I see a falcon.",
+                "affirmativePt": "Eu vejo um falcão.",
+                "negativeEn": "I do not see a falcon.",
+                "negativePt": "Eu não vejo um falcão.",
+                "interrogativeEn": "Do you see a falcon?",
+                "interrogativePt": "Você vê um falcão?"
+            }
+        ]
+    },
+    {
+        "en": "elephant",
+        "pt": "elefante",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A very large animal with a trunk and tusks.",
+        "examples": [
+            {
+                "affirmativeEn": "The elephant is huge.",
+                "affirmativePt": "O elefante é enorme.",
+                "negativeEn": "The elephant is not huge.",
+                "negativePt": "O elefante não é enorme.",
+                "interrogativeEn": "Is the elephant huge?",
+                "interrogativePt": "O elefante é enorme?"
+            },
+            {
+                "affirmativeEn": "The elephant lives in the jungle.",
+                "affirmativePt": "O elefante vive na selva.",
+                "negativeEn": "The elephant does not live in the jungle.",
+                "negativePt": "O elefante não vive na selva.",
+                "interrogativeEn": "Does the elephant live in the jungle?",
+                "interrogativePt": "O elefante vive na selva?"
+            },
+            {
+                "affirmativeEn": "I see an elephant.",
+                "affirmativePt": "Eu vejo um elefante.",
+                "negativeEn": "I do not see an elephant.",
+                "negativePt": "Eu não vejo um elefante.",
+                "interrogativeEn": "Do you see an elephant?",
+                "interrogativePt": "Você vê um elefante?"
+            }
+        ]
+    },
+    {
+        "en": "dragonfly",
+        "pt": "libélula",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A long insect that flies near water.",
+        "examples": [
+            {
+                "affirmativeEn": "The dragonfly is fast.",
+                "affirmativePt": "A libélula é rápida.",
+                "negativeEn": "The dragonfly is not fast.",
+                "negativePt": "A libélula não é rápida.",
+                "interrogativeEn": "Is the dragonfly fast?",
+                "interrogativePt": "A libélula é rápida?"
+            },
+            {
+                "affirmativeEn": "The dragonfly lives near water.",
+                "affirmativePt": "A libélula vive perto da água.",
+                "negativeEn": "The dragonfly does not live near water.",
+                "negativePt": "A libélula não vive perto da água.",
+                "interrogativeEn": "Does the dragonfly live near water?",
+                "interrogativePt": "A libélula vive perto da água?"
+            },
+            {
+                "affirmativeEn": "I see a dragonfly.",
+                "affirmativePt": "Eu vejo uma libélula.",
+                "negativeEn": "I do not see a dragonfly.",
+                "negativePt": "Eu não vejo uma libélula.",
+                "interrogativeEn": "Do you see a dragonfly?",
+                "interrogativePt": "Você vê uma libélula?"
+            }
+        ]
+    },
+    {
+        "en": "rabbit",
+        "pt": "coelho",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A small furry animal that hops.",
+        "examples": [
+            {
+                "affirmativeEn": "The rabbit is cute.",
+                "affirmativePt": "O coelho é fofo.",
+                "negativeEn": "The rabbit is not cute.",
+                "negativePt": "O coelho não é fofo.",
+                "interrogativeEn": "Is the rabbit cute?",
+                "interrogativePt": "O coelho é fofo?"
+            },
+            {
+                "affirmativeEn": "The rabbit eats carrots.",
+                "affirmativePt": "O coelho come cenouras.",
+                "negativeEn": "The rabbit does not eat carrots.",
+                "negativePt": "O coelho não come cenouras.",
+                "interrogativeEn": "Does the rabbit eat carrots?",
+                "interrogativePt": "O coelho come cenouras?"
+            },
+            {
+                "affirmativeEn": "I see a rabbit.",
+                "affirmativePt": "Eu vejo um coelho.",
+                "negativeEn": "I do not see a rabbit.",
+                "negativePt": "Eu não vejo um coelho.",
+                "interrogativeEn": "Do you see a rabbit?",
+                "interrogativePt": "Você vê um coelho?"
+            }
+        ]
+    },
+    {
+        "en": "wolf",
+        "pt": "lobo",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A wild carnivorous animal that lives in packs.",
+        "examples": [
+            {
+                "affirmativeEn": "The wolf howls at night.",
+                "affirmativePt": "O lobo uiva à noite.",
+                "negativeEn": "The wolf does not howl at night.",
+                "negativePt": "O lobo não uiva à noite.",
+                "interrogativeEn": "Does the wolf howl at night?",
+                "interrogativePt": "O lobo uiva à noite?"
+            },
+            {
+                "affirmativeEn": "The wolf is strong.",
+                "affirmativePt": "O lobo é forte.",
+                "negativeEn": "The wolf is not strong.",
+                "negativePt": "O lobo não é forte.",
+                "interrogativeEn": "Is the wolf strong?",
+                "interrogativePt": "O lobo é forte?"
+            },
+            {
+                "affirmativeEn": "I see a wolf.",
+                "affirmativePt": "Eu vejo um lobo.",
+                "negativeEn": "I do not see a wolf.",
+                "negativePt": "Eu não vejo um lobo.",
+                "interrogativeEn": "Do you see a wolf?",
+                "interrogativePt": "Você vê um lobo?"
+            }
+        ]
+    },
+    {
+        "en": "fox",
+        "pt": "raposa",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A small wild animal with red fur and a bushy tail.",
+        "examples": [
+            {
+                "affirmativeEn": "The fox is clever.",
+                "affirmativePt": "A raposa é esperta.",
+                "negativeEn": "The fox is not clever.",
+                "negativePt": "A raposa não é esperta.",
+                "interrogativeEn": "Is the fox clever?",
+                "interrogativePt": "A raposa é esperta?"
+            },
+            {
+                "affirmativeEn": "The fox hunts at night.",
+                "affirmativePt": "A raposa caça à noite.",
+                "negativeEn": "The fox does not hunt at night.",
+                "negativePt": "A raposa não caça à noite.",
+                "interrogativeEn": "Does the fox hunt at night?",
+                "interrogativePt": "A raposa caça à noite?"
+            },
+            {
+                "affirmativeEn": "I see a fox.",
+                "affirmativePt": "Eu vejo uma raposa.",
+                "negativeEn": "I do not see a fox.",
+                "negativePt": "Eu não vejo uma raposa.",
+                "interrogativeEn": "Do you see a fox?",
+                "interrogativePt": "Você vê uma raposa?"
+            }
+        ]
+    },
+    {
+        "en": "hamster",
+        "pt": "hamster",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A small rodent often kept as a pet.",
+        "examples": [
+            {
+                "affirmativeEn": "The hamster runs in its wheel.",
+                "affirmativePt": "O hamster corre na sua roda.",
+                "negativeEn": "The hamster does not run in its wheel.",
+                "negativePt": "O hamster não corre na sua roda.",
+                "interrogativeEn": "Does the hamster run in its wheel?",
+                "interrogativePt": "O hamster corre na sua roda?"
+            },
+            {
+                "affirmativeEn": "The hamster is cute.",
+                "affirmativePt": "O hamster é fofo.",
+                "negativeEn": "The hamster is not cute.",
+                "negativePt": "O hamster não é fofo.",
+                "interrogativeEn": "Is the hamster cute?",
+                "interrogativePt": "O hamster é fofo?"
+            },
+            {
+                "affirmativeEn": "I see a hamster.",
+                "affirmativePt": "Eu vejo um hamster.",
+                "negativeEn": "I do not see a hamster.",
+                "negativePt": "Eu não vejo um hamster.",
+                "interrogativeEn": "Do you see a hamster?",
+                "interrogativePt": "Você vê um hamster?"
+            }
+        ]
+    },
+    {
+        "en": "sardine",
+        "pt": "sardinha",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A small fish often found in the sea.",
+        "examples": [
+            {
+                "affirmativeEn": "The sardine swims in the sea.",
+                "affirmativePt": "A sardinha nada no mar.",
+                "negativeEn": "The sardine does not swim in the sea.",
+                "negativePt": "A sardinha não nada no mar.",
+                "interrogativeEn": "Does the sardine swim in the sea?",
+                "interrogativePt": "A sardinha nada no mar?"
+            },
+            {
+                "affirmativeEn": "The sardine is small.",
+                "affirmativePt": "A sardinha é pequena.",
+                "negativeEn": "The sardine is not small.",
+                "negativePt": "A sardinha não é pequena.",
+                "interrogativeEn": "Is the sardine small?",
+                "interrogativePt": "A sardinha é pequena?"
+            },
+            {
+                "affirmativeEn": "I see a sardine.",
+                "affirmativePt": "Eu vejo uma sardinha.",
+                "negativeEn": "I do not see a sardine.",
+                "negativePt": "Eu não vejo uma sardinha.",
+                "interrogativeEn": "Do you see a sardine?",
+                "interrogativePt": "Você vê uma sardinha?"
+            }
+        ]
+    },
+    {
+        "en": "salmon",
+        "pt": "salmão",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A fish that swims upstream to spawn.",
+        "examples": [
+            {
+                "affirmativeEn": "The salmon swims upstream.",
+                "affirmativePt": "O salmão nada rio acima.",
+                "negativeEn": "The salmon does not swim upstream.",
+                "negativePt": "O salmão não nada rio acima.",
+                "interrogativeEn": "Does the salmon swim upstream?",
+                "interrogativePt": "O salmão nada rio acima?"
+            },
+            {
+                "affirmativeEn": "The salmon is pink.",
+                "affirmativePt": "O salmão é rosa.",
+                "negativeEn": "The salmon is not pink.",
+                "negativePt": "O salmão não é rosa.",
+                "interrogativeEn": "Is the salmon pink?",
+                "interrogativePt": "O salmão é rosa?"
+            },
+            {
+                "affirmativeEn": "I see a salmon.",
+                "affirmativePt": "Eu vejo um salmão.",
+                "negativeEn": "I do not see a salmon.",
+                "negativePt": "Eu não vejo um salmão.",
+                "interrogativeEn": "Do you see a salmon?",
+                "interrogativePt": "Você vê um salmão?"
+            }
+        ]
+    },
+    {
+        "en": "snake",
+        "pt": "cobra",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A legless reptile.",
+        "examples": [
+            {
+                "affirmativeEn": "The snake is long.",
+                "affirmativePt": "A cobra é longa.",
+                "negativeEn": "The snake is not long.",
+                "negativePt": "A cobra não é longa.",
+                "interrogativeEn": "Is the snake long?",
+                "interrogativePt": "A cobra é longa?"
+            },
+            {
+                "affirmativeEn": "The snake can bite.",
+                "affirmativePt": "A cobra pode morder.",
+                "negativeEn": "The snake cannot bite.",
+                "negativePt": "A cobra não pode morder.",
+                "interrogativeEn": "Can the snake bite?",
+                "interrogativePt": "A cobra pode morder?"
+            },
+            {
+                "affirmativeEn": "I see a snake.",
+                "affirmativePt": "Eu vejo uma cobra.",
+                "negativeEn": "I do not see a snake.",
+                "negativePt": "Eu não vejo uma cobra.",
+                "interrogativeEn": "Do you see a snake?",
+                "interrogativePt": "Você vê uma cobra?"
+            }
+        ]
+    },
+    {
+        "en": "zebra",
+        "pt": "zebra",
+        "partOfSpeech": "noun",
+        "category": "animals",
+        "description": "A black and white striped horse-like animal.",
+        "examples": [
+            {
+                "affirmativeEn": "The zebra has stripes.",
+                "affirmativePt": "A zebra tem listras.",
+                "negativeEn": "The zebra does not have stripes.",
+                "negativePt": "A zebra não tem listras.",
+                "interrogativeEn": "Does the zebra have stripes?",
+                "interrogativePt": "A zebra tem listras?"
+            },
+            {
+                "affirmativeEn": "The zebra lives in the savannah.",
+                "affirmativePt": "A zebra vive na savana.",
+                "negativeEn": "The zebra does not live in the savannah.",
+                "negativePt": "A zebra não vive na savana.",
+                "interrogativeEn": "Does the zebra live in the savannah?",
+                "interrogativePt": "A zebra vive na savana?"
+            },
+            {
+                "affirmativeEn": "I see a zebra.",
+                "affirmativePt": "Eu vejo uma zebra.",
+                "negativeEn": "I do not see a zebra.",
+                "negativePt": "Eu não vejo uma zebra.",
+                "interrogativeEn": "Do you see a zebra?",
+                "interrogativePt": "Você vê uma zebra?"
+            }
+        ]
+    }
+]

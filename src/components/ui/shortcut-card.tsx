@@ -1,8 +1,7 @@
-import Image from 'next/image';
 import Link from 'next/link';
-import { Card, CardContent, CardHeader } from '@/components/ui/card';
+import { Card, CardContent } from '@/components/ui/card';
 import { cn } from '@/lib/utils';
-import { H3, H4, Muted } from './typography';
+import { H4, Muted } from './typography';
 
 export type ShortcutCardProps = {
 	title: string;

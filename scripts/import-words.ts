@@ -1,11 +1,13 @@
-import { fetchDictionary } from '@/features/dictionary/dictionary.service';
-import { prisma } from '@/lib/prisma';
-import { detectAbstract } from '@/utils/detectAbstractWords';
-import words from '../data/words_01.json';
+import { PrismaBetterSqlite3 } from '@prisma/adapter-better-sqlite3';
+import { PrismaClient } from '@prisma/client';
+import { detectAbstract } from './detect-abstract';
+import { fetchDictionary } from './fetch-dictionary';
+import words from './seeds/words_11.json';
 
 type WordData = {
 	en: string;
 	pt: string;
+	partOfSpeech?: string;
 	category?: string;
 	description?: string;
 	imageUrl?: string;
@@ -22,15 +24,24 @@ type WordData = {
 		interrogative?: { en: string; pt: string };
 	}>;
 };
+const adapter = new PrismaBetterSqlite3({
+	url: 'file:./prisma/dev.db',
+});
+const prisma = new PrismaClient({
+	adapter,
+});
 
 async function createCategoryIfNotExists(categoryName: string) {
-	const formattedName = categoryName.charAt(0).toUpperCase() + categoryName.slice(1);
 	let category = await prisma.category.findUnique({
-		where: { name: formattedName },
+		where: { slug: categoryName },
 	});
 	if (!category) {
+		const name = categoryName
+			.split('-')
+			.map((str) => str.charAt(0).toUpperCase() + str.slice(1))
+			.join(' ');
 		category = await prisma.category.create({
-			data: { name: formattedName },
+			data: { name, slug: categoryName, level: 'A1', description: '' },
 		});
 	}
 	return category.id;
@@ -60,7 +71,8 @@ async function run() {
 
 			// determine abstractness and partOfSpeech (from first meaning if available)
 			const isAbstract = detectAbstract(w.en, dict);
-			const partOfSpeech = (dict?.[0]?.meanings?.[0]?.partOfSpeech as string) ?? null;
+			const partOfSpeech =
+				w?.partOfSpeech ?? (dict?.[0]?.meanings?.[0]?.partOfSpeech as string) ?? null;
 
 			const categoryId = await createCategoryIfNotExists(w.category ?? 'General');
 

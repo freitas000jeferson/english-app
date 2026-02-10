@@ -1,0 +1,1982 @@
+[
+    {
+        "en": "shirt",
+        "pt": "camisa",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "A garment worn on the upper body",
+        "examples": [
+            {
+                "affirmativeEn": "I wear a shirt every day",
+                "affirmativePt": "Eu uso uma camisa todos os dias",
+                "negativeEn": "I don't wear a shirt in summer",
+                "negativePt": "Eu não uso camisa no verão",
+                "interrogativeEn": "Do you wear a shirt today?",
+                "interrogativePt": "Você usa uma camisa hoje?"
+            },
+            {
+                "affirmativeEn": "She bought a new shirt",
+                "affirmativePt": "Ela comprou uma camisa nova",
+                "negativeEn": "She didn't buy a shirt",
+                "negativePt": "Ela não comprou uma camisa",
+                "interrogativeEn": "Did she buy a shirt?",
+                "interrogativePt": "Ela comprou uma camisa?"
+            },
+            {
+                "affirmativeEn": "The shirt is blue",
+                "affirmativePt": "A camisa é azul",
+                "negativeEn": "The shirt is not blue",
+                "negativePt": "A camisa não é azul",
+                "interrogativeEn": "Is the shirt blue?",
+                "interrogativePt": "A camisa é azul?"
+            }
+        ]
+    },
+    {
+        "en": "pants",
+        "pt": "calça",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "A garment covering the legs",
+        "examples": [
+            {
+                "affirmativeEn": "He wears black pants",
+                "affirmativePt": "Ele usa calçãs pretas",
+                "negativeEn": "He doesn't wear black pants",
+                "negativePt": "Ele não usa calças pretas",
+                "interrogativeEn": "Does he wear black pants?",
+                "interrogativePt": "Ele usa calças pretas?"
+            },
+            {
+                "affirmativeEn": "My pants are comfortable",
+                "affirmativePt": "Minhas calças são confortáveis",
+                "negativeEn": "My pants are not comfortable",
+                "negativePt": "Minhas calças não são confortáveis",
+                "interrogativeEn": "Are your pants comfortable?",
+                "interrogativePt": "Suas calças são confortáveis?"
+            },
+            {
+                "affirmativeEn": "I bought new pants",
+                "affirmativePt": "Eu comprei calças novas",
+                "negativeEn": "I didn't buy new pants",
+                "negativePt": "Eu não comprei calças novas",
+                "interrogativeEn": "Did you buy new pants?",
+                "interrogativePt": "Você comprou calças novas?"
+            }
+        ]
+    },
+    {
+        "en": "jacket",
+        "pt": "jaqueta",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "An outer garment worn over other clothes",
+        "examples": [
+            {
+                "affirmativeEn": "I need a jacket for winter",
+                "affirmativePt": "Preciso de uma jaqueta para o inverno",
+                "negativeEn": "I don't need a jacket",
+                "negativePt": "Eu não preciso de uma jaqueta",
+                "interrogativeEn": "Do you need a jacket?",
+                "interrogativePt": "Você precisa de uma jaqueta?"
+            },
+            {
+                "affirmativeEn": "The red jacket is mine",
+                "affirmativePt": "A jaqueta vermelha é minha",
+                "negativeEn": "The red jacket is not mine",
+                "negativePt": "A jaqueta vermelha não é minha",
+                "interrogativeEn": "Is the red jacket yours?",
+                "interrogativePt": "A jaqueta vermelha é sua?"
+            },
+            {
+                "affirmativeEn": "She wears a leather jacket",
+                "affirmativePt": "Ela usa uma jaqueta de couro",
+                "negativeEn": "She doesn't wear a leather jacket",
+                "negativePt": "Ela não usa uma jaqueta de couro",
+                "interrogativeEn": "Does she wear a leather jacket?",
+                "interrogativePt": "Ela usa uma jaqueta de couro?"
+            }
+        ]
+    },
+    {
+        "en": "hat",
+        "pt": "chapéu",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "A covering for the head",
+        "examples": [
+            {
+                "affirmativeEn": "He wears a hat in the sun",
+                "affirmativePt": "Ele usa um chapéu no sol",
+                "negativeEn": "He doesn't wear a hat",
+                "negativePt": "Ele não usa chapéu",
+                "interrogativeEn": "Does he wear a hat?",
+                "interrogativePt": "Ele usa chapéu?"
+            },
+            {
+                "affirmativeEn": "My hat is black",
+                "affirmativePt": "Meu chapéu é preto",
+                "negativeEn": "My hat is not black",
+                "negativePt": "Meu chapéu não é preto",
+                "interrogativeEn": "Is your hat black?",
+                "interrogativePt": "Seu chapéu é preto?"
+            },
+            {
+                "affirmativeEn": "I bought a new hat",
+                "affirmativePt": "Eu comprei um chapéu novo",
+                "negativeEn": "I didn't buy a new hat",
+                "negativePt": "Eu não comprei um chapéu novo",
+                "interrogativeEn": "Did you buy a new hat?",
+                "interrogativePt": "Você comprou um chapéu novo?"
+            }
+        ]
+    },
+    {
+        "en": "shoes",
+        "pt": "sapatos",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "Footwear covering the foot",
+        "examples": [
+            {
+                "affirmativeEn": "My shoes are comfortable",
+                "affirmativePt": "Meus sapatos são confortáveis",
+                "negativeEn": "My shoes are not comfortable",
+                "negativePt": "Meus sapatos não são confortáveis",
+                "interrogativeEn": "Are your shoes comfortable?",
+                "interrogativePt": "Seus sapatos são confortáveis?"
+            },
+            {
+                "affirmativeEn": "She needs new shoes",
+                "affirmativePt": "Ela precisa de sapatos novos",
+                "negativeEn": "She doesn't need new shoes",
+                "negativePt": "Ela não precisa de sapatos novos",
+                "interrogativeEn": "Does she need new shoes?",
+                "interrogativePt": "Ela precisa de sapatos novos?"
+            },
+            {
+                "affirmativeEn": "I wear sports shoes",
+                "affirmativePt": "Eu uso sapatos esportivos",
+                "negativeEn": "I don't wear sports shoes",
+                "negativePt": "Eu não uso sapatos esportivos",
+                "interrogativeEn": "Do you wear sports shoes?",
+                "interrogativePt": "Você usa sapatos esportivos?"
+            }
+        ]
+    },
+    {
+        "en": "socks",
+        "pt": "meias",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "Short garment covering the foot and ankle",
+        "examples": [
+            {
+                "affirmativeEn": "I wear white socks",
+                "affirmativePt": "Eu uso meias brancas",
+                "negativeEn": "I don't wear white socks",
+                "negativePt": "Eu não uso meias brancas",
+                "interrogativeEn": "Do you wear white socks?",
+                "interrogativePt": "Você usa meias brancas?"
+            },
+            {
+                "affirmativeEn": "His socks have a hole",
+                "affirmativePt": "Suas meias têm um furo",
+                "negativeEn": "His socks don't have a hole",
+                "negativePt": "Suas meias não têm um furo",
+                "interrogativeEn": "Do his socks have a hole?",
+                "interrogativePt": "Suas meias têm um furo?"
+            },
+            {
+                "affirmativeEn": "She bought new socks",
+                "affirmativePt": "Ela comprou meias novas",
+                "negativeEn": "She didn't buy new socks",
+                "negativePt": "Ela não comprou meias novas",
+                "interrogativeEn": "Did she buy new socks?",
+                "interrogativePt": "Ela comprou meias novas?"
+            }
+        ]
+    },
+    {
+        "en": "belt",
+        "pt": "cinto",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "A strip of material worn around the waist",
+        "examples": [
+            {
+                "affirmativeEn": "He wears a leather belt",
+                "affirmativePt": "Ele usa um cinto de couro",
+                "negativeEn": "He doesn't wear a leather belt",
+                "negativePt": "Ele não usa um cinto de couro",
+                "interrogativeEn": "Does he wear a leather belt?",
+                "interrogativePt": "Ele usa um cinto de couro?"
+            },
+            {
+                "affirmativeEn": "My belt is too tight",
+                "affirmativePt": "Meu cinto é muito apertado",
+                "negativeEn": "My belt is not tight",
+                "negativePt": "Meu cinto não é apertado",
+                "interrogativeEn": "Is your belt tight?",
+                "interrogativePt": "Seu cinto é apertado?"
+            },
+            {
+                "affirmativeEn": "I need a new belt",
+                "affirmativePt": "Eu preciso de um cinto novo",
+                "negativeEn": "I don't need a new belt",
+                "negativePt": "Eu não preciso de um cinto novo",
+                "interrogativeEn": "Do you need a new belt?",
+                "interrogativePt": "Você precisa de um cinto novo?"
+            }
+        ]
+    },
+    {
+        "en": "scarf",
+        "pt": "lenço",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "A piece of fabric worn around the neck or head",
+        "examples": [
+            {
+                "affirmativeEn": "She wears a colorful scarf",
+                "affirmativePt": "Ela usa um lenço colorido",
+                "negativeEn": "She doesn't wear a colorful scarf",
+                "negativePt": "Ela não usa um lenço colorido",
+                "interrogativeEn": "Does she wear a colorful scarf?",
+                "interrogativePt": "Ela usa um lenço colorido?"
+            },
+            {
+                "affirmativeEn": "My scarf is silk",
+                "affirmativePt": "Meu lenço é de seda",
+                "negativeEn": "My scarf is not silk",
+                "negativePt": "Meu lenço não é de seda",
+                "interrogativeEn": "Is your scarf silk?",
+                "interrogativePt": "Seu lenço é de seda?"
+            },
+            {
+                "affirmativeEn": "I bought a new scarf",
+                "affirmativePt": "Eu comprei um lenço novo",
+                "negativeEn": "I didn't buy a new scarf",
+                "negativePt": "Eu não comprei um lenço novo",
+                "interrogativeEn": "Did you buy a new scarf?",
+                "interrogativePt": "Você comprou um lenço novo?"
+            }
+        ]
+    },
+    {
+        "en": "gloves",
+        "pt": "luvas",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "Coverings for the hands",
+        "examples": [
+            {
+                "affirmativeEn": "I wear gloves in winter",
+                "affirmativePt": "Eu uso luvas no inverno",
+                "negativeEn": "I don't wear gloves in winter",
+                "negativePt": "Eu não uso luvas no inverno",
+                "interrogativeEn": "Do you wear gloves in winter?",
+                "interrogativePt": "Você usa luvas no inverno?"
+            },
+            {
+                "affirmativeEn": "Her gloves are leather",
+                "affirmativePt": "Suas luvas são de couro",
+                "negativeEn": "Her gloves are not leather",
+                "negativePt": "Suas luvas não são de couro",
+                "interrogativeEn": "Are her gloves leather?",
+                "interrogativePt": "Suas luvas são de couro?"
+            },
+            {
+                "affirmativeEn": "I lost my gloves",
+                "affirmativePt": "Eu perdi minhas luvas",
+                "negativeEn": "I didn't lose my gloves",
+                "negativePt": "Eu não perdi minhas luvas",
+                "interrogativeEn": "Did you lose your gloves?",
+                "interrogativePt": "Você perdeu suas luvas?"
+            }
+        ]
+    },
+    {
+        "en": "watch",
+        "pt": "relógio",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "A device worn on the wrist to tell time",
+        "examples": [
+            {
+                "affirmativeEn": "He wears a gold watch",
+                "affirmativePt": "Ele usa um relógio de ouro",
+                "negativeEn": "He doesn't wear a gold watch",
+                "negativePt": "Ele não usa um relógio de ouro",
+                "interrogativeEn": "Does he wear a gold watch?",
+                "interrogativePt": "Ele usa um relógio de ouro?"
+            },
+            {
+                "affirmativeEn": "My watch is broken",
+                "affirmativePt": "Meu relógio está quebrado",
+                "negativeEn": "My watch is not broken",
+                "negativePt": "Meu relógio não está quebrado",
+                "interrogativeEn": "Is your watch broken?",
+                "interrogativePt": "Seu relógio está quebrado?"
+            },
+            {
+                "affirmativeEn": "I need a new watch",
+                "affirmativePt": "Eu preciso de um relógio novo",
+                "negativeEn": "I don't need a new watch",
+                "negativePt": "Eu não preciso de um relógio novo",
+                "interrogativeEn": "Do you need a new watch?",
+                "interrogativePt": "Você precisa de um relógio novo?"
+            }
+        ]
+    },
+    {
+        "en": "tie",
+        "pt": "gravata",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "A long piece of fabric worn around the neck",
+        "examples": [
+            {
+                "affirmativeEn": "He wears a tie to work",
+                "affirmativePt": "Ele usa uma gravata para o trabalho",
+                "negativeEn": "He doesn't wear a tie",
+                "negativePt": "Ele não usa gravata",
+                "interrogativeEn": "Does he wear a tie?",
+                "interrogativePt": "Ele usa gravata?"
+            },
+            {
+                "affirmativeEn": "My tie is blue",
+                "affirmativePt": "Minha gravata é azul",
+                "negativeEn": "My tie is not blue",
+                "negativePt": "Minha gravata não é azul",
+                "interrogativeEn": "Is your tie blue?",
+                "interrogativePt": "Sua gravata é azul?"
+            },
+            {
+                "affirmativeEn": "I bought a silk tie",
+                "affirmativePt": "Eu comprei uma gravata de seda",
+                "negativeEn": "I didn't buy a silk tie",
+                "negativePt": "Eu não comprei uma gravata de seda",
+                "interrogativeEn": "Did you buy a silk tie?",
+                "interrogativePt": "Você comprou uma gravata de seda?"
+            }
+        ]
+    },
+    {
+        "en": "dress",
+        "pt": "vestido",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "A garment worn by women covering the body",
+        "examples": [
+            {
+                "affirmativeEn": "She wears a red dress",
+                "affirmativePt": "Ela usa um vestido vermelho",
+                "negativeEn": "She doesn't wear a red dress",
+                "negativePt": "Ela não usa um vestido vermelho",
+                "interrogativeEn": "Does she wear a red dress?",
+                "interrogativePt": "Ela usa um vestido vermelho?"
+            },
+            {
+                "affirmativeEn": "My dress is comfortable",
+                "affirmativePt": "Meu vestido é confortável",
+                "negativeEn": "My dress is not comfortable",
+                "negativePt": "Meu vestido não é confortável",
+                "interrogativeEn": "Is your dress comfortable?",
+                "interrogativePt": "Seu vestido é confortável?"
+            },
+            {
+                "affirmativeEn": "I bought a new dress",
+                "affirmativePt": "Eu comprei um vestido novo",
+                "negativeEn": "I didn't buy a new dress",
+                "negativePt": "Eu não comprei um vestido novo",
+                "interrogativeEn": "Did you buy a new dress?",
+                "interrogativePt": "Você comprou um vestido novo?"
+            }
+        ]
+    },
+    {
+        "en": "skirt",
+        "pt": "saia",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "A garment worn around the waist and hips",
+        "examples": [
+            {
+                "affirmativeEn": "She wears a short skirt",
+                "affirmativePt": "Ela usa uma saia curta",
+                "negativeEn": "She doesn't wear a short skirt",
+                "negativePt": "Ela não usa uma saia curta",
+                "interrogativeEn": "Does she wear a short skirt?",
+                "interrogativePt": "Ela usa uma saia curta?"
+            },
+            {
+                "affirmativeEn": "My skirt is black",
+                "affirmativePt": "Minha saia é preta",
+                "negativeEn": "My skirt is not black",
+                "negativePt": "Minha saia não é preta",
+                "interrogativeEn": "Is your skirt black?",
+                "interrogativePt": "Sua saia é preta?"
+            },
+            {
+                "affirmativeEn": "I need a new skirt",
+                "affirmativePt": "Eu preciso de uma saia nova",
+                "negativeEn": "I don't need a new skirt",
+                "negativePt": "Eu não preciso de uma saia nova",
+                "interrogativeEn": "Do you need a new skirt?",
+                "interrogativePt": "Você precisa de uma saia nova?"
+            }
+        ]
+    },
+    {
+        "en": "sweater",
+        "pt": "suéter",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "A knitted garment worn for warmth",
+        "examples": [
+            {
+                "affirmativeEn": "I wear a warm sweater",
+                "affirmativePt": "Eu uso um suéter quente",
+                "negativeEn": "I don't wear a warm sweater",
+                "negativePt": "Eu não uso um suéter quente",
+                "interrogativeEn": "Do you wear a warm sweater?",
+                "interrogativePt": "Você usa um suéter quente?"
+            },
+            {
+                "affirmativeEn": "My sweater is gray",
+                "affirmativePt": "Meu suéter é cinza",
+                "negativeEn": "My sweater is not gray",
+                "negativePt": "Meu suéter não é cinza",
+                "interrogativeEn": "Is your sweater gray?",
+                "interrogativePt": "Seu suéter é cinza?"
+            },
+            {
+                "affirmativeEn": "She bought a wool sweater",
+                "affirmativePt": "Ela comprou um suéter de lã",
+                "negativeEn": "She didn't buy a wool sweater",
+                "negativePt": "Ela não comprou um suéter de lã",
+                "interrogativeEn": "Did she buy a wool sweater?",
+                "interrogativePt": "Ela comprou um suéter de lã?"
+            }
+        ]
+    },
+    {
+        "en": "blouse",
+        "pt": "blusa",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "A light garment worn on the upper body",
+        "examples": [
+            {
+                "affirmativeEn": "She wears a white blouse",
+                "affirmativePt": "Ela usa uma blusa branca",
+                "negativeEn": "She doesn't wear a white blouse",
+                "negativePt": "Ela não usa uma blusa branca",
+                "interrogativeEn": "Does she wear a white blouse?",
+                "interrogativePt": "Ela usa uma blusa branca?"
+            },
+            {
+                "affirmativeEn": "My blouse is silk",
+                "affirmativePt": "Minha blusa é de seda",
+                "negativeEn": "My blouse is not silk",
+                "negativePt": "Minha blusa não é de seda",
+                "interrogativeEn": "Is your blouse silk?",
+                "interrogativePt": "Sua blusa é de seda?"
+            },
+            {
+                "affirmativeEn": "I bought a new blouse",
+                "affirmativePt": "Eu comprei uma blusa nova",
+                "negativeEn": "I didn't buy a new blouse",
+                "negativePt": "Eu não comprei uma blusa nova",
+                "interrogativeEn": "Did you buy a new blouse?",
+                "interrogativePt": "Você comprou uma blusa nova?"
+            }
+        ]
+    },
+    {
+        "en": "shorts",
+        "pt": "shorts",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "Short trousers covering the upper legs",
+        "examples": [
+            {
+                "affirmativeEn": "He wears shorts in summer",
+                "affirmativePt": "Ele usa shorts no verão",
+                "negativeEn": "He doesn't wear shorts",
+                "negativePt": "Ele não usa shorts",
+                "interrogativeEn": "Does he wear shorts?",
+                "interrogativePt": "Ele usa shorts?"
+            },
+            {
+                "affirmativeEn": "My shorts are blue",
+                "affirmativePt": "Meus shorts são azuis",
+                "negativeEn": "My shorts are not blue",
+                "negativePt": "Meus shorts não são azuis",
+                "interrogativeEn": "Are your shorts blue?",
+                "interrogativePt": "Seus shorts são azuis?"
+            },
+            {
+                "affirmativeEn": "I need new shorts",
+                "affirmativePt": "Eu preciso de shorts novos",
+                "negativeEn": "I don't need new shorts",
+                "negativePt": "Eu não preciso de shorts novos",
+                "interrogativeEn": "Do you need new shorts?",
+                "interrogativePt": "Você precisa de shorts novos?"
+            }
+        ]
+    },
+    {
+        "en": "coat",
+        "pt": "casaco",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "A thick outer garment worn for warmth",
+        "examples": [
+            {
+                "affirmativeEn": "I wear a coat in winter",
+                "affirmativePt": "Eu uso um casaco no inverno",
+                "negativeEn": "I don't wear a coat",
+                "negativePt": "Eu não uso casaco",
+                "interrogativeEn": "Do you wear a coat?",
+                "interrogativePt": "Você usa casaco?"
+            },
+            {
+                "affirmativeEn": "My coat is warm",
+                "affirmativePt": "Meu casaco é quente",
+                "negativeEn": "My coat is not warm",
+                "negativePt": "Meu casaco não é quente",
+                "interrogativeEn": "Is your coat warm?",
+                "interrogativePt": "Seu casaco é quente?"
+            },
+            {
+                "affirmativeEn": "She bought a new coat",
+                "affirmativePt": "Ela comprou um casaco novo",
+                "negativeEn": "She didn't buy a new coat",
+                "negativePt": "Ela não comprou um casaco novo",
+                "interrogativeEn": "Did she buy a new coat?",
+                "interrogativePt": "Ela comprou um casaco novo?"
+            }
+        ]
+    },
+    {
+        "en": "sandals",
+        "pt": "sandálias",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "Open footwear worn in warm weather",
+        "examples": [
+            {
+                "affirmativeEn": "I wear sandals at the beach",
+                "affirmativePt": "Eu uso sandálias na praia",
+                "negativeEn": "I don't wear sandals",
+                "negativePt": "Eu não uso sandálias",
+                "interrogativeEn": "Do you wear sandals?",
+                "interrogativePt": "Você usa sandálias?"
+            },
+            {
+                "affirmativeEn": "My sandals are comfortable",
+                "affirmativePt": "Minhas sandálias são confortáveis",
+                "negativeEn": "My sandals are not comfortable",
+                "negativePt": "Minhas sandálias não são confortáveis",
+                "interrogativeEn": "Are your sandals comfortable?",
+                "interrogativePt": "Suas sandálias são confortáveis?"
+            },
+            {
+                "affirmativeEn": "She bought new sandals",
+                "affirmativePt": "Ela comprou sandálias novas",
+                "negativeEn": "She didn't buy new sandals",
+                "negativePt": "Ela não comprou sandálias novas",
+                "interrogativeEn": "Did she buy new sandals?",
+                "interrogativePt": "Ela comprou sandálias novas?"
+            }
+        ]
+    },
+    {
+        "en": "ring",
+        "pt": "anel",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "A circular band worn on the finger",
+        "examples": [
+            {
+                "affirmativeEn": "She wears a diamond ring",
+                "affirmativePt": "Ela usa um anel de diamante",
+                "negativeEn": "She doesn't wear a diamond ring",
+                "negativePt": "Ela não usa um anel de diamante",
+                "interrogativeEn": "Does she wear a diamond ring?",
+                "interrogativePt": "Ela usa um anel de diamante?"
+            },
+            {
+                "affirmativeEn": "My ring is gold",
+                "affirmativePt": "Meu anel é de ouro",
+                "negativeEn": "My ring is not gold",
+                "negativePt": "Meu anel não é de ouro",
+                "interrogativeEn": "Is your ring gold?",
+                "interrogativePt": "Seu anel é de ouro?"
+            },
+            {
+                "affirmativeEn": "I lost my ring",
+                "affirmativePt": "Eu perdi meu anel",
+                "negativeEn": "I didn't lose my ring",
+                "negativePt": "Eu não perdi meu anel",
+                "interrogativeEn": "Did you lose your ring?",
+                "interrogativePt": "Você perdeu seu anel?"
+            }
+        ]
+    },
+    {
+        "en": "necklace",
+        "pt": "colar",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "A piece of jewelry worn around the neck",
+        "examples": [
+            {
+                "affirmativeEn": "She wears a gold necklace",
+                "affirmativePt": "Ela usa um colar de ouro",
+                "negativeEn": "She doesn't wear a gold necklace",
+                "negativePt": "Ela não usa um colar de ouro",
+                "interrogativeEn": "Does she wear a gold necklace?",
+                "interrogativePt": "Ela usa um colar de ouro?"
+            },
+            {
+                "affirmativeEn": "My necklace is beautiful",
+                "affirmativePt": "Meu colar é bonito",
+                "negativeEn": "My necklace is not beautiful",
+                "negativePt": "Meu colar não é bonito",
+                "interrogativeEn": "Is your necklace beautiful?",
+                "interrogativePt": "Seu colar é bonito?"
+            },
+            {
+                "affirmativeEn": "I bought a new necklace",
+                "affirmativePt": "Eu comprei um colar novo",
+                "negativeEn": "I didn't buy a new necklace",
+                "negativePt": "Eu não comprei um colar novo",
+                "interrogativeEn": "Did you buy a new necklace?",
+                "interrogativePt": "Você comprou um colar novo?"
+            }
+        ]
+    },
+    {
+        "en": "earrings",
+        "pt": "brincos",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "Jewelry worn on the ears",
+        "examples": [
+            {
+                "affirmativeEn": "She wears pearl earrings",
+                "affirmativePt": "Ela usa brincos de pérola",
+                "negativeEn": "She doesn't wear pearl earrings",
+                "negativePt": "Ela não usa brincos de pérola",
+                "interrogativeEn": "Does she wear pearl earrings?",
+                "interrogativePt": "Ela usa brincos de pérola?"
+            },
+            {
+                "affirmativeEn": "My earrings are silver",
+                "affirmativePt": "Meus brincos são de prata",
+                "negativeEn": "My earrings are not silver",
+                "negativePt": "Meus brincos não são de prata",
+                "interrogativeEn": "Are your earrings silver?",
+                "interrogativePt": "Seus brincos são de prata?"
+            },
+            {
+                "affirmativeEn": "I bought new earrings",
+                "affirmativePt": "Eu comprei brincos novos",
+                "negativeEn": "I didn't buy new earrings",
+                "negativePt": "Eu não comprei brincos novos",
+                "interrogativeEn": "Did you buy new earrings?",
+                "interrogativePt": "Você comprou brincos novos?"
+            }
+        ]
+    },
+    {
+        "en": "bracelet",
+        "pt": "pulseira",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "A band worn around the wrist",
+        "examples": [
+            {
+                "affirmativeEn": "She wears a gold bracelet",
+                "affirmativePt": "Ela usa uma pulseira de ouro",
+                "negativeEn": "She doesn't wear a gold bracelet",
+                "negativePt": "Ela não usa uma pulseira de ouro",
+                "interrogativeEn": "Does she wear a gold bracelet?",
+                "interrogativePt": "Ela usa uma pulseira de ouro?"
+            },
+            {
+                "affirmativeEn": "My bracelet is beautiful",
+                "affirmativePt": "Minha pulseira é bonita",
+                "negativeEn": "My bracelet is not beautiful",
+                "negativePt": "Minha pulseira não é bonita",
+                "interrogativeEn": "Is your bracelet beautiful?",
+                "interrogativePt": "Sua pulseira é bonita?"
+            },
+            {
+                "affirmativeEn": "I lost my bracelet",
+                "affirmativePt": "Eu perdi minha pulseira",
+                "negativeEn": "I didn't lose my bracelet",
+                "negativePt": "Eu não perdi minha pulseira",
+                "interrogativeEn": "Did you lose your bracelet?",
+                "interrogativePt": "Você perdeu sua pulseira?"
+            }
+        ]
+    },
+    {
+        "en": "sunglasses",
+        "pt": "óculos de sol",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "Eyewear that protects from sunlight",
+        "examples": [
+            {
+                "affirmativeEn": "I wear sunglasses at the beach",
+                "affirmativePt": "Eu uso óculos de sol na praia",
+                "negativeEn": "I don't wear sunglasses",
+                "negativePt": "Eu não uso óculos de sol",
+                "interrogativeEn": "Do you wear sunglasses?",
+                "interrogativePt": "Você usa óculos de sol?"
+            },
+            {
+                "affirmativeEn": "My sunglasses are dark",
+                "affirmativePt": "Meus óculos de sol são escuros",
+                "negativeEn": "My sunglasses are not dark",
+                "negativePt": "Meus óculos de sol não são escuros",
+                "interrogativeEn": "Are your sunglasses dark?",
+                "interrogativePt": "Seus óculos de sol são escuros?"
+            },
+            {
+                "affirmativeEn": "She bought new sunglasses",
+                "affirmativePt": "Ela comprou óculos de sol novos",
+                "negativeEn": "She didn't buy new sunglasses",
+                "negativePt": "Ela não comprou óculos de sol novos",
+                "interrogativeEn": "Did she buy new sunglasses?",
+                "interrogativePt": "Ela comprou óculos de sol novos?"
+            }
+        ]
+    },
+    {
+        "en": "bag",
+        "pt": "bolsa",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "A container used to carry items",
+        "examples": [
+            {
+                "affirmativeEn": "She carries a leather bag",
+                "affirmativePt": "Ela carrega uma bolsa de couro",
+                "negativeEn": "She doesn't carry a leather bag",
+                "negativePt": "Ela não carrega uma bolsa de couro",
+                "interrogativeEn": "Does she carry a leather bag?",
+                "interrogativePt": "Ela carrega uma bolsa de couro?"
+            },
+            {
+                "affirmativeEn": "My bag is red",
+                "affirmativePt": "Minha bolsa é vermelha",
+                "negativeEn": "My bag is not red",
+                "negativePt": "Minha bolsa não é vermelha",
+                "interrogativeEn": "Is your bag red?",
+                "interrogativePt": "Sua bolsa é vermelha?"
+            },
+            {
+                "affirmativeEn": "I bought a new bag",
+                "affirmativePt": "Eu comprei uma bolsa nova",
+                "negativeEn": "I didn't buy a new bag",
+                "negativePt": "Eu não comprei uma bolsa nova",
+                "interrogativeEn": "Did you buy a new bag?",
+                "interrogativePt": "Você comprou uma bolsa nova?"
+            }
+        ]
+    },
+    {
+        "en": "wallet",
+        "pt": "carteira",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "A small case for holding money and cards",
+        "examples": [
+            {
+                "affirmativeEn": "He carries a leather wallet",
+                "affirmativePt": "Ele carrega uma carteira de couro",
+                "negativeEn": "He doesn't carry a leather wallet",
+                "negativePt": "Ele não carrega uma carteira de couro",
+                "interrogativeEn": "Does he carry a leather wallet?",
+                "interrogativePt": "Ele carrega uma carteira de couro?"
+            },
+            {
+                "affirmativeEn": "My wallet is full",
+                "affirmativePt": "Minha carteira está cheia",
+                "negativeEn": "My wallet is not full",
+                "negativePt": "Minha carteira não está cheia",
+                "interrogativeEn": "Is your wallet full?",
+                "interrogativePt": "Sua carteira está cheia?"
+            },
+            {
+                "affirmativeEn": "I lost my wallet",
+                "affirmativePt": "Eu perdi minha carteira",
+                "negativeEn": "I didn't lose my wallet",
+                "negativePt": "Eu não perdi minha carteira",
+                "interrogativeEn": "Did you lose your wallet?",
+                "interrogativePt": "Você perdeu sua carteira?"
+            }
+        ]
+    },
+    {
+        "en": "backpack",
+        "pt": "mochila",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "A bag carried on the back with straps",
+        "examples": [
+            {
+                "affirmativeEn": "I carry a backpack to school",
+                "affirmativePt": "Eu carrego uma mochila para a escola",
+                "negativeEn": "I don't carry a backpack",
+                "negativePt": "Eu não carrego uma mochila",
+                "interrogativeEn": "Do you carry a backpack?",
+                "interrogativePt": "Você carrega uma mochila?"
+            },
+            {
+                "affirmativeEn": "My backpack is heavy",
+                "affirmativePt": "Minha mochila é pesada",
+                "negativeEn": "My backpack is not heavy",
+                "negativePt": "Minha mochila não é pesada",
+                "interrogativeEn": "Is your backpack heavy?",
+                "interrogativePt": "Sua mochila é pesada?"
+            },
+            {
+                "affirmativeEn": "She bought a new backpack",
+                "affirmativePt": "Ela comprou uma mochila nova",
+                "negativeEn": "She didn't buy a new backpack",
+                "negativePt": "Ela não comprou uma mochila nova",
+                "interrogativeEn": "Did she buy a new backpack?",
+                "interrogativePt": "Ela comprou uma mochila nova?"
+            }
+        ]
+    },
+    {
+        "en": "cap",
+        "pt": "boné",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "A head covering with a stiff brim",
+        "examples": [
+            {
+                "affirmativeEn": "He wears a baseball cap",
+                "affirmativePt": "Ele usa um boné de beisebol",
+                "negativeEn": "He doesn't wear a baseball cap",
+                "negativePt": "Ele não usa um boné de beisebol",
+                "interrogativeEn": "Does he wear a baseball cap?",
+                "interrogativePt": "Ele usa um boné de beisebol?"
+            },
+            {
+                "affirmativeEn": "My cap is black",
+                "affirmativePt": "Meu boné é preto",
+                "negativeEn": "My cap is not black",
+                "negativePt": "Meu boné não é preto",
+                "interrogativeEn": "Is your cap black?",
+                "interrogativePt": "Seu boné é preto?"
+            },
+            {
+                "affirmativeEn": "I lost my cap",
+                "affirmativePt": "Eu perdi meu boné",
+                "negativeEn": "I didn't lose my cap",
+                "negativePt": "Eu não perdi meu boné",
+                "interrogativeEn": "Did you lose your cap?",
+                "interrogativePt": "Você perdeu seu boné?"
+            }
+        ]
+    },
+    {
+        "en": "boots",
+        "pt": "botas",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "Heavy footwear covering the foot and ankle",
+        "examples": [
+            {
+                "affirmativeEn": "I wear boots in winter",
+                "affirmativePt": "Eu uso botas no inverno",
+                "negativeEn": "I don't wear boots",
+                "negativePt": "Eu não uso botas",
+                "interrogativeEn": "Do you wear boots?",
+                "interrogativePt": "Você usa botas?"
+            },
+            {
+                "affirmativeEn": "My boots are comfortable",
+                "affirmativePt": "Minhas botas são confortáveis",
+                "negativeEn": "My boots are not comfortable",
+                "negativePt": "Minhas botas não são confortáveis",
+                "interrogativeEn": "Are your boots comfortable?",
+                "interrogativePt": "Suas botas são confortáveis?"
+            },
+            {
+                "affirmativeEn": "She bought new boots",
+                "affirmativePt": "Ela comprou botas novas",
+                "negativeEn": "She didn't buy new boots",
+                "negativePt": "Ela não comprou botas novas",
+                "interrogativeEn": "Did she buy new boots?",
+                "interrogativePt": "Ela comprou botas novas?"
+            }
+        ]
+    },
+    {
+        "en": "handkerchief",
+        "pt": "lenço",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "A small piece of cloth for wiping the face",
+        "examples": [
+            {
+                "affirmativeEn": "He carries a handkerchief",
+                "affirmativePt": "Ele carrega um lenço",
+                "negativeEn": "He doesn't carry a handkerchief",
+                "negativePt": "Ele não carrega um lenço",
+                "interrogativeEn": "Does he carry a handkerchief?",
+                "interrogativePt": "Ele carrega um lenço?"
+            },
+            {
+                "affirmativeEn": "My handkerchief is white",
+                "affirmativePt": "Meu lenço é branco",
+                "negativeEn": "My handkerchief is not white",
+                "negativePt": "Meu lenço não é branco",
+                "interrogativeEn": "Is your handkerchief white?",
+                "interrogativePt": "Seu lenço é branco?"
+            },
+            {
+                "affirmativeEn": "I need a clean handkerchief",
+                "affirmativePt": "Eu preciso de um lenço limpo",
+                "negativeEn": "I don't need a clean handkerchief",
+                "negativePt": "Eu não preciso de um lenço limpo",
+                "interrogativeEn": "Do you need a clean handkerchief?",
+                "interrogativePt": "Você precisa de um lenço limpo?"
+            }
+        ]
+    },
+    {
+        "en": "umbrella",
+        "pt": "guarda-chuva",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "A device for protection from rain or sun",
+        "examples": [
+            {
+                "affirmativeEn": "I carry an umbrella when it rains",
+                "affirmativePt": "Eu carrego um guarda-chuva quando chove",
+                "negativeEn": "I don't carry an umbrella",
+                "negativePt": "Eu não carrego um guarda-chuva",
+                "interrogativeEn": "Do you carry an umbrella?",
+                "interrogativePt": "Você carrega um guarda-chuva?"
+            },
+            {
+                "affirmativeEn": "My umbrella is red",
+                "affirmativePt": "Meu guarda-chuva é vermelho",
+                "negativeEn": "My umbrella is not red",
+                "negativePt": "Meu guarda-chuva não é vermelho",
+                "interrogativeEn": "Is your umbrella red?",
+                "interrogativePt": "Seu guarda-chuva é vermelho?"
+            },
+            {
+                "affirmativeEn": "She lost her umbrella",
+                "affirmativePt": "Ela perdeu seu guarda-chuva",
+                "negativeEn": "She didn't lose her umbrella",
+                "negativePt": "Ela não perdeu seu guarda-chuva",
+                "interrogativeEn": "Did she lose her umbrella?",
+                "interrogativePt": "Ela perdeu seu guarda-chuva?"
+            }
+        ]
+    },
+    {
+        "en": "pajamas",
+        "pt": "pijama",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "Loose clothing worn for sleeping",
+        "examples": [
+            {
+                "affirmativeEn": "I wear pajamas to bed",
+                "affirmativePt": "Eu uso pijama para dormir",
+                "negativeEn": "I don't wear pajamas",
+                "negativePt": "Eu não uso pijama",
+                "interrogativeEn": "Do you wear pajamas?",
+                "interrogativePt": "Você usa pijama?"
+            },
+            {
+                "affirmativeEn": "My pajamas are comfortable",
+                "affirmativePt": "Meu pijama é confortável",
+                "negativeEn": "My pajamas are not comfortable",
+                "negativePt": "Meu pijama não é confortável",
+                "interrogativeEn": "Are your pajamas comfortable?",
+                "interrogativePt": "Seu pijama é confortável?"
+            },
+            {
+                "affirmativeEn": "She bought new pajamas",
+                "affirmativePt": "Ela comprou um pijama novo",
+                "negativeEn": "She didn't buy new pajamas",
+                "negativePt": "Ela não comprou um pijama novo",
+                "interrogativeEn": "Did she buy new pajamas?",
+                "interrogativePt": "Ela comprou um pijama novo?"
+            }
+        ]
+    },
+    {
+        "en": "uniform",
+        "pt": "uniforme",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "A standard set of clothing worn for work",
+        "examples": [
+            {
+                "affirmativeEn": "He wears a uniform at work",
+                "affirmativePt": "Ele usa um uniforme no trabalho",
+                "negativeEn": "He doesn't wear a uniform",
+                "negativePt": "Ele não usa uniforme",
+                "interrogativeEn": "Does he wear a uniform?",
+                "interrogativePt": "Ele usa uniforme?"
+            },
+            {
+                "affirmativeEn": "My uniform is blue",
+                "affirmativePt": "Meu uniforme é azul",
+                "negativeEn": "My uniform is not blue",
+                "negativePt": "Meu uniforme não é azul",
+                "interrogativeEn": "Is your uniform blue?",
+                "interrogativePt": "Seu uniforme é azul?"
+            },
+            {
+                "affirmativeEn": "I need to wash my uniform",
+                "affirmativePt": "Eu preciso lavar meu uniforme",
+                "negativeEn": "I don't need to wash my uniform",
+                "negativePt": "Eu não preciso lavar meu uniforme",
+                "interrogativeEn": "Do you need to wash your uniform?",
+                "interrogativePt": "Você precisa lavar seu uniforme?"
+            }
+        ]
+    },
+    {
+        "en": "tights",
+        "pt": "meia-calça",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "A close-fitting garment covering legs and feet",
+        "examples": [
+            {
+                "affirmativeEn": "She wears black tights",
+                "affirmativePt": "Ela usa meia-calça preta",
+                "negativeEn": "She doesn't wear black tights",
+                "negativePt": "Ela não usa meia-calça preta",
+                "interrogativeEn": "Does she wear black tights?",
+                "interrogativePt": "Ela usa meia-calça preta?"
+            },
+            {
+                "affirmativeEn": "My tights have a hole",
+                "affirmativePt": "Minha meia-calça tem um furo",
+                "negativeEn": "My tights don't have a hole",
+                "negativePt": "Minha meia-calça não tem um furo",
+                "interrogativeEn": "Do your tights have a hole?",
+                "interrogativePt": "Sua meia-calça tem um furo?"
+            },
+            {
+                "affirmativeEn": "I bought new tights",
+                "affirmativePt": "Eu comprei meia-calça nova",
+                "negativeEn": "I didn't buy new tights",
+                "negativePt": "Eu não comprei meia-calça nova",
+                "interrogativeEn": "Did you buy new tights?",
+                "interrogativePt": "Você comprou meia-calça nova?"
+            }
+        ]
+    },
+    {
+        "en": "vest",
+        "pt": "colete",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "A sleeveless garment worn over a shirt",
+        "examples": [
+            {
+                "affirmativeEn": "He wears a vest to the meeting",
+                "affirmativePt": "Ele usa um colete para a reunião",
+                "negativeEn": "He doesn't wear a vest",
+                "negativePt": "Ele não usa colete",
+                "interrogativeEn": "Does he wear a vest?",
+                "interrogativePt": "Ele usa colete?"
+            },
+            {
+                "affirmativeEn": "My vest is brown",
+                "affirmativePt": "Meu colete é marrom",
+                "negativeEn": "My vest is not brown",
+                "negativePt": "Meu colete não é marrom",
+                "interrogativeEn": "Is your vest brown?",
+                "interrogativePt": "Seu colete é marrom?"
+            },
+            {
+                "affirmativeEn": "I need a new vest",
+                "affirmativePt": "Eu preciso de um colete novo",
+                "negativeEn": "I don't need a new vest",
+                "negativePt": "Eu não preciso de um colete novo",
+                "interrogativeEn": "Do you need a new vest?",
+                "interrogativePt": "Você precisa de um colete novo?"
+            }
+        ]
+    },
+    {
+        "en": "cardigan",
+        "pt": "cardigan",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "A knitted jacket with buttons down the front",
+        "examples": [
+            {
+                "affirmativeEn": "She wears a cardigan over her dress",
+                "affirmativePt": "Ela usa um cardigan sobre seu vestido",
+                "negativeEn": "She doesn't wear a cardigan",
+                "negativePt": "Ela não usa cardigan",
+                "interrogativeEn": "Does she wear a cardigan?",
+                "interrogativePt": "Ela usa cardigan?"
+            },
+            {
+                "affirmativeEn": "My cardigan is warm",
+                "affirmativePt": "Meu cardigan é quente",
+                "negativeEn": "My cardigan is not warm",
+                "negativePt": "Meu cardigan não é quente",
+                "interrogativeEn": "Is your cardigan warm?",
+                "interrogativePt": "Seu cardigan é quente?"
+            },
+            {
+                "affirmativeEn": "I bought a new cardigan",
+                "affirmativePt": "Eu comprei um cardigan novo",
+                "negativeEn": "I didn't buy a new cardigan",
+                "negativePt": "Eu não comprei um cardigan novo",
+                "interrogativeEn": "Did you buy a new cardigan?",
+                "interrogativePt": "Você comprou um cardigan novo?"
+            }
+        ]
+    },
+    {
+        "en": "flip-flops",
+        "pt": "chinelos",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "Light casual footwear",
+        "examples": [
+            {
+                "affirmativeEn": "I wear flip-flops at home",
+                "affirmativePt": "Eu uso chinelos em casa",
+                "negativeEn": "I don't wear flip-flops",
+                "negativePt": "Eu não uso chinelos",
+                "interrogativeEn": "Do you wear flip-flops?",
+                "interrogativePt": "Você usa chinelos?"
+            },
+            {
+                "affirmativeEn": "My flip-flops are blue",
+                "affirmativePt": "Meus chinelos são azuis",
+                "negativeEn": "My flip-flops are not blue",
+                "negativePt": "Meus chinelos não são azuis",
+                "interrogativeEn": "Are your flip-flops blue?",
+                "interrogativePt": "Seus chinelos são azuis?"
+            },
+            {
+                "affirmativeEn": "She lost her flip-flops",
+                "affirmativePt": "Ela perdeu seus chinelos",
+                "negativeEn": "She didn't lose her flip-flops",
+                "negativePt": "Ela não perdeu seus chinelos",
+                "interrogativeEn": "Did she lose her flip-flops?",
+                "interrogativePt": "Ela perdeu seus chinelos?"
+            }
+        ]
+    },
+    {
+        "en": "hoodie",
+        "pt": "moletom com capuz",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "A sweatshirt with a hood and drawstrings",
+        "examples": [
+            {
+                "affirmativeEn": "He wears a hoodie in cold weather",
+                "affirmativePt": "Ele usa um moletom com capuz em tempo frio",
+                "negativeEn": "He doesn't wear a hoodie",
+                "negativePt": "Ele não usa moletom com capuz",
+                "interrogativeEn": "Does he wear a hoodie?",
+                "interrogativePt": "Ele usa moletom com capuz?"
+            },
+            {
+                "affirmativeEn": "My hoodie is gray",
+                "affirmativePt": "Meu moletom com capuz é cinza",
+                "negativeEn": "My hoodie is not gray",
+                "negativePt": "Meu moletom com capuz não é cinza",
+                "interrogativeEn": "Is your hoodie gray?",
+                "interrogativePt": "Seu moletom com capuz é cinza?"
+            },
+            {
+                "affirmativeEn": "I bought a new hoodie",
+                "affirmativePt": "Eu comprei um moletom com capuz novo",
+                "negativeEn": "I didn't buy a new hoodie",
+                "negativePt": "Eu não comprei um moletom com capuz novo",
+                "interrogativeEn": "Did you buy a new hoodie?",
+                "interrogativePt": "Você comprou um moletom com capuz novo?"
+            }
+        ]
+    },
+    {
+        "en": "swimsuit",
+        "pt": "roupa de banho",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "Clothing worn for swimming",
+        "examples": [
+            {
+                "affirmativeEn": "She wears a swimsuit at the pool",
+                "affirmativePt": "Ela usa uma roupa de banho na piscina",
+                "negativeEn": "She doesn't wear a swimsuit",
+                "negativePt": "Ela não usa roupa de banho",
+                "interrogativeEn": "Does she wear a swimsuit?",
+                "interrogativePt": "Ela usa roupa de banho?"
+            },
+            {
+                "affirmativeEn": "My swimsuit is colorful",
+                "affirmativePt": "Minha roupa de banho é colorida",
+                "negativeEn": "My swimsuit is not colorful",
+                "negativePt": "Minha roupa de banho não é colorida",
+                "interrogativeEn": "Is your swimsuit colorful?",
+                "interrogativePt": "Sua roupa de banho é colorida?"
+            },
+            {
+                "affirmativeEn": "I need a new swimsuit",
+                "affirmativePt": "Eu preciso de uma roupa de banho nova",
+                "negativeEn": "I don't need a new swimsuit",
+                "negativePt": "Eu não preciso de uma roupa de banho nova",
+                "interrogativeEn": "Do you need a new swimsuit?",
+                "interrogativePt": "Você precisa de uma roupa de banho nova?"
+            }
+        ]
+    },
+    {
+        "en": "pockets",
+        "pt": "bolsos",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "Small pouches on clothing for carrying items",
+        "examples": [
+            {
+                "affirmativeEn": "My pants have deep pockets",
+                "affirmativePt": "Minhas calças têm bolsos profundos",
+                "negativeEn": "My pants don't have pockets",
+                "negativePt": "Minhas calças não têm bolsos",
+                "interrogativeEn": "Do your pants have pockets?",
+                "interrogativePt": "Suas calças têm bolsos?"
+            },
+            {
+                "affirmativeEn": "I put my keys in the pockets",
+                "affirmativePt": "Eu coloco minhas chaves nos bolsos",
+                "negativeEn": "I don't put my keys in the pockets",
+                "negativePt": "Eu não coloco minhas chaves nos bolsos",
+                "interrogativeEn": "Do you put your keys in the pockets?",
+                "interrogativePt": "Você coloca suas chaves nos bolsos?"
+            },
+            {
+                "affirmativeEn": "The dress has no pockets",
+                "affirmativePt": "O vestido não tem bolsos",
+                "negativeEn": "The dress has pockets",
+                "negativePt": "O vestido tem bolsos",
+                "interrogativeEn": "Does the dress have pockets?",
+                "interrogativePt": "O vestido tem bolsos?"
+            }
+        ]
+    },
+    {
+        "en": "tie clip",
+        "pt": "prendedor de gravata",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "An accessory that holds a tie in place",
+        "examples": [
+            {
+                "affirmativeEn": "He uses a tie clip at work",
+                "affirmativePt": "Ele usa um prendedor de gravata no trabalho",
+                "negativeEn": "He doesn't use a tie clip",
+                "negativePt": "Ele não usa prendedor de gravata",
+                "interrogativeEn": "Does he use a tie clip?",
+                "interrogativePt": "Ele usa prendedor de gravata?"
+            },
+            {
+                "affirmativeEn": "My tie clip is silver",
+                "affirmativePt": "Meu prendedor de gravata é de prata",
+                "negativeEn": "My tie clip is not silver",
+                "negativePt": "Meu prendedor de gravata não é de prata",
+                "interrogativeEn": "Is your tie clip silver?",
+                "interrogativePt": "Seu prendedor de gravata é de prata?"
+            },
+            {
+                "affirmativeEn": "I lost my tie clip",
+                "affirmativePt": "Eu perdi meu prendedor de gravata",
+                "negativeEn": "I didn't lose my tie clip",
+                "negativePt": "Eu não perdi meu prendedor de gravata",
+                "interrogativeEn": "Did you lose your tie clip?",
+                "interrogativePt": "Você perdeu seu prendedor de gravata?"
+            }
+        ]
+    },
+    {
+        "en": "cufflinks",
+        "pt": "abotoaduras",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "Decorative fasteners for shirt cuffs",
+        "examples": [
+            {
+                "affirmativeEn": "He wears gold cufflinks",
+                "affirmativePt": "Ele usa abotoaduras de ouro",
+                "negativeEn": "He doesn't wear gold cufflinks",
+                "negativePt": "Ele não usa abotoaduras de ouro",
+                "interrogativeEn": "Does he wear gold cufflinks?",
+                "interrogativePt": "Ele usa abotoaduras de ouro?"
+            },
+            {
+                "affirmativeEn": "My cufflinks are elegant",
+                "affirmativePt": "Minhas abotoaduras são elegantes",
+                "negativeEn": "My cufflinks are not elegant",
+                "negativePt": "Minhas abotoaduras não são elegantes",
+                "interrogativeEn": "Are your cufflinks elegant?",
+                "interrogativePt": "Suas abotoaduras são elegantes?"
+            },
+            {
+                "affirmativeEn": "I bought new cufflinks",
+                "affirmativePt": "Eu comprei abotoaduras novas",
+                "negativeEn": "I didn't buy new cufflinks",
+                "negativePt": "Eu não comprei abotoaduras novas",
+                "interrogativeEn": "Did you buy new cufflinks?",
+                "interrogativePt": "Você comprou abotoaduras novas?"
+            }
+        ]
+    },
+    {
+        "en": "brooch",
+        "pt": "broche",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "A decorative pin worn on clothing",
+        "examples": [
+            {
+                "affirmativeEn": "She wears a diamond brooch",
+                "affirmativePt": "Ela usa um broche de diamante",
+                "negativeEn": "She doesn't wear a diamond brooch",
+                "negativePt": "Ela não usa um broche de diamante",
+                "interrogativeEn": "Does she wear a diamond brooch?",
+                "interrogativePt": "Ela usa um broche de diamante?"
+            },
+            {
+                "affirmativeEn": "My brooch is vintage",
+                "affirmativePt": "Meu broche é vintage",
+                "negativeEn": "My brooch is not vintage",
+                "negativePt": "Meu broche não é vintage",
+                "interrogativeEn": "Is your brooch vintage?",
+                "interrogativePt": "Seu broche é vintage?"
+            },
+            {
+                "affirmativeEn": "I inherited this brooch",
+                "affirmativePt": "Eu herdei este broche",
+                "negativeEn": "I didn't inherit this brooch",
+                "negativePt": "Eu não herdei este broche",
+                "interrogativeEn": "Did you inherit this brooch?",
+                "interrogativePt": "Você herdou este broche?"
+            }
+        ]
+    },
+    {
+        "en": "suspenders",
+        "pt": "suspensório",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "Straps worn over the shoulders to hold up pants",
+        "examples": [
+            {
+                "affirmativeEn": "He wears red suspenders",
+                "affirmativePt": "Ele usa suspensório vermelho",
+                "negativeEn": "He doesn't wear suspenders",
+                "negativePt": "Ele não usa suspensório",
+                "interrogativeEn": "Does he wear suspenders?",
+                "interrogativePt": "Ele usa suspensório?"
+            },
+            {
+                "affirmativeEn": "My suspenders are comfortable",
+                "affirmativePt": "Meu suspensório é confortável",
+                "negativeEn": "My suspenders are not comfortable",
+                "negativePt": "Meu suspensório não é confortável",
+                "interrogativeEn": "Are your suspenders comfortable?",
+                "interrogativePt": "Seu suspensório é confortável?"
+            },
+            {
+                "affirmativeEn": "I need new suspenders",
+                "affirmativePt": "Eu preciso de um suspensório novo",
+                "negativeEn": "I don't need new suspenders",
+                "negativePt": "Eu não preciso de um suspensório novo",
+                "interrogativeEn": "Do you need new suspenders?",
+                "interrogativePt": "Você precisa de um suspensório novo?"
+            }
+        ]
+    },
+    {
+        "en": "scarf clip",
+        "pt": "prendedor de lenço",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "A small device to secure a scarf in place",
+        "examples": [
+            {
+                "affirmativeEn": "She uses a scarf clip",
+                "affirmativePt": "Ela usa um prendedor de lenço",
+                "negativeEn": "She doesn't use a scarf clip",
+                "negativePt": "Ela não usa prendedor de lenço",
+                "interrogativeEn": "Does she use a scarf clip?",
+                "interrogativePt": "Ela usa prendedor de lenço?"
+            },
+            {
+                "affirmativeEn": "My scarf clip is decorative",
+                "affirmativePt": "Meu prendedor de lenço é decorativo",
+                "negativeEn": "My scarf clip is not decorative",
+                "negativePt": "Meu prendedor de lenço não é decorativo",
+                "interrogativeEn": "Is your scarf clip decorative?",
+                "interrogativePt": "Seu prendedor de lenço é decorativo?"
+            },
+            {
+                "affirmativeEn": "I bought a new scarf clip",
+                "affirmativePt": "Eu comprei um prendedor de lenço novo",
+                "negativeEn": "I didn't buy a new scarf clip",
+                "negativePt": "Eu não comprei um prendedor de lenço novo",
+                "interrogativeEn": "Did you buy a new scarf clip?",
+                "interrogativePt": "Você comprou um prendedor de lenço novo?"
+            }
+        ]
+    },
+    {
+        "en": "beret",
+        "pt": "boina",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "A round flat-crowned hat",
+        "examples": [
+            {
+                "affirmativeEn": "She wears a black beret",
+                "affirmativePt": "Ela usa uma boina preta",
+                "negativeEn": "She doesn't wear a black beret",
+                "negativePt": "Ela não usa uma boina preta",
+                "interrogativeEn": "Does she wear a black beret?",
+                "interrogativePt": "Ela usa uma boina preta?"
+            },
+            {
+                "affirmativeEn": "My beret is fashionable",
+                "affirmativePt": "Minha boina é na moda",
+                "negativeEn": "My beret is not fashionable",
+                "negativePt": "Minha boina não é na moda",
+                "interrogativeEn": "Is your beret fashionable?",
+                "interrogativePt": "Sua boina é na moda?"
+            },
+            {
+                "affirmativeEn": "I lost my beret",
+                "affirmativePt": "Eu perdi minha boina",
+                "negativeEn": "I didn't lose my beret",
+                "negativePt": "Eu não perdi minha boina",
+                "interrogativeEn": "Did you lose your beret?",
+                "interrogativePt": "Você perdeu sua boina?"
+            }
+        ]
+    },
+    {
+        "en": "headband",
+        "pt": "fita de cabeça",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "A band worn around the head",
+        "examples": [
+            {
+                "affirmativeEn": "He wears a headband while exercising",
+                "affirmativePt": "Ele usa uma fita de cabeça enquanto se exercita",
+                "negativeEn": "He doesn't wear a headband",
+                "negativePt": "Ele não usa uma fita de cabeça",
+                "interrogativeEn": "Does he wear a headband?",
+                "interrogativePt": "Ele usa uma fita de cabeça?"
+            },
+            {
+                "affirmativeEn": "My headband is comfortable",
+                "affirmativePt": "Minha fita de cabeça é confortável",
+                "negativeEn": "My headband is not comfortable",
+                "negativePt": "Minha fita de cabeça não é confortável",
+                "interrogativeEn": "Is your headband comfortable?",
+                "interrogativePt": "Sua fita de cabeça é confortável?"
+            },
+            {
+                "affirmativeEn": "I need a new headband",
+                "affirmativePt": "Eu preciso de uma fita de cabeça nova",
+                "negativeEn": "I don't need a new headband",
+                "negativePt": "Eu não preciso de uma fita de cabeça nova",
+                "interrogativeEn": "Do you need a new headband?",
+                "interrogativePt": "Você precisa de uma fita de cabeça nova?"
+            }
+        ]
+    },
+    {
+        "en": "bow tie",
+        "pt": "gravata borboleta",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "A type of necktie tied in a bow shape",
+        "examples": [
+            {
+                "affirmativeEn": "He wears a bow tie to formal events",
+                "affirmativePt": "Ele usa uma gravata borboleta em eventos formais",
+                "negativeEn": "He doesn't wear a bow tie",
+                "negativePt": "Ele não usa uma gravata borboleta",
+                "interrogativeEn": "Does he wear a bow tie?",
+                "interrogativePt": "Ele usa uma gravata borboleta?"
+            },
+            {
+                "affirmativeEn": "My bow tie is silk",
+                "affirmativePt": "Minha gravata borboleta é de seda",
+                "negativeEn": "My bow tie is not silk",
+                "negativePt": "Minha gravata borboleta não é de seda",
+                "interrogativeEn": "Is your bow tie silk?",
+                "interrogativePt": "Sua gravata borboleta é de seda?"
+            },
+            {
+                "affirmativeEn": "I bought a new bow tie",
+                "affirmativePt": "Eu comprei uma gravata borboleta nova",
+                "negativeEn": "I didn't buy a new bow tie",
+                "negativePt": "Eu não comprei uma gravata borboleta nova",
+                "interrogativeEn": "Did you buy a new bow tie?",
+                "interrogativePt": "Você comprou uma gravata borboleta nova?"
+            }
+        ]
+    },
+    {
+        "en": "ascot",
+        "pt": "ascote",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "A type of cravat worn as formal daywear",
+        "examples": [
+            {
+                "affirmativeEn": "He wears an ascot to the race",
+                "affirmativePt": "Ele usa um ascote na corrida",
+                "negativeEn": "He doesn't wear an ascot",
+                "negativePt": "Ele não usa um ascote",
+                "interrogativeEn": "Does he wear an ascot?",
+                "interrogativePt": "Ele usa um ascote?"
+            },
+            {
+                "affirmativeEn": "My ascot is elegant",
+                "affirmativePt": "Meu ascote é elegante",
+                "negativeEn": "My ascot is not elegant",
+                "negativePt": "Meu ascote não é elegante",
+                "interrogativeEn": "Is your ascot elegant?",
+                "interrogativePt": "Seu ascote é elegante?"
+            },
+            {
+                "affirmativeEn": "I bought a silk ascot",
+                "affirmativePt": "Eu comprei um ascote de seda",
+                "negativeEn": "I didn't buy a silk ascot",
+                "negativePt": "Eu não comprei um ascote de seda",
+                "interrogativeEn": "Did you buy a silk ascot?",
+                "interrogativePt": "Você comprou um ascote de seda?"
+            }
+        ]
+    },
+    {
+        "en": "ankle boots",
+        "pt": "botinhas",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "Boots that cover the ankle",
+        "examples": [
+            {
+                "affirmativeEn": "She wears ankle boots in fall",
+                "affirmativePt": "Ela usa botinhas no outono",
+                "negativeEn": "She doesn't wear ankle boots",
+                "negativePt": "Ela não usa botinhas",
+                "interrogativeEn": "Does she wear ankle boots?",
+                "interrogativePt": "Ela usa botinhas?"
+            },
+            {
+                "affirmativeEn": "My ankle boots are black",
+                "affirmativePt": "Minhas botinhas são pretas",
+                "negativeEn": "My ankle boots are not black",
+                "negativePt": "Minhas botinhas não são pretas",
+                "interrogativeEn": "Are your ankle boots black?",
+                "interrogativePt": "Suas botinhas são pretas?"
+            },
+            {
+                "affirmativeEn": "I need new ankle boots",
+                "affirmativePt": "Eu preciso de botinhas novas",
+                "negativeEn": "I don't need new ankle boots",
+                "negativePt": "Eu não preciso de botinhas novas",
+                "interrogativeEn": "Do you need new ankle boots?",
+                "interrogativePt": "Você precisa de botinhas novas?"
+            }
+        ]
+    },
+    {
+        "en": "loafers",
+        "pt": "sapatos mocassim",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "A type of low-heeled step-in shoe",
+        "examples": [
+            {
+                "affirmativeEn": "He wears loafers to work",
+                "affirmativePt": "Ele usa sapatos mocassim para o trabalho",
+                "negativeEn": "He doesn't wear loafers",
+                "negativePt": "Ele não usa sapatos mocassim",
+                "interrogativeEn": "Does he wear loafers?",
+                "interrogativePt": "Ele usa sapatos mocassim?"
+            },
+            {
+                "affirmativeEn": "My loafers are comfortable",
+                "affirmativePt": "Meus sapatos mocassim são confortáveis",
+                "negativeEn": "My loafers are not comfortable",
+                "negativePt": "Meus sapatos mocassim não são confortáveis",
+                "interrogativeEn": "Are your loafers comfortable?",
+                "interrogativePt": "Seus sapatos mocassim são confortáveis?"
+            },
+            {
+                "affirmativeEn": "I bought new loafers",
+                "affirmativePt": "Eu comprei sapatos mocassim novos",
+                "negativeEn": "I didn't buy new loafers",
+                "negativePt": "Eu não comprei sapatos mocassim novos",
+                "interrogativeEn": "Did you buy new loafers?",
+                "interrogativePt": "Você comprou sapatos mocassim novos?"
+            }
+        ]
+    },
+    {
+        "en": "sneakers",
+        "pt": "tênis",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "Comfortable athletic shoes",
+        "examples": [
+            {
+                "affirmativeEn": "I wear sneakers for sports",
+                "affirmativePt": "Eu uso tênis para esportes",
+                "negativeEn": "I don't wear sneakers",
+                "negativePt": "Eu não uso tênis",
+                "interrogativeEn": "Do you wear sneakers?",
+                "interrogativePt": "Você usa tênis?"
+            },
+            {
+                "affirmativeEn": "My sneakers are white",
+                "affirmativePt": "Meus tênis são brancos",
+                "negativeEn": "My sneakers are not white",
+                "negativePt": "Meus tênis não são brancos",
+                "interrogativeEn": "Are your sneakers white?",
+                "interrogativePt": "Seus tênis são brancos?"
+            },
+            {
+                "affirmativeEn": "She bought new sneakers",
+                "affirmativePt": "Ela comprou tênis novos",
+                "negativeEn": "She didn't buy new sneakers",
+                "negativePt": "Ela não comprou tênis novos",
+                "interrogativeEn": "Did she buy new sneakers?",
+                "interrogativePt": "Ela comprou tênis novos?"
+            }
+        ]
+    },
+    {
+        "en": "boxers",
+        "pt": "cueca",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "Men's underwear",
+        "examples": [
+            {
+                "affirmativeEn": "He wears boxers",
+                "affirmativePt": "Ele usa cueca",
+                "negativeEn": "He doesn't wear boxers",
+                "negativePt": "Ele não usa cueca",
+                "interrogativeEn": "Does he wear boxers?",
+                "interrogativePt": "Ele usa cueca?"
+            },
+            {
+                "affirmativeEn": "My boxers are comfortable",
+                "affirmativePt": "Minha cueca é confortável",
+                "negativeEn": "My boxers are not comfortable",
+                "negativePt": "Minha cueca não é confortável",
+                "interrogativeEn": "Are your boxers comfortable?",
+                "interrogativePt": "Sua cueca é confortável?"
+            },
+            {
+                "affirmativeEn": "I need new boxers",
+                "affirmativePt": "Eu preciso de cuecas novas",
+                "negativeEn": "I don't need new boxers",
+                "negativePt": "Eu não preciso de cuecas novas",
+                "interrogativeEn": "Do you need new boxers?",
+                "interrogativePt": "Você precisa de cuecas novas?"
+            }
+        ]
+    },
+    {
+        "en": "panties",
+        "pt": "calcinha",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "Women's underwear",
+        "examples": [
+            {
+                "affirmativeEn": "She wears cotton panties",
+                "affirmativePt": "Ela usa calcinha de algodão",
+                "negativeEn": "She doesn't wear cotton panties",
+                "negativePt": "Ela não usa calcinha de algodão",
+                "interrogativeEn": "Does she wear cotton panties?",
+                "interrogativePt": "Ela usa calcinha de algodão?"
+            },
+            {
+                "affirmativeEn": "My panties are comfortable",
+                "affirmativePt": "Minha calcinha é confortável",
+                "negativeEn": "My panties are not comfortable",
+                "negativePt": "Minha calcinha não é confortável",
+                "interrogativeEn": "Are your panties comfortable?",
+                "interrogativePt": "Sua calcinha é confortável?"
+            },
+            {
+                "affirmativeEn": "I bought new panties",
+                "affirmativePt": "Eu comprei calcinhas novas",
+                "negativeEn": "I didn't buy new panties",
+                "negativePt": "Eu não comprei calcinhas novas",
+                "interrogativeEn": "Did you buy new panties?",
+                "interrogativePt": "Você comprou calcinhas novas?"
+            }
+        ]
+    },
+    {
+        "en": "bra",
+        "pt": "sutiã",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "Women's undergarment supporting the breasts",
+        "examples": [
+            {
+                "affirmativeEn": "She wears a comfortable bra",
+                "affirmativePt": "Ela usa um sutiã confortável",
+                "negativeEn": "She doesn't wear a comfortable bra",
+                "negativePt": "Ela não usa um sutiã confortável",
+                "interrogativeEn": "Does she wear a comfortable bra?",
+                "interrogativePt": "Ela usa um sutiã confortável?"
+            },
+            {
+                "affirmativeEn": "My bra is white",
+                "affirmativePt": "Meu sutiã é branco",
+                "negativeEn": "My bra is not white",
+                "negativePt": "Meu sutiã não é branco",
+                "interrogativeEn": "Is your bra white?",
+                "interrogativePt": "Seu sutiã é branco?"
+            },
+            {
+                "affirmativeEn": "I need a new bra",
+                "affirmativePt": "Eu preciso de um sutiã novo",
+                "negativeEn": "I don't need a new bra",
+                "negativePt": "Eu não preciso de um sutiã novo",
+                "interrogativeEn": "Do you need a new bra?",
+                "interrogativePt": "Você precisa de um sutiã novo?"
+            }
+        ]
+    },
+    {
+        "en": "undershirt",
+        "pt": "camiseta interior",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "A light shirt worn under clothing",
+        "examples": [
+            {
+                "affirmativeEn": "He wears an undershirt",
+                "affirmativePt": "Ele usa uma camiseta interior",
+                "negativeEn": "He doesn't wear an undershirt",
+                "negativePt": "Ele não usa uma camiseta interior",
+                "interrogativeEn": "Does he wear an undershirt?",
+                "interrogativePt": "Ele usa uma camiseta interior?"
+            },
+            {
+                "affirmativeEn": "My undershirt is white",
+                "affirmativePt": "Minha camiseta interior é branca",
+                "negativeEn": "My undershirt is not white",
+                "negativePt": "Minha camiseta interior não é branca",
+                "interrogativeEn": "Is your undershirt white?",
+                "interrogativePt": "Sua camiseta interior é branca?"
+            },
+            {
+                "affirmativeEn": "I need new undershirts",
+                "affirmativePt": "Eu preciso de camisetas interiores novas",
+                "negativeEn": "I don't need new undershirts",
+                "negativePt": "Eu não preciso de camisetas interiores novas",
+                "interrogativeEn": "Do you need new undershirts?",
+                "interrogativePt": "Você precisa de camisetas interiores novas?"
+            }
+        ]
+    },
+    {
+        "en": "tank top",
+        "pt": "regata",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "A sleeveless shirt with thin straps",
+        "examples": [
+            {
+                "affirmativeEn": "She wears a tank top in summer",
+                "affirmativePt": "Ela usa uma regata no verão",
+                "negativeEn": "She doesn't wear a tank top",
+                "negativePt": "Ela não usa uma regata",
+                "interrogativeEn": "Does she wear a tank top?",
+                "interrogativePt": "Ela usa uma regata?"
+            },
+            {
+                "affirmativeEn": "My tank top is blue",
+                "affirmativePt": "Minha regata é azul",
+                "negativeEn": "My tank top is not blue",
+                "negativePt": "Minha regata não é azul",
+                "interrogativeEn": "Is your tank top blue?",
+                "interrogativePt": "Sua regata é azul?"
+            },
+            {
+                "affirmativeEn": "I bought new tank tops",
+                "affirmativePt": "Eu comprei regatas novas",
+                "negativeEn": "I didn't buy new tank tops",
+                "negativePt": "Eu não comprei regatas novas",
+                "interrogativeEn": "Did you buy new tank tops?",
+                "interrogativePt": "Você comprou regatas novas?"
+            }
+        ]
+    },
+    {
+        "en": "leggings",
+        "pt": "legging",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "Tight-fitting pants usually made of stretchy material",
+        "examples": [
+            {
+                "affirmativeEn": "She wears black leggings",
+                "affirmativePt": "Ela usa legging preto",
+                "negativeEn": "She doesn't wear black leggings",
+                "negativePt": "Ela não usa legging preto",
+                "interrogativeEn": "Does she wear black leggings?",
+                "interrogativePt": "Ela usa legging preto?"
+            },
+            {
+                "affirmativeEn": "My leggings are comfortable",
+                "affirmativePt": "Meus leggings são confortáveis",
+                "negativeEn": "My leggings are not comfortable",
+                "negativePt": "Meus leggings não são confortáveis",
+                "interrogativeEn": "Are your leggings comfortable?",
+                "interrogativePt": "Seus leggings são confortáveis?"
+            },
+            {
+                "affirmativeEn": "I need new leggings",
+                "affirmativePt": "Eu preciso de leggings novos",
+                "negativeEn": "I don't need new leggings",
+                "negativePt": "Eu não preciso de leggings novos",
+                "interrogativeEn": "Do you need new leggings?",
+                "interrogativePt": "Você precisa de leggings novos?"
+            }
+        ]
+    },
+    {
+        "en": "trench coat",
+        "pt": "gabardina",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "A long, loose-fitting waterproof coat",
+        "examples": [
+            {
+                "affirmativeEn": "She wears a trench coat",
+                "affirmativePt": "Ela usa uma gabardina",
+                "negativeEn": "She doesn't wear a trench coat",
+                "negativePt": "Ela não usa uma gabardina",
+                "interrogativeEn": "Does she wear a trench coat?",
+                "interrogativePt": "Ela usa uma gabardina?"
+            },
+            {
+                "affirmativeEn": "My trench coat is beige",
+                "affirmativePt": "Minha gabardina é bege",
+                "negativeEn": "My trench coat is not beige",
+                "negativePt": "Minha gabardina não é bege",
+                "interrogativeEn": "Is your trench coat beige?",
+                "interrogativePt": "Sua gabardina é bege?"
+            },
+            {
+                "affirmativeEn": "I need a new trench coat",
+                "affirmativePt": "Eu preciso de uma gabardina nova",
+                "negativeEn": "I don't need a new trench coat",
+                "negativePt": "Eu não preciso de uma gabardina nova",
+                "interrogativeEn": "Do you need a new trench coat?",
+                "interrogativePt": "Você precisa de uma gabardina nova?"
+            }
+        ]
+    },
+    {
+        "en": "poncho",
+        "pt": "poncho",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "A type of cloak-like garment with a hole for the head",
+        "examples": [
+            {
+                "affirmativeEn": "He wears a wool poncho",
+                "affirmativePt": "Ele usa um poncho de lã",
+                "negativeEn": "He doesn't wear a wool poncho",
+                "negativePt": "Ele não usa um poncho de lã",
+                "interrogativeEn": "Does he wear a wool poncho?",
+                "interrogativePt": "Ele usa um poncho de lã?"
+            },
+            {
+                "affirmativeEn": "My poncho is colorful",
+                "affirmativePt": "Meu poncho é colorido",
+                "negativeEn": "My poncho is not colorful",
+                "negativePt": "Meu poncho não é colorido",
+                "interrogativeEn": "Is your poncho colorful?",
+                "interrogativePt": "Seu poncho é colorido?"
+            },
+            {
+                "affirmativeEn": "I bought a new poncho",
+                "affirmativePt": "Eu comprei um poncho novo",
+                "negativeEn": "I didn't buy a new poncho",
+                "negativePt": "Eu não comprei um poncho novo",
+                "interrogativeEn": "Did you buy a new poncho?",
+                "interrogativePt": "Você comprou um poncho novo?"
+            }
+        ]
+    },
+    {
+        "en": "kimono",
+        "pt": "quimono",
+        "partOfSpeech": "noun",
+        "category": "clothes-accessories",
+        "description": "A traditional Japanese garment with wide sleeves",
+        "examples": [
+            {
+                "affirmativeEn": "She wears a silk kimono",
+                "affirmativePt": "Ela usa um quimono de seda",
+                "negativeEn": "She doesn't wear a silk kimono",
+                "negativePt": "Ela não usa um quimono de seda",
+                "interrogativeEn": "Does she wear a silk kimono?",
+                "interrogativePt": "Ela usa um quimono de seda?"
+            },
+            {
+                "affirmativeEn": "My kimono is beautiful",
+                "affirmativePt": "Meu quimono é bonito",
+                "negativeEn": "My kimono is not beautiful",
+                "negativePt": "Meu quimono não é bonito",
+                "interrogativeEn": "Is your kimono beautiful?",
+                "interrogativePt": "Seu quimono é bonito?"
+            },
+            {
+                "affirmativeEn": "I inherited a kimono",
+                "affirmativePt": "Eu herdei um quimono",
+                "negativeEn": "I didn't inherit a kimono",
+                "negativePt": "Eu não herdei um quimono",
+                "interrogativeEn": "Did you inherit a kimono?",
+                "interrogativePt": "Você herdou um quimono?"
+            }
+        ]
+    }
+]

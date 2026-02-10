@@ -1,0 +1,761 @@
+[
+    {
+        "en": "bedroom",
+        "pt": "quarto",
+        "partOfSpeech": "noun",
+        "category": "house-rooms",
+        "description": "A room used for sleeping",
+        "examples": [
+            {
+                "affirmativeEn": "I sleep in the bedroom",
+                "affirmativePt": "Eu durmo no quarto",
+                "negativeEn": "I don't sleep in the bedroom",
+                "negativePt": "Eu não durmo no quarto",
+                "interrogativeEn": "Do you sleep in the bedroom?",
+                "interrogativePt": "Você dorme no quarto?"
+            },
+            {
+                "affirmativeEn": "The bedroom is comfortable",
+                "affirmativePt": "O quarto é confortável",
+                "negativeEn": "The bedroom is not comfortable",
+                "negativePt": "O quarto não é confortável",
+                "interrogativeEn": "Is the bedroom comfortable?",
+                "interrogativePt": "O quarto é confortável?"
+            },
+            {
+                "affirmativeEn": "My bedroom has a window",
+                "affirmativePt": "Meu quarto tem uma janela",
+                "negativeEn": "My bedroom doesn't have a window",
+                "negativePt": "Meu quarto não tem uma janela",
+                "interrogativeEn": "Does your bedroom have a window?",
+                "interrogativePt": "Seu quarto tem uma janela?"
+            }
+        ]
+    },
+    {
+        "en": "kitchen",
+        "pt": "cozinha",
+        "partOfSpeech": "noun",
+        "category": "house-rooms",
+        "description": "A room where food is prepared and cooked",
+        "examples": [
+            {
+                "affirmativeEn": "We cook in the kitchen",
+                "affirmativePt": "Nós cozinhamos na cozinha",
+                "negativeEn": "We don't cook in the kitchen",
+                "negativePt": "Nós não cozinhamos na cozinha",
+                "interrogativeEn": "Do you cook in the kitchen?",
+                "interrogativePt": "Você cozinha na cozinha?"
+            },
+            {
+                "affirmativeEn": "The kitchen is clean",
+                "affirmativePt": "A cozinha está limpa",
+                "negativeEn": "The kitchen is not clean",
+                "negativePt": "A cozinha não está limpa",
+                "interrogativeEn": "Is the kitchen clean?",
+                "interrogativePt": "A cozinha está limpa?"
+            },
+            {
+                "affirmativeEn": "She prepares breakfast in the kitchen",
+                "affirmativePt": "Ela prepara o café da manhã na cozinha",
+                "negativeEn": "She doesn't prepare breakfast in the kitchen",
+                "negativePt": "Ela não prepara o café da manhã na cozinha",
+                "interrogativeEn": "Does she prepare breakfast in the kitchen?",
+                "interrogativePt": "Ela prepara o café da manhã na cozinha?"
+            }
+        ]
+    },
+    {
+        "en": "living room",
+        "pt": "sala de estar",
+        "partOfSpeech": "noun",
+        "category": "house-rooms",
+        "description": "A room for relaxing and social gathering",
+        "examples": [
+            {
+                "affirmativeEn": "I watch TV in the living room",
+                "affirmativePt": "Eu assisto TV na sala de estar",
+                "negativeEn": "I don't watch TV in the living room",
+                "negativePt": "Eu não assisto TV na sala de estar",
+                "interrogativeEn": "Do you watch TV in the living room?",
+                "interrogativePt": "Você assiste TV na sala de estar?"
+            },
+            {
+                "affirmativeEn": "The living room is spacious",
+                "affirmativePt": "A sala de estar é espaçosa",
+                "negativeEn": "The living room is not spacious",
+                "negativePt": "A sala de estar não é espaçosa",
+                "interrogativeEn": "Is the living room spacious?",
+                "interrogativePt": "A sala de estar é espaçosa?"
+            },
+            {
+                "affirmativeEn": "We relax in the living room",
+                "affirmativePt": "Nós relaxamos na sala de estar",
+                "negativeEn": "We don't relax in the living room",
+                "negativePt": "Nós não relaxamos na sala de estar",
+                "interrogativeEn": "Do you relax in the living room?",
+                "interrogativePt": "Você relaxa na sala de estar?"
+            }
+        ]
+    },
+    {
+        "en": "bathroom",
+        "pt": "banheiro",
+        "partOfSpeech": "noun",
+        "category": "house-rooms",
+        "description": "A room with toilet and washing facilities",
+        "examples": [
+            {
+                "affirmativeEn": "I shower in the bathroom",
+                "affirmativePt": "Eu tomo banho no banheiro",
+                "negativeEn": "I don't shower in the bathroom",
+                "negativePt": "Eu não tomo banho no banheiro",
+                "interrogativeEn": "Do you shower in the bathroom?",
+                "interrogativePt": "Você toma banho no banheiro?"
+            },
+            {
+                "affirmativeEn": "The bathroom is modern",
+                "affirmativePt": "O banheiro é moderno",
+                "negativeEn": "The bathroom is not modern",
+                "negativePt": "O banheiro não é moderno",
+                "interrogativeEn": "Is the bathroom modern?",
+                "interrogativePt": "O banheiro é moderno?"
+            },
+            {
+                "affirmativeEn": "She brushes her teeth in the bathroom",
+                "affirmativePt": "Ela escova os dentes no banheiro",
+                "negativeEn": "She doesn't brush her teeth in the bathroom",
+                "negativePt": "Ela não escova os dentes no banheiro",
+                "interrogativeEn": "Does she brush her teeth in the bathroom?",
+                "interrogativePt": "Ela escova os dentes no banheiro?"
+            }
+        ]
+    },
+    {
+        "en": "dining room",
+        "pt": "sala de jantar",
+        "partOfSpeech": "noun",
+        "category": "house-rooms",
+        "description": "A room where meals are eaten",
+        "examples": [
+            {
+                "affirmativeEn": "We eat dinner in the dining room",
+                "affirmativePt": "Nós comemos janta na sala de jantar",
+                "negativeEn": "We don't eat dinner in the dining room",
+                "negativePt": "Nós não comemos janta na sala de jantar",
+                "interrogativeEn": "Do you eat dinner in the dining room?",
+                "interrogativePt": "Você come janta na sala de jantar?"
+            },
+            {
+                "affirmativeEn": "The dining room has a large table",
+                "affirmativePt": "A sala de jantar tem uma mesa grande",
+                "negativeEn": "The dining room doesn't have a large table",
+                "negativePt": "A sala de jantar não tem uma mesa grande",
+                "interrogativeEn": "Does the dining room have a large table?",
+                "interrogativePt": "A sala de jantar tem uma mesa grande?"
+            },
+            {
+                "affirmativeEn": "I set the table in the dining room",
+                "affirmativePt": "Eu coloco a mesa na sala de jantar",
+                "negativeEn": "I don't set the table in the dining room",
+                "negativePt": "Eu não coloco a mesa na sala de jantar",
+                "interrogativeEn": "Do you set the table in the dining room?",
+                "interrogativePt": "Você coloca a mesa na sala de jantar?"
+            }
+        ]
+    },
+    {
+        "en": "office",
+        "pt": "escritório",
+        "partOfSpeech": "noun",
+        "category": "house-rooms",
+        "description": "A room used for work or study",
+        "examples": [
+            {
+                "affirmativeEn": "I work in the office",
+                "affirmativePt": "Eu trabalho no escritório",
+                "negativeEn": "I don't work in the office",
+                "negativePt": "Eu não trabalho no escritório",
+                "interrogativeEn": "Do you work in the office?",
+                "interrogativePt": "Você trabalha no escritório?"
+            },
+            {
+                "affirmativeEn": "The office is quiet",
+                "affirmativePt": "O escritório é silencioso",
+                "negativeEn": "The office is not quiet",
+                "negativePt": "O escritório não é silencioso",
+                "interrogativeEn": "Is the office quiet?",
+                "interrogativePt": "O escritório é silencioso?"
+            },
+            {
+                "affirmativeEn": "She studies in the office",
+                "affirmativePt": "Ela estuda no escritório",
+                "negativeEn": "She doesn't study in the office",
+                "negativePt": "Ela não estuda no escritório",
+                "interrogativeEn": "Does she study in the office?",
+                "interrogativePt": "Ela estuda no escritório?"
+            }
+        ]
+    },
+    {
+        "en": "garage",
+        "pt": "garagem",
+        "partOfSpeech": "noun",
+        "category": "house-rooms",
+        "description": "A building or room for parking vehicles",
+        "examples": [
+            {
+                "affirmativeEn": "The car is in the garage",
+                "affirmativePt": "O carro está na garagem",
+                "negativeEn": "The car is not in the garage",
+                "negativePt": "O carro não está na garagem",
+                "interrogativeEn": "Is the car in the garage?",
+                "interrogativePt": "O carro está na garagem?"
+            },
+            {
+                "affirmativeEn": "I park my car in the garage",
+                "affirmativePt": "Eu estaciono meu carro na garagem",
+                "negativeEn": "I don't park my car in the garage",
+                "negativePt": "Eu não estaciono meu carro na garagem",
+                "interrogativeEn": "Do you park your car in the garage?",
+                "interrogativePt": "Você estaciona seu carro na garagem?"
+            },
+            {
+                "affirmativeEn": "The garage is spacious",
+                "affirmativePt": "A garagem é espaçosa",
+                "negativeEn": "The garage is not spacious",
+                "negativePt": "A garagem não é espaçosa",
+                "interrogativeEn": "Is the garage spacious?",
+                "interrogativePt": "A garagem é espaçosa?"
+            }
+        ]
+    },
+    {
+        "en": "basement",
+        "pt": "porão",
+        "partOfSpeech": "noun",
+        "category": "house-rooms",
+        "description": "A floor of a building below ground level",
+        "examples": [
+            {
+                "affirmativeEn": "We store things in the basement",
+                "affirmativePt": "Nós armazenamos coisas no porão",
+                "negativeEn": "We don't store things in the basement",
+                "negativePt": "Nós não armazenamos coisas no porão",
+                "interrogativeEn": "Do you store things in the basement?",
+                "interrogativePt": "Você armazena coisas no porão?"
+            },
+            {
+                "affirmativeEn": "The basement is dark",
+                "affirmativePt": "O porão é escuro",
+                "negativeEn": "The basement is not dark",
+                "negativePt": "O porão não é escuro",
+                "interrogativeEn": "Is the basement dark?",
+                "interrogativePt": "O porão é escuro?"
+            },
+            {
+                "affirmativeEn": "He works in the basement",
+                "affirmativePt": "Ele trabalha no porão",
+                "negativeEn": "He doesn't work in the basement",
+                "negativePt": "Ele não trabalha no porão",
+                "interrogativeEn": "Does he work in the basement?",
+                "interrogativePt": "Ele trabalha no porão?"
+            }
+        ]
+    },
+    {
+        "en": "attic",
+        "pt": "sótão",
+        "partOfSpeech": "noun",
+        "category": "house-rooms",
+        "description": "A room or space directly below the roof",
+        "examples": [
+            {
+                "affirmativeEn": "I store old things in the attic",
+                "affirmativePt": "Eu armazeno coisas antigas no sótão",
+                "negativeEn": "I don't store old things in the attic",
+                "negativePt": "Eu não armazeno coisas antigas no sótão",
+                "interrogativeEn": "Do you store old things in the attic?",
+                "interrogativePt": "Você armazena coisas antigas no sótão?"
+            },
+            {
+                "affirmativeEn": "The attic is dusty",
+                "affirmativePt": "O sótão é empoeirado",
+                "negativeEn": "The attic is not dusty",
+                "negativePt": "O sótão não é empoeirado",
+                "interrogativeEn": "Is the attic dusty?",
+                "interrogativePt": "O sótão é empoeirado?"
+            },
+            {
+                "affirmativeEn": "She explores the attic",
+                "affirmativePt": "Ela explora o sótão",
+                "negativeEn": "She doesn't explore the attic",
+                "negativePt": "Ela não explora o sótão",
+                "interrogativeEn": "Does she explore the attic?",
+                "interrogativePt": "Ela explora o sótão?"
+            }
+        ]
+    },
+    {
+        "en": "laundry room",
+        "pt": "sala de lavar roupas",
+        "partOfSpeech": "noun",
+        "category": "house-rooms",
+        "description": "A room for washing and drying clothes",
+        "examples": [
+            {
+                "affirmativeEn": "I wash clothes in the laundry room",
+                "affirmativePt": "Eu lavo roupas na sala de lavar roupas",
+                "negativeEn": "I don't wash clothes in the laundry room",
+                "negativePt": "Eu não lavo roupas na sala de lavar roupas",
+                "interrogativeEn": "Do you wash clothes in the laundry room?",
+                "interrogativePt": "Você lava roupas na sala de lavar roupas?"
+            },
+            {
+                "affirmativeEn": "The laundry room has a washer and dryer",
+                "affirmativePt": "A sala de lavar roupas tem uma máquina de lavar e secar",
+                "negativeEn": "The laundry room doesn't have a washer and dryer",
+                "negativePt": "A sala de lavar roupas não tem uma máquina de lavar e secar",
+                "interrogativeEn": "Does the laundry room have a washer and dryer?",
+                "interrogativePt": "A sala de lavar roupas tem uma máquina de lavar e secar?"
+            },
+            {
+                "affirmativeEn": "She irons clothes in the laundry room",
+                "affirmativePt": "Ela passa roupas na sala de lavar roupas",
+                "negativeEn": "She doesn't iron clothes in the laundry room",
+                "negativePt": "Ela não passa roupas na sala de lavar roupas",
+                "interrogativeEn": "Does she iron clothes in the laundry room?",
+                "interrogativePt": "Ela passa roupas na sala de lavar roupas?"
+            }
+        ]
+    },
+    {
+        "en": "hallway",
+        "pt": "corredor",
+        "partOfSpeech": "noun",
+        "category": "house-rooms",
+        "description": "A passage or corridor in a building",
+        "examples": [
+            {
+                "affirmativeEn": "The hallway is long",
+                "affirmativePt": "O corredor é longo",
+                "negativeEn": "The hallway is not long",
+                "negativePt": "O corredor não é longo",
+                "interrogativeEn": "Is the hallway long?",
+                "interrogativePt": "O corredor é longo?"
+            },
+            {
+                "affirmativeEn": "I walk through the hallway",
+                "affirmativePt": "Eu caminho pelo corredor",
+                "negativeEn": "I don't walk through the hallway",
+                "negativePt": "Eu não caminho pelo corredor",
+                "interrogativeEn": "Do you walk through the hallway?",
+                "interrogativePt": "Você caminha pelo corredor?"
+            },
+            {
+                "affirmativeEn": "The hallway has pictures on the walls",
+                "affirmativePt": "O corredor tem quadros nas paredes",
+                "negativeEn": "The hallway doesn't have pictures on the walls",
+                "negativePt": "O corredor não tem quadros nas paredes",
+                "interrogativeEn": "Does the hallway have pictures on the walls?",
+                "interrogativePt": "O corredor tem quadros nas paredes?"
+            }
+        ]
+    },
+    {
+        "en": "porch",
+        "pt": "varanda",
+        "partOfSpeech": "noun",
+        "category": "house-rooms",
+        "description": "An entrance to a building with a roof",
+        "examples": [
+            {
+                "affirmativeEn": "We sit on the porch",
+                "affirmativePt": "Nós sentamos na varanda",
+                "negativeEn": "We don't sit on the porch",
+                "negativePt": "Nós não sentamos na varanda",
+                "interrogativeEn": "Do you sit on the porch?",
+                "interrogativePt": "Você senta na varanda?"
+            },
+            {
+                "affirmativeEn": "The porch is decorated",
+                "affirmativePt": "A varanda é decorada",
+                "negativeEn": "The porch is not decorated",
+                "negativePt": "A varanda não é decorada",
+                "interrogativeEn": "Is the porch decorated?",
+                "interrogativePt": "A varanda é decorada?"
+            },
+            {
+                "affirmativeEn": "I relax on the porch in the evening",
+                "affirmativePt": "Eu relaxo na varanda à noite",
+                "negativeEn": "I don't relax on the porch in the evening",
+                "negativePt": "Eu não relaxo na varanda à noite",
+                "interrogativeEn": "Do you relax on the porch in the evening?",
+                "interrogativePt": "Você relaxa na varanda à noite?"
+            }
+        ]
+    },
+    {
+        "en": "closet",
+        "pt": "armário",
+        "partOfSpeech": "noun",
+        "category": "house-rooms",
+        "description": "A small room for storing clothes or items",
+        "examples": [
+            {
+                "affirmativeEn": "I keep my clothes in the closet",
+                "affirmativePt": "Eu guardo minhas roupas no armário",
+                "negativeEn": "I don't keep my clothes in the closet",
+                "negativePt": "Eu não guardo minhas roupas no armário",
+                "interrogativeEn": "Do you keep your clothes in the closet?",
+                "interrogativePt": "Você guarda suas roupas no armário?"
+            },
+            {
+                "affirmativeEn": "The closet is organized",
+                "affirmativePt": "O armário é organizado",
+                "negativeEn": "The closet is not organized",
+                "negativePt": "O armário não é organizado",
+                "interrogativeEn": "Is the closet organized?",
+                "interrogativePt": "O armário é organizado?"
+            },
+            {
+                "affirmativeEn": "She hangs her jacket in the closet",
+                "affirmativePt": "Ela pendura sua jaqueta no armário",
+                "negativeEn": "She doesn't hang her jacket in the closet",
+                "negativePt": "Ela não pendura sua jaqueta no armário",
+                "interrogativeEn": "Does she hang her jacket in the closet?",
+                "interrogativePt": "Ela pendura sua jaqueta no armário?"
+            }
+        ]
+    },
+    {
+        "en": "pantry",
+        "pt": "despensa",
+        "partOfSpeech": "noun",
+        "category": "house-rooms",
+        "description": "A small room or cupboard for storing food",
+        "examples": [
+            {
+                "affirmativeEn": "I store food in the pantry",
+                "affirmativePt": "Eu armazeno comida na despensa",
+                "negativeEn": "I don't store food in the pantry",
+                "negativePt": "Eu não armazeno comida na despensa",
+                "interrogativeEn": "Do you store food in the pantry?",
+                "interrogativePt": "Você armazena comida na despensa?"
+            },
+            {
+                "affirmativeEn": "The pantry is well-stocked",
+                "affirmativePt": "A despensa está bem abastecida",
+                "negativeEn": "The pantry is not well-stocked",
+                "negativePt": "A despensa não está bem abastecida",
+                "interrogativeEn": "Is the pantry well-stocked?",
+                "interrogativePt": "A despensa está bem abastecida?"
+            },
+            {
+                "affirmativeEn": "She finds the ingredients in the pantry",
+                "affirmativePt": "Ela encontra os ingredientes na despensa",
+                "negativeEn": "She doesn't find the ingredients in the pantry",
+                "negativePt": "Ela não encontra os ingredientes na despensa",
+                "interrogativeEn": "Does she find the ingredients in the pantry?",
+                "interrogativePt": "Ela encontra os ingredientes na despensa?"
+            }
+        ]
+    },
+    {
+        "en": "mudroom",
+        "pt": "sala de entrada",
+        "partOfSpeech": "noun",
+        "category": "house-rooms",
+        "description": "A room near the entrance for removing outdoor clothing",
+        "examples": [
+            {
+                "affirmativeEn": "I remove my shoes in the mudroom",
+                "affirmativePt": "Eu tiro meus sapatos na sala de entrada",
+                "negativeEn": "I don't remove my shoes in the mudroom",
+                "negativePt": "Eu não tiro meus sapatos na sala de entrada",
+                "interrogativeEn": "Do you remove your shoes in the mudroom?",
+                "interrogativePt": "Você tira seus sapatos na sala de entrada?"
+            },
+            {
+                "affirmativeEn": "The mudroom is cluttered",
+                "affirmativePt": "A sala de entrada está bagunçada",
+                "negativeEn": "The mudroom is not cluttered",
+                "negativePt": "A sala de entrada não está bagunçada",
+                "interrogativeEn": "Is the mudroom cluttered?",
+                "interrogativePt": "A sala de entrada está bagunçada?"
+            },
+            {
+                "affirmativeEn": "We hang our coats in the mudroom",
+                "affirmativePt": "Nós pendramos nossos casacos na sala de entrada",
+                "negativeEn": "We don't hang our coats in the mudroom",
+                "negativePt": "Nós não pendramos nossos casacos na sala de entrada",
+                "interrogativeEn": "Do you hang your coats in the mudroom?",
+                "interrogativePt": "Você pendura seus casacos na sala de entrada?"
+            }
+        ]
+    },
+    {
+        "en": "sunroom",
+        "pt": "sala de sol",
+        "partOfSpeech": "noun",
+        "category": "house-rooms",
+        "description": "A room with many windows for letting in sunlight",
+        "examples": [
+            {
+                "affirmativeEn": "I read in the sunroom",
+                "affirmativePt": "Eu leio na sala de sol",
+                "negativeEn": "I don't read in the sunroom",
+                "negativePt": "Eu não leio na sala de sol",
+                "interrogativeEn": "Do you read in the sunroom?",
+                "interrogativePt": "Você lê na sala de sol?"
+            },
+            {
+                "affirmativeEn": "The sunroom is bright",
+                "affirmativePt": "A sala de sol é clara",
+                "negativeEn": "The sunroom is not bright",
+                "negativePt": "A sala de sol não é clara",
+                "interrogativeEn": "Is the sunroom bright?",
+                "interrogativePt": "A sala de sol é clara?"
+            },
+            {
+                "affirmativeEn": "She grows plants in the sunroom",
+                "affirmativePt": "Ela cultiva plantas na sala de sol",
+                "negativeEn": "She doesn't grow plants in the sunroom",
+                "negativePt": "Ela não cultiva plantas na sala de sol",
+                "interrogativeEn": "Does she grow plants in the sunroom?",
+                "interrogativePt": "Ela cultiva plantas na sala de sol?"
+            }
+        ]
+    },
+    {
+        "en": "studio",
+        "pt": "estúdio",
+        "partOfSpeech": "noun",
+        "category": "house-rooms",
+        "description": "A room used for creative work or hobbies",
+        "examples": [
+            {
+                "affirmativeEn": "I paint in the studio",
+                "affirmativePt": "Eu pinto no estúdio",
+                "negativeEn": "I don't paint in the studio",
+                "negativePt": "Eu não pinto no estúdio",
+                "interrogativeEn": "Do you paint in the studio?",
+                "interrogativePt": "Você pinta no estúdio?"
+            },
+            {
+                "affirmativeEn": "The studio is equipped with art supplies",
+                "affirmativePt": "O estúdio é equipado com materiais de arte",
+                "negativeEn": "The studio is not equipped with art supplies",
+                "negativePt": "O estúdio não é equipado com materiais de arte",
+                "interrogativeEn": "Is the studio equipped with art supplies?",
+                "interrogativePt": "O estúdio é equipado com materiais de arte?"
+            },
+            {
+                "affirmativeEn": "He creates music in the studio",
+                "affirmativePt": "Ele cria música no estúdio",
+                "negativeEn": "He doesn't create music in the studio",
+                "negativePt": "Ele não cria música no estúdio",
+                "interrogativeEn": "Does he create music in the studio?",
+                "interrogativePt": "Ele cria música no estúdio?"
+            }
+        ]
+    },
+    {
+        "en": "den",
+        "pt": "sala de games",
+        "partOfSpeech": "noun",
+        "category": "house-rooms",
+        "description": "A small private room for relaxing or entertainment",
+        "examples": [
+            {
+                "affirmativeEn": "We play games in the den",
+                "affirmativePt": "Nós jogamos na sala de games",
+                "negativeEn": "We don't play games in the den",
+                "negativePt": "Nós não jogamos na sala de games",
+                "interrogativeEn": "Do you play games in the den?",
+                "interrogativePt": "Você joga na sala de games?"
+            },
+            {
+                "affirmativeEn": "The den is cozy",
+                "affirmativePt": "A sala de games é aconchegante",
+                "negativeEn": "The den is not cozy",
+                "negativePt": "A sala de games não é aconchegante",
+                "interrogativeEn": "Is the den cozy?",
+                "interrogativePt": "A sala de games é aconchegante?"
+            },
+            {
+                "affirmativeEn": "He watches movies in the den",
+                "affirmativePt": "Ele assiste filmes na sala de games",
+                "negativeEn": "He doesn't watch movies in the den",
+                "negativePt": "Ele não assiste filmes na sala de games",
+                "interrogativeEn": "Does he watch movies in the den?",
+                "interrogativePt": "Ele assiste filmes na sala de games?"
+            }
+        ]
+    },
+    {
+        "en": "guest room",
+        "pt": "quarto de hóspedes",
+        "partOfSpeech": "noun",
+        "category": "house-rooms",
+        "description": "A bedroom for visitors",
+        "examples": [
+            {
+                "affirmativeEn": "My guests sleep in the guest room",
+                "affirmativePt": "Meus convidados dormem no quarto de hóspedes",
+                "negativeEn": "My guests don't sleep in the guest room",
+                "negativePt": "Meus convidados não dormem no quarto de hóspedes",
+                "interrogativeEn": "Do your guests sleep in the guest room?",
+                "interrogativePt": "Seus convidados dormem no quarto de hóspedes?"
+            },
+            {
+                "affirmativeEn": "The guest room is comfortable",
+                "affirmativePt": "O quarto de hóspedes é confortável",
+                "negativeEn": "The guest room is not comfortable",
+                "negativePt": "O quarto de hóspedes não é confortável",
+                "interrogativeEn": "Is the guest room comfortable?",
+                "interrogativePt": "O quarto de hóspedes é confortável?"
+            },
+            {
+                "affirmativeEn": "I prepare the guest room for visitors",
+                "affirmativePt": "Eu preparo o quarto de hóspedes para visitantes",
+                "negativeEn": "I don't prepare the guest room for visitors",
+                "negativePt": "Eu não preparo o quarto de hóspedes para visitantes",
+                "interrogativeEn": "Do you prepare the guest room for visitors?",
+                "interrogativePt": "Você prepara o quarto de hóspedes para visitantes?"
+            }
+        ]
+    },
+    {
+        "en": "foyer",
+        "pt": "antessala",
+        "partOfSpeech": "noun",
+        "category": "house-rooms",
+        "description": "An entrance hall or lobby",
+        "examples": [
+            {
+                "affirmativeEn": "We greet guests in the foyer",
+                "affirmativePt": "Nós cumprimentamos convidados na antessala",
+                "negativeEn": "We don't greet guests in the foyer",
+                "negativePt": "Nós não cumprimentamos convidados na antessala",
+                "interrogativeEn": "Do you greet guests in the foyer?",
+                "interrogativePt": "Você cumprimenta convidados na antessala?"
+            },
+            {
+                "affirmativeEn": "The foyer has a chandelier",
+                "affirmativePt": "A antessala tem um lustre",
+                "negativeEn": "The foyer doesn't have a chandelier",
+                "negativePt": "A antessala não tem um lustre",
+                "interrogativeEn": "Does the foyer have a chandelier?",
+                "interrogativePt": "A antessala tem um lustre?"
+            },
+            {
+                "affirmativeEn": "She decorates the foyer",
+                "affirmativePt": "Ela decora a antessala",
+                "negativeEn": "She doesn't decorate the foyer",
+                "negativePt": "Ela não decora a antessala",
+                "interrogativeEn": "Does she decorate the foyer?",
+                "interrogativePt": "Ela decora a antessala?"
+            }
+        ]
+    },
+    {
+        "en": "terrace",
+        "pt": "terraço",
+        "partOfSpeech": "noun",
+        "category": "house-rooms",
+        "description": "A raised flat platform extending from a building",
+        "examples": [
+            {
+                "affirmativeEn": "We have dinner on the terrace",
+                "affirmativePt": "Nós jantamos no terraço",
+                "negativeEn": "We don't have dinner on the terrace",
+                "negativePt": "Nós não jantamos no terraço",
+                "interrogativeEn": "Do you have dinner on the terrace?",
+                "interrogativePt": "Você janta no terraço?"
+            },
+            {
+                "affirmativeEn": "The terrace has a beautiful view",
+                "affirmativePt": "O terraço tem uma vista linda",
+                "negativeEn": "The terrace doesn't have a beautiful view",
+                "negativePt": "O terraço não tem uma vista linda",
+                "interrogativeEn": "Does the terrace have a beautiful view?",
+                "interrogativePt": "O terraço tem uma vista linda?"
+            },
+            {
+                "affirmativeEn": "I relax on the terrace",
+                "affirmativePt": "Eu relaxo no terraço",
+                "negativeEn": "I don't relax on the terrace",
+                "negativePt": "Eu não relaxo no terraço",
+                "interrogativeEn": "Do you relax on the terrace?",
+                "interrogativePt": "Você relaxa no terraço?"
+            }
+        ]
+    },
+    {
+        "en": "balcony",
+        "pt": "varanda",
+        "partOfSpeech": "noun",
+        "category": "house-rooms",
+        "description": "A platform projecting from a building's exterior wall",
+        "examples": [
+            {
+                "affirmativeEn": "I breathe fresh air on the balcony",
+                "affirmativePt": "Eu respiro ar fresco na varanda",
+                "negativeEn": "I don't breathe fresh air on the balcony",
+                "negativePt": "Eu não respiro ar fresco na varanda",
+                "interrogativeEn": "Do you breathe fresh air on the balcony?",
+                "interrogativePt": "Você respira ar fresco na varanda?"
+            },
+            {
+                "affirmativeEn": "The balcony overlooks the street",
+                "affirmativePt": "A varanda fica de frente para a rua",
+                "negativeEn": "The balcony doesn't overlook the street",
+                "negativePt": "A varanda não fica de frente para a rua",
+                "interrogativeEn": "Does the balcony overlook the street?",
+                "interrogativePt": "A varanda fica de frente para a rua?"
+            },
+            {
+                "affirmativeEn": "She waters her flowers on the balcony",
+                "affirmativePt": "Ela rega suas flores na varanda",
+                "negativeEn": "She doesn't water her flowers on the balcony",
+                "negativePt": "Ela não rega suas flores na varanda",
+                "interrogativeEn": "Does she water her flowers on the balcony?",
+                "interrogativePt": "Ela rega suas flores na varanda?"
+            }
+        ]
+    },
+    {
+        "en": "cellar",
+        "pt": "adega",
+        "partOfSpeech": "noun",
+        "category": "house-rooms",
+        "description": "A room beneath a building used for storage",
+        "examples": [
+            {
+                "affirmativeEn": "We store wine in the cellar",
+                "affirmativePt": "Nós armazenamos vinho na adega",
+                "negativeEn": "We don't store wine in the cellar",
+                "negativePt": "Nós não armazenamos vinho na adega",
+                "interrogativeEn": "Do you store wine in the cellar?",
+                "interrogativePt": "Você armazena vinho na adega?"
+            },
+            {
+                "affirmativeEn": "The cellar is cool",
+                "affirmativePt": "A adega é fresca",
+                "negativeEn": "The cellar is not cool",
+                "negativePt": "A adega não é fresca",
+                "interrogativeEn": "Is the cellar cool?",
+                "interrogativePt": "A adega é fresca?"
+            },
+            {
+                "affirmativeEn": "He keeps his collection in the cellar",
+                "affirmativePt": "Ele guarda sua coleção na adega",
+                "negativeEn": "He doesn't keep his collection in the cellar",
+                "negativePt": "Ele não guarda sua coleção na adega",
+                "interrogativeEn": "Does he keep his collection in the cellar?",
+                "interrogativePt": "Ele guarda sua coleção na adega?"
+            }
+        ]
+    }
+]

@@ -1,0 +1,3236 @@
+[
+    {
+        "en": "apple",
+        "pt": "maçã",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A round fruit with red, green, or yellow skin",
+        "examples": [
+            {
+                "affirmativeEn": "I eat an apple every day",
+                "affirmativePt": "Eu como uma maçã todos os dias",
+                "negativeEn": "I don't eat an apple every day",
+                "negativePt": "Eu não como uma maçã todos os dias",
+                "interrogativeEn": "Do you eat an apple every day?",
+                "interrogativePt": "Você come uma maçã todos os dias?"
+            },
+            {
+                "affirmativeEn": "She bought fresh apples",
+                "affirmativePt": "Ela comprou maçãs frescas",
+                "negativeEn": "She didn't buy fresh apples",
+                "negativePt": "Ela não comprou maçãs frescas",
+                "interrogativeEn": "Did she buy fresh apples?",
+                "interrogativePt": "Ela comprou maçãs frescas?"
+            },
+            {
+                "affirmativeEn": "This apple is delicious",
+                "affirmativePt": "Esta maçã é deliciosa",
+                "negativeEn": "This apple is not delicious",
+                "negativePt": "Esta maçã não é deliciosa",
+                "interrogativeEn": "Is this apple delicious?",
+                "interrogativePt": "Esta maçã é deliciosa?"
+            }
+        ]
+    },
+    {
+        "en": "bread",
+        "pt": "pão",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A staple carbohydrate made from flour and water",
+        "examples": [
+            {
+                "affirmativeEn": "We eat bread for breakfast",
+                "affirmativePt": "Nós comemos pão no café da manhã",
+                "negativeEn": "We don't eat bread for breakfast",
+                "negativePt": "Nós não comemos pão no café da manhã",
+                "interrogativeEn": "Do we eat bread for breakfast?",
+                "interrogativePt": "Nós comemos pão no café da manhã?"
+            },
+            {
+                "affirmativeEn": "He baked fresh bread yesterday",
+                "affirmativePt": "Ele assou pão fresco ontem",
+                "negativeEn": "He didn't bake fresh bread yesterday",
+                "negativePt": "Ele não assou pão fresco ontem",
+                "interrogativeEn": "Did he bake fresh bread yesterday?",
+                "interrogativePt": "Ele assou pão fresco ontem?"
+            },
+            {
+                "affirmativeEn": "The bread is warm",
+                "affirmativePt": "O pão está quente",
+                "negativeEn": "The bread is not warm",
+                "negativePt": "O pão não está quente",
+                "interrogativeEn": "Is the bread warm?",
+                "interrogativePt": "O pão está quente?"
+            }
+        ]
+    },
+    {
+        "en": "chicken",
+        "pt": "frango",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "Poultry meat commonly eaten worldwide",
+        "examples": [
+            {
+                "affirmativeEn": "I like grilled chicken",
+                "affirmativePt": "Eu gosto de frango grelhado",
+                "negativeEn": "I don't like grilled chicken",
+                "negativePt": "Eu não gosto de frango grelhado",
+                "interrogativeEn": "Do you like grilled chicken?",
+                "interrogativePt": "Você gosta de frango grelhado?"
+            },
+            {
+                "affirmativeEn": "She cooked chicken for dinner",
+                "affirmativePt": "Ela cozinhou frango para o jantar",
+                "negativeEn": "She didn't cook chicken for dinner",
+                "negativePt": "Ela não cozinhou frango para o jantar",
+                "interrogativeEn": "Did she cook chicken for dinner?",
+                "interrogativePt": "Ela cozinhou frango para o jantar?"
+            },
+            {
+                "affirmativeEn": "This chicken is tasty",
+                "affirmativePt": "Este frango é saboroso",
+                "negativeEn": "This chicken is not tasty",
+                "negativePt": "Este frango não é saboroso",
+                "interrogativeEn": "Is this chicken tasty?",
+                "interrogativePt": "Este frango é saboroso?"
+            }
+        ]
+    },
+    {
+        "en": "rice",
+        "pt": "arroz",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A staple grain food consumed in many cultures",
+        "examples": [
+            {
+                "affirmativeEn": "We eat rice with beans",
+                "affirmativePt": "Nós comemos arroz com feijão",
+                "negativeEn": "We don't eat rice with beans",
+                "negativePt": "Nós não comemos arroz com feijão",
+                "interrogativeEn": "Do we eat rice with beans?",
+                "interrogativePt": "Nós comemos arroz com feijão?"
+            },
+            {
+                "affirmativeEn": "He cooked white rice",
+                "affirmativePt": "Ele cozinhou arroz branco",
+                "negativeEn": "He didn't cook white rice",
+                "negativePt": "Ele não cozinhou arroz branco",
+                "interrogativeEn": "Did he cook white rice?",
+                "interrogativePt": "Ele cozinhou arroz branco?"
+            },
+            {
+                "affirmativeEn": "The rice is well-prepared",
+                "affirmativePt": "O arroz está bem preparado",
+                "negativeEn": "The rice is not well-prepared",
+                "negativePt": "O arroz não está bem preparado",
+                "interrogativeEn": "Is the rice well-prepared?",
+                "interrogativePt": "O arroz está bem preparado?"
+            }
+        ]
+    },
+    {
+        "en": "cheese",
+        "pt": "queijo",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A dairy product made from milk",
+        "examples": [
+            {
+                "affirmativeEn": "I love swiss cheese",
+                "affirmativePt": "Eu amo queijo suíço",
+                "negativeEn": "I don't love swiss cheese",
+                "negativePt": "Eu não amo queijo suíço",
+                "interrogativeEn": "Do you love swiss cheese?",
+                "interrogativePt": "Você ama queijo suíço?"
+            },
+            {
+                "affirmativeEn": "She bought aged cheese",
+                "affirmativePt": "Ela comprou queijo envelhecido",
+                "negativeEn": "She didn't buy aged cheese",
+                "negativePt": "Ela não comprou queijo envelhecido",
+                "interrogativeEn": "Did she buy aged cheese?",
+                "interrogativePt": "Ela comprou queijo envelhecido?"
+            },
+            {
+                "affirmativeEn": "This cheese is expensive",
+                "affirmativePt": "Este queijo é caro",
+                "negativeEn": "This cheese is not expensive",
+                "negativePt": "Este queijo não é caro",
+                "interrogativeEn": "Is this cheese expensive?",
+                "interrogativePt": "Este queijo é caro?"
+            }
+        ]
+    },
+    {
+        "en": "fish",
+        "pt": "peixe",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "Aquatic animal meat used as food",
+        "examples": [
+            {
+                "affirmativeEn": "I eat fish twice a week",
+                "affirmativePt": "Eu como peixe duas vezes por semana",
+                "negativeEn": "I don't eat fish twice a week",
+                "negativePt": "Eu não como peixe duas vezes por semana",
+                "interrogativeEn": "Do you eat fish twice a week?",
+                "interrogativePt": "Você come peixe duas vezes por semana?"
+            },
+            {
+                "affirmativeEn": "He prepared baked fish",
+                "affirmativePt": "Ele preparou peixe assado",
+                "negativeEn": "He didn't prepare baked fish",
+                "negativePt": "Ele não preparou peixe assado",
+                "interrogativeEn": "Did he prepare baked fish?",
+                "interrogativePt": "Ele preparou peixe assado?"
+            },
+            {
+                "affirmativeEn": "The fish is fresh",
+                "affirmativePt": "O peixe é fresco",
+                "negativeEn": "The fish is not fresh",
+                "negativePt": "O peixe não é fresco",
+                "interrogativeEn": "Is the fish fresh?",
+                "interrogativePt": "O peixe é fresco?"
+            }
+        ]
+    },
+    {
+        "en": "vegetable",
+        "pt": "vegetal",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "Plant-based food including leaves, roots, and stems",
+        "examples": [
+            {
+                "affirmativeEn": "We eat vegetables daily",
+                "affirmativePt": "Nós comemos vegetais diariamente",
+                "negativeEn": "We don't eat vegetables daily",
+                "negativePt": "Nós não comemos vegetais diariamente",
+                "interrogativeEn": "Do we eat vegetables daily?",
+                "interrogativePt": "Nós comemos vegetais diariamente?"
+            },
+            {
+                "affirmativeEn": "She bought organic vegetables",
+                "affirmativePt": "Ela comprou vegetais orgânicos",
+                "negativeEn": "She didn't buy organic vegetables",
+                "negativePt": "Ela não comprou vegetais orgânicos",
+                "interrogativeEn": "Did she buy organic vegetables?",
+                "interrogativePt": "Ela comprou vegetais orgânicos?"
+            },
+            {
+                "affirmativeEn": "These vegetables are nutritious",
+                "affirmativePt": "Estes vegetais são nutritivos",
+                "negativeEn": "These vegetables are not nutritious",
+                "negativePt": "Estes vegetais não são nutritivos",
+                "interrogativeEn": "Are these vegetables nutritious?",
+                "interrogativePt": "Estes vegetais são nutritivos?"
+            }
+        ]
+    },
+    {
+        "en": "milk",
+        "pt": "leite",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "White liquid produced by mammary glands",
+        "examples": [
+            {
+                "affirmativeEn": "I drink milk every morning",
+                "affirmativePt": "Eu bebo leite todas as manhãs",
+                "negativeEn": "I don't drink milk every morning",
+                "negativePt": "Eu não bebo leite todas as manhãs",
+                "interrogativeEn": "Do you drink milk every morning?",
+                "interrogativePt": "Você bebe leite todas as manhãs?"
+            },
+            {
+                "affirmativeEn": "She bought fresh milk",
+                "affirmativePt": "Ela comprou leite fresco",
+                "negativeEn": "She didn't buy fresh milk",
+                "negativePt": "Ela não comprou leite fresco",
+                "interrogativeEn": "Did she buy fresh milk?",
+                "interrogativePt": "Ela comprou leite fresco?"
+            },
+            {
+                "affirmativeEn": "This milk is cold",
+                "affirmativePt": "Este leite é frio",
+                "negativeEn": "This milk is not cold",
+                "negativePt": "Este leite não é frio",
+                "interrogativeEn": "Is this milk cold?",
+                "interrogativePt": "Este leite é frio?"
+            }
+        ]
+    },
+    {
+        "en": "egg",
+        "pt": "ovo",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "An oval shelled reproductive body produced by poultry",
+        "examples": [
+            {
+                "affirmativeEn": "We eat eggs for breakfast",
+                "affirmativePt": "Nós comemos ovos no café da manhã",
+                "negativeEn": "We don't eat eggs for breakfast",
+                "negativePt": "Nós não comemos ovos no café da manhã",
+                "interrogativeEn": "Do we eat eggs for breakfast?",
+                "interrogativePt": "Nós comemos ovos no café da manhã?"
+            },
+            {
+                "affirmativeEn": "He cooked scrambled eggs",
+                "affirmativePt": "Ele cozinhou ovos mexidos",
+                "negativeEn": "He didn't cook scrambled eggs",
+                "negativePt": "Ele não cozinhou ovos mexidos",
+                "interrogativeEn": "Did he cook scrambled eggs?",
+                "interrogativePt": "Ele cozinhou ovos mexidos?"
+            },
+            {
+                "affirmativeEn": "The eggs are brown",
+                "affirmativePt": "Os ovos são marrons",
+                "negativeEn": "The eggs are not brown",
+                "negativePt": "Os ovos não são marrons",
+                "interrogativeEn": "Are the eggs brown?",
+                "interrogativePt": "Os ovos são marrons?"
+            }
+        ]
+    },
+    {
+        "en": "tomato",
+        "pt": "tomate",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A red round fruit used in cooking",
+        "examples": [
+            {
+                "affirmativeEn": "I use tomato in my salad",
+                "affirmativePt": "Eu uso tomate na minha salada",
+                "negativeEn": "I don't use tomato in my salad",
+                "negativePt": "Eu não uso tomate na minha salada",
+                "interrogativeEn": "Do you use tomato in your salad?",
+                "interrogativePt": "Você usa tomate na sua salada?"
+            },
+            {
+                "affirmativeEn": "She picked ripe tomatoes",
+                "affirmativePt": "Ela colheu tomates maduros",
+                "negativeEn": "She didn't pick ripe tomatoes",
+                "negativePt": "Ela não colheu tomates maduros",
+                "interrogativeEn": "Did she pick ripe tomatoes?",
+                "interrogativePt": "Ela colheu tomates maduros?"
+            },
+            {
+                "affirmativeEn": "This tomato is juicy",
+                "affirmativePt": "Este tomate é suculento",
+                "negativeEn": "This tomato is not juicy",
+                "negativePt": "Este tomate não é suculento",
+                "interrogativeEn": "Is this tomato juicy?",
+                "interrogativePt": "Este tomate é suculento?"
+            }
+        ]
+    },
+    {
+        "en": "carrot",
+        "pt": "cenoura",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "An orange root vegetable rich in vitamins",
+        "examples": [
+            {
+                "affirmativeEn": "I eat carrots with hummus",
+                "affirmativePt": "Eu como cenoura com homus",
+                "negativeEn": "I don't eat carrots with hummus",
+                "negativePt": "Eu não como cenoura com homus",
+                "interrogativeEn": "Do you eat carrots with hummus?",
+                "interrogativePt": "Você come cenoura com homus?"
+            },
+            {
+                "affirmativeEn": "She added carrots to the soup",
+                "affirmativePt": "Ela adicionou cenoura à sopa",
+                "negativeEn": "She didn't add carrots to the soup",
+                "negativePt": "Ela não adicionou cenoura à sopa",
+                "interrogativeEn": "Did she add carrots to the soup?",
+                "interrogativePt": "Ela adicionou cenoura à sopa?"
+            },
+            {
+                "affirmativeEn": "These carrots are crunchy",
+                "affirmativePt": "Estas cenouras são crocantes",
+                "negativeEn": "These carrots are not crunchy",
+                "negativePt": "Estas cenouras não são crocantes",
+                "interrogativeEn": "Are these carrots crunchy?",
+                "interrogativePt": "Estas cenouras são crocantes?"
+            }
+        ]
+    },
+    {
+        "en": "potato",
+        "pt": "batata",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A starchy tuber that is a staple carbohydrate",
+        "examples": [
+            {
+                "affirmativeEn": "We bake potatoes in the oven",
+                "affirmativePt": "Nós assamos batatas no forno",
+                "negativeEn": "We don't bake potatoes in the oven",
+                "negativePt": "Nós não assamos batatas no forno",
+                "interrogativeEn": "Do we bake potatoes in the oven?",
+                "interrogativePt": "Nós assamos batatas no forno?"
+            },
+            {
+                "affirmativeEn": "He made mashed potatoes",
+                "affirmativePt": "Ele fez purê de batata",
+                "negativeEn": "He didn't make mashed potatoes",
+                "negativePt": "Ele não fez purê de batata",
+                "interrogativeEn": "Did he make mashed potatoes?",
+                "interrogativePt": "Ele fez purê de batata?"
+            },
+            {
+                "affirmativeEn": "This potato is soft",
+                "affirmativePt": "Esta batata é macia",
+                "negativeEn": "This potato is not soft",
+                "negativePt": "Esta batata não é macia",
+                "interrogativeEn": "Is this potato soft?",
+                "interrogativePt": "Esta batata é macia?"
+            }
+        ]
+    },
+    {
+        "en": "onion",
+        "pt": "cebola",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A layered bulb vegetable with a pungent flavor",
+        "examples": [
+            {
+                "affirmativeEn": "I chop onions for cooking",
+                "affirmativePt": "Eu pico cebola para cozinhar",
+                "negativeEn": "I don't chop onions for cooking",
+                "negativePt": "Eu não pico cebola para cozinhar",
+                "interrogativeEn": "Do you chop onions for cooking?",
+                "interrogativePt": "Você pica cebola para cozinhar?"
+            },
+            {
+                "affirmativeEn": "She fried onions in butter",
+                "affirmativePt": "Ela fritou cebola em manteiga",
+                "negativeEn": "She didn't fry onions in butter",
+                "negativePt": "Ela não fritou cebola em manteiga",
+                "interrogativeEn": "Did she fry onions in butter?",
+                "interrogativePt": "Ela fritou cebola em manteiga?"
+            },
+            {
+                "affirmativeEn": "Onions make me cry",
+                "affirmativePt": "Cebolas me fazem chorar",
+                "negativeEn": "Onions don't make me cry",
+                "negativePt": "Cebolas não me fazem chorar",
+                "interrogativeEn": "Do onions make you cry?",
+                "interrogativePt": "Cebolas te fazem chorar?"
+            }
+        ]
+    },
+    {
+        "en": "garlic",
+        "pt": "alho",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A pungent bulb used as flavoring in cooking",
+        "examples": [
+            {
+                "affirmativeEn": "I use garlic in many dishes",
+                "affirmativePt": "Eu uso alho em muitos pratos",
+                "negativeEn": "I don't use garlic in many dishes",
+                "negativePt": "Eu não uso alho em muitos pratos",
+                "interrogativeEn": "Do you use garlic in many dishes?",
+                "interrogativePt": "Você usa alho em muitos pratos?"
+            },
+            {
+                "affirmativeEn": "He minced fresh garlic",
+                "affirmativePt": "Ele moeu alho fresco",
+                "negativeEn": "He didn't mince fresh garlic",
+                "negativePt": "Ele não moeu alho fresco",
+                "interrogativeEn": "Did he mince fresh garlic?",
+                "interrogativePt": "Ele moeu alho fresco?"
+            },
+            {
+                "affirmativeEn": "This garlic is pungent",
+                "affirmativePt": "Este alho é pungente",
+                "negativeEn": "This garlic is not pungent",
+                "negativePt": "Este alho não é pungente",
+                "interrogativeEn": "Is this garlic pungent?",
+                "interrogativePt": "Este alho é pungente?"
+            }
+        ]
+    },
+    {
+        "en": "oil",
+        "pt": "óleo",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A liquid fat used in cooking and food preparation",
+        "examples": [
+            {
+                "affirmativeEn": "We cook with olive oil",
+                "affirmativePt": "Nós cozinhamos com azeite",
+                "negativeEn": "We don't cook with olive oil",
+                "negativePt": "Nós não cozinhamos com azeite",
+                "interrogativeEn": "Do we cook with olive oil?",
+                "interrogativePt": "Nós cozinhamos com azeite?"
+            },
+            {
+                "affirmativeEn": "She poured oil into the pan",
+                "affirmativePt": "Ela derramou óleo na panela",
+                "negativeEn": "She didn't pour oil into the pan",
+                "negativePt": "Ela não derramou óleo na panela",
+                "interrogativeEn": "Did she pour oil into the pan?",
+                "interrogativePt": "Ela derramou óleo na panela?"
+            },
+            {
+                "affirmativeEn": "This oil is pure",
+                "affirmativePt": "Este óleo é puro",
+                "negativeEn": "This oil is not pure",
+                "negativePt": "Este óleo não é puro",
+                "interrogativeEn": "Is this oil pure?",
+                "interrogativePt": "Este óleo é puro?"
+            }
+        ]
+    },
+    {
+        "en": "salt",
+        "pt": "sal",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A mineral seasoning composed of sodium chloride",
+        "examples": [
+            {
+                "affirmativeEn": "I add salt to my food",
+                "affirmativePt": "Eu adiciono sal à minha comida",
+                "negativeEn": "I don't add salt to my food",
+                "negativePt": "Eu não adiciono sal à minha comida",
+                "interrogativeEn": "Do you add salt to your food?",
+                "interrogativePt": "Você adiciona sal à sua comida?"
+            },
+            {
+                "affirmativeEn": "She sprinkled salt on the dish",
+                "affirmativePt": "Ela polvilhou sal no prato",
+                "negativeEn": "She didn't sprinkle salt on the dish",
+                "negativePt": "Ela não polvilhou sal no prato",
+                "interrogativeEn": "Did she sprinkle salt on the dish?",
+                "interrogativePt": "Ela polvilhou sal no prato?"
+            },
+            {
+                "affirmativeEn": "The salt is fine",
+                "affirmativePt": "O sal é fino",
+                "negativeEn": "The salt is not fine",
+                "negativePt": "O sal não é fino",
+                "interrogativeEn": "Is the salt fine?",
+                "interrogativePt": "O sal é fino?"
+            }
+        ]
+    },
+    {
+        "en": "sugar",
+        "pt": "açúcar",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A sweet substance extracted from plants used in cooking",
+        "examples": [
+            {
+                "affirmativeEn": "I use sugar in my coffee",
+                "affirmativePt": "Eu uso açúcar no meu café",
+                "negativeEn": "I don't use sugar in my coffee",
+                "negativePt": "Eu não uso açúcar no meu café",
+                "interrogativeEn": "Do you use sugar in your coffee?",
+                "interrogativePt": "Você usa açúcar no seu café?"
+            },
+            {
+                "affirmativeEn": "She added sugar to the cake",
+                "affirmativePt": "Ela adicionou açúcar ao bolo",
+                "negativeEn": "She didn't add sugar to the cake",
+                "negativePt": "Ela não adicionou açúcar ao bolo",
+                "interrogativeEn": "Did she add sugar to the cake?",
+                "interrogativePt": "Ela adicionou açúcar ao bolo?"
+            },
+            {
+                "affirmativeEn": "This sugar is granulated",
+                "affirmativePt": "Este açúcar é granulado",
+                "negativeEn": "This sugar is not granulated",
+                "negativePt": "Este açúcar não é granulado",
+                "interrogativeEn": "Is this sugar granulated?",
+                "interrogativePt": "Este açúcar é granulado?"
+            }
+        ]
+    },
+    {
+        "en": "butter",
+        "pt": "manteiga",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A dairy product made by churning cream",
+        "examples": [
+            {
+                "affirmativeEn": "I spread butter on bread",
+                "affirmativePt": "Eu passo manteiga no pão",
+                "negativeEn": "I don't spread butter on bread",
+                "negativePt": "Eu não passo manteiga no pão",
+                "interrogativeEn": "Do you spread butter on bread?",
+                "interrogativePt": "Você passa manteiga no pão?"
+            },
+            {
+                "affirmativeEn": "She melted butter for baking",
+                "affirmativePt": "Ela derreteu manteiga para assar",
+                "negativeEn": "She didn't melt butter for baking",
+                "negativePt": "Ela não derreteu manteiga para assar",
+                "interrogativeEn": "Did she melt butter for baking?",
+                "interrogativePt": "Ela derreteu manteiga para assar?"
+            },
+            {
+                "affirmativeEn": "This butter is smooth",
+                "affirmativePt": "Esta manteiga é lisa",
+                "negativeEn": "This butter is not smooth",
+                "negativePt": "Esta manteiga não é lisa",
+                "interrogativeEn": "Is this butter smooth?",
+                "interrogativePt": "Esta manteiga é lisa?"
+            }
+        ]
+    },
+    {
+        "en": "pepper",
+        "pt": "pimenta",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A spicy seasoning powder made from peppercorns",
+        "examples": [
+            {
+                "affirmativeEn": "I grind fresh pepper",
+                "affirmativePt": "Eu moo pimenta fresca",
+                "negativeEn": "I don't grind fresh pepper",
+                "negativePt": "Eu não moo pimenta fresca",
+                "interrogativeEn": "Do you grind fresh pepper?",
+                "interrogativePt": "Você moa pimenta fresca?"
+            },
+            {
+                "affirmativeEn": "He added black pepper to the steak",
+                "affirmativePt": "Ele adicionou pimenta preta ao bife",
+                "negativeEn": "He didn't add black pepper to the steak",
+                "negativePt": "Ele não adicionou pimenta preta ao bife",
+                "interrogativeEn": "Did he add black pepper to the steak?",
+                "interrogativePt": "Ele adicionou pimenta preta ao bife?"
+            },
+            {
+                "affirmativeEn": "This pepper is strong",
+                "affirmativePt": "Esta pimenta é forte",
+                "negativeEn": "This pepper is not strong",
+                "negativePt": "Esta pimenta não é forte",
+                "interrogativeEn": "Is this pepper strong?",
+                "interrogativePt": "Esta pimenta é forte?"
+            }
+        ]
+    },
+    {
+        "en": "honey",
+        "pt": "mel",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A sweet substance produced by honeybees from flower nectar",
+        "examples": [
+            {
+                "affirmativeEn": "I drizzle honey on yogurt",
+                "affirmativePt": "Eu coloco mel no iogurte",
+                "negativeEn": "I don't drizzle honey on yogurt",
+                "negativePt": "Eu não coloco mel no iogurte",
+                "interrogativeEn": "Do you drizzle honey on yogurt?",
+                "interrogativePt": "Você coloca mel no iogurte?"
+            },
+            {
+                "affirmativeEn": "She bought raw honey",
+                "affirmativePt": "Ela comprou mel cru",
+                "negativeEn": "She didn't buy raw honey",
+                "negativePt": "Ela não comprou mel cru",
+                "interrogativeEn": "Did she buy raw honey?",
+                "interrogativePt": "Ela comprou mel cru?"
+            },
+            {
+                "affirmativeEn": "This honey is golden",
+                "affirmativePt": "Este mel é dourado",
+                "negativeEn": "This honey is not golden",
+                "negativePt": "Este mel não é dourado",
+                "interrogativeEn": "Is this honey golden?",
+                "interrogativePt": "Este mel é dourado?"
+            }
+        ]
+    },
+    {
+        "en": "orange",
+        "pt": "laranja",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A citrus fruit with a bright orange color",
+        "examples": [
+            {
+                "affirmativeEn": "I drink fresh orange juice",
+                "affirmativePt": "Eu bebo suco de laranja fresco",
+                "negativeEn": "I don't drink fresh orange juice",
+                "negativePt": "Eu não bebo suco de laranja fresco",
+                "interrogativeEn": "Do you drink fresh orange juice?",
+                "interrogativePt": "Você bebe suco de laranja fresco?"
+            },
+            {
+                "affirmativeEn": "She peeled oranges for the kids",
+                "affirmativePt": "Ela descascou laranjas para as crianças",
+                "negativeEn": "She didn't peel oranges for the kids",
+                "negativePt": "Ela não descascou laranjas para as crianças",
+                "interrogativeEn": "Did she peel oranges for the kids?",
+                "interrogativePt": "Ela descascou laranjas para as crianças?"
+            },
+            {
+                "affirmativeEn": "This orange is sweet",
+                "affirmativePt": "Esta laranja é doce",
+                "negativeEn": "This orange is not sweet",
+                "negativePt": "Esta laranja não é doce",
+                "interrogativeEn": "Is this orange sweet?",
+                "interrogativePt": "Esta laranja é doce?"
+            }
+        ]
+    },
+    {
+        "en": "banana",
+        "pt": "banana",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A tropical fruit with yellow skin and soft flesh",
+        "examples": [
+            {
+                "affirmativeEn": "I eat a banana for breakfast",
+                "affirmativePt": "Eu como uma banana no café da manhã",
+                "negativeEn": "I don't eat a banana for breakfast",
+                "negativePt": "Eu não como uma banana no café da manhã",
+                "interrogativeEn": "Do you eat a banana for breakfast?",
+                "interrogativePt": "Você come uma banana no café da manhã?"
+            },
+            {
+                "affirmativeEn": "He added bananas to the smoothie",
+                "affirmativePt": "Ele adicionou bananas ao smoothie",
+                "negativeEn": "He didn't add bananas to the smoothie",
+                "negativePt": "Ele não adicionou bananas ao smoothie",
+                "interrogativeEn": "Did he add bananas to the smoothie?",
+                "interrogativePt": "Ele adicionou bananas ao smoothie?"
+            },
+            {
+                "affirmativeEn": "These bananas are ripe",
+                "affirmativePt": "Estas bananas estão maduras",
+                "negativeEn": "These bananas are not ripe",
+                "negativePt": "Estas bananas não estão maduras",
+                "interrogativeEn": "Are these bananas ripe?",
+                "interrogativePt": "Estas bananas estão maduras?"
+            }
+        ]
+    },
+    {
+        "en": "lettuce",
+        "pt": "alface",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A leafy green vegetable commonly used in salads",
+        "examples": [
+            {
+                "affirmativeEn": "I use lettuce in my salad",
+                "affirmativePt": "Eu uso alface na minha salada",
+                "negativeEn": "I don't use lettuce in my salad",
+                "negativePt": "Eu não uso alface na minha salada",
+                "interrogativeEn": "Do you use lettuce in your salad?",
+                "interrogativePt": "Você usa alface na sua salada?"
+            },
+            {
+                "affirmativeEn": "She washed fresh lettuce",
+                "affirmativePt": "Ela lavou alface fresca",
+                "negativeEn": "She didn't wash fresh lettuce",
+                "negativePt": "Ela não lavou alface fresca",
+                "interrogativeEn": "Did she wash fresh lettuce?",
+                "interrogativePt": "Ela lavou alface fresca?"
+            },
+            {
+                "affirmativeEn": "This lettuce is crispy",
+                "affirmativePt": "Esta alface é crocante",
+                "negativeEn": "This lettuce is not crispy",
+                "negativePt": "Esta alface não é crocante",
+                "interrogativeEn": "Is this lettuce crispy?",
+                "interrogativePt": "Esta alface é crocante?"
+            }
+        ]
+    },
+    {
+        "en": "cucumber",
+        "pt": "pepino",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A green watery vegetable often eaten raw in salads",
+        "examples": [
+            {
+                "affirmativeEn": "I slice cucumbers for salad",
+                "affirmativePt": "Eu fatiei pepinos para salada",
+                "negativeEn": "I don't slice cucumbers for salad",
+                "negativePt": "Eu não fatiei pepinos para salada",
+                "interrogativeEn": "Do you slice cucumbers for salad?",
+                "interrogativePt": "Você fatieia pepinos para salada?"
+            },
+            {
+                "affirmativeEn": "She pickled cucumbers in vinegar",
+                "affirmativePt": "Ela conservou pepinos em vinagre",
+                "negativeEn": "She didn't pickle cucumbers in vinegar",
+                "negativePt": "Ela não conservou pepinos em vinagre",
+                "interrogativeEn": "Did she pickle cucumbers in vinegar?",
+                "interrogativePt": "Ela conservou pepinos em vinagre?"
+            },
+            {
+                "affirmativeEn": "This cucumber is refreshing",
+                "affirmativePt": "Este pepino é refrescante",
+                "negativeEn": "This cucumber is not refreshing",
+                "negativePt": "Este pepino não é refrescante",
+                "interrogativeEn": "Is this cucumber refreshing?",
+                "interrogativePt": "Este pepino é refrescante?"
+            }
+        ]
+    },
+    {
+        "en": "beef",
+        "pt": "carne bovina",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "Meat from cattle used in cooking",
+        "examples": [
+            {
+                "affirmativeEn": "I cook beef for dinner",
+                "affirmativePt": "Eu cozinho carne bovina para o jantar",
+                "negativeEn": "I don't cook beef for dinner",
+                "negativePt": "Eu não cozinho carne bovina para o jantar",
+                "interrogativeEn": "Do you cook beef for dinner?",
+                "interrogativePt": "Você cozinha carne bovina para o jantar?"
+            },
+            {
+                "affirmativeEn": "He grilled beef steaks",
+                "affirmativePt": "Ele grelhava bifes de carne bovina",
+                "negativeEn": "He didn't grill beef steaks",
+                "negativePt": "Ele não grelhava bifes de carne bovina",
+                "interrogativeEn": "Did he grill beef steaks?",
+                "interrogativePt": "Ele grelhava bifes de carne bovina?"
+            },
+            {
+                "affirmativeEn": "This beef is tender",
+                "affirmativePt": "Esta carne bovina é macia",
+                "negativeEn": "This beef is not tender",
+                "negativePt": "Esta carne bovina não é macia",
+                "interrogativeEn": "Is this beef tender?",
+                "interrogativePt": "Esta carne bovina é macia?"
+            }
+        ]
+    },
+    {
+        "en": "pork",
+        "pt": "carne de porco",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "Meat from pigs used in cooking",
+        "examples": [
+            {
+                "affirmativeEn": "We eat pork chops",
+                "affirmativePt": "Nós comemos costelas de porco",
+                "negativeEn": "We don't eat pork chops",
+                "negativePt": "Nós não comemos costelas de porco",
+                "interrogativeEn": "Do we eat pork chops?",
+                "interrogativePt": "Nós comemos costelas de porco?"
+            },
+            {
+                "affirmativeEn": "She prepared roasted pork",
+                "affirmativePt": "Ela preparou carne de porco assada",
+                "negativeEn": "She didn't prepare roasted pork",
+                "negativePt": "Ela não preparou carne de porco assada",
+                "interrogativeEn": "Did she prepare roasted pork?",
+                "interrogativePt": "Ela preparou carne de porco assada?"
+            },
+            {
+                "affirmativeEn": "This pork is juicy",
+                "affirmativePt": "Esta carne de porco é suculenta",
+                "negativeEn": "This pork is not juicy",
+                "negativePt": "Esta carne de porco não é suculenta",
+                "interrogativeEn": "Is this pork juicy?",
+                "interrogativePt": "Esta carne de porco é suculenta?"
+            }
+        ]
+    },
+    {
+        "en": "strawberry",
+        "pt": "morango",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A red sweet fruit with tiny seeds on the outside",
+        "examples": [
+            {
+                "affirmativeEn": "I eat strawberries in summer",
+                "affirmativePt": "Eu como morangos no verão",
+                "negativeEn": "I don't eat strawberries in summer",
+                "negativePt": "Eu não como morangos no verão",
+                "interrogativeEn": "Do you eat strawberries in summer?",
+                "interrogativePt": "Você come morangos no verão?"
+            },
+            {
+                "affirmativeEn": "She bought fresh strawberries",
+                "affirmativePt": "Ela comprou morangos frescos",
+                "negativeEn": "She didn't buy fresh strawberries",
+                "negativePt": "Ela não comprou morangos frescos",
+                "interrogativeEn": "Did she buy fresh strawberries?",
+                "interrogativePt": "Ela comprou morangos frescos?"
+            },
+            {
+                "affirmativeEn": "These strawberries are delicious",
+                "affirmativePt": "Estes morangos são deliciosos",
+                "negativeEn": "These strawberries are not delicious",
+                "negativePt": "Estes morangos não são deliciosos",
+                "interrogativeEn": "Are these strawberries delicious?",
+                "interrogativePt": "Estes morangos são deliciosos?"
+            }
+        ]
+    },
+    {
+        "en": "chocolate",
+        "pt": "chocolate",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A sweet brown confection made from cocoa beans",
+        "examples": [
+            {
+                "affirmativeEn": "I love dark chocolate",
+                "affirmativePt": "Eu amo chocolate amargo",
+                "negativeEn": "I don't love dark chocolate",
+                "negativePt": "Eu não amo chocolate amargo",
+                "interrogativeEn": "Do you love dark chocolate?",
+                "interrogativePt": "Você ama chocolate amargo?"
+            },
+            {
+                "affirmativeEn": "She melted chocolate for the dessert",
+                "affirmativePt": "Ela derreteu chocolate para a sobremesa",
+                "negativeEn": "She didn't melt chocolate for the dessert",
+                "negativePt": "Ela não derreteu chocolate para a sobremesa",
+                "interrogativeEn": "Did she melt chocolate for the dessert?",
+                "interrogativePt": "Ela derreteu chocolate para a sobremesa?"
+            },
+            {
+                "affirmativeEn": "This chocolate is smooth",
+                "affirmativePt": "Este chocolate é liso",
+                "negativeEn": "This chocolate is not smooth",
+                "negativePt": "Este chocolate não é liso",
+                "interrogativeEn": "Is this chocolate smooth?",
+                "interrogativePt": "Este chocolate é liso?"
+            }
+        ]
+    },
+    {
+        "en": "flour",
+        "pt": "farinha",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A powder made from grinding grains used in baking",
+        "examples": [
+            {
+                "affirmativeEn": "I use flour for baking",
+                "affirmativePt": "Eu uso farinha para assar",
+                "negativeEn": "I don't use flour for baking",
+                "negativePt": "Eu não uso farinha para assar",
+                "interrogativeEn": "Do you use flour for baking?",
+                "interrogativePt": "Você usa farinha para assar?"
+            },
+            {
+                "affirmativeEn": "She sifted flour for the cake",
+                "affirmativePt": "Ela peneirou farinha para o bolo",
+                "negativeEn": "She didn't sift flour for the cake",
+                "negativePt": "Ela não peneirou farinha para o bolo",
+                "interrogativeEn": "Did she sift flour for the cake?",
+                "interrogativePt": "Ela peneirou farinha para o bolo?"
+            },
+            {
+                "affirmativeEn": "This flour is fine",
+                "affirmativePt": "Esta farinha é fina",
+                "negativeEn": "This flour is not fine",
+                "negativePt": "Esta farinha não é fina",
+                "interrogativeEn": "Is this flour fine?",
+                "interrogativePt": "Esta farinha é fina?"
+            }
+        ]
+    },
+    {
+        "en": "yogurt",
+        "pt": "iogurte",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A creamy dairy product made from fermented milk",
+        "examples": [
+            {
+                "affirmativeEn": "I eat yogurt for breakfast",
+                "affirmativePt": "Eu como iogurte no café da manhã",
+                "negativeEn": "I don't eat yogurt for breakfast",
+                "negativePt": "Eu não como iogurte no café da manhã",
+                "interrogativeEn": "Do you eat yogurt for breakfast?",
+                "interrogativePt": "Você come iogurte no café da manhã?"
+            },
+            {
+                "affirmativeEn": "She bought plain yogurt",
+                "affirmativePt": "Ela comprou iogurte natural",
+                "negativeEn": "She didn't buy plain yogurt",
+                "negativePt": "Ela não comprou iogurte natural",
+                "interrogativeEn": "Did she buy plain yogurt?",
+                "interrogativePt": "Ela comprou iogurte natural?"
+            },
+            {
+                "affirmativeEn": "This yogurt is creamy",
+                "affirmativePt": "Este iogurte é cremoso",
+                "negativeEn": "This yogurt is not creamy",
+                "negativePt": "Este iogurte não é cremoso",
+                "interrogativeEn": "Is this yogurt creamy?",
+                "interrogativePt": "Este iogurte é cremoso?"
+            }
+        ]
+    },
+    {
+        "en": "coffee",
+        "pt": "café",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A dark beverage made from roasted coffee beans",
+        "examples": [
+            {
+                "affirmativeEn": "I drink coffee every morning",
+                "affirmativePt": "Eu bebo café todas as manhãs",
+                "negativeEn": "I don't drink coffee every morning",
+                "negativePt": "Eu não bebo café todas as manhãs",
+                "interrogativeEn": "Do you drink coffee every morning?",
+                "interrogativePt": "Você bebe café todas as manhãs?"
+            },
+            {
+                "affirmativeEn": "He made fresh coffee",
+                "affirmativePt": "Ele fez café fresco",
+                "negativeEn": "He didn't make fresh coffee",
+                "negativePt": "Ele não fez café fresco",
+                "interrogativeEn": "Did he make fresh coffee?",
+                "interrogativePt": "Ele fez café fresco?"
+            },
+            {
+                "affirmativeEn": "This coffee is strong",
+                "affirmativePt": "Este café é forte",
+                "negativeEn": "This coffee is not strong",
+                "negativePt": "Este café não é forte",
+                "interrogativeEn": "Is this coffee strong?",
+                "interrogativePt": "Este café é forte?"
+            }
+        ]
+    },
+    {
+        "en": "tea",
+        "pt": "chá",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A hot beverage made from steeped tea leaves",
+        "examples": [
+            {
+                "affirmativeEn": "I drink tea in the afternoon",
+                "affirmativePt": "Eu bebo chá à tarde",
+                "negativeEn": "I don't drink tea in the afternoon",
+                "negativePt": "Eu não bebo chá à tarde",
+                "interrogativeEn": "Do you drink tea in the afternoon?",
+                "interrogativePt": "Você bebe chá à tarde?"
+            },
+            {
+                "affirmativeEn": "She brewed green tea",
+                "affirmativePt": "Ela preparou chá verde",
+                "negativeEn": "She didn't brew green tea",
+                "negativePt": "Ela não preparou chá verde",
+                "interrogativeEn": "Did she brew green tea?",
+                "interrogativePt": "Ela preparou chá verde?"
+            },
+            {
+                "affirmativeEn": "This tea is relaxing",
+                "affirmativePt": "Este chá é relaxante",
+                "negativeEn": "This tea is not relaxing",
+                "negativePt": "Este chá não é relaxante",
+                "interrogativeEn": "Is this tea relaxing?",
+                "interrogativePt": "Este chá é relaxante?"
+            }
+        ]
+    },
+    {
+        "en": "lemon",
+        "pt": "limão",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A yellow citrus fruit with sour juice",
+        "examples": [
+            {
+                "affirmativeEn": "I squeeze lemon on fish",
+                "affirmativePt": "Eu espremo limão no peixe",
+                "negativeEn": "I don't squeeze lemon on fish",
+                "negativePt": "Eu não espremo limão no peixe",
+                "interrogativeEn": "Do you squeeze lemon on fish?",
+                "interrogativePt": "Você esprema limão no peixe?"
+            },
+            {
+                "affirmativeEn": "She added lemon to the water",
+                "affirmativePt": "Ela adicionou limão à água",
+                "negativeEn": "She didn't add lemon to the water",
+                "negativePt": "Ela não adicionou limão à água",
+                "interrogativeEn": "Did she add lemon to the water?",
+                "interrogativePt": "Ela adicionou limão à água?"
+            },
+            {
+                "affirmativeEn": "This lemon is sour",
+                "affirmativePt": "Este limão é azedo",
+                "negativeEn": "This lemon is not sour",
+                "negativePt": "Este limão não é azedo",
+                "interrogativeEn": "Is this lemon sour?",
+                "interrogativePt": "Este limão é azedo?"
+            }
+        ]
+    },
+    {
+        "en": "apple juice",
+        "pt": "suco de maçã",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A beverage made from pressed apples",
+        "examples": [
+            {
+                "affirmativeEn": "I drink apple juice",
+                "affirmativePt": "Eu bebo suco de maçã",
+                "negativeEn": "I don't drink apple juice",
+                "negativePt": "Eu não bebo suco de maçã",
+                "interrogativeEn": "Do you drink apple juice?",
+                "interrogativePt": "Você bebe suco de maçã?"
+            },
+            {
+                "affirmativeEn": "He bought fresh apple juice",
+                "affirmativePt": "Ele comprou suco de maçã fresco",
+                "negativeEn": "He didn't buy fresh apple juice",
+                "negativePt": "Ele não comprou suco de maçã fresco",
+                "interrogativeEn": "Did he buy fresh apple juice?",
+                "interrogativePt": "Ele comprou suco de maçã fresco?"
+            },
+            {
+                "affirmativeEn": "This apple juice is sweet",
+                "affirmativePt": "Este suco de maçã é doce",
+                "negativeEn": "This apple juice is not sweet",
+                "negativePt": "Este suco de maçã não é doce",
+                "interrogativeEn": "Is this apple juice sweet?",
+                "interrogativePt": "Este suco de maçã é doce?"
+            }
+        ]
+    },
+    {
+        "en": "avocado",
+        "pt": "abacate",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A green fruit with creamy flesh and a large seed",
+        "examples": [
+            {
+                "affirmativeEn": "I eat avocado on toast",
+                "affirmativePt": "Eu como abacate no torrada",
+                "negativeEn": "I don't eat avocado on toast",
+                "negativePt": "Eu não como abacate no torrada",
+                "interrogativeEn": "Do you eat avocado on toast?",
+                "interrogativePt": "Você come abacate no torrada?"
+            },
+            {
+                "affirmativeEn": "She mashed avocado for guacamole",
+                "affirmativePt": "Ela amassou abacate para guacamole",
+                "negativeEn": "She didn't mash avocado for guacamole",
+                "negativePt": "Ela não amassou abacate para guacamole",
+                "interrogativeEn": "Did she mash avocado for guacamole?",
+                "interrogativePt": "Ela amassou abacate para guacamole?"
+            },
+            {
+                "affirmativeEn": "This avocado is ripe",
+                "affirmativePt": "Este abacate está maduro",
+                "negativeEn": "This avocado is not ripe",
+                "negativePt": "Este abacate não está maduro",
+                "interrogativeEn": "Is this avocado ripe?",
+                "interrogativePt": "Este abacate está maduro?"
+            }
+        ]
+    },
+    {
+        "en": "broccoli",
+        "pt": "brócolis",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A green cruciferous vegetable with tree-like florets",
+        "examples": [
+            {
+                "affirmativeEn": "I steam broccoli for dinner",
+                "affirmativePt": "Eu cozinho brócolis no vapor para o jantar",
+                "negativeEn": "I don't steam broccoli for dinner",
+                "negativePt": "Eu não cozinho brócolis no vapor para o jantar",
+                "interrogativeEn": "Do you steam broccoli for dinner?",
+                "interrogativePt": "Você cozinha brócolis no vapor para o jantar?"
+            },
+            {
+                "affirmativeEn": "He roasted broccoli with olive oil",
+                "affirmativePt": "Ele assou brócolis com azeite",
+                "negativeEn": "He didn't roast broccoli with olive oil",
+                "negativePt": "Ele não assou brócolis com azeite",
+                "interrogativeEn": "Did he roast broccoli with olive oil?",
+                "interrogativePt": "Ele assou brócolis com azeite?"
+            },
+            {
+                "affirmativeEn": "This broccoli is fresh",
+                "affirmativePt": "Este brócolis é fresco",
+                "negativeEn": "This broccoli is not fresh",
+                "negativePt": "Este brócolis não é fresco",
+                "interrogativeEn": "Is this broccoli fresh?",
+                "interrogativePt": "Este brócolis é fresco?"
+            }
+        ]
+    },
+    {
+        "en": "spinach",
+        "pt": "espinafre",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A dark leafy green vegetable rich in iron",
+        "examples": [
+            {
+                "affirmativeEn": "I add spinach to my smoothie",
+                "affirmativePt": "Eu adiciono espinafre ao meu smoothie",
+                "negativeEn": "I don't add spinach to my smoothie",
+                "negativePt": "Eu não adiciono espinafre ao meu smoothie",
+                "interrogativeEn": "Do you add spinach to your smoothie?",
+                "interrogativePt": "Você adiciona espinafre ao seu smoothie?"
+            },
+            {
+                "affirmativeEn": "She cooked spinach with garlic",
+                "affirmativePt": "Ela cozinhou espinafre com alho",
+                "negativeEn": "She didn't cook spinach with garlic",
+                "negativePt": "Ela não cozinhou espinafre com alho",
+                "interrogativeEn": "Did she cook spinach with garlic?",
+                "interrogativePt": "Ela cozinhou espinafre com alho?"
+            },
+            {
+                "affirmativeEn": "This spinach is nutritious",
+                "affirmativePt": "Este espinafre é nutritivo",
+                "negativeEn": "This spinach is not nutritious",
+                "negativePt": "Este espinafre não é nutritivo",
+                "interrogativeEn": "Is this spinach nutritious?",
+                "interrogativePt": "Este espinafre é nutritivo?"
+            }
+        ]
+    },
+    {
+        "en": "grapes",
+        "pt": "uvas",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "Small round fruits that grow in clusters",
+        "examples": [
+            {
+                "affirmativeEn": "I eat green grapes",
+                "affirmativePt": "Eu como uvas verdes",
+                "negativeEn": "I don't eat green grapes",
+                "negativePt": "Eu não como uvas verdes",
+                "interrogativeEn": "Do you eat green grapes?",
+                "interrogativePt": "Você come uvas verdes?"
+            },
+            {
+                "affirmativeEn": "She bought purple grapes",
+                "affirmativePt": "Ela comprou uvas roxas",
+                "negativeEn": "She didn't buy purple grapes",
+                "negativePt": "Ela não comprou uvas roxas",
+                "interrogativeEn": "Did she buy purple grapes?",
+                "interrogativePt": "Ela comprou uvas roxas?"
+            },
+            {
+                "affirmativeEn": "These grapes are juicy",
+                "affirmativePt": "Estas uvas são suculentas",
+                "negativeEn": "These grapes are not juicy",
+                "negativePt": "Estas uvas não são suculentas",
+                "interrogativeEn": "Are these grapes juicy?",
+                "interrogativePt": "Estas uvas são suculentas?"
+            }
+        ]
+    },
+    {
+        "en": "pasta",
+        "pt": "macarrão",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A dish made from wheat flour and water, shaped into various forms",
+        "examples": [
+            {
+                "affirmativeEn": "I cook pasta for lunch",
+                "affirmativePt": "Eu cozinho macarrão para o almoço",
+                "negativeEn": "I don't cook pasta for lunch",
+                "negativePt": "Eu não cozinho macarrão para o almoço",
+                "interrogativeEn": "Do you cook pasta for lunch?",
+                "interrogativePt": "Você cozinha macarrão para o almoço?"
+            },
+            {
+                "affirmativeEn": "He made fresh pasta",
+                "affirmativePt": "Ele fez macarrão fresco",
+                "negativeEn": "He didn't make fresh pasta",
+                "negativePt": "Ele não fez macarrão fresco",
+                "interrogativeEn": "Did he make fresh pasta?",
+                "interrogativePt": "Ele fez macarrão fresco?"
+            },
+            {
+                "affirmativeEn": "This pasta is al dente",
+                "affirmativePt": "Este macarrão é al dente",
+                "negativeEn": "This pasta is not al dente",
+                "negativePt": "Este macarrão não é al dente",
+                "interrogativeEn": "Is this pasta al dente?",
+                "interrogativePt": "Este macarrão é al dente?"
+            }
+        ]
+    },
+    {
+        "en": "pizza",
+        "pt": "pizza",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A baked dish of Italian origin consisting of a flat bread base with cheese and toppings",
+        "examples": [
+            {
+                "affirmativeEn": "I eat pizza on weekends",
+                "affirmativePt": "Eu como pizza nos fins de semana",
+                "negativeEn": "I don't eat pizza on weekends",
+                "negativePt": "Eu não como pizza nos fins de semana",
+                "interrogativeEn": "Do you eat pizza on weekends?",
+                "interrogativePt": "Você come pizza nos fins de semana?"
+            },
+            {
+                "affirmativeEn": "He ordered vegetarian pizza",
+                "affirmativePt": "Ele pediu pizza vegetariana",
+                "negativeEn": "He didn't order vegetarian pizza",
+                "negativePt": "Ele não pediu pizza vegetariana",
+                "interrogativeEn": "Did he order vegetarian pizza?",
+                "interrogativePt": "Ele pediu pizza vegetariana?"
+            },
+            {
+                "affirmativeEn": "This pizza is delicious",
+                "affirmativePt": "Esta pizza é deliciosa",
+                "negativeEn": "This pizza is not delicious",
+                "negativePt": "Esta pizza não é deliciosa",
+                "interrogativeEn": "Is this pizza delicious?",
+                "interrogativePt": "Esta pizza é deliciosa?"
+            }
+        ]
+    },
+    {
+        "en": "sandwich",
+        "pt": "sanduíche",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "Two slices of bread with filling in between",
+        "examples": [
+            {
+                "affirmativeEn": "I eat a sandwich for lunch",
+                "affirmativePt": "Eu como um sanduíche no almoço",
+                "negativeEn": "I don't eat a sandwich for lunch",
+                "negativePt": "Eu não como um sanduíche no almoço",
+                "interrogativeEn": "Do you eat a sandwich for lunch?",
+                "interrogativePt": "Você come um sanduíche no almoço?"
+            },
+            {
+                "affirmativeEn": "He made a turkey sandwich",
+                "affirmativePt": "Ele fez um sanduíche de peru",
+                "negativeEn": "He didn't make a turkey sandwich",
+                "negativePt": "Ele não fez um sanduíche de peru",
+                "interrogativeEn": "Did he make a turkey sandwich?",
+                "interrogativePt": "Ele fez um sanduíche de peru?"
+            },
+            {
+                "affirmativeEn": "This sandwich is tasty",
+                "affirmativePt": "Este sanduíche é saboroso",
+                "negativeEn": "This sandwich is not tasty",
+                "negativePt": "Este sanduíche não é saboroso",
+                "interrogativeEn": "Is this sandwich tasty?",
+                "interrogativePt": "Este sanduíche é saboroso?"
+            }
+        ]
+    },
+    {
+        "en": "soup",
+        "pt": "sopa",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A liquid dish typically made by simmering ingredients in broth",
+        "examples": [
+            {
+                "affirmativeEn": "I enjoy chicken soup",
+                "affirmativePt": "Eu gosto de sopa de frango",
+                "negativeEn": "I don't enjoy chicken soup",
+                "negativePt": "Eu não gosto de sopa de frango",
+                "interrogativeEn": "Do you enjoy chicken soup?",
+                "interrogativePt": "Você gosta de sopa de frango?"
+            },
+            {
+                "affirmativeEn": "She made vegetable soup",
+                "affirmativePt": "Ela fez sopa de vegetais",
+                "negativeEn": "She didn't make vegetable soup",
+                "negativePt": "Ela não fez sopa de vegetais",
+                "interrogativeEn": "Did she make vegetable soup?",
+                "interrogativePt": "Ela fez sopa de vegetais?"
+            },
+            {
+                "affirmativeEn": "This soup is hot",
+                "affirmativePt": "Esta sopa está quente",
+                "negativeEn": "This soup is not hot",
+                "negativePt": "Esta sopa não está quente",
+                "interrogativeEn": "Is this soup hot?",
+                "interrogativePt": "Esta sopa está quente?"
+            }
+        ]
+    },
+    {
+        "en": "salad",
+        "pt": "salada",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A dish of raw vegetables typically served with dressing",
+        "examples": [
+            {
+                "affirmativeEn": "I eat salad for dinner",
+                "affirmativePt": "Eu como salada no jantar",
+                "negativeEn": "I don't eat salad for dinner",
+                "negativePt": "Eu não como salada no jantar",
+                "interrogativeEn": "Do you eat salad for dinner?",
+                "interrogativePt": "Você come salada no jantar?"
+            },
+            {
+                "affirmativeEn": "She prepared a Greek salad",
+                "affirmativePt": "Ela preparou uma salada grega",
+                "negativeEn": "She didn't prepare a Greek salad",
+                "negativePt": "Ela não preparou uma salada grega",
+                "interrogativeEn": "Did she prepare a Greek salad?",
+                "interrogativePt": "Ela preparou uma salada grega?"
+            },
+            {
+                "affirmativeEn": "This salad is healthy",
+                "affirmativePt": "Esta salada é saudável",
+                "negativeEn": "This salad is not healthy",
+                "negativePt": "Esta salada não é saudável",
+                "interrogativeEn": "Is this salad healthy?",
+                "interrogativePt": "Esta salada é saudável?"
+            }
+        ]
+    },
+    {
+        "en": "steak",
+        "pt": "bife",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A thick slice of meat, typically beef, suitable for grilling",
+        "examples": [
+            {
+                "affirmativeEn": "I grill steak on summer evenings",
+                "affirmativePt": "Eu grelhar bife nas noites de verão",
+                "negativeEn": "I don't grill steak on summer evenings",
+                "negativePt": "Eu não grelhar bife nas noites de verão",
+                "interrogativeEn": "Do you grill steak on summer evenings?",
+                "interrogativePt": "Você grelhar bife nas noites de verão?"
+            },
+            {
+                "affirmativeEn": "He cooked a medium-rare steak",
+                "affirmativePt": "Ele cozinhou um bife ao ponto",
+                "negativeEn": "He didn't cook a medium-rare steak",
+                "negativePt": "Ele não cozinhou um bife ao ponto",
+                "interrogativeEn": "Did he cook a medium-rare steak?",
+                "interrogativePt": "Ele cozinhou um bife ao ponto?"
+            },
+            {
+                "affirmativeEn": "This steak is tender",
+                "affirmativePt": "Este bife é macio",
+                "negativeEn": "This steak is not tender",
+                "negativePt": "Este bife não é macio",
+                "interrogativeEn": "Is this steak tender?",
+                "interrogativePt": "Este bife é macio?"
+            }
+        ]
+    },
+    {
+        "en": "mango",
+        "pt": "manga",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A tropical stone fruit with sweet flesh and a large pit",
+        "examples": [
+            {
+                "affirmativeEn": "I eat mango in the summer",
+                "affirmativePt": "Eu como manga no verão",
+                "negativeEn": "I don't eat mango in the summer",
+                "negativePt": "Eu não como manga no verão",
+                "interrogativeEn": "Do you eat mango in the summer?",
+                "interrogativePt": "Você come manga no verão?"
+            },
+            {
+                "affirmativeEn": "She sliced fresh mango",
+                "affirmativePt": "Ela fatiou manga fresca",
+                "negativeEn": "She didn't slice fresh mango",
+                "negativePt": "Ela não fatiou manga fresca",
+                "interrogativeEn": "Did she slice fresh mango?",
+                "interrogativePt": "Ela fatiou manga fresca?"
+            },
+            {
+                "affirmativeEn": "This mango is ripe",
+                "affirmativePt": "Esta manga está madura",
+                "negativeEn": "This mango is not ripe",
+                "negativePt": "Esta manga não está madura",
+                "interrogativeEn": "Is this mango ripe?",
+                "interrogativePt": "Esta manga está madura?"
+            }
+        ]
+    },
+    {
+        "en": "pineapple",
+        "pt": "abacaxi",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A tropical fruit with spiky skin and sweet yellow flesh",
+        "examples": [
+            {
+                "affirmativeEn": "I like pineapple juice",
+                "affirmativePt": "Eu gosto de suco de abacaxi",
+                "negativeEn": "I don't like pineapple juice",
+                "negativePt": "Eu não gosto de suco de abacaxi",
+                "interrogativeEn": "Do you like pineapple juice?",
+                "interrogativePt": "Você gosta de suco de abacaxi?"
+            },
+            {
+                "affirmativeEn": "She cut pineapple into chunks",
+                "affirmativePt": "Ela cortou abacaxi em pedaços",
+                "negativeEn": "She didn't cut pineapple into chunks",
+                "negativePt": "Ela não cortou abacaxi em pedaços",
+                "interrogativeEn": "Did she cut pineapple into chunks?",
+                "interrogativePt": "Ela cortou abacaxi em pedaços?"
+            },
+            {
+                "affirmativeEn": "This pineapple is sweet",
+                "affirmativePt": "Este abacaxi é doce",
+                "negativeEn": "This pineapple is not sweet",
+                "negativePt": "Este abacaxi não é doce",
+                "interrogativeEn": "Is this pineapple sweet?",
+                "interrogativePt": "Este abacaxi é doce?"
+            }
+        ]
+    },
+    {
+        "en": "watermelon",
+        "pt": "melancia",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A large round fruit with green skin and red watery flesh",
+        "examples": [
+            {
+                "affirmativeEn": "I eat watermelon in summer",
+                "affirmativePt": "Eu como melancia no verão",
+                "negativeEn": "I don't eat watermelon in summer",
+                "negativePt": "Eu não como melancia no verão",
+                "interrogativeEn": "Do you eat watermelon in summer?",
+                "interrogativePt": "Você come melancia no verão?"
+            },
+            {
+                "affirmativeEn": "He cut watermelon into slices",
+                "affirmativePt": "Ele cortou melancia em fatias",
+                "negativeEn": "He didn't cut watermelon into slices",
+                "negativePt": "Ele não cortou melancia em fatias",
+                "interrogativeEn": "Did he cut watermelon into slices?",
+                "interrogativePt": "Ele cortou melancia em fatias?"
+            },
+            {
+                "affirmativeEn": "This watermelon is refreshing",
+                "affirmativePt": "Esta melancia é refrescante",
+                "negativeEn": "This watermelon is not refreshing",
+                "negativePt": "Esta melancia não é refrescante",
+                "interrogativeEn": "Is this watermelon refreshing?",
+                "interrogativePt": "Esta melancia é refrescante?"
+            }
+        ]
+    },
+    {
+        "en": "cake",
+        "pt": "bolo",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A sweet baked dessert typically made with flour, sugar, and eggs",
+        "examples": [
+            {
+                "affirmativeEn": "I bake a cake for birthdays",
+                "affirmativePt": "Eu faço um bolo para aniversários",
+                "negativeEn": "I don't bake a cake for birthdays",
+                "negativePt": "Eu não faço um bolo para aniversários",
+                "interrogativeEn": "Do you bake a cake for birthdays?",
+                "interrogativePt": "Você faz um bolo para aniversários?"
+            },
+            {
+                "affirmativeEn": "She decorated the chocolate cake",
+                "affirmativePt": "Ela decorou o bolo de chocolate",
+                "negativeEn": "She didn't decorate the chocolate cake",
+                "negativePt": "Ela não decorou o bolo de chocolate",
+                "interrogativeEn": "Did she decorate the chocolate cake?",
+                "interrogativePt": "Ela decorou o bolo de chocolate?"
+            },
+            {
+                "affirmativeEn": "This cake is moist",
+                "affirmativePt": "Este bolo é úmido",
+                "negativeEn": "This cake is not moist",
+                "negativePt": "Este bolo não é úmido",
+                "interrogativeEn": "Is this cake moist?",
+                "interrogativePt": "Este bolo é úmido?"
+            }
+        ]
+    },
+    {
+        "en": "ice cream",
+        "pt": "sorvete",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A frozen dessert made from cream or milk with added flavorings",
+        "examples": [
+            {
+                "affirmativeEn": "I eat ice cream in summer",
+                "affirmativePt": "Eu como sorvete no verão",
+                "negativeEn": "I don't eat ice cream in summer",
+                "negativePt": "Eu não como sorvete no verão",
+                "interrogativeEn": "Do you eat ice cream in summer?",
+                "interrogativePt": "Você come sorvete no verão?"
+            },
+            {
+                "affirmativeEn": "He bought vanilla ice cream",
+                "affirmativePt": "Ele comprou sorvete de baunilha",
+                "negativeEn": "He didn't buy vanilla ice cream",
+                "negativePt": "Ele não comprou sorvete de baunilha",
+                "interrogativeEn": "Did he buy vanilla ice cream?",
+                "interrogativePt": "Ele comprou sorvete de baunilha?"
+            },
+            {
+                "affirmativeEn": "This ice cream is creamy",
+                "affirmativePt": "Este sorvete é cremoso",
+                "negativeEn": "This ice cream is not creamy",
+                "negativePt": "Este sorvete não é cremoso",
+                "interrogativeEn": "Is this ice cream creamy?",
+                "interrogativePt": "Este sorvete é cremoso?"
+            }
+        ]
+    },
+    {
+        "en": "cookie",
+        "pt": "biscoito",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A small sweet baked treat typically made with flour and sugar",
+        "examples": [
+            {
+                "affirmativeEn": "I eat cookies with coffee",
+                "affirmativePt": "Eu como biscoitos com café",
+                "negativeEn": "I don't eat cookies with coffee",
+                "negativePt": "Eu não como biscoitos com café",
+                "interrogativeEn": "Do you eat cookies with coffee?",
+                "interrogativePt": "Você come biscoitos com café?"
+            },
+            {
+                "affirmativeEn": "She baked chocolate chip cookies",
+                "affirmativePt": "Ela assou biscoitos com gotas de chocolate",
+                "negativeEn": "She didn't bake chocolate chip cookies",
+                "negativePt": "Ela não assou biscoitos com gotas de chocolate",
+                "interrogativeEn": "Did she bake chocolate chip cookies?",
+                "interrogativePt": "Ela assou biscoitos com gotas de chocolate?"
+            },
+            {
+                "affirmativeEn": "These cookies are crispy",
+                "affirmativePt": "Estes biscoitos são crocantes",
+                "negativeEn": "These cookies are not crispy",
+                "negativePt": "Estes biscoitos não são crocantes",
+                "interrogativeEn": "Are these cookies crispy?",
+                "interrogativePt": "Estes biscoitos são crocantes?"
+            }
+        ]
+    },
+    {
+        "en": "donut",
+        "pt": "rosquinha",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A fried pastry with a hole in the center, often glazed or frosted",
+        "examples": [
+            {
+                "affirmativeEn": "I buy donuts on weekends",
+                "affirmativePt": "Eu compro rosquinhas nos fins de semana",
+                "negativeEn": "I don't buy donuts on weekends",
+                "negativePt": "Eu não compro rosquinhas nos fins de semana",
+                "interrogativeEn": "Do you buy donuts on weekends?",
+                "interrogativePt": "Você compra rosquinhas nos fins de semana?"
+            },
+            {
+                "affirmativeEn": "He ate a glazed donut",
+                "affirmativePt": "Ele comeu uma rosquinha coberta",
+                "negativeEn": "He didn't eat a glazed donut",
+                "negativePt": "Ele não comeu uma rosquinha coberta",
+                "interrogativeEn": "Did he eat a glazed donut?",
+                "interrogativePt": "Ele comeu uma rosquinha coberta?"
+            },
+            {
+                "affirmativeEn": "This donut is fluffy",
+                "affirmativePt": "Esta rosquinha é fofa",
+                "negativeEn": "This donut is not fluffy",
+                "negativePt": "Esta rosquinha não é fofa",
+                "interrogativeEn": "Is this donut fluffy?",
+                "interrogativePt": "Esta rosquinha é fofa?"
+            }
+        ]
+    },
+    {
+        "en": "ham",
+        "pt": "presunto",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "Cured meat from the hind leg of a pig",
+        "examples": [
+            {
+                "affirmativeEn": "I use ham in sandwiches",
+                "affirmativePt": "Eu uso presunto em sanduíches",
+                "negativeEn": "I don't use ham in sandwiches",
+                "negativePt": "Eu não uso presunto em sanduíches",
+                "interrogativeEn": "Do you use ham in sandwiches?",
+                "interrogativePt": "Você usa presunto em sanduíches?"
+            },
+            {
+                "affirmativeEn": "She sliced ham for breakfast",
+                "affirmativePt": "Ela fatiou presunto para o café da manhã",
+                "negativeEn": "She didn't slice ham for breakfast",
+                "negativePt": "Ela não fatiou presunto para o café da manhã",
+                "interrogativeEn": "Did she slice ham for breakfast?",
+                "interrogativePt": "Ela fatiou presunto para o café da manhã?"
+            },
+            {
+                "affirmativeEn": "This ham is salty",
+                "affirmativePt": "Este presunto é salgado",
+                "negativeEn": "This ham is not salty",
+                "negativePt": "Este presunto não é salgado",
+                "interrogativeEn": "Is this ham salty?",
+                "interrogativePt": "Este presunto é salgado?"
+            }
+        ]
+    },
+    {
+        "en": "bacon",
+        "pt": "bacon",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "Cured and smoked strips of pork belly",
+        "examples": [
+            {
+                "affirmativeEn": "I fry bacon for breakfast",
+                "affirmativePt": "Eu frito bacon no café da manhã",
+                "negativeEn": "I don't fry bacon for breakfast",
+                "negativePt": "Eu não frito bacon no café da manhã",
+                "interrogativeEn": "Do you fry bacon for breakfast?",
+                "interrogativePt": "Você frita bacon no café da manhã?"
+            },
+            {
+                "affirmativeEn": "He added bacon to the salad",
+                "affirmativePt": "Ele adicionou bacon à salada",
+                "negativeEn": "He didn't add bacon to the salad",
+                "negativePt": "Ele não adicionou bacon à salada",
+                "interrogativeEn": "Did he add bacon to the salad?",
+                "interrogativePt": "Ele adicionou bacon à salada?"
+            },
+            {
+                "affirmativeEn": "This bacon is crispy",
+                "affirmativePt": "Este bacon é crocante",
+                "negativeEn": "This bacon is not crispy",
+                "negativePt": "Este bacon não é crocante",
+                "interrogativeEn": "Is this bacon crispy?",
+                "interrogativePt": "Este bacon é crocante?"
+            }
+        ]
+    },
+    {
+        "en": "sausage",
+        "pt": "linguiça",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "Ground meat seasoned and stuffed into a casing",
+        "examples": [
+            {
+                "affirmativeEn": "I cook sausage for dinner",
+                "affirmativePt": "Eu cozinho linguiça para o jantar",
+                "negativeEn": "I don't cook sausage for dinner",
+                "negativePt": "Eu não cozinho linguiça para o jantar",
+                "interrogativeEn": "Do you cook sausage for dinner?",
+                "interrogativePt": "Você cozinha linguiça para o jantar?"
+            },
+            {
+                "affirmativeEn": "She grilled sausages",
+                "affirmativePt": "Ela grelhava linguiças",
+                "negativeEn": "She didn't grill sausages",
+                "negativePt": "Ela não grelhava linguiças",
+                "interrogativeEn": "Did she grill sausages?",
+                "interrogativePt": "Ela grelhava linguiças?"
+            },
+            {
+                "affirmativeEn": "This sausage is spicy",
+                "affirmativePt": "Esta linguiça é apimentada",
+                "negativeEn": "This sausage is not spicy",
+                "negativePt": "Esta linguiça não é apimentada",
+                "interrogativeEn": "Is this sausage spicy?",
+                "interrogativePt": "Esta linguiça é apimentada?"
+            }
+        ]
+    },
+    {
+        "en": "tuna",
+        "pt": "atum",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A large saltwater fish commonly used in cooking",
+        "examples": [
+            {
+                "affirmativeEn": "I eat tuna salad",
+                "affirmativePt": "Eu como salada de atum",
+                "negativeEn": "I don't eat tuna salad",
+                "negativePt": "Eu não como salada de atum",
+                "interrogativeEn": "Do you eat tuna salad?",
+                "interrogativePt": "Você come salada de atum?"
+            },
+            {
+                "affirmativeEn": "He canned tuna",
+                "affirmativePt": "Ele enlatou atum",
+                "negativeEn": "He didn't can tuna",
+                "negativePt": "Ele não enlatou atum",
+                "interrogativeEn": "Did he can tuna?",
+                "interrogativePt": "Ele enlatou atum?"
+            },
+            {
+                "affirmativeEn": "This tuna is fresh",
+                "affirmativePt": "Este atum é fresco",
+                "negativeEn": "This tuna is not fresh",
+                "negativePt": "Este atum não é fresco",
+                "interrogativeEn": "Is this tuna fresh?",
+                "interrogativePt": "Este atum é fresco?"
+            }
+        ]
+    },
+    {
+        "en": "shrimp",
+        "pt": "camarão",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A small crustacean with a tail, commonly used in seafood dishes",
+        "examples": [
+            {
+                "affirmativeEn": "I cook shrimp with garlic",
+                "affirmativePt": "Eu cozinho camarão com alho",
+                "negativeEn": "I don't cook shrimp with garlic",
+                "negativePt": "Eu não cozinho camarão com alho",
+                "interrogativeEn": "Do you cook shrimp with garlic?",
+                "interrogativePt": "Você cozinha camarão com alho?"
+            },
+            {
+                "affirmativeEn": "She grilled fresh shrimp",
+                "affirmativePt": "Ela grelhava camarão fresco",
+                "negativeEn": "She didn't grill fresh shrimp",
+                "negativePt": "Ela não grelhava camarão fresco",
+                "interrogativeEn": "Did she grill fresh shrimp?",
+                "interrogativePt": "Ela grelhava camarão fresco?"
+            },
+            {
+                "affirmativeEn": "This shrimp is tender",
+                "affirmativePt": "Este camarão é macio",
+                "negativeEn": "This shrimp is not tender",
+                "negativePt": "Este camarão não é macio",
+                "interrogativeEn": "Is this shrimp tender?",
+                "interrogativePt": "Este camarão é macio?"
+            }
+        ]
+    },
+    {
+        "en": "walnut",
+        "pt": "noz",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A hard-shelled nut with a wrinkled seed inside",
+        "examples": [
+            {
+                "affirmativeEn": "I eat walnuts as a snack",
+                "affirmativePt": "Eu como nozes como lanche",
+                "negativeEn": "I don't eat walnuts as a snack",
+                "negativePt": "Eu não como nozes como lanche",
+                "interrogativeEn": "Do you eat walnuts as a snack?",
+                "interrogativePt": "Você come nozes como lanche?"
+            },
+            {
+                "affirmativeEn": "She added walnuts to the cake",
+                "affirmativePt": "Ela adicionou nozes ao bolo",
+                "negativeEn": "She didn't add walnuts to the cake",
+                "negativePt": "Ela não adicionou nozes ao bolo",
+                "interrogativeEn": "Did she add walnuts to the cake?",
+                "interrogativePt": "Ela adicionou nozes ao bolo?"
+            },
+            {
+                "affirmativeEn": "These walnuts are crunchy",
+                "affirmativePt": "Estas nozes são crocantes",
+                "negativeEn": "These walnuts are not crunchy",
+                "negativePt": "Estas nozes não são crocantes",
+                "interrogativeEn": "Are these walnuts crunchy?",
+                "interrogativePt": "Estas nozes são crocantes?"
+            }
+        ]
+    },
+    {
+        "en": "coconut",
+        "pt": "coco",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A tropical fruit with a hard shell and white flesh",
+        "examples": [
+            {
+                "affirmativeEn": "I drink coconut water",
+                "affirmativePt": "Eu bebo água de coco",
+                "negativeEn": "I don't drink coconut water",
+                "negativePt": "Eu não bebo água de coco",
+                "interrogativeEn": "Do you drink coconut water?",
+                "interrogativePt": "Você bebe água de coco?"
+            },
+            {
+                "affirmativeEn": "She shredded fresh coconut",
+                "affirmativePt": "Ela ralou coco fresco",
+                "negativeEn": "She didn't shred fresh coconut",
+                "negativePt": "Ela não ralou coco fresco",
+                "interrogativeEn": "Did she shred fresh coconut?",
+                "interrogativePt": "Ela ralou coco fresco?"
+            },
+            {
+                "affirmativeEn": "This coconut is fresh",
+                "affirmativePt": "Este coco é fresco",
+                "negativeEn": "This coconut is not fresh",
+                "negativePt": "Este coco não é fresco",
+                "interrogativeEn": "Is this coconut fresh?",
+                "interrogativePt": "Este coco é fresco?"
+            }
+        ]
+    },
+    {
+        "en": "tofu",
+        "pt": "tofu",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A food made from soy milk curds, common in Asian cuisine",
+        "examples": [
+            {
+                "affirmativeEn": "I cook tofu in stir-fry",
+                "affirmativePt": "Eu cozinho tofu em refogado",
+                "negativeEn": "I don't cook tofu in stir-fry",
+                "negativePt": "Eu não cozinho tofu em refogado",
+                "interrogativeEn": "Do you cook tofu in stir-fry?",
+                "interrogativePt": "Você cozinha tofu em refogado?"
+            },
+            {
+                "affirmativeEn": "She marinated tofu overnight",
+                "affirmativePt": "Ela marinhou tofu durante a noite",
+                "negativeEn": "She didn't marinate tofu overnight",
+                "negativePt": "Ela não marinhou tofu durante a noite",
+                "interrogativeEn": "Did she marinate tofu overnight?",
+                "interrogativePt": "Ela marinhou tofu durante a noite?"
+            },
+            {
+                "affirmativeEn": "This tofu is soft",
+                "affirmativePt": "Este tofu é macio",
+                "negativeEn": "This tofu is not soft",
+                "negativePt": "Este tofu não é macio",
+                "interrogativeEn": "Is this tofu soft?",
+                "interrogativePt": "Este tofu é macio?"
+            }
+        ]
+    },
+    {
+        "en": "peanut",
+        "pt": "amendoim",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A legume that grows underground with edible seeds",
+        "examples": [
+            {
+                "affirmativeEn": "I eat peanuts as a snack",
+                "affirmativePt": "Eu como amendoim como lanche",
+                "negativeEn": "I don't eat peanuts as a snack",
+                "negativePt": "Eu não como amendoim como lanche",
+                "interrogativeEn": "Do you eat peanuts as a snack?",
+                "interrogativePt": "Você come amendoim como lanche?"
+            },
+            {
+                "affirmativeEn": "She made peanut butter",
+                "affirmativePt": "Ela fez manteiga de amendoim",
+                "negativeEn": "She didn't make peanut butter",
+                "negativePt": "Ela não fez manteiga de amendoim",
+                "interrogativeEn": "Did she make peanut butter?",
+                "interrogativePt": "Ela fez manteiga de amendoim?"
+            },
+            {
+                "affirmativeEn": "These peanuts are roasted",
+                "affirmativePt": "Estes amendoins são torrados",
+                "negativeEn": "These peanuts are not roasted",
+                "negativePt": "Estes amendoins não são torrados",
+                "interrogativeEn": "Are these peanuts roasted?",
+                "interrogativePt": "Estes amendoins são torrados?"
+            }
+        ]
+    },
+    {
+        "en": "almond",
+        "pt": "amêndoa",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A tree nut with a thin shell and white kernel",
+        "examples": [
+            {
+                "affirmativeEn": "I drink almond milk",
+                "affirmativePt": "Eu bebo leite de amêndoa",
+                "negativeEn": "I don't drink almond milk",
+                "negativePt": "Eu não bebo leite de amêndoa",
+                "interrogativeEn": "Do you drink almond milk?",
+                "interrogativePt": "Você bebe leite de amêndoa?"
+            },
+            {
+                "affirmativeEn": "She roasted almonds with salt",
+                "affirmativePt": "Ela torrou amêndoas com sal",
+                "negativeEn": "She didn't roast almonds with salt",
+                "negativePt": "Ela não torrou amêndoas com sal",
+                "interrogativeEn": "Did she roast almonds with salt?",
+                "interrogativePt": "Ela torrou amêndoas com sal?"
+            },
+            {
+                "affirmativeEn": "These almonds are sweet",
+                "affirmativePt": "Estas amêndoas são doces",
+                "negativeEn": "These almonds are not sweet",
+                "negativePt": "Estas amêndoas não são doces",
+                "interrogativeEn": "Are these almonds sweet?",
+                "interrogativePt": "Estas amêndoas são doces?"
+            }
+        ]
+    },
+    {
+        "en": "cashew",
+        "pt": "caju",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A curved kidney-shaped nut with a creamy texture",
+        "examples": [
+            {
+                "affirmativeEn": "I snack on cashews",
+                "affirmativePt": "Eu lancho com cajus",
+                "negativeEn": "I don't snack on cashews",
+                "negativePt": "Eu não lancho com cajus",
+                "interrogativeEn": "Do you snack on cashews?",
+                "interrogativePt": "Você lancheia com cajus?"
+            },
+            {
+                "affirmativeEn": "He bought roasted cashews",
+                "affirmativePt": "Ele comprou cajus torrados",
+                "negativeEn": "He didn't buy roasted cashews",
+                "negativePt": "Ele não comprou cajus torrados",
+                "interrogativeEn": "Did he buy roasted cashews?",
+                "interrogativePt": "Ele comprou cajus torrados?"
+            },
+            {
+                "affirmativeEn": "This cashew is creamy",
+                "affirmativePt": "Este caju é cremoso",
+                "negativeEn": "This cashew is not creamy",
+                "negativePt": "Este caju não é cremoso",
+                "interrogativeEn": "Is this cashew creamy?",
+                "interrogativePt": "Este caju é cremoso?"
+            }
+        ]
+    },
+    {
+        "en": "cherry",
+        "pt": "cereja",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A small round fruit with a pit and glossy red skin",
+        "examples": [
+            {
+                "affirmativeEn": "I eat fresh cherries in summer",
+                "affirmativePt": "Eu como cerejas frescas no verão",
+                "negativeEn": "I don't eat fresh cherries in summer",
+                "negativePt": "Eu não como cerejas frescas no verão",
+                "interrogativeEn": "Do you eat fresh cherries in summer?",
+                "interrogativePt": "Você come cerejas frescas no verão?"
+            },
+            {
+                "affirmativeEn": "She picked ripe cherries from the tree",
+                "affirmativePt": "Ela colheu cerejas maduras da árvore",
+                "negativeEn": "She didn't pick ripe cherries from the tree",
+                "negativePt": "Ela não colheu cerejas maduras da árvore",
+                "interrogativeEn": "Did she pick ripe cherries from the tree?",
+                "interrogativePt": "Ela colheu cerejas maduras da árvore?"
+            },
+            {
+                "affirmativeEn": "These cherries are sweet",
+                "affirmativePt": "Estas cerejas são doces",
+                "negativeEn": "These cherries are not sweet",
+                "negativePt": "Estas cerejas não são doces",
+                "interrogativeEn": "Are these cherries sweet?",
+                "interrogativePt": "Estas cerejas são doces?"
+            }
+        ]
+    },
+    {
+        "en": "blueberry",
+        "pt": "mirtilo",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A small round blue berry rich in antioxidants",
+        "examples": [
+            {
+                "affirmativeEn": "I add blueberries to my yogurt",
+                "affirmativePt": "Eu adiciono mirtilos ao meu iogurte",
+                "negativeEn": "I don't add blueberries to my yogurt",
+                "negativePt": "Eu não adiciono mirtilos ao meu iogurte",
+                "interrogativeEn": "Do you add blueberries to your yogurt?",
+                "interrogativePt": "Você adiciona mirtilos ao seu iogurte?"
+            },
+            {
+                "affirmativeEn": "She baked blueberry muffins",
+                "affirmativePt": "Ela assou muffins de mirtilo",
+                "negativeEn": "She didn't bake blueberry muffins",
+                "negativePt": "Ela não assou muffins de mirtilo",
+                "interrogativeEn": "Did she bake blueberry muffins?",
+                "interrogativePt": "Ela assou muffins de mirtilo?"
+            },
+            {
+                "affirmativeEn": "These blueberries are juicy",
+                "affirmativePt": "Estes mirtilos são suculentos",
+                "negativeEn": "These blueberries are not juicy",
+                "negativePt": "Estes mirtilos não são suculentos",
+                "interrogativeEn": "Are these blueberries juicy?",
+                "interrogativePt": "Estes mirtilos são suculentos?"
+            }
+        ]
+    },
+    {
+        "en": "kiwi",
+        "pt": "kiwi",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A small brown fuzzy fruit with green flesh and small seeds",
+        "examples": [
+            {
+                "affirmativeEn": "I slice kiwi for breakfast",
+                "affirmativePt": "Eu fatiei kiwi no café da manhã",
+                "negativeEn": "I don't slice kiwi for breakfast",
+                "negativePt": "Eu não fatiei kiwi no café da manhã",
+                "interrogativeEn": "Do you slice kiwi for breakfast?",
+                "interrogativePt": "Você fatieia kiwi no café da manhã?"
+            },
+            {
+                "affirmativeEn": "He peeled fresh kiwis",
+                "affirmativePt": "Ele descascou kiwis frescos",
+                "negativeEn": "He didn't peel fresh kiwis",
+                "negativePt": "Ele não descascou kiwis frescos",
+                "interrogativeEn": "Did he peel fresh kiwis?",
+                "interrogativePt": "Ele descascou kiwis frescos?"
+            },
+            {
+                "affirmativeEn": "This kiwi is tart",
+                "affirmativePt": "Este kiwi é azedo",
+                "negativeEn": "This kiwi is not tart",
+                "negativePt": "Este kiwi não é azedo",
+                "interrogativeEn": "Is this kiwi tart?",
+                "interrogativePt": "Este kiwi é azedo?"
+            }
+        ]
+    },
+    {
+        "en": "papaya",
+        "pt": "mamão",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A tropical fruit with yellow-green skin and orange flesh",
+        "examples": [
+            {
+                "affirmativeEn": "I drink papaya juice",
+                "affirmativePt": "Eu bebo suco de mamão",
+                "negativeEn": "I don't drink papaya juice",
+                "negativePt": "Eu não bebo suco de mamão",
+                "interrogativeEn": "Do you drink papaya juice?",
+                "interrogativePt": "Você bebe suco de mamão?"
+            },
+            {
+                "affirmativeEn": "She cut papaya into cubes",
+                "affirmativePt": "Ela cortou mamão em cubos",
+                "negativeEn": "She didn't cut papaya into cubes",
+                "negativePt": "Ela não cortou mamão em cubos",
+                "interrogativeEn": "Did she cut papaya into cubes?",
+                "interrogativePt": "Ela cortou mamão em cubos?"
+            },
+            {
+                "affirmativeEn": "This papaya is ripe",
+                "affirmativePt": "Este mamão está maduro",
+                "negativeEn": "This papaya is not ripe",
+                "negativePt": "Este mamão não está maduro",
+                "interrogativeEn": "Is this papaya ripe?",
+                "interrogativePt": "Este mamão está maduro?"
+            }
+        ]
+    },
+    {
+        "en": "peach",
+        "pt": "pêssego",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A fuzzy stone fruit with sweet juicy flesh",
+        "examples": [
+            {
+                "affirmativeEn": "I eat fresh peaches in summer",
+                "affirmativePt": "Eu como pêssegos frescos no verão",
+                "negativeEn": "I don't eat fresh peaches in summer",
+                "negativePt": "Eu não como pêssegos frescos no verão",
+                "interrogativeEn": "Do you eat fresh peaches in summer?",
+                "interrogativePt": "Você come pêssegos frescos no verão?"
+            },
+            {
+                "affirmativeEn": "She made peach cobbler",
+                "affirmativePt": "Ela fez torta de pêssego",
+                "negativeEn": "She didn't make peach cobbler",
+                "negativePt": "Ela não fez torta de pêssego",
+                "interrogativeEn": "Did she make peach cobbler?",
+                "interrogativePt": "Ela fez torta de pêssego?"
+            },
+            {
+                "affirmativeEn": "This peach is juicy",
+                "affirmativePt": "Este pêssego é suculento",
+                "negativeEn": "This peach is not juicy",
+                "negativePt": "Este pêssego não é suculento",
+                "interrogativeEn": "Is this peach juicy?",
+                "interrogativePt": "Este pêssego é suculento?"
+            }
+        ]
+    },
+    {
+        "en": "plum",
+        "pt": "ameixa",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A small round stone fruit with dark purple or red skin",
+        "examples": [
+            {
+                "affirmativeEn": "I eat plums as a healthy snack",
+                "affirmativePt": "Eu como ameixas como um lanche saudável",
+                "negativeEn": "I don't eat plums as a healthy snack",
+                "negativePt": "Eu não como ameixas como um lanche saudável",
+                "interrogativeEn": "Do you eat plums as a healthy snack?",
+                "interrogativePt": "Você come ameixas como um lanche saudável?"
+            },
+            {
+                "affirmativeEn": "He picked ripe plums from the orchard",
+                "affirmativePt": "Ele colheu ameixas maduras do pomar",
+                "negativeEn": "He didn't pick ripe plums from the orchard",
+                "negativePt": "Ele não colheu ameixas maduras do pomar",
+                "interrogativeEn": "Did he pick ripe plums from the orchard?",
+                "interrogativePt": "Ele colheu ameixas maduras do pomar?"
+            },
+            {
+                "affirmativeEn": "These plums are sweet",
+                "affirmativePt": "Estas ameixas são doces",
+                "negativeEn": "These plums are not sweet",
+                "negativePt": "Estas ameixas não são doces",
+                "interrogativeEn": "Are these plums sweet?",
+                "interrogativePt": "Estas ameixas são doces?"
+            }
+        ]
+    },
+    {
+        "en": "pear",
+        "pt": "pera",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A bell-shaped fruit with green or brown skin and sweet white flesh",
+        "examples": [
+            {
+                "affirmativeEn": "I eat pear with cheese",
+                "affirmativePt": "Eu como pera com queijo",
+                "negativeEn": "I don't eat pear with cheese",
+                "negativePt": "Eu não como pera com queijo",
+                "interrogativeEn": "Do you eat pear with cheese?",
+                "interrogativePt": "Você come pera com queijo?"
+            },
+            {
+                "affirmativeEn": "She poached pears in wine",
+                "affirmativePt": "Ela cozinhou peras em vinho",
+                "negativeEn": "She didn't poach pears in wine",
+                "negativePt": "Ela não cozinhou peras em vinho",
+                "interrogativeEn": "Did she poach pears in wine?",
+                "interrogativePt": "Ela cozinhou peras em vinho?"
+            },
+            {
+                "affirmativeEn": "This pear is tender",
+                "affirmativePt": "Esta pera é macia",
+                "negativeEn": "This pear is not tender",
+                "negativePt": "Esta pera não é macia",
+                "interrogativeEn": "Is this pear tender?",
+                "interrogativePt": "Esta pera é macia?"
+            }
+        ]
+    },
+    {
+        "en": "raspberry",
+        "pt": "framboesa",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A small red soft berry with a sweet tart flavor",
+        "examples": [
+            {
+                "affirmativeEn": "I pick raspberries in summer",
+                "affirmativePt": "Eu colho framboesas no verão",
+                "negativeEn": "I don't pick raspberries in summer",
+                "negativePt": "Eu não colho framboesas no verão",
+                "interrogativeEn": "Do you pick raspberries in summer?",
+                "interrogativePt": "Você colhe framboesas no verão?"
+            },
+            {
+                "affirmativeEn": "She made raspberry jam",
+                "affirmativePt": "Ela fez geleia de framboesa",
+                "negativeEn": "She didn't make raspberry jam",
+                "negativePt": "Ela não fez geleia de framboesa",
+                "interrogativeEn": "Did she make raspberry jam?",
+                "interrogativePt": "Ela fez geleia de framboesa?"
+            },
+            {
+                "affirmativeEn": "These raspberries are delicate",
+                "affirmativePt": "Estas framboesas são delicadas",
+                "negativeEn": "These raspberries are not delicate",
+                "negativePt": "Estas framboesas não são delicadas",
+                "interrogativeEn": "Are these raspberries delicate?",
+                "interrogativePt": "Estas framboesas são delicadas?"
+            }
+        ]
+    },
+    {
+        "en": "ginger",
+        "pt": "gengibre",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A pungent spicy root used in cooking and beverages",
+        "examples": [
+            {
+                "affirmativeEn": "I grate ginger for tea",
+                "affirmativePt": "Eu ralo gengibre para chá",
+                "negativeEn": "I don't grate ginger for tea",
+                "negativePt": "Eu não ralo gengibre para chá",
+                "interrogativeEn": "Do you grate ginger for tea?",
+                "interrogativePt": "Você rala gengibre para chá?"
+            },
+            {
+                "affirmativeEn": "He added ginger to the curry",
+                "affirmativePt": "Ele adicionou gengibre ao curry",
+                "negativeEn": "He didn't add ginger to the curry",
+                "negativePt": "Ele não adicionou gengibre ao curry",
+                "interrogativeEn": "Did he add ginger to the curry?",
+                "interrogativePt": "Ele adicionou gengibre ao curry?"
+            },
+            {
+                "affirmativeEn": "This ginger is pungent",
+                "affirmativePt": "Este gengibre é pungente",
+                "negativeEn": "This ginger is not pungent",
+                "negativePt": "Este gengibre não é pungente",
+                "interrogativeEn": "Is this ginger pungent?",
+                "interrogativePt": "Este gengibre é pungente?"
+            }
+        ]
+    },
+    {
+        "en": "lime",
+        "pt": "limão verde",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A small citrus fruit with green skin and sour juice",
+        "examples": [
+            {
+                "affirmativeEn": "I squeeze lime on tacos",
+                "affirmativePt": "Eu espremo limão verde nos tacos",
+                "negativeEn": "I don't squeeze lime on tacos",
+                "negativePt": "Eu não espremo limão verde nos tacos",
+                "interrogativeEn": "Do you squeeze lime on tacos?",
+                "interrogativePt": "Você esprema limão verde nos tacos?"
+            },
+            {
+                "affirmativeEn": "She added lime juice to the drink",
+                "affirmativePt": "Ela adicionou suco de limão verde à bebida",
+                "negativeEn": "She didn't add lime juice to the drink",
+                "negativePt": "Ela não adicionou suco de limão verde à bebida",
+                "interrogativeEn": "Did she add lime juice to the drink?",
+                "interrogativePt": "Ela adicionou suco de limão verde à bebida?"
+            },
+            {
+                "affirmativeEn": "This lime is acidic",
+                "affirmativePt": "Este limão verde é ácido",
+                "negativeEn": "This lime is not acidic",
+                "negativePt": "Este limão verde não é ácido",
+                "interrogativeEn": "Is this lime acidic?",
+                "interrogativePt": "Este limão verde é ácido?"
+            }
+        ]
+    },
+    {
+        "en": "mint",
+        "pt": "hortelã",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A fragrant herb with cool minty flavor used in cooking",
+        "examples": [
+            {
+                "affirmativeEn": "I add mint to mojitos",
+                "affirmativePt": "Eu adiciono hortelã aos mojitos",
+                "negativeEn": "I don't add mint to mojitos",
+                "negativePt": "Eu não adiciono hortelã aos mojitos",
+                "interrogativeEn": "Do you add mint to mojitos?",
+                "interrogativePt": "Você adiciona hortelã aos mojitos?"
+            },
+            {
+                "affirmativeEn": "She grew mint in her garden",
+                "affirmativePt": "Ela cultivou hortelã em seu jardim",
+                "negativeEn": "She didn't grow mint in her garden",
+                "negativePt": "Ela não cultivou hortelã em seu jardim",
+                "interrogativeEn": "Did she grow mint in her garden?",
+                "interrogativePt": "Ela cultivou hortelã em seu jardim?"
+            },
+            {
+                "affirmativeEn": "This mint is fresh",
+                "affirmativePt": "Esta hortelã é fresca",
+                "negativeEn": "This mint is not fresh",
+                "negativePt": "Esta hortelã não é fresca",
+                "interrogativeEn": "Is this mint fresh?",
+                "interrogativePt": "Esta hortelã é fresca?"
+            }
+        ]
+    },
+    {
+        "en": "basil",
+        "pt": "manjericão",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A fragrant herb with sweet peppery flavor used in Italian cooking",
+        "examples": [
+            {
+                "affirmativeEn": "I use basil in pasta",
+                "affirmativePt": "Eu uso manjericão em macarrão",
+                "negativeEn": "I don't use basil in pasta",
+                "negativePt": "Eu não uso manjericão em macarrão",
+                "interrogativeEn": "Do you use basil in pasta?",
+                "interrogativePt": "Você usa manjericão em macarrão?"
+            },
+            {
+                "affirmativeEn": "She made pesto with fresh basil",
+                "affirmativePt": "Ela fez pesto com manjericão fresco",
+                "negativeEn": "She didn't make pesto with fresh basil",
+                "negativePt": "Ela não fez pesto com manjericão fresco",
+                "interrogativeEn": "Did she make pesto with fresh basil?",
+                "interrogativePt": "Ela fez pesto com manjericão fresco?"
+            },
+            {
+                "affirmativeEn": "This basil smells aromatic",
+                "affirmativePt": "Este manjericão cheira aromático",
+                "negativeEn": "This basil doesn't smell aromatic",
+                "negativePt": "Este manjericão não cheira aromático",
+                "interrogativeEn": "Does this basil smell aromatic?",
+                "interrogativePt": "Este manjericão cheira aromático?"
+            }
+        ]
+    },
+    {
+        "en": "grape juice",
+        "pt": "suco de uva",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A beverage made from pressed grapes",
+        "examples": [
+            {
+                "affirmativeEn": "I drink grape juice for health",
+                "affirmativePt": "Eu bebo suco de uva pela saúde",
+                "negativeEn": "I don't drink grape juice for health",
+                "negativePt": "Eu não bebo suco de uva pela saúde",
+                "interrogativeEn": "Do you drink grape juice for health?",
+                "interrogativePt": "Você bebe suco de uva pela saúde?"
+            },
+            {
+                "affirmativeEn": "He bought purple grape juice",
+                "affirmativePt": "Ele comprou suco de uva roxo",
+                "negativeEn": "He didn't buy purple grape juice",
+                "negativePt": "Ele não comprou suco de uva roxo",
+                "interrogativeEn": "Did he buy purple grape juice?",
+                "interrogativePt": "Ele comprou suco de uva roxo?"
+            },
+            {
+                "affirmativeEn": "This grape juice is sweet",
+                "affirmativePt": "Este suco de uva é doce",
+                "negativeEn": "This grape juice is not sweet",
+                "negativePt": "Este suco de uva não é doce",
+                "interrogativeEn": "Is this grape juice sweet?",
+                "interrogativePt": "Este suco de uva é doce?"
+            }
+        ]
+    },
+    {
+        "en": "beet",
+        "pt": "beterraba",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A dark red root vegetable with earthy flavor",
+        "examples": [
+            {
+                "affirmativeEn": "I roast beets with olive oil",
+                "affirmativePt": "Eu asso beterrab com azeite",
+                "negativeEn": "I don't roast beets with olive oil",
+                "negativePt": "Eu não asso beterraba com azeite",
+                "interrogativeEn": "Do you roast beets with olive oil?",
+                "interrogativePt": "Você assa beterraba com azeite?"
+            },
+            {
+                "affirmativeEn": "She made beet salad",
+                "affirmativePt": "Ela fez salada de beterraba",
+                "negativeEn": "She didn't make beet salad",
+                "negativePt": "Ela não fez salada de beterraba",
+                "interrogativeEn": "Did she make beet salad?",
+                "interrogativePt": "Ela fez salada de beterraba?"
+            },
+            {
+                "affirmativeEn": "This beet is earthy",
+                "affirmativePt": "Esta beterraba é terrosa",
+                "negativeEn": "This beet is not earthy",
+                "negativePt": "Esta beterraba não é terrosa",
+                "interrogativeEn": "Is this beet earthy?",
+                "interrogativePt": "Esta beterraba é terrosa?"
+            }
+        ]
+    },
+    {
+        "en": "eggplant",
+        "pt": "berinjela",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A purple vegetable with soft flesh commonly used in Mediterranean cooking",
+        "examples": [
+            {
+                "affirmativeEn": "I cook eggplant in olive oil",
+                "affirmativePt": "Eu cozinho berinjela em azeite",
+                "negativeEn": "I don't cook eggplant in olive oil",
+                "negativePt": "Eu não cozinho berinjela em azeite",
+                "interrogativeEn": "Do you cook eggplant in olive oil?",
+                "interrogativePt": "Você cozinha berinjela em azeite?"
+            },
+            {
+                "affirmativeEn": "She made eggplant parmesan",
+                "affirmativePt": "Ela fez berinjela à parmegiana",
+                "negativeEn": "She didn't make eggplant parmesan",
+                "negativePt": "Ela não fez berinjela à parmegiana",
+                "interrogativeEn": "Did she make eggplant parmesan?",
+                "interrogativePt": "Ela fez berinjela à parmegiana?"
+            },
+            {
+                "affirmativeEn": "This eggplant is tender",
+                "affirmativePt": "Esta berinjela é macia",
+                "negativeEn": "This eggplant is not tender",
+                "negativePt": "Esta berinjela não é macia",
+                "interrogativeEn": "Is this eggplant tender?",
+                "interrogativePt": "Esta berinjela é macia?"
+            }
+        ]
+    },
+    {
+        "en": "lime juice",
+        "pt": "suco de limão verde",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A sour juice extracted from limes used in beverages and cooking",
+        "examples": [
+            {
+                "affirmativeEn": "I add lime juice to water",
+                "affirmativePt": "Eu adiciono suco de limão verde à água",
+                "negativeEn": "I don't add lime juice to water",
+                "negativePt": "Eu não adiciono suco de limão verde à água",
+                "interrogativeEn": "Do you add lime juice to water?",
+                "interrogativePt": "Você adiciona suco de limão verde à água?"
+            },
+            {
+                "affirmativeEn": "He squeezed fresh lime juice",
+                "affirmativePt": "Ele espremeu suco de limão verde fresco",
+                "negativeEn": "He didn't squeeze fresh lime juice",
+                "negativePt": "Ele não espremeu suco de limão verde fresco",
+                "interrogativeEn": "Did he squeeze fresh lime juice?",
+                "interrogativePt": "Ele espremeu suco de limão verde fresco?"
+            },
+            {
+                "affirmativeEn": "This lime juice is sour",
+                "affirmativePt": "Este suco de limão verde é azedo",
+                "negativeEn": "This lime juice is not sour",
+                "negativePt": "Este suco de limão verde não é azedo",
+                "interrogativeEn": "Is this lime juice sour?",
+                "interrogativePt": "Este suco de limão verde é azedo?"
+            }
+        ]
+    },
+    {
+        "en": "celery",
+        "pt": "aipo",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A crisp green vegetable with long stalks",
+        "examples": [
+            {
+                "affirmativeEn": "I eat celery with peanut butter",
+                "affirmativePt": "Eu como aipo com manteiga de amendoim",
+                "negativeEn": "I don't eat celery with peanut butter",
+                "negativePt": "Eu não como aipo com manteiga de amendoim",
+                "interrogativeEn": "Do you eat celery with peanut butter?",
+                "interrogativePt": "Você come aipo com manteiga de amendoim?"
+            },
+            {
+                "affirmativeEn": "She chopped celery for the soup",
+                "affirmativePt": "Ela picou aipo para a sopa",
+                "negativeEn": "She didn't chop celery for the soup",
+                "negativePt": "Ela não picou aipo para a sopa",
+                "interrogativeEn": "Did she chop celery for the soup?",
+                "interrogativePt": "Ela picou aipo para a sopa?"
+            },
+            {
+                "affirmativeEn": "This celery is crunchy",
+                "affirmativePt": "Este aipo é crocante",
+                "negativeEn": "This celery is not crunchy",
+                "negativePt": "Este aipo não é crocante",
+                "interrogativeEn": "Is this celery crunchy?",
+                "interrogativePt": "Este aipo é crocante?"
+            }
+        ]
+    },
+    {
+        "en": "asparagus",
+        "pt": "aspargo",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A green vegetable with tender spears",
+        "examples": [
+            {
+                "affirmativeEn": "I grill asparagus for dinner",
+                "affirmativePt": "Eu grelhar aspargo para o jantar",
+                "negativeEn": "I don't grill asparagus for dinner",
+                "negativePt": "Eu não grelhar aspargo para o jantar",
+                "interrogativeEn": "Do you grill asparagus for dinner?",
+                "interrogativePt": "Você grelhar aspargo para o jantar?"
+            },
+            {
+                "affirmativeEn": "She steamed asparagus with lemon",
+                "affirmativePt": "Ela cozinhou aspargo no vapor com limão",
+                "negativeEn": "She didn't steam asparagus with lemon",
+                "negativePt": "Ela não cozinhou aspargo no vapor com limão",
+                "interrogativeEn": "Did she steam asparagus with lemon?",
+                "interrogativePt": "Ela cozinhou aspargo no vapor com limão?"
+            },
+            {
+                "affirmativeEn": "This asparagus is tender",
+                "affirmativePt": "Este aspargo é macio",
+                "negativeEn": "This asparagus is not tender",
+                "negativePt": "Este aspargo não é macio",
+                "interrogativeEn": "Is this asparagus tender?",
+                "interrogativePt": "Este aspargo é macio?"
+            }
+        ]
+    },
+    {
+        "en": "corn",
+        "pt": "milho",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A grain vegetable with yellow kernels on a cob",
+        "examples": [
+            {
+                "affirmativeEn": "I eat corn on the cob",
+                "affirmativePt": "Eu como milho na espiga",
+                "negativeEn": "I don't eat corn on the cob",
+                "negativePt": "Eu não como milho na espiga",
+                "interrogativeEn": "Do you eat corn on the cob?",
+                "interrogativePt": "Você come milho na espiga?"
+            },
+            {
+                "affirmativeEn": "She boiled corn with salt",
+                "affirmativePt": "Ela cozinhou milho com sal",
+                "negativeEn": "She didn't boil corn with salt",
+                "negativePt": "Ela não cozinhou milho com sal",
+                "interrogativeEn": "Did she boil corn with salt?",
+                "interrogativePt": "Ela cozinhou milho com sal?"
+            },
+            {
+                "affirmativeEn": "This corn is sweet",
+                "affirmativePt": "Este milho é doce",
+                "negativeEn": "This corn is not sweet",
+                "negativePt": "Este milho não é doce",
+                "interrogativeEn": "Is this corn sweet?",
+                "interrogativePt": "Este milho é doce?"
+            }
+        ]
+    },
+    {
+        "en": "pumpkin",
+        "pt": "abóbora",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A large orange squash used in cooking and desserts",
+        "examples": [
+            {
+                "affirmativeEn": "I make pumpkin pie in autumn",
+                "affirmativePt": "Eu faço torta de abóbora no outono",
+                "negativeEn": "I don't make pumpkin pie in autumn",
+                "negativePt": "Eu não faço torta de abóbora no outono",
+                "interrogativeEn": "Do you make pumpkin pie in autumn?",
+                "interrogativePt": "Você faz torta de abóbora no outono?"
+            },
+            {
+                "affirmativeEn": "She roasted pumpkin seeds",
+                "affirmativePt": "Ela assou sementes de abóbora",
+                "negativeEn": "She didn't roast pumpkin seeds",
+                "negativePt": "Ela não assou sementes de abóbora",
+                "interrogativeEn": "Did she roast pumpkin seeds?",
+                "interrogativePt": "Ela assou sementes de abóbora?"
+            },
+            {
+                "affirmativeEn": "This pumpkin is orange",
+                "affirmativePt": "Esta abóbora é laranja",
+                "negativeEn": "This pumpkin is not orange",
+                "negativePt": "Esta abóbora não é laranja",
+                "interrogativeEn": "Is this pumpkin orange?",
+                "interrogativePt": "Esta abóbora é laranja?"
+            }
+        ]
+    },
+    {
+        "en": "zucchini",
+        "pt": "abobrinha",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A green summer squash with soft flesh",
+        "examples": [
+            {
+                "affirmativeEn": "I grill zucchini slices",
+                "affirmativePt": "Eu grelhar fatias de abobrinha",
+                "negativeEn": "I don't grill zucchini slices",
+                "negativePt": "Eu não grelhar fatias de abobrinha",
+                "interrogativeEn": "Do you grill zucchini slices?",
+                "interrogativePt": "Você grelhar fatias de abobrinha?"
+            },
+            {
+                "affirmativeEn": "She made zucchini bread",
+                "affirmativePt": "Ela fez pão de abobrinha",
+                "negativeEn": "She didn't make zucchini bread",
+                "negativePt": "Ela não fez pão de abobrinha",
+                "interrogativeEn": "Did she make zucchini bread?",
+                "interrogativePt": "Ela fez pão de abobrinha?"
+            },
+            {
+                "affirmativeEn": "This zucchini is tender",
+                "affirmativePt": "Esta abobrinha é macia",
+                "negativeEn": "This zucchini is not tender",
+                "negativePt": "Esta abobrinha não é macia",
+                "interrogativeEn": "Is this zucchini tender?",
+                "interrogativePt": "Esta abobrinha é macia?"
+            }
+        ]
+    },
+    {
+        "en": "cabbage",
+        "pt": "repolho",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A leafy vegetable with dense round head",
+        "examples": [
+            {
+                "affirmativeEn": "I make coleslaw with cabbage",
+                "affirmativePt": "Eu faço salada de repolho",
+                "negativeEn": "I don't make coleslaw with cabbage",
+                "negativePt": "Eu não faço salada de repolho",
+                "interrogativeEn": "Do you make coleslaw with cabbage?",
+                "interrogativePt": "Você faz salada de repolho?"
+            },
+            {
+                "affirmativeEn": "He chopped cabbage for kimchi",
+                "affirmativePt": "Ele picou repolho para kimchi",
+                "negativeEn": "He didn't chop cabbage for kimchi",
+                "negativePt": "Ele não picou repolho para kimchi",
+                "interrogativeEn": "Did he chop cabbage for kimchi?",
+                "interrogativePt": "Ele picou repolho para kimchi?"
+            },
+            {
+                "affirmativeEn": "This cabbage is fresh",
+                "affirmativePt": "Este repolho é fresco",
+                "negativeEn": "This cabbage is not fresh",
+                "negativePt": "Este repolho não é fresco",
+                "interrogativeEn": "Is this cabbage fresh?",
+                "interrogativePt": "Este repolho é fresco?"
+            }
+        ]
+    },
+    {
+        "en": "green bean",
+        "pt": "feijão verde",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A long slender legume pod with edible beans inside",
+        "examples": [
+            {
+                "affirmativeEn": "I steam green beans for dinner",
+                "affirmativePt": "Eu cozinho feijão verde no vapor para o jantar",
+                "negativeEn": "I don't steam green beans for dinner",
+                "negativePt": "Eu não cozinho feijão verde no vapor para o jantar",
+                "interrogativeEn": "Do you steam green beans for dinner?",
+                "interrogativePt": "Você cozinha feijão verde no vapor para o jantar?"
+            },
+            {
+                "affirmativeEn": "She sautéed green beans with garlic",
+                "affirmativePt": "Ela refogou feijão verde com alho",
+                "negativeEn": "She didn't sauté green beans with garlic",
+                "negativePt": "Ela não refogou feijão verde com alho",
+                "interrogativeEn": "Did she sauté green beans with garlic?",
+                "interrogativePt": "Ela refogou feijão verde com alho?"
+            },
+            {
+                "affirmativeEn": "These green beans are crisp",
+                "affirmativePt": "Estes feijões verdes são crocantes",
+                "negativeEn": "These green beans are not crisp",
+                "negativePt": "Estes feijões verdes não são crocantes",
+                "interrogativeEn": "Are these green beans crisp?",
+                "interrogativePt": "Estes feijões verdes são crocantes?"
+            }
+        ]
+    },
+    {
+        "en": "bell pepper",
+        "pt": "pimentão",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A large sweet pepper in red, yellow, or green color",
+        "examples": [
+            {
+                "affirmativeEn": "I slice bell peppers for stir-fry",
+                "affirmativePt": "Eu fatiei pimentão para refogado",
+                "negativeEn": "I don't slice bell peppers for stir-fry",
+                "negativePt": "Eu não fatiei pimentão para refogado",
+                "interrogativeEn": "Do you slice bell peppers for stir-fry?",
+                "interrogativePt": "Você fatieia pimentão para refogado?"
+            },
+            {
+                "affirmativeEn": "She roasted red bell peppers",
+                "affirmativePt": "Ela assou pimentões vermelhos",
+                "negativeEn": "She didn't roast red bell peppers",
+                "negativePt": "Ela não assou pimentões vermelhos",
+                "interrogativeEn": "Did she roast red bell peppers?",
+                "interrogativePt": "Ela assou pimentões vermelhos?"
+            },
+            {
+                "affirmativeEn": "This bell pepper is sweet",
+                "affirmativePt": "Este pimentão é doce",
+                "negativeEn": "This bell pepper is not sweet",
+                "negativePt": "Este pimentão não é doce",
+                "interrogativeEn": "Is this bell pepper sweet?",
+                "interrogativePt": "Este pimentão é doce?"
+            }
+        ]
+    },
+    {
+        "en": "mushroom",
+        "pt": "cogumelo",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A fungus with a cap and stem, used in cooking",
+        "examples": [
+            {
+                "affirmativeEn": "I sauté mushrooms with butter",
+                "affirmativePt": "Eu refogo cogumelos com manteiga",
+                "negativeEn": "I don't sauté mushrooms with butter",
+                "negativePt": "Eu não refogo cogumelos com manteiga",
+                "interrogativeEn": "Do you sauté mushrooms with butter?",
+                "interrogativePt": "Você refoga cogumelos com manteiga?"
+            },
+            {
+                "affirmativeEn": "He picked wild mushrooms",
+                "affirmativePt": "Ele colheu cogumelos selvagens",
+                "negativeEn": "He didn't pick wild mushrooms",
+                "negativePt": "Ele não colheu cogumelos selvagens",
+                "interrogativeEn": "Did he pick wild mushrooms?",
+                "interrogativePt": "Ele colheu cogumelos selvagens?"
+            },
+            {
+                "affirmativeEn": "These mushrooms are earthy",
+                "affirmativePt": "Estes cogumelos são terrosos",
+                "negativeEn": "These mushrooms are not earthy",
+                "negativePt": "Estes cogumelos não são terrosos",
+                "interrogativeEn": "Are these mushrooms earthy?",
+                "interrogativePt": "Estes cogumelos são terrosos?"
+            }
+        ]
+    },
+    {
+        "en": "watermelon juice",
+        "pt": "suco de melancia",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A refreshing juice made from watermelon",
+        "examples": [
+            {
+                "affirmativeEn": "I drink watermelon juice in summer",
+                "affirmativePt": "Eu bebo suco de melancia no verão",
+                "negativeEn": "I don't drink watermelon juice in summer",
+                "negativePt": "Eu não bebo suco de melancia no verão",
+                "interrogativeEn": "Do you drink watermelon juice in summer?",
+                "interrogativePt": "Você bebe suco de melancia no verão?"
+            },
+            {
+                "affirmativeEn": "She made fresh watermelon juice",
+                "affirmativePt": "Ela fez suco de melancia fresco",
+                "negativeEn": "She didn't make fresh watermelon juice",
+                "negativePt": "Ela não fez suco de melancia fresco",
+                "interrogativeEn": "Did she make fresh watermelon juice?",
+                "interrogativePt": "Ela fez suco de melancia fresco?"
+            },
+            {
+                "affirmativeEn": "This watermelon juice is refreshing",
+                "affirmativePt": "Este suco de melancia é refrescante",
+                "negativeEn": "This watermelon juice is not refreshing",
+                "negativePt": "Este suco de melancia não é refrescante",
+                "interrogativeEn": "Is this watermelon juice refreshing?",
+                "interrogativePt": "Este suco de melancia é refrescante?"
+            }
+        ]
+    },
+    {
+        "en": "pumpkin seeds",
+        "pt": "sementes de abóbora",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "Edible seeds from a pumpkin with nutritional value",
+        "examples": [
+            {
+                "affirmativeEn": "I snack on pumpkin seeds",
+                "affirmativePt": "Eu lancho com sementes de abóbora",
+                "negativeEn": "I don't snack on pumpkin seeds",
+                "negativePt": "Eu não lancho com sementes de abóbora",
+                "interrogativeEn": "Do you snack on pumpkin seeds?",
+                "interrogativePt": "Você lancheia com sementes de abóbora?"
+            },
+            {
+                "affirmativeEn": "He roasted pumpkin seeds with spices",
+                "affirmativePt": "Ele assou sementes de abóbora com especiarias",
+                "negativeEn": "He didn't roast pumpkin seeds with spices",
+                "negativePt": "Ele não assou sementes de abóbora com especiarias",
+                "interrogativeEn": "Did he roast pumpkin seeds with spices?",
+                "interrogativePt": "Ele assou sementes de abóbora com especiarias?"
+            },
+            {
+                "affirmativeEn": "These pumpkin seeds are crunchy",
+                "affirmativePt": "Estas sementes de abóbora são crocantes",
+                "negativeEn": "These pumpkin seeds are not crunchy",
+                "negativePt": "Estas sementes de abóbora não são crocantes",
+                "interrogativeEn": "Are these pumpkin seeds crunchy?",
+                "interrogativePt": "Estas sementes de abóbora são crocantes?"
+            }
+        ]
+    },
+    {
+        "en": "cranberry",
+        "pt": "cranberry",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A small red sour berry often used in sauces and drinks",
+        "examples": [
+            {
+                "affirmativeEn": "I eat cranberry sauce with turkey",
+                "affirmativePt": "Eu como molho de cranberry com peru",
+                "negativeEn": "I don't eat cranberry sauce with turkey",
+                "negativePt": "Eu não como molho de cranberry com peru",
+                "interrogativeEn": "Do you eat cranberry sauce with turkey?",
+                "interrogativePt": "Você come molho de cranberry com peru?"
+            },
+            {
+                "affirmativeEn": "She made cranberry juice",
+                "affirmativePt": "Ela fez suco de cranberry",
+                "negativeEn": "She didn't make cranberry juice",
+                "negativePt": "Ela não fez suco de cranberry",
+                "interrogativeEn": "Did she make cranberry juice?",
+                "interrogativePt": "Ela fez suco de cranberry?"
+            },
+            {
+                "affirmativeEn": "These cranberries are tart",
+                "affirmativePt": "Estes cranberries são azedos",
+                "negativeEn": "These cranberries are not tart",
+                "negativePt": "Estes cranberries não são azedos",
+                "interrogativeEn": "Are these cranberries tart?",
+                "interrogativePt": "Estes cranberries são azedos?"
+            }
+        ]
+    },
+    {
+        "en": "sesame",
+        "pt": "gergelim",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A seed used in cooking and as an oil for flavoring",
+        "examples": [
+            {
+                "affirmativeEn": "I sprinkle sesame on sushi",
+                "affirmativePt": "Eu polvilho gergelim no sushi",
+                "negativeEn": "I don't sprinkle sesame on sushi",
+                "negativePt": "Eu não polvilho gergelim no sushi",
+                "interrogativeEn": "Do you sprinkle sesame on sushi?",
+                "interrogativePt": "Você polvilha gergelim no sushi?"
+            },
+            {
+                "affirmativeEn": "She made tahini from sesame",
+                "affirmativePt": "Ela fez tahine de gergelim",
+                "negativeEn": "She didn't make tahini from sesame",
+                "negativePt": "Ela não fez tahine de gergelim",
+                "interrogativeEn": "Did she make tahini from sesame?",
+                "interrogativePt": "Ela fez tahine de gergelim?"
+            },
+            {
+                "affirmativeEn": "This sesame is nutty",
+                "affirmativePt": "Este gergelim é de nozes",
+                "negativeEn": "This sesame is not nutty",
+                "negativePt": "Este gergelim não é de nozes",
+                "interrogativeEn": "Is this sesame nutty?",
+                "interrogativePt": "Este gergelim é de nozes?"
+            }
+        ]
+    },
+    {
+        "en": "turmeric",
+        "pt": "cúrcuma",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A golden spice with earthy flavor used in curries",
+        "examples": [
+            {
+                "affirmativeEn": "I add turmeric to golden milk",
+                "affirmativePt": "Eu adiciono cúrcuma ao leite dourado",
+                "negativeEn": "I don't add turmeric to golden milk",
+                "negativePt": "Eu não adiciono cúrcuma ao leite dourado",
+                "interrogativeEn": "Do you add turmeric to golden milk?",
+                "interrogativePt": "Você adiciona cúrcuma ao leite dourado?"
+            },
+            {
+                "affirmativeEn": "He used turmeric in the curry",
+                "affirmativePt": "Ele usou cúrcuma no curry",
+                "negativeEn": "He didn't use turmeric in the curry",
+                "negativePt": "Ele não usou cúrcuma no curry",
+                "interrogativeEn": "Did he use turmeric in the curry?",
+                "interrogativePt": "Ele usou cúrcuma no curry?"
+            },
+            {
+                "affirmativeEn": "This turmeric is fresh",
+                "affirmativePt": "Esta cúrcuma é fresca",
+                "negativeEn": "This turmeric is not fresh",
+                "negativePt": "Esta cúrcuma não é fresca",
+                "interrogativeEn": "Is this turmeric fresh?",
+                "interrogativePt": "Esta cúrcuma é fresca?"
+            }
+        ]
+    },
+    {
+        "en": "cinnamon",
+        "pt": "canela",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A sweet spice from tree bark used in baking and beverages",
+        "examples": [
+            {
+                "affirmativeEn": "I sprinkle cinnamon on oatmeal",
+                "affirmativePt": "Eu polvilho canela na aveia",
+                "negativeEn": "I don't sprinkle cinnamon on oatmeal",
+                "negativePt": "Eu não polvilho canela na aveia",
+                "interrogativeEn": "Do you sprinkle cinnamon on oatmeal?",
+                "interrogativePt": "Você polvilha canela na aveia?"
+            },
+            {
+                "affirmativeEn": "She added cinnamon to the coffee",
+                "affirmativePt": "Ela adicionou canela ao café",
+                "negativeEn": "She didn't add cinnamon to the coffee",
+                "negativePt": "Ela não adicionou canela ao café",
+                "interrogativeEn": "Did she add cinnamon to the coffee?",
+                "interrogativePt": "Ela adicionou canela ao café?"
+            },
+            {
+                "affirmativeEn": "This cinnamon smells sweet",
+                "affirmativePt": "Esta canela cheira doce",
+                "negativeEn": "This cinnamon doesn't smell sweet",
+                "negativePt": "Esta canela não cheira doce",
+                "interrogativeEn": "Does this cinnamon smell sweet?",
+                "interrogativePt": "Esta canela cheira doce?"
+            }
+        ]
+    },
+    {
+        "en": "oat",
+        "pt": "aveia",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A cereal grain commonly eaten as oatmeal for breakfast",
+        "examples": [
+            {
+                "affirmativeEn": "I eat oatmeal for breakfast",
+                "affirmativePt": "Eu como aveia no café da manhã",
+                "negativeEn": "I don't eat oatmeal for breakfast",
+                "negativePt": "Eu não como aveia no café da manhã",
+                "interrogativeEn": "Do you eat oatmeal for breakfast?",
+                "interrogativePt": "Você come aveia no café da manhã?"
+            },
+            {
+                "affirmativeEn": "She made oat cookies",
+                "affirmativePt": "Ela fez biscoitos de aveia",
+                "negativeEn": "She didn't make oat cookies",
+                "negativePt": "Ela não fez biscoitos de aveia",
+                "interrogativeEn": "Did she make oat cookies?",
+                "interrogativePt": "Ela fez biscoitos de aveia?"
+            },
+            {
+                "affirmativeEn": "This oatmeal is creamy",
+                "affirmativePt": "Esta aveia é cremosa",
+                "negativeEn": "This oatmeal is not creamy",
+                "negativePt": "Esta aveia não é cremosa",
+                "interrogativeEn": "Is this oatmeal creamy?",
+                "interrogativePt": "Esta aveia é cremosa?"
+            }
+        ]
+    },
+    {
+        "en": "barley",
+        "pt": "cevada",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A cereal grain used in soups, salads, and beverages",
+        "examples": [
+            {
+                "affirmativeEn": "I cook barley soup",
+                "affirmativePt": "Eu cozinho sopa de cevada",
+                "negativeEn": "I don't cook barley soup",
+                "negativePt": "Eu não cozinho sopa de cevada",
+                "interrogativeEn": "Do you cook barley soup?",
+                "interrogativePt": "Você cozinha sopa de cevada?"
+            },
+            {
+                "affirmativeEn": "He added barley to the stew",
+                "affirmativePt": "Ele adicionou cevada ao ensopado",
+                "negativeEn": "He didn't add barley to the stew",
+                "negativePt": "Ele não adicionou cevada ao ensopado",
+                "interrogativeEn": "Did he add barley to the stew?",
+                "interrogativePt": "Ele adicionou cevada ao ensopado?"
+            },
+            {
+                "affirmativeEn": "This barley is chewy",
+                "affirmativePt": "Esta cevada é mastigável",
+                "negativeEn": "This barley is not chewy",
+                "negativePt": "Esta cevada não é mastigável",
+                "interrogativeEn": "Is this barley chewy?",
+                "interrogativePt": "Esta cevada é mastigável?"
+            }
+        ]
+    },
+    {
+        "en": "quinoa",
+        "pt": "quinoa",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A nutritious seed used as a grain in salads and bowls",
+        "examples": [
+            {
+                "affirmativeEn": "I eat quinoa bowls",
+                "affirmativePt": "Eu como tigelas de quinoa",
+                "negativeEn": "I don't eat quinoa bowls",
+                "negativePt": "Eu não como tigelas de quinoa",
+                "interrogativeEn": "Do you eat quinoa bowls?",
+                "interrogativePt": "Você come tigelas de quinoa?"
+            },
+            {
+                "affirmativeEn": "She cooked quinoa with vegetables",
+                "affirmativePt": "Ela cozinhou quinoa com vegetais",
+                "negativeEn": "She didn't cook quinoa with vegetables",
+                "negativePt": "Ela não cozinhou quinoa com vegetais",
+                "interrogativeEn": "Did she cook quinoa with vegetables?",
+                "interrogativePt": "Ela cozinhou quinoa com vegetais?"
+            },
+            {
+                "affirmativeEn": "This quinoa is fluffy",
+                "affirmativePt": "Esta quinoa é fofa",
+                "negativeEn": "This quinoa is not fluffy",
+                "negativePt": "Esta quinoa não é fofa",
+                "interrogativeEn": "Is this quinoa fluffy?",
+                "interrogativePt": "Esta quinoa é fofa?"
+            }
+        ]
+    },
+    {
+        "en": "lentil",
+        "pt": "lentilha",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A small legume used in soups and curries",
+        "examples": [
+            {
+                "affirmativeEn": "I cook lentil soup",
+                "affirmativePt": "Eu cozinho sopa de lentilha",
+                "negativeEn": "I don't cook lentil soup",
+                "negativePt": "Eu não cozinho sopa de lentilha",
+                "interrogativeEn": "Do you cook lentil soup?",
+                "interrogativePt": "Você cozinha sopa de lentilha?"
+            },
+            {
+                "affirmativeEn": "She made lentil curry",
+                "affirmativePt": "Ela fez curry de lentilha",
+                "negativeEn": "She didn't make lentil curry",
+                "negativePt": "Ela não fez curry de lentilha",
+                "interrogativeEn": "Did she make lentil curry?",
+                "interrogativePt": "Ela fez curry de lentilha?"
+            },
+            {
+                "affirmativeEn": "These lentils are protein-rich",
+                "affirmativePt": "Estas lentilhas são ricas em proteína",
+                "negativeEn": "These lentils are not protein-rich",
+                "negativePt": "Estas lentilhas não são ricas em proteína",
+                "interrogativeEn": "Are these lentils protein-rich?",
+                "interrogativePt": "Estas lentilhas são ricas em proteína?"
+            }
+        ]
+    },
+    {
+        "en": "chickpea",
+        "pt": "grão de bico",
+        "partOfSpeech": "noun",
+        "category": "food",
+        "description": "A round golden legume used in hummus and curries",
+        "examples": [
+            {
+                "affirmativeEn": "I eat roasted chickpeas",
+                "affirmativePt": "Eu como grão de bico torrado",
+                "negativeEn": "I don't eat roasted chickpeas",
+                "negativePt": "Eu não como grão de bico torrado",
+                "interrogativeEn": "Do you eat roasted chickpeas?",
+                "interrogativePt": "Você come grão de bico torrado?"
+            },
+            {
+                "affirmativeEn": "She made hummus from chickpeas",
+                "affirmativePt": "Ela fez homus de grão de bico",
+                "negativeEn": "She didn't make hummus from chickpeas",
+                "negativePt": "Ela não fez homus de grão de bico",
+                "interrogativeEn": "Did she make hummus from chickpeas?",
+                "interrogativePt": "Ela fez homus de grão de bico?"
+            },
+            {
+                "affirmativeEn": "These chickpeas are creamy",
+                "affirmativePt": "Estes grãos de bico são cremosos",
+                "negativeEn": "These chickpeas are not creamy",
+                "negativePt": "Estes grãos de bico não são cremosos",
+                "interrogativeEn": "Are these chickpeas creamy?",
+                "interrogativePt": "Estes grãos de bico são cremosos?"
+            }
+        ]
+    }
+]

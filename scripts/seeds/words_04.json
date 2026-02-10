@@ -1,0 +1,794 @@
+[
+    {
+        "en": "red",
+        "pt": "vermelho",
+        "partOfSpeech": "adjective",
+        "category": "colors",
+        "description": "A color of blood, fire, or a ripe tomato",
+        "examples": [
+            {
+                "affirmativeEn": "The car is red.",
+                "affirmativePt": "O carro é vermelho.",
+                "negativeEn": "The car is not red.",
+                "negativePt": "O carro não é vermelho.",
+                "interrogativeEn": "Is the car red?",
+                "interrogativePt": "O carro é vermelho?"
+            },
+            {
+                "affirmativeEn": "She wore a red dress.",
+                "affirmativePt": "Ela usava um vestido vermelho.",
+                "negativeEn": "She did not wear a red dress.",
+                "negativePt": "Ela não usava um vestido vermelho.",
+                "interrogativeEn": "Did she wear a red dress?",
+                "interrogativePt": "Ela usava um vestido vermelho?"
+            },
+            {
+                "affirmativeEn": "The apple is red.",
+                "affirmativePt": "A maçã é vermelha.",
+                "negativeEn": "The apple is not red.",
+                "negativePt": "A maçã não é vermelha.",
+                "interrogativeEn": "Is the apple red?",
+                "interrogativePt": "A maçã é vermelha?"
+            }
+        ]
+    },
+    {
+        "en": "blue",
+        "pt": "azul",
+        "partOfSpeech": "adjective",
+        "category": "colors",
+        "description": "A color of the sky or ocean",
+        "examples": [
+            {
+                "affirmativeEn": "The sky is blue.",
+                "affirmativePt": "O céu é azul.",
+                "negativeEn": "The sky is not blue.",
+                "negativePt": "O céu não é azul.",
+                "interrogativeEn": "Is the sky blue?",
+                "interrogativePt": "O céu é azul?"
+            },
+            {
+                "affirmativeEn": "He has blue eyes.",
+                "affirmativePt": "Ele tem olhos azuis.",
+                "negativeEn": "He does not have blue eyes.",
+                "negativePt": "Ele não tem olhos azuis.",
+                "interrogativeEn": "Does he have blue eyes?",
+                "interrogativePt": "Ele tem olhos azuis?"
+            },
+            {
+                "affirmativeEn": "The ocean is blue.",
+                "affirmativePt": "O oceano é azul.",
+                "negativeEn": "The ocean is not blue.",
+                "negativePt": "O oceano não é azul.",
+                "interrogativeEn": "Is the ocean blue?",
+                "interrogativePt": "O oceano é azul?"
+            }
+        ]
+    },
+    {
+        "en": "green",
+        "pt": "verde",
+        "partOfSpeech": "adjective",
+        "category": "colors",
+        "description": "A color of grass and plants",
+        "examples": [
+            {
+                "affirmativeEn": "The grass is green.",
+                "affirmativePt": "A grama é verde.",
+                "negativeEn": "The grass is not green.",
+                "negativePt": "A grama não é verde.",
+                "interrogativeEn": "Is the grass green?",
+                "interrogativePt": "A grama é verde?"
+            },
+            {
+                "affirmativeEn": "She bought a green hat.",
+                "affirmativePt": "Ela comprou um chapéu verde.",
+                "negativeEn": "She did not buy a green hat.",
+                "negativePt": "Ela não comprou um chapéu verde.",
+                "interrogativeEn": "Did she buy a green hat?",
+                "interrogativePt": "Ela comprou um chapéu verde?"
+            },
+            {
+                "affirmativeEn": "The tree leaves are green.",
+                "affirmativePt": "As folhas da árvore são verdes.",
+                "negativeEn": "The tree leaves are not green.",
+                "negativePt": "As folhas da árvore não são verdes.",
+                "interrogativeEn": "Are the tree leaves green?",
+                "interrogativePt": "As folhas da árvore são verdes?"
+            }
+        ]
+    },
+    {
+        "en": "yellow",
+        "pt": "amarelo",
+        "partOfSpeech": "adjective",
+        "category": "colors",
+        "description": "A color of the sun and bananas",
+        "examples": [
+            {
+                "affirmativeEn": "The sun is yellow.",
+                "affirmativePt": "O sol é amarelo.",
+                "negativeEn": "The sun is not yellow.",
+                "negativePt": "O sol não é amarelo.",
+                "interrogativeEn": "Is the sun yellow?",
+                "interrogativePt": "O sol é amarelo?"
+            },
+            {
+                "affirmativeEn": "The banana is yellow.",
+                "affirmativePt": "A banana é amarela.",
+                "negativeEn": "The banana is not yellow.",
+                "negativePt": "A banana não é amarela.",
+                "interrogativeEn": "Is the banana yellow?",
+                "interrogativePt": "A banana é amarela?"
+            },
+            {
+                "affirmativeEn": "She wore a yellow coat.",
+                "affirmativePt": "Ela usava um casaco amarelo.",
+                "negativeEn": "She did not wear a yellow coat.",
+                "negativePt": "Ela não usava um casaco amarelo.",
+                "interrogativeEn": "Did she wear a yellow coat?",
+                "interrogativePt": "Ela usava um casaco amarelo?"
+            }
+        ]
+    },
+    {
+        "en": "black",
+        "pt": "preto",
+        "partOfSpeech": "adjective",
+        "category": "colors",
+        "description": "The absence of color or light, like darkness",
+        "examples": [
+            {
+                "affirmativeEn": "The cat is black.",
+                "affirmativePt": "O gato é preto.",
+                "negativeEn": "The cat is not black.",
+                "negativePt": "O gato não é preto.",
+                "interrogativeEn": "Is the cat black?",
+                "interrogativePt": "O gato é preto?"
+            },
+            {
+                "affirmativeEn": "He has a black car.",
+                "affirmativePt": "Ele tem um carro preto.",
+                "negativeEn": "He does not have a black car.",
+                "negativePt": "Ele não tem um carro preto.",
+                "interrogativeEn": "Does he have a black car?",
+                "interrogativePt": "Ele tem um carro preto?"
+            },
+            {
+                "affirmativeEn": "The night is black.",
+                "affirmativePt": "A noite é preta.",
+                "negativeEn": "The night is not black.",
+                "negativePt": "A noite não é preta.",
+                "interrogativeEn": "Is the night black?",
+                "interrogativePt": "A noite é preta?"
+            }
+        ]
+    },
+    {
+        "en": "white",
+        "pt": "branco",
+        "partOfSpeech": "adjective",
+        "category": "colors",
+        "description": "A color of snow and milk",
+        "examples": [
+            {
+                "affirmativeEn": "The snow is white.",
+                "affirmativePt": "A neve é branca.",
+                "negativeEn": "The snow is not white.",
+                "negativePt": "A neve não é branca.",
+                "interrogativeEn": "Is the snow white?",
+                "interrogativePt": "A neve é branca?"
+            },
+            {
+                "affirmativeEn": "She has a white shirt.",
+                "affirmativePt": "Ela tem uma camisa branca.",
+                "negativeEn": "She does not have a white shirt.",
+                "negativePt": "Ela não tem uma camisa branca.",
+                "interrogativeEn": "Does she have a white shirt?",
+                "interrogativePt": "Ela tem uma camisa branca?"
+            },
+            {
+                "affirmativeEn": "The rabbit is white.",
+                "affirmativePt": "O coelho é branco.",
+                "negativeEn": "The rabbit is not white.",
+                "negativePt": "O coelho não é branco.",
+                "interrogativeEn": "Is the rabbit white?",
+                "interrogativePt": "O coelho é branco?"
+            }
+        ]
+    },
+    {
+        "en": "orange",
+        "pt": "laranja",
+        "partOfSpeech": "adjective",
+        "category": "colors",
+        "description": "A color between red and yellow, like an orange fruit",
+        "examples": [
+            {
+                "affirmativeEn": "The orange is orange colored.",
+                "affirmativePt": "A laranja é de cor laranja.",
+                "negativeEn": "The orange is not orange colored.",
+                "negativePt": "A laranja não é de cor laranja.",
+                "interrogativeEn": "Is the orange orange colored?",
+                "interrogativePt": "A laranja é de cor laranja?"
+            },
+            {
+                "affirmativeEn": "He bought an orange jacket.",
+                "affirmativePt": "Ele comprou uma jaqueta laranja.",
+                "negativeEn": "He did not buy an orange jacket.",
+                "negativePt": "Ele não comprou uma jaqueta laranja.",
+                "interrogativeEn": "Did he buy an orange jacket?",
+                "interrogativePt": "Ele comprou uma jaqueta laranja?"
+            },
+            {
+                "affirmativeEn": "The sunset is orange.",
+                "affirmativePt": "O pôr do sol é laranja.",
+                "negativeEn": "The sunset is not orange.",
+                "negativePt": "O pôr do sol não é laranja.",
+                "interrogativeEn": "Is the sunset orange?",
+                "interrogativePt": "O pôr do sol é laranja?"
+            }
+        ]
+    },
+    {
+        "en": "purple",
+        "pt": "roxo",
+        "partOfSpeech": "adjective",
+        "category": "colors",
+        "description": "A color between red and blue, like grapes",
+        "examples": [
+            {
+                "affirmativeEn": "The grapes are purple.",
+                "affirmativePt": "As uvas são roxas.",
+                "negativeEn": "The grapes are not purple.",
+                "negativePt": "As uvas não são roxas.",
+                "interrogativeEn": "Are the grapes purple?",
+                "interrogativePt": "As uvas são roxas?"
+            },
+            {
+                "affirmativeEn": "She wears a purple dress.",
+                "affirmativePt": "Ela usa um vestido roxo.",
+                "negativeEn": "She does not wear a purple dress.",
+                "negativePt": "Ela não usa um vestido roxo.",
+                "interrogativeEn": "Does she wear a purple dress?",
+                "interrogativePt": "Ela usa um vestido roxo?"
+            },
+            {
+                "affirmativeEn": "The flower is purple.",
+                "affirmativePt": "A flor é roxa.",
+                "negativeEn": "The flower is not purple.",
+                "negativePt": "A flor não é roxa.",
+                "interrogativeEn": "Is the flower purple?",
+                "interrogativePt": "A flor é roxa?"
+            }
+        ]
+    },
+    {
+        "en": "pink",
+        "pt": "rosa",
+        "partOfSpeech": "adjective",
+        "category": "colors",
+        "description": "A color that is very light red",
+        "examples": [
+            {
+                "affirmativeEn": "The flower is pink.",
+                "affirmativePt": "A flor é rosa.",
+                "negativeEn": "The flower is not pink.",
+                "negativePt": "A flor não é rosa.",
+                "interrogativeEn": "Is the flower pink?",
+                "interrogativePt": "A flor é rosa?"
+            },
+            {
+                "affirmativeEn": "She bought a pink bag.",
+                "affirmativePt": "Ela comprou uma bolsa rosa.",
+                "negativeEn": "She did not buy a pink bag.",
+                "negativePt": "Ela não comprou uma bolsa rosa.",
+                "interrogativeEn": "Did she buy a pink bag?",
+                "interrogativePt": "Ela comprou uma bolsa rosa?"
+            },
+            {
+                "affirmativeEn": "The sunset turned pink.",
+                "affirmativePt": "O pôr do sol ficou rosa.",
+                "negativeEn": "The sunset did not turn pink.",
+                "negativePt": "O pôr do sol não ficou rosa.",
+                "interrogativeEn": "Did the sunset turn pink?",
+                "interrogativePt": "O pôr do sol ficou rosa?"
+            }
+        ]
+    },
+    {
+        "en": "gray",
+        "pt": "cinza",
+        "partOfSpeech": "adjective",
+        "category": "colors",
+        "description": "A color between black and white, like smoke or concrete",
+        "examples": [
+            {
+                "affirmativeEn": "The elephant is gray.",
+                "affirmativePt": "O elefante é cinza.",
+                "negativeEn": "The elephant is not gray.",
+                "negativePt": "O elefante não é cinza.",
+                "interrogativeEn": "Is the elephant gray?",
+                "interrogativePt": "O elefante é cinza?"
+            },
+            {
+                "affirmativeEn": "He wears a gray suit.",
+                "affirmativePt": "Ele usa um terno cinza.",
+                "negativeEn": "He does not wear a gray suit.",
+                "negativePt": "Ele não usa um terno cinza.",
+                "interrogativeEn": "Does he wear a gray suit?",
+                "interrogativePt": "Ele usa um terno cinza?"
+            },
+            {
+                "affirmativeEn": "The sky is gray today.",
+                "affirmativePt": "O céu está cinza hoje.",
+                "negativeEn": "The sky is not gray today.",
+                "negativePt": "O céu não está cinza hoje.",
+                "interrogativeEn": "Is the sky gray today?",
+                "interrogativePt": "O céu está cinza hoje?"
+            }
+        ]
+    },
+    {
+        "en": "brown",
+        "pt": "marrom",
+        "partOfSpeech": "adjective",
+        "category": "colors",
+        "description": "A color like chocolate, coffee, or wood",
+        "examples": [
+            {
+                "affirmativeEn": "The dog is brown.",
+                "affirmativePt": "O cachorro é marrom.",
+                "negativeEn": "The dog is not brown.",
+                "negativePt": "O cachorro não é marrom.",
+                "interrogativeEn": "Is the dog brown?",
+                "interrogativePt": "O cachorro é marrom?"
+            },
+            {
+                "affirmativeEn": "She has brown hair.",
+                "affirmativePt": "Ela tem cabelo marrom.",
+                "negativeEn": "She does not have brown hair.",
+                "negativePt": "Ela não tem cabelo marrom.",
+                "interrogativeEn": "Does she have brown hair?",
+                "interrogativePt": "Ela tem cabelo marrom?"
+            },
+            {
+                "affirmativeEn": "The table is brown.",
+                "affirmativePt": "A mesa é marrom.",
+                "negativeEn": "The table is not brown.",
+                "negativePt": "A mesa não é marrom.",
+                "interrogativeEn": "Is the table brown?",
+                "interrogativePt": "A mesa é marrom?"
+            }
+        ]
+    },
+    {
+        "en": "beige",
+        "pt": "bege",
+        "partOfSpeech": "adjective",
+        "category": "colors",
+        "description": "A pale sandy color",
+        "examples": [
+            {
+                "affirmativeEn": "The wall is beige.",
+                "affirmativePt": "A parede é bege.",
+                "negativeEn": "The wall is not beige.",
+                "negativePt": "A parede não é bege.",
+                "interrogativeEn": "Is the wall beige?",
+                "interrogativePt": "A parede é bege?"
+            },
+            {
+                "affirmativeEn": "She wore beige pants.",
+                "affirmativePt": "Ela usava calças bege.",
+                "negativeEn": "She did not wear beige pants.",
+                "negativePt": "Ela não usava calças bege.",
+                "interrogativeEn": "Did she wear beige pants?",
+                "interrogativePt": "Ela usava calças bege?"
+            },
+            {
+                "affirmativeEn": "The carpet is beige.",
+                "affirmativePt": "O carpete é bege.",
+                "negativeEn": "The carpet is not beige.",
+                "negativePt": "O carpete não é bege.",
+                "interrogativeEn": "Is the carpet beige?",
+                "interrogativePt": "O carpete é bege?"
+            }
+        ]
+    },
+    {
+        "en": "turquoise",
+        "pt": "turquesa",
+        "partOfSpeech": "adjective",
+        "category": "colors",
+        "description": "A greenish-blue color like tropical water",
+        "examples": [
+            {
+                "affirmativeEn": "The water is turquoise.",
+                "affirmativePt": "A água é turquesa.",
+                "negativeEn": "The water is not turquoise.",
+                "negativePt": "A água não é turquesa.",
+                "interrogativeEn": "Is the water turquoise?",
+                "interrogativePt": "A água é turquesa?"
+            },
+            {
+                "affirmativeEn": "She bought turquoise jewelry.",
+                "affirmativePt": "Ela comprou jóias turquesas.",
+                "negativeEn": "She did not buy turquoise jewelry.",
+                "negativePt": "Ela não comprou jóias turquesas.",
+                "interrogativeEn": "Did she buy turquoise jewelry?",
+                "interrogativePt": "Ela comprou jóias turquesas?"
+            },
+            {
+                "affirmativeEn": "The tile is turquoise.",
+                "affirmativePt": "O azulejo é turquesa.",
+                "negativeEn": "The tile is not turquoise.",
+                "negativePt": "O azulejo não é turquesa.",
+                "interrogativeEn": "Is the tile turquoise?",
+                "interrogativePt": "O azulejo é turquesa?"
+            }
+        ]
+    },
+    {
+        "en": "navy",
+        "pt": "azul marinho",
+        "partOfSpeech": "adjective",
+        "category": "colors",
+        "description": "A very dark blue color",
+        "examples": [
+            {
+                "affirmativeEn": "He wears a navy shirt.",
+                "affirmativePt": "Ele usa uma camisa azul marinho.",
+                "negativeEn": "He does not wear a navy shirt.",
+                "negativePt": "Ele não usa uma camisa azul marinho.",
+                "interrogativeEn": "Does he wear a navy shirt?",
+                "interrogativePt": "Ele usa uma camisa azul marinho?"
+            },
+            {
+                "affirmativeEn": "The navy car looks elegant.",
+                "affirmativePt": "O carro azul marinho parece elegante.",
+                "negativeEn": "The navy car does not look elegant.",
+                "negativePt": "O carro azul marinho não parece elegante.",
+                "interrogativeEn": "Does the navy car look elegant?",
+                "interrogativePt": "O carro azul marinho parece elegante?"
+            },
+            {
+                "affirmativeEn": "The navy suit fits well.",
+                "affirmativePt": "O terno azul marinho fica bem.",
+                "negativeEn": "The navy suit does not fit well.",
+                "negativePt": "O terno azul marinho não fica bem.",
+                "interrogativeEn": "Does the navy suit fit well?",
+                "interrogativePt": "O terno azul marinho fica bem?"
+            }
+        ]
+    },
+    {
+        "en": "maroon",
+        "pt": "bordô",
+        "partOfSpeech": "adjective",
+        "category": "colors",
+        "description": "A dark brownish-red color",
+        "examples": [
+            {
+                "affirmativeEn": "The maroon sweater is warm.",
+                "affirmativePt": "O suéter bordô é quente.",
+                "negativeEn": "The maroon sweater is not warm.",
+                "negativePt": "O suéter bordô não é quente.",
+                "interrogativeEn": "Is the maroon sweater warm?",
+                "interrogativePt": "O suéter bordô é quente?"
+            },
+            {
+                "affirmativeEn": "She chose maroon for the walls.",
+                "affirmativePt": "Ela escolheu bordô para as paredes.",
+                "negativeEn": "She did not choose maroon for the walls.",
+                "negativePt": "Ela não escolheu bordô para as paredes.",
+                "interrogativeEn": "Did she choose maroon for the walls?",
+                "interrogativePt": "Ela escolheu bordô para as paredes?"
+            },
+            {
+                "affirmativeEn": "The maroon tie is classic.",
+                "affirmativePt": "A gravata bordô é clássica.",
+                "negativeEn": "The maroon tie is not classic.",
+                "negativePt": "A gravata bordô não é clássica.",
+                "interrogativeEn": "Is the maroon tie classic?",
+                "interrogativePt": "A gravata bordô é clássica?"
+            }
+        ]
+    },
+    {
+        "en": "olive",
+        "pt": "oliva",
+        "partOfSpeech": "adjective",
+        "category": "colors",
+        "description": "A yellowish-brown or greenish-brown color like olives",
+        "examples": [
+            {
+                "affirmativeEn": "He wore an olive jacket.",
+                "affirmativePt": "Ele usava uma jaqueta oliva.",
+                "negativeEn": "He did not wear an olive jacket.",
+                "negativePt": "Ele não usava uma jaqueta oliva.",
+                "interrogativeEn": "Did he wear an olive jacket?",
+                "interrogativePt": "Ele usava uma jaqueta oliva?"
+            },
+            {
+                "affirmativeEn": "The olive color suits you.",
+                "affirmativePt": "A cor oliva fica bem em você.",
+                "negativeEn": "The olive color does not suit you.",
+                "negativePt": "A cor oliva não fica bem em você.",
+                "interrogativeEn": "Does the olive color suit you?",
+                "interrogativePt": "A cor oliva fica bem em você?"
+            },
+            {
+                "affirmativeEn": "The pants are olive green.",
+                "affirmativePt": "As calças são verde oliva.",
+                "negativeEn": "The pants are not olive green.",
+                "negativePt": "As calças não são verde oliva.",
+                "interrogativeEn": "Are the pants olive green?",
+                "interrogativePt": "As calças são verde oliva?"
+            }
+        ]
+    },
+    {
+        "en": "coral",
+        "pt": "coral",
+        "partOfSpeech": "adjective",
+        "category": "colors",
+        "description": "A warm orangish-pink color",
+        "examples": [
+            {
+                "affirmativeEn": "She wore a coral dress.",
+                "affirmativePt": "Ela usava um vestido coral.",
+                "negativeEn": "She did not wear a coral dress.",
+                "negativePt": "Ela não usava um vestido coral.",
+                "interrogativeEn": "Did she wear a coral dress?",
+                "interrogativePt": "Ela usava um vestido coral?"
+            },
+            {
+                "affirmativeEn": "The coral paint looks vibrant.",
+                "affirmativePt": "A tinta coral fica vibrante.",
+                "negativeEn": "The coral paint does not look vibrant.",
+                "negativePt": "A tinta coral não fica vibrante.",
+                "interrogativeEn": "Does the coral paint look vibrant?",
+                "interrogativePt": "A tinta coral fica vibrante?"
+            },
+            {
+                "affirmativeEn": "The decoration is coral colored.",
+                "affirmativePt": "A decoração é de cor coral.",
+                "negativeEn": "The decoration is not coral colored.",
+                "negativePt": "A decoração não é de cor coral.",
+                "interrogativeEn": "Is the decoration coral colored?",
+                "interrogativePt": "A decoração é de cor coral?"
+            }
+        ]
+    },
+    {
+        "en": "crimson",
+        "pt": "carmesim",
+        "partOfSpeech": "adjective",
+        "category": "colors",
+        "description": "A deep bright red color",
+        "examples": [
+            {
+                "affirmativeEn": "The crimson banner hung proudly.",
+                "affirmativePt": "A bandeira carmesim pendia com orgulho.",
+                "negativeEn": "The crimson banner did not hang proudly.",
+                "negativePt": "A bandeira carmesim não pendia com orgulho.",
+                "interrogativeEn": "Did the crimson banner hang proudly?",
+                "interrogativePt": "A bandeira carmesim pendia com orgulho?"
+            },
+            {
+                "affirmativeEn": "She loves crimson lipstick.",
+                "affirmativePt": "Ela adora batom carmesim.",
+                "negativeEn": "She does not love crimson lipstick.",
+                "negativePt": "Ela não adora batom carmesim.",
+                "interrogativeEn": "Does she love crimson lipstick?",
+                "interrogativePt": "Ela adora batom carmesim?"
+            },
+            {
+                "affirmativeEn": "The crimson flower bloomed.",
+                "affirmativePt": "A flor carmesim floresceu.",
+                "negativeEn": "The crimson flower did not bloom.",
+                "negativePt": "A flor carmesim não floresceu.",
+                "interrogativeEn": "Did the crimson flower bloom?",
+                "interrogativePt": "A flor carmesim floresceu?"
+            }
+        ]
+    },
+    {
+        "en": "teal",
+        "pt": "azul-pato",
+        "partOfSpeech": "adjective",
+        "category": "colors",
+        "description": "A blue-green color similar to turquoise",
+        "examples": [
+            {
+                "affirmativeEn": "The teal curtains are beautiful.",
+                "affirmativePt": "As cortinas azul-pato são bonitas.",
+                "negativeEn": "The teal curtains are not beautiful.",
+                "negativePt": "As cortinas azul-pato não são bonitas.",
+                "interrogativeEn": "Are the teal curtains beautiful?",
+                "interrogativePt": "As cortinas azul-pato são bonitas?"
+            },
+            {
+                "affirmativeEn": "He chose teal for the bathroom.",
+                "affirmativePt": "Ele escolheu azul-pato para o banheiro.",
+                "negativeEn": "He did not choose teal for the bathroom.",
+                "negativePt": "Ele não escolheu azul-pato para o banheiro.",
+                "interrogativeEn": "Did he choose teal for the bathroom?",
+                "interrogativePt": "Ele escolheu azul-pato para o banheiro?"
+            },
+            {
+                "affirmativeEn": "The teal accent wall transforms the room.",
+                "affirmativePt": "A parede de destaque azul-pato transforma a sala.",
+                "negativeEn": "The teal accent wall does not transform the room.",
+                "negativePt": "A parede de destaque azul-pato não transforma a sala.",
+                "interrogativeEn": "Does the teal accent wall transform the room?",
+                "interrogativePt": "A parede de destaque azul-pato transforma a sala?"
+            }
+        ]
+    },
+    {
+        "en": "indigo",
+        "pt": "índigo",
+        "partOfSpeech": "adjective",
+        "category": "colors",
+        "description": "A deep blue-purple color",
+        "examples": [
+            {
+                "affirmativeEn": "The indigo dye creates rich colors.",
+                "affirmativePt": "O corante índigo cria cores ricas.",
+                "negativeEn": "The indigo dye does not create rich colors.",
+                "negativePt": "O corante índigo não cria cores ricas.",
+                "interrogativeEn": "Does the indigo dye create rich colors?",
+                "interrogativePt": "O corante índigo cria cores ricas?"
+            },
+            {
+                "affirmativeEn": "She wore an indigo shirt.",
+                "affirmativePt": "Ela usava uma camisa índigo.",
+                "negativeEn": "She did not wear an indigo shirt.",
+                "negativePt": "Ela não usava uma camisa índigo.",
+                "interrogativeEn": "Did she wear an indigo shirt?",
+                "interrogativePt": "Ela usava uma camisa índigo?"
+            },
+            {
+                "affirmativeEn": "The indigo fabric feels soft.",
+                "affirmativePt": "O tecido índigo é macio.",
+                "negativeEn": "The indigo fabric does not feel soft.",
+                "negativePt": "O tecido índigo não é macio.",
+                "interrogativeEn": "Does the indigo fabric feel soft?",
+                "interrogativePt": "O tecido índigo é macio?"
+            }
+        ]
+    },
+    {
+        "en": "lavender",
+        "pt": "lavanda",
+        "partOfSpeech": "adjective",
+        "category": "colors",
+        "description": "A pale purple color like the lavender flower",
+        "examples": [
+            {
+                "affirmativeEn": "The room has lavender walls.",
+                "affirmativePt": "A sala tem paredes lavanda.",
+                "negativeEn": "The room does not have lavender walls.",
+                "negativePt": "A sala não tem paredes lavanda.",
+                "interrogativeEn": "Does the room have lavender walls?",
+                "interrogativePt": "A sala tem paredes lavanda?"
+            },
+            {
+                "affirmativeEn": "She bought lavender soap.",
+                "affirmativePt": "Ela comprou sabonete lavanda.",
+                "negativeEn": "She did not buy lavender soap.",
+                "negativePt": "Ela não comprou sabonete lavanda.",
+                "interrogativeEn": "Did she buy lavender soap?",
+                "interrogativePt": "Ela comprou sabonete lavanda?"
+            },
+            {
+                "affirmativeEn": "The lavender scent is calming.",
+                "affirmativePt": "O cheiro de lavanda é calmante.",
+                "negativeEn": "The lavender scent is not calming.",
+                "negativePt": "O cheiro de lavanda não é calmante.",
+                "interrogativeEn": "Is the lavender scent calming?",
+                "interrogativePt": "O cheiro de lavanda é calmante?"
+            }
+        ]
+    },
+    {
+        "en": "silver",
+        "pt": "prata",
+        "partOfSpeech": "adjective",
+        "category": "colors",
+        "description": "A shiny metallic gray color like silver metal",
+        "examples": [
+            {
+                "affirmativeEn": "She has a silver necklace.",
+                "affirmativePt": "Ela tem um colar de prata.",
+                "negativeEn": "She does not have a silver necklace.",
+                "negativePt": "Ela não tem um colar de prata.",
+                "interrogativeEn": "Does she have a silver necklace?",
+                "interrogativePt": "Ela tem um colar de prata?"
+            },
+            {
+                "affirmativeEn": "The silver car shines brightly.",
+                "affirmativePt": "O carro de prata brilha intensamente.",
+                "negativeEn": "The silver car does not shine brightly.",
+                "negativePt": "O carro de prata não brilha intensamente.",
+                "interrogativeEn": "Does the silver car shine brightly?",
+                "interrogativePt": "O carro de prata brilha intensamente?"
+            },
+            {
+                "affirmativeEn": "The silver cutlery looks elegant.",
+                "affirmativePt": "Os talheres de prata parecem elegantes.",
+                "negativeEn": "The silver cutlery does not look elegant.",
+                "negativePt": "Os talheres de prata não parecem elegantes.",
+                "interrogativeEn": "Do the silver cutlery look elegant?",
+                "interrogativePt": "Os talheres de prata parecem elegantes?"
+            }
+        ]
+    },
+    {
+        "en": "gold",
+        "pt": "ouro",
+        "partOfSpeech": "adjective",
+        "category": "colors",
+        "description": "A shiny metallic yellow color like gold",
+        "examples": [
+            {
+                "affirmativeEn": "She wears a gold ring.",
+                "affirmativePt": "Ela usa um anel de ouro.",
+                "negativeEn": "She does not wear a gold ring.",
+                "negativePt": "Ela não usa um anel de ouro.",
+                "interrogativeEn": "Does she wear a gold ring?",
+                "interrogativePt": "Ela usa um anel de ouro?"
+            },
+            {
+                "affirmativeEn": "The gold bracelet is beautiful.",
+                "affirmativePt": "A pulseira de ouro é bonita.",
+                "negativeEn": "The gold bracelet is not beautiful.",
+                "negativePt": "A pulseira de ouro não é bonita.",
+                "interrogativeEn": "Is the gold bracelet beautiful?",
+                "interrogativePt": "A pulseira de ouro é bonita?"
+            },
+            {
+                "affirmativeEn": "His gold watch is expensive.",
+                "affirmativePt": "Seu relógio de ouro é caro.",
+                "negativeEn": "His gold watch is not expensive.",
+                "negativePt": "Seu relógio de ouro não é caro.",
+                "interrogativeEn": "Is his gold watch expensive?",
+                "interrogativePt": "Seu relógio de ouro é caro?"
+            }
+        ]
+    },
+    {
+        "en": "bronze",
+        "pt": "bronze",
+        "partOfSpeech": "adjective",
+        "category": "colors",
+        "description": "A brown-orange metallic color like bronze metal",
+        "examples": [
+            {
+                "affirmativeEn": "The bronze statue stands tall.",
+                "affirmativePt": "A estátua de bronze fica em pé alta.",
+                "negativeEn": "The bronze statue does not stand tall.",
+                "negativePt": "A estátua de bronze não fica em pé alta.",
+                "interrogativeEn": "Does the bronze statue stand tall?",
+                "interrogativePt": "A estátua de bronze fica em pé alta?"
+            },
+            {
+                "affirmativeEn": "She used bronze paint for the frame.",
+                "affirmativePt": "Ela usou tinta bronze para o moldura.",
+                "negativeEn": "She did not use bronze paint for the frame.",
+                "negativePt": "Ela não usou tinta bronze para o moldura.",
+                "interrogativeEn": "Did she use bronze paint for the frame?",
+                "interrogativePt": "Ela usou tinta bronze para o moldura?"
+            },
+            {
+                "affirmativeEn": "The bronze door handles are ornate.",
+                "affirmativePt": "As maçanetas de bronze são ornamentadas.",
+                "negativeEn": "The bronze door handles are not ornate.",
+                "negativePt": "As maçanetas de bronze não são ornamentadas.",
+                "interrogativeEn": "Are the bronze door handles ornate?",
+                "interrogativePt": "As maçanetas de bronze são ornamentadas?"
+            }
+        ]
+    }
+]

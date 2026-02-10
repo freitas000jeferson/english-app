@@ -1,4 +1,3 @@
-import { notFound } from 'next/navigation';
 import { getStudyQueueAction } from '../actions';
 import { StudyContainer } from '../components/study-container';
 

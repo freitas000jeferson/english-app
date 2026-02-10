@@ -1,0 +1,212 @@
+[
+  {
+    "order": 1,
+    "name": "Animals",
+    "slug": "animals",
+    "level": "A1",
+    "description": "Animais comuns e do cotidiano"
+  },
+  {
+    "order": 2,
+    "name": "Numbers",
+    "slug": "numbers",
+    "level": "A1",
+    "description": "Números cardinais e ordinais"
+  },
+  {
+    "order": 3,
+    "name": "Colors",
+    "slug": "colors",
+    "level": "A1",
+    "description": "Cores básicas"
+  },
+  {
+    "order": 4,
+    "name": "House Rooms",
+    "slug": "house-rooms",
+    "level": "A1",
+    "description": "Cômodos da casa"
+  },
+  {
+    "order": 5,
+    "name": "Furniture",
+    "slug": "furniture",
+    "level": "A1",
+    "description": "Móveis e itens grandes"
+  },
+  {
+    "order": 6,
+    "name": "Kitchen Objects",
+    "slug": "kitchen-objects",
+    "level": "A1",
+    "description": "Objetos e utensílios da cozinha"
+  },
+  {
+    "order": 7,
+    "name": "Office & School Objects",
+    "slug": "office-school-objects",
+    "level": "A1",
+    "description": "Objetos de escritório e escola"
+  },
+  {
+    "order": 8,
+    "name": "Transportation",
+    "slug": "transportation",
+    "level": "A1",
+    "description": "Meios de transporte"
+  },
+  {
+    "order": 9,
+    "name": "Clothes & Accessories",
+    "slug": "clothes-accessories",
+    "level": "A1",
+    "description": "Roupas e acessórios"
+  },
+  {
+    "order": 10,
+    "name": "Food",
+    "slug": "food",
+    "level": "A1",
+    "description": "Comidas em geral"
+  },
+  {
+    "order": 11,
+    "name": "Drinks",
+    "slug": "drinks",
+    "level": "A1",
+    "description": "Bebidas"
+  },
+  {
+    "order": 12,
+    "name": "Body Parts",
+    "slug": "body-parts",
+    "level": "A1",
+    "description": "Partes do corpo humano"
+  },
+  {
+    "order": 13,
+    "name": "Family",
+    "slug": "family",
+    "level": "A1",
+    "description": "Família e relações próximas"
+  },
+  {
+    "order": 14,
+    "name": "Daily Routine",
+    "slug": "daily-routine",
+    "level": "A1",
+    "description": "Atividades do dia a dia"
+  },
+  {
+    "order": 15,
+    "name": "Time & Frequency",
+    "slug": "time-frequency",
+    "level": "A1",
+    "description": "Tempo, dias, meses e frequência"
+  },
+  {
+    "order": 16,
+    "name": "City Places",
+    "slug": "city-places",
+    "level": "A2",
+    "description": "Lugares da cidade"
+  },
+  {
+    "order": 17,
+    "name": "Nature & Geography",
+    "slug": "nature-geography",
+    "level": "A2",
+    "description": "Natureza e geografia"
+  },
+  {
+    "order": 18,
+    "name": "Jobs & Professions",
+    "slug": "jobs-professions",
+    "level": "A2",
+    "description": "Profissões e trabalho"
+  },
+  {
+    "order": 19,
+    "name": "Common Verbs",
+    "slug": "common-verbs",
+    "level": "A2",
+    "description": "Verbos mais usados"
+  },
+  {
+    "order": 20,
+    "name": "Phrasal Verbs (Basic)",
+    "slug": "phrasal-verbs-basic",
+    "level": "A2",
+    "description": "Phrasal verbs essenciais"
+  },
+  {
+    "order": 21,
+    "name": "Adjectives",
+    "slug": "adjectives",
+    "level": "A2",
+    "description": "Adjetivos comuns"
+  },
+  {
+    "order": 22,
+    "name": "Emotions & Feelings",
+    "slug": "emotions-feelings",
+    "level": "A2",
+    "description": "Emoções e sentimentos"
+  },
+  {
+    "order": 23,
+    "name": "Technology",
+    "slug": "technology",
+    "level": "B1",
+    "description": "Tecnologia e internet"
+  },
+  {
+    "order": 24,
+    "name": "Health",
+    "slug": "health",
+    "level": "B1",
+    "description": "Saúde e cuidados médicos"
+  },
+  {
+    "order": 25,
+    "name": "Shopping & Money",
+    "slug": "shopping-money",
+    "level": "B1",
+    "description": "Compras e dinheiro"
+  },
+  {
+    "order": 26,
+    "name": "Travel",
+    "slug": "travel",
+    "level": "B1",
+    "description": "Viagens e turismo"
+  },
+  {
+    "order": 27,
+    "name": "Abstract Words",
+    "slug": "abstract-words",
+    "level": "B1",
+    "description": "Palavras abstratas"
+  },
+  {
+    "order": 28,
+    "name": "False Cognates",
+    "slug": "false-cognates",
+    "level": "B1",
+    "description": "Falsos cognatos (false friends)"
+  },
+  {
+    "order": 29,
+    "name": "Common Mistakes (PT-BR)",
+    "slug": "common-mistakes-ptbr",
+    "level": "B1",
+    "description": "Erros comuns de falantes de português"
+  },
+  {
+    "order": 30,
+    "name": "Irregular Verbs",
+    "slug": "irregular-verbs",
+    "level": "B1",
+    "description": "Verbos irregulares"
+  }
+]

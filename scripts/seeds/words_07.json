@@ -1,0 +1,1157 @@
+[
+    {
+        "en": "knife",
+        "pt": "faca",
+        "partOfSpeech": "noun",
+        "category": "kitchen-objects",
+        "description": "A sharp utensil used for cutting food",
+        "examples": [
+            {
+                "affirmativeEn": "I use a knife to cut the bread.",
+                "affirmativePt": "Eu uso uma faca para cortar o pão.",
+                "negativeEn": "I don't use a knife to cut the bread.",
+                "negativePt": "Eu não uso uma faca para cortar o pão.",
+                "interrogativeEn": "Do you use a knife to cut the bread?",
+                "interrogativePt": "Você usa uma faca para cortar o pão?"
+            },
+            {
+                "affirmativeEn": "The knife is sharp.",
+                "affirmativePt": "A faca é afiada.",
+                "negativeEn": "The knife is not sharp.",
+                "negativePt": "A faca não é afiada.",
+                "interrogativeEn": "Is the knife sharp?",
+                "interrogativePt": "A faca é afiada?"
+            },
+            {
+                "affirmativeEn": "She cuts the meat with a knife.",
+                "affirmativePt": "Ela corta a carne com uma faca.",
+                "negativeEn": "She doesn't cut the meat with a knife.",
+                "negativePt": "Ela não corta a carne com uma faca.",
+                "interrogativeEn": "Does she cut the meat with a knife?",
+                "interrogativePt": "Ela corta a carne com uma faca?"
+            }
+        ]
+    },
+    {
+        "en": "spoon",
+        "pt": "colher",
+        "partOfSpeech": "noun",
+        "category": "kitchen-objects",
+        "description": "A utensil with a rounded bowl for eating or stirring",
+        "examples": [
+            {
+                "affirmativeEn": "I stir the coffee with a spoon.",
+                "affirmativePt": "Eu mexo o café com uma colher.",
+                "negativeEn": "I don't stir the coffee with a spoon.",
+                "negativePt": "Eu não mexo o café com uma colher.",
+                "interrogativeEn": "Do you stir the coffee with a spoon?",
+                "interrogativePt": "Você mexe o café com uma colher?"
+            },
+            {
+                "affirmativeEn": "The spoon is on the table.",
+                "affirmativePt": "A colher está na mesa.",
+                "negativeEn": "The spoon is not on the table.",
+                "negativePt": "A colher não está na mesa.",
+                "interrogativeEn": "Is the spoon on the table?",
+                "interrogativePt": "A colher está na mesa?"
+            },
+            {
+                "affirmativeEn": "He eats soup with a spoon.",
+                "affirmativePt": "Ele come sopa com uma colher.",
+                "negativeEn": "He doesn't eat soup with a spoon.",
+                "negativePt": "Ele não come sopa com uma colher.",
+                "interrogativeEn": "Does he eat soup with a spoon?",
+                "interrogativePt": "Ele come sopa com uma colher?"
+            }
+        ]
+    },
+    {
+        "en": "fork",
+        "pt": "garfo",
+        "partOfSpeech": "noun",
+        "category": "kitchen-objects",
+        "description": "A utensil with prongs used for eating",
+        "examples": [
+            {
+                "affirmativeEn": "I eat with a fork.",
+                "affirmativePt": "Eu como com um garfo.",
+                "negativeEn": "I don't eat with a fork.",
+                "negativePt": "Eu não como com um garfo.",
+                "interrogativeEn": "Do you eat with a fork?",
+                "interrogativePt": "Você come com um garfo?"
+            },
+            {
+                "affirmativeEn": "The fork is clean.",
+                "affirmativePt": "O garfo está limpo.",
+                "negativeEn": "The fork is not clean.",
+                "negativePt": "O garfo não está limpo.",
+                "interrogativeEn": "Is the fork clean?",
+                "interrogativePt": "O garfo está limpo?"
+            },
+            {
+                "affirmativeEn": "She uses a fork to eat salad.",
+                "affirmativePt": "Ela usa um garfo para comer salada.",
+                "negativeEn": "She doesn't use a fork to eat salad.",
+                "negativePt": "Ela não usa um garfo para comer salada.",
+                "interrogativeEn": "Does she use a fork to eat salad?",
+                "interrogativePt": "Ela usa um garfo para comer salada?"
+            }
+        ]
+    },
+    {
+        "en": "plate",
+        "pt": "prato",
+        "partOfSpeech": "noun",
+        "category": "kitchen-objects",
+        "description": "A flat dish used for serving food",
+        "examples": [
+            {
+                "affirmativeEn": "I put the food on a plate.",
+                "affirmativePt": "Eu coloco a comida em um prato.",
+                "negativeEn": "I don't put the food on a plate.",
+                "negativePt": "Eu não coloco a comida em um prato.",
+                "interrogativeEn": "Do you put the food on a plate?",
+                "interrogativePt": "Você coloca a comida em um prato?"
+            },
+            {
+                "affirmativeEn": "The plate is full.",
+                "affirmativePt": "O prato está cheio.",
+                "negativeEn": "The plate is not full.",
+                "negativePt": "O prato não está cheio.",
+                "interrogativeEn": "Is the plate full?",
+                "interrogativePt": "O prato está cheio?"
+            },
+            {
+                "affirmativeEn": "She washes the plates after dinner.",
+                "affirmativePt": "Ela lava os pratos depois do jantar.",
+                "negativeEn": "She doesn't wash the plates after dinner.",
+                "negativePt": "Ela não lava os pratos depois do jantar.",
+                "interrogativeEn": "Does she wash the plates after dinner?",
+                "interrogativePt": "Ela lava os pratos depois do jantar?"
+            }
+        ]
+    },
+    {
+        "en": "cup",
+        "pt": "xícara",
+        "partOfSpeech": "noun",
+        "category": "kitchen-objects",
+        "description": "A small container used for drinking hot beverages",
+        "examples": [
+            {
+                "affirmativeEn": "I drink coffee from a cup.",
+                "affirmativePt": "Eu bebo café de uma xícara.",
+                "negativeEn": "I don't drink coffee from a cup.",
+                "negativePt": "Eu não bebo café de uma xícara.",
+                "interrogativeEn": "Do you drink coffee from a cup?",
+                "interrogativePt": "Você bebe café de uma xícara?"
+            },
+            {
+                "affirmativeEn": "The cup is hot.",
+                "affirmativePt": "A xícara está quente.",
+                "negativeEn": "The cup is not hot.",
+                "negativePt": "A xícara não está quente.",
+                "interrogativeEn": "Is the cup hot?",
+                "interrogativePt": "A xícara está quente?"
+            },
+            {
+                "affirmativeEn": "He fills the cup with tea.",
+                "affirmativePt": "Ele enche a xícara com chá.",
+                "negativeEn": "He doesn't fill the cup with tea.",
+                "negativePt": "Ele não enche a xícara com chá.",
+                "interrogativeEn": "Does he fill the cup with tea?",
+                "interrogativePt": "Ele enche a xícara com chá?"
+            }
+        ]
+    },
+    {
+        "en": "glass",
+        "pt": "copo",
+        "partOfSpeech": "noun",
+        "category": "kitchen-objects",
+        "description": "A transparent container used for drinking beverages",
+        "examples": [
+            {
+                "affirmativeEn": "I drink water from a glass.",
+                "affirmativePt": "Eu bebo água de um copo.",
+                "negativeEn": "I don't drink water from a glass.",
+                "negativePt": "Eu não bebo água de um copo.",
+                "interrogativeEn": "Do you drink water from a glass?",
+                "interrogativePt": "Você bebe água de um copo?"
+            },
+            {
+                "affirmativeEn": "The glass is empty.",
+                "affirmativePt": "O copo está vazio.",
+                "negativeEn": "The glass is not empty.",
+                "negativePt": "O copo não está vazio.",
+                "interrogativeEn": "Is the glass empty?",
+                "interrogativePt": "O copo está vazio?"
+            },
+            {
+                "affirmativeEn": "She breaks the glass.",
+                "affirmativePt": "Ela quebra o copo.",
+                "negativeEn": "She doesn't break the glass.",
+                "negativePt": "Ela não quebra o copo.",
+                "interrogativeEn": "Does she break the glass?",
+                "interrogativePt": "Ela quebra o copo?"
+            }
+        ]
+    },
+    {
+        "en": "bowl",
+        "pt": "tigela",
+        "partOfSpeech": "noun",
+        "category": "kitchen-objects",
+        "description": "A round deep container used for serving food",
+        "examples": [
+            {
+                "affirmativeEn": "I pour soup into a bowl.",
+                "affirmativePt": "Eu despejo sopa em uma tigela.",
+                "negativeEn": "I don't pour soup into a bowl.",
+                "negativePt": "Eu não despejo sopa em uma tigela.",
+                "interrogativeEn": "Do you pour soup into a bowl?",
+                "interrogativePt": "Você despeja sopa em uma tigela?"
+            },
+            {
+                "affirmativeEn": "The bowl is ceramic.",
+                "affirmativePt": "A tigela é de cerâmica.",
+                "negativeEn": "The bowl is not ceramic.",
+                "negativePt": "A tigela não é de cerâmica.",
+                "interrogativeEn": "Is the bowl ceramic?",
+                "interrogativePt": "A tigela é de cerâmica?"
+            },
+            {
+                "affirmativeEn": "He puts cereal in the bowl.",
+                "affirmativePt": "Ele coloca cereal na tigela.",
+                "negativeEn": "He doesn't put cereal in the bowl.",
+                "negativePt": "Ele não coloca cereal na tigela.",
+                "interrogativeEn": "Does he put cereal in the bowl?",
+                "interrogativePt": "Ele coloca cereal na tigela?"
+            }
+        ]
+    },
+    {
+        "en": "pot",
+        "pt": "panela",
+        "partOfSpeech": "noun",
+        "category": "kitchen-objects",
+        "description": "A deep container used for cooking food",
+        "examples": [
+            {
+                "affirmativeEn": "I cook rice in a pot.",
+                "affirmativePt": "Eu cozinho arroz em uma panela.",
+                "negativeEn": "I don't cook rice in a pot.",
+                "negativePt": "Eu não cozinho arroz em uma panela.",
+                "interrogativeEn": "Do you cook rice in a pot?",
+                "interrogativePt": "Você cozinha arroz em uma panela?"
+            },
+            {
+                "affirmativeEn": "The pot is hot.",
+                "affirmativePt": "A panela está quente.",
+                "negativeEn": "The pot is not hot.",
+                "negativePt": "A panela não está quente.",
+                "interrogativeEn": "Is the pot hot?",
+                "interrogativePt": "A panela está quente?"
+            },
+            {
+                "affirmativeEn": "She boils water in the pot.",
+                "affirmativePt": "Ela ferve água na panela.",
+                "negativeEn": "She doesn't boil water in the pot.",
+                "negativePt": "Ela não ferve água na panela.",
+                "interrogativeEn": "Does she boil water in the pot?",
+                "interrogativePt": "Ela ferve água na panela?"
+            }
+        ]
+    },
+    {
+        "en": "pan",
+        "pt": "frigideira",
+        "partOfSpeech": "noun",
+        "category": "kitchen-objects",
+        "description": "A shallow container used for frying food",
+        "examples": [
+            {
+                "affirmativeEn": "I fry eggs in a pan.",
+                "affirmativePt": "Eu frito ovos em uma frigideira.",
+                "negativeEn": "I don't fry eggs in a pan.",
+                "negativePt": "Eu não frito ovos em uma frigideira.",
+                "interrogativeEn": "Do you fry eggs in a pan?",
+                "interrogativePt": "Você frita ovos em uma frigideira?"
+            },
+            {
+                "affirmativeEn": "The pan is non-stick.",
+                "affirmativePt": "A frigideira é antiaderente.",
+                "negativeEn": "The pan is not non-stick.",
+                "negativePt": "A frigideira não é antiaderente.",
+                "interrogativeEn": "Is the pan non-stick?",
+                "interrogativePt": "A frigideira é antiaderente?"
+            },
+            {
+                "affirmativeEn": "He cooks pancakes in the pan.",
+                "affirmativePt": "Ele cozinha panquecas na frigideira.",
+                "negativeEn": "He doesn't cook pancakes in the pan.",
+                "negativePt": "Ele não cozinha panquecas na frigideira.",
+                "interrogativeEn": "Does he cook pancakes in the pan?",
+                "interrogativePt": "Ele cozinha panquecas na frigideira?"
+            }
+        ]
+    },
+    {
+        "en": "cutting board",
+        "pt": "tábua de corte",
+        "partOfSpeech": "noun",
+        "category": "kitchen-objects",
+        "description": "A flat surface used for cutting food",
+        "examples": [
+            {
+                "affirmativeEn": "I cut vegetables on a cutting board.",
+                "affirmativePt": "Eu corto vegetais em uma tábua de corte.",
+                "negativeEn": "I don't cut vegetables on a cutting board.",
+                "negativePt": "Eu não corto vegetais em uma tábua de corte.",
+                "interrogativeEn": "Do you cut vegetables on a cutting board?",
+                "interrogativePt": "Você corta vegetais em uma tábua de corte?"
+            },
+            {
+                "affirmativeEn": "The cutting board is wooden.",
+                "affirmativePt": "A tábua de corte é de madeira.",
+                "negativeEn": "The cutting board is not wooden.",
+                "negativePt": "A tábua de corte não é de madeira.",
+                "interrogativeEn": "Is the cutting board wooden?",
+                "interrogativePt": "A tábua de corte é de madeira?"
+            },
+            {
+                "affirmativeEn": "She cleans the cutting board.",
+                "affirmativePt": "Ela limpa a tábua de corte.",
+                "negativeEn": "She doesn't clean the cutting board.",
+                "negativePt": "Ela não limpa a tábua de corte.",
+                "interrogativeEn": "Does she clean the cutting board?",
+                "interrogativePt": "Ela limpa a tábua de corte?"
+            }
+        ]
+    },
+    {
+        "en": "napkin",
+        "pt": "guardanapo",
+        "partOfSpeech": "noun",
+        "category": "kitchen-objects",
+        "description": "A piece of fabric used for wiping hands and mouth",
+        "examples": [
+            {
+                "affirmativeEn": "I use a napkin to wipe my mouth.",
+                "affirmativePt": "Eu uso um guardanapo para limpar a minha boca.",
+                "negativeEn": "I don't use a napkin to wipe my mouth.",
+                "negativePt": "Eu não uso um guardanapo para limpar a minha boca.",
+                "interrogativeEn": "Do you use a napkin to wipe your mouth?",
+                "interrogativePt": "Você usa um guardanapo para limpar a sua boca?"
+            },
+            {
+                "affirmativeEn": "The napkin is white.",
+                "affirmativePt": "O guardanapo é branco.",
+                "negativeEn": "The napkin is not white.",
+                "negativePt": "O guardanapo não é branco.",
+                "interrogativeEn": "Is the napkin white?",
+                "interrogativePt": "O guardanapo é branco?"
+            },
+            {
+                "affirmativeEn": "He folds the napkin.",
+                "affirmativePt": "Ele dobra o guardanapo.",
+                "negativeEn": "He doesn't fold the napkin.",
+                "negativePt": "Ele não dobra o guardanapo.",
+                "interrogativeEn": "Does he fold the napkin?",
+                "interrogativePt": "Ele dobra o guardanapo?"
+            }
+        ]
+    },
+    {
+        "en": "tablecloth",
+        "pt": "toalha de mesa",
+        "partOfSpeech": "noun",
+        "category": "kitchen-objects",
+        "description": "A fabric covering for a table",
+        "examples": [
+            {
+                "affirmativeEn": "I spread the tablecloth on the table.",
+                "affirmativePt": "Eu estendo a toalha de mesa sobre a mesa.",
+                "negativeEn": "I don't spread the tablecloth on the table.",
+                "negativePt": "Eu não estendo a toalha de mesa sobre a mesa.",
+                "interrogativeEn": "Do you spread the tablecloth on the table?",
+                "interrogativePt": "Você estende a toalha de mesa sobre a mesa?"
+            },
+            {
+                "affirmativeEn": "The tablecloth is red.",
+                "affirmativePt": "A toalha de mesa é vermelha.",
+                "negativeEn": "The tablecloth is not red.",
+                "negativePt": "A toalha de mesa não é vermelha.",
+                "interrogativeEn": "Is the tablecloth red?",
+                "interrogativePt": "A toalha de mesa é vermelha?"
+            },
+            {
+                "affirmativeEn": "She washes the tablecloth.",
+                "affirmativePt": "Ela lava a toalha de mesa.",
+                "negativeEn": "She doesn't wash the tablecloth.",
+                "negativePt": "Ela não lava a toalha de mesa.",
+                "interrogativeEn": "Does she wash the tablecloth?",
+                "interrogativePt": "Ela lava a toalha de mesa?"
+            }
+        ]
+    },
+    {
+        "en": "spatula",
+        "pt": "espátula",
+        "partOfSpeech": "noun",
+        "category": "kitchen-objects",
+        "description": "A flat tool used for flipping or spreading food",
+        "examples": [
+            {
+                "affirmativeEn": "I flip the pancake with a spatula.",
+                "affirmativePt": "Eu viro a panqueca com uma espátula.",
+                "negativeEn": "I don't flip the pancake with a spatula.",
+                "negativePt": "Eu não viro a panqueca com uma espátula.",
+                "interrogativeEn": "Do you flip the pancake with a spatula?",
+                "interrogativePt": "Você vira a panqueca com uma espátula?"
+            },
+            {
+                "affirmativeEn": "The spatula is plastic.",
+                "affirmativePt": "A espátula é de plástico.",
+                "negativeEn": "The spatula is not plastic.",
+                "negativePt": "A espátula não é de plástico.",
+                "interrogativeEn": "Is the spatula plastic?",
+                "interrogativePt": "A espátula é de plástico?"
+            },
+            {
+                "affirmativeEn": "He uses the spatula to spread butter.",
+                "affirmativePt": "Ele usa a espátula para espalhar manteiga.",
+                "negativeEn": "He doesn't use the spatula to spread butter.",
+                "negativePt": "Ele não usa a espátula para espalhar manteiga.",
+                "interrogativeEn": "Does he use the spatula to spread butter?",
+                "interrogativePt": "Ele usa a espátula para espalhar manteiga?"
+            }
+        ]
+    },
+    {
+        "en": "kettle",
+        "pt": "chaleira",
+        "partOfSpeech": "noun",
+        "category": "kitchen-objects",
+        "description": "A container with a spout used for boiling water",
+        "examples": [
+            {
+                "affirmativeEn": "I boil water in a kettle.",
+                "affirmativePt": "Eu fervo água em uma chaleira.",
+                "negativeEn": "I don't boil water in a kettle.",
+                "negativePt": "Eu não fervo água em uma chaleira.",
+                "interrogativeEn": "Do you boil water in a kettle?",
+                "interrogativePt": "Você ferve água em uma chaleira?"
+            },
+            {
+                "affirmativeEn": "The kettle is whistling.",
+                "affirmativePt": "A chaleira está apitando.",
+                "negativeEn": "The kettle is not whistling.",
+                "negativePt": "A chaleira não está apitando.",
+                "interrogativeEn": "Is the kettle whistling?",
+                "interrogativePt": "A chaleira está apitando?"
+            },
+            {
+                "affirmativeEn": "She pours tea from the kettle.",
+                "affirmativePt": "Ela derrama chá da chaleira.",
+                "negativeEn": "She doesn't pour tea from the kettle.",
+                "negativePt": "Ela não derrama chá da chaleira.",
+                "interrogativeEn": "Does she pour tea from the kettle?",
+                "interrogativePt": "Ela derrama chá da chaleira?"
+            }
+        ]
+    },
+    {
+        "en": "strainer",
+        "pt": "peneira",
+        "partOfSpeech": "noun",
+        "category": "kitchen-objects",
+        "description": "A kitchen tool with holes used for draining or sifting",
+        "examples": [
+            {
+                "affirmativeEn": "I use a strainer to drain pasta.",
+                "affirmativePt": "Eu uso uma peneira para peneirar a massa.",
+                "negativeEn": "I don't use a strainer to drain pasta.",
+                "negativePt": "Eu não uso uma peneira para peneirar a massa.",
+                "interrogativeEn": "Do you use a strainer to drain pasta?",
+                "interrogativePt": "Você usa uma peneira para peneirar a massa?"
+            },
+            {
+                "affirmativeEn": "The strainer is metal.",
+                "affirmativePt": "A peneira é de metal.",
+                "negativeEn": "The strainer is not metal.",
+                "negativePt": "A peneira não é de metal.",
+                "interrogativeEn": "Is the strainer metal?",
+                "interrogativePt": "A peneira é de metal?"
+            },
+            {
+                "affirmativeEn": "He sifts flour with the strainer.",
+                "affirmativePt": "Ele peneira farinha com a peneira.",
+                "negativeEn": "He doesn't sift flour with the strainer.",
+                "negativePt": "Ele não peneira farinha com a peneira.",
+                "interrogativeEn": "Does he sift flour with the strainer?",
+                "interrogativePt": "Ele peneira farinha com a peneira?"
+            }
+        ]
+    },
+    {
+        "en": "oven",
+        "pt": "forno",
+        "partOfSpeech": "noun",
+        "category": "kitchen-objects",
+        "description": "An appliance used for baking and roasting food",
+        "examples": [
+            {
+                "affirmativeEn": "I bake bread in the oven.",
+                "affirmativePt": "Eu asso pão no forno.",
+                "negativeEn": "I don't bake bread in the oven.",
+                "negativePt": "Eu não asso pão no forno.",
+                "interrogativeEn": "Do you bake bread in the oven?",
+                "interrogativePt": "Você assa pão no forno?"
+            },
+            {
+                "affirmativeEn": "The oven is hot.",
+                "affirmativePt": "O forno está quente.",
+                "negativeEn": "The oven is not hot.",
+                "negativePt": "O forno não está quente.",
+                "interrogativeEn": "Is the oven hot?",
+                "interrogativePt": "O forno está quente?"
+            },
+            {
+                "affirmativeEn": "She cooks the chicken in the oven.",
+                "affirmativePt": "Ela cozinha o frango no forno.",
+                "negativeEn": "She doesn't cook the chicken in the oven.",
+                "negativePt": "Ela não cozinha o frango no forno.",
+                "interrogativeEn": "Does she cook the chicken in the oven?",
+                "interrogativePt": "Ela cozinha o frango no forno?"
+            }
+        ]
+    },
+    {
+        "en": "microwave",
+        "pt": "micro-ondas",
+        "partOfSpeech": "noun",
+        "category": "kitchen-objects",
+        "description": "An appliance that heats food using microwave radiation",
+        "examples": [
+            {
+                "affirmativeEn": "I heat leftovers in the microwave.",
+                "affirmativePt": "Eu aqueco sobras no micro-ondas.",
+                "negativeEn": "I don't heat leftovers in the microwave.",
+                "negativePt": "Eu não aqueco sobras no micro-ondas.",
+                "interrogativeEn": "Do you heat leftovers in the microwave?",
+                "interrogativePt": "Você aquece sobras no micro-ondas?"
+            },
+            {
+                "affirmativeEn": "The microwave is fast.",
+                "affirmativePt": "O micro-ondas é rápido.",
+                "negativeEn": "The microwave is not fast.",
+                "negativePt": "O micro-ondas não é rápido.",
+                "interrogativeEn": "Is the microwave fast?",
+                "interrogativePt": "O micro-ondas é rápido?"
+            },
+            {
+                "affirmativeEn": "He reheats the soup in the microwave.",
+                "affirmativePt": "Ele reaquece a sopa no micro-ondas.",
+                "negativeEn": "He doesn't reheat the soup in the microwave.",
+                "negativePt": "Ele não reaquece a sopa no micro-ondas.",
+                "interrogativeEn": "Does he reheat the soup in the microwave?",
+                "interrogativePt": "Ele reaquece a sopa no micro-ondas?"
+            }
+        ]
+    },
+    {
+        "en": "can opener",
+        "pt": "abridor de lata",
+        "partOfSpeech": "noun",
+        "category": "kitchen-objects",
+        "description": "A tool used for opening canned food",
+        "examples": [
+            {
+                "affirmativeEn": "I open cans with a can opener.",
+                "affirmativePt": "Eu abro latas com um abridor de lata.",
+                "negativeEn": "I don't open cans with a can opener.",
+                "negativePt": "Eu não abro latas com um abridor de lata.",
+                "interrogativeEn": "Do you open cans with a can opener?",
+                "interrogativePt": "Você abre latas com um abridor de lata?"
+            },
+            {
+                "affirmativeEn": "The can opener is manual.",
+                "affirmativePt": "O abridor de lata é manual.",
+                "negativeEn": "The can opener is not manual.",
+                "negativePt": "O abridor de lata não é manual.",
+                "interrogativeEn": "Is the can opener manual?",
+                "interrogativePt": "O abridor de lata é manual?"
+            },
+            {
+                "affirmativeEn": "She uses the can opener to open beans.",
+                "affirmativePt": "Ela usa o abridor de lata para abrir feijão.",
+                "negativeEn": "She doesn't use the can opener to open beans.",
+                "negativePt": "Ela não usa o abridor de lata para abrir feijão.",
+                "interrogativeEn": "Does she use the can opener to open beans?",
+                "interrogativePt": "Ela usa o abridor de lata para abrir feijão?"
+            }
+        ]
+    },
+    {
+        "en": "dishwasher",
+        "pt": "máquina de lavar louça",
+        "partOfSpeech": "noun",
+        "category": "kitchen-objects",
+        "description": "An appliance used for washing dishes automatically",
+        "examples": [
+            {
+                "affirmativeEn": "I put the dishes in the dishwasher.",
+                "affirmativePt": "Eu coloco os pratos na máquina de lavar louça.",
+                "negativeEn": "I don't put the dishes in the dishwasher.",
+                "negativePt": "Eu não coloco os pratos na máquina de lavar louça.",
+                "interrogativeEn": "Do you put the dishes in the dishwasher?",
+                "interrogativePt": "Você coloca os pratos na máquina de lavar louça?"
+            },
+            {
+                "affirmativeEn": "The dishwasher is running.",
+                "affirmativePt": "A máquina de lavar louça está funcionando.",
+                "negativeEn": "The dishwasher is not running.",
+                "negativePt": "A máquina de lavar louça não está funcionando.",
+                "interrogativeEn": "Is the dishwasher running?",
+                "interrogativePt": "A máquina de lavar louça está funcionando?"
+            },
+            {
+                "affirmativeEn": "He loads the dishwasher after meals.",
+                "affirmativePt": "Ele carrega a máquina de lavar louça após as refeições.",
+                "negativeEn": "He doesn't load the dishwasher after meals.",
+                "negativePt": "Ele não carrega a máquina de lavar louça após as refeições.",
+                "interrogativeEn": "Does he load the dishwasher after meals?",
+                "interrogativePt": "Ele carrega a máquina de lavar louça após as refeições?"
+            }
+        ]
+    },
+    {
+        "en": "grater",
+        "pt": "ralador",
+        "partOfSpeech": "noun",
+        "category": "kitchen-objects",
+        "description": "A tool with rough surfaces used for shredding food",
+        "examples": [
+            {
+                "affirmativeEn": "I grate cheese with a grater.",
+                "affirmativePt": "Eu ralo queijo com um ralador.",
+                "negativeEn": "I don't grate cheese with a grater.",
+                "negativePt": "Eu não ralo queijo com um ralador.",
+                "interrogativeEn": "Do you grate cheese with a grater?",
+                "interrogativePt": "Você rala queijo com um ralador?"
+            },
+            {
+                "affirmativeEn": "The grater is sharp.",
+                "affirmativePt": "O ralador é afiado.",
+                "negativeEn": "The grater is not sharp.",
+                "negativePt": "O ralador não é afiado.",
+                "interrogativeEn": "Is the grater sharp?",
+                "interrogativePt": "O ralador é afiado?"
+            },
+            {
+                "affirmativeEn": "She grates carrots for the salad.",
+                "affirmativePt": "Ela rala cenoura para a salada.",
+                "negativeEn": "She doesn't grate carrots for the salad.",
+                "negativePt": "Ela não rala cenoura para a salada.",
+                "interrogativeEn": "Does she grate carrots for the salad?",
+                "interrogativePt": "Ela rala cenoura para a salada?"
+            }
+        ]
+    },
+    {
+        "en": "peeler",
+        "pt": "descascador",
+        "partOfSpeech": "noun",
+        "category": "kitchen-objects",
+        "description": "A tool used for removing the outer layer of vegetables",
+        "examples": [
+            {
+                "affirmativeEn": "I peel potatoes with a peeler.",
+                "affirmativePt": "Eu descasco batatas com um descascador.",
+                "negativeEn": "I don't peel potatoes with a peeler.",
+                "negativePt": "Eu não descasco batatas com um descascador.",
+                "interrogativeEn": "Do you peel potatoes with a peeler?",
+                "interrogativePt": "Você descasca batatas com um descascador?"
+            },
+            {
+                "affirmativeEn": "The peeler is stainless steel.",
+                "affirmativePt": "O descascador é de aço inoxidável.",
+                "negativeEn": "The peeler is not stainless steel.",
+                "negativePt": "O descascador não é de aço inoxidável.",
+                "interrogativeEn": "Is the peeler stainless steel?",
+                "interrogativePt": "O descascador é de aço inoxidável?"
+            },
+            {
+                "affirmativeEn": "He peels apples with the peeler.",
+                "affirmativePt": "Ele descasca maçãs com o descascador.",
+                "negativeEn": "He doesn't peel apples with the peeler.",
+                "negativePt": "Ele não descasca maçãs com o descascador.",
+                "interrogativeEn": "Does he peel apples with the peeler?",
+                "interrogativePt": "Ele descasca maçãs com o descascador?"
+            }
+        ]
+    },
+    {
+        "en": "colander",
+        "pt": "escorredor",
+        "partOfSpeech": "noun",
+        "category": "kitchen-objects",
+        "description": "A bowl-shaped kitchen tool with drainage holes",
+        "examples": [
+            {
+                "affirmativeEn": "I drain pasta in a colander.",
+                "affirmativePt": "Eu escorro massa em um escorredor.",
+                "negativeEn": "I don't drain pasta in a colander.",
+                "negativePt": "Eu não escorro massa em um escorredor.",
+                "interrogativeEn": "Do you drain pasta in a colander?",
+                "interrogativePt": "Você escorre massa em um escorredor?"
+            },
+            {
+                "affirmativeEn": "The colander is plastic.",
+                "affirmativePt": "O escorredor é de plástico.",
+                "negativeEn": "The colander is not plastic.",
+                "negativePt": "O escorredor não é de plástico.",
+                "interrogativeEn": "Is the colander plastic?",
+                "interrogativePt": "O escorredor é de plástico?"
+            },
+            {
+                "affirmativeEn": "She washes vegetables in the colander.",
+                "affirmativePt": "Ela lava vegetais no escorredor.",
+                "negativeEn": "She doesn't wash vegetables in the colander.",
+                "negativePt": "Ela não lava vegetais no escorredor.",
+                "interrogativeEn": "Does she wash vegetables in the colander?",
+                "interrogativePt": "Ela lava vegetais no escorredor?"
+            }
+        ]
+    },
+    {
+        "en": "measuring cup",
+        "pt": "xícara de medida",
+        "partOfSpeech": "noun",
+        "category": "kitchen-objects",
+        "description": "A cup used for measuring ingredient quantities while cooking",
+        "examples": [
+            {
+                "affirmativeEn": "I measure flour with a measuring cup.",
+                "affirmativePt": "Eu meço farinha com uma xícara de medida.",
+                "negativeEn": "I don't measure flour with a measuring cup.",
+                "negativePt": "Eu não meço farinha com uma xícara de medida.",
+                "interrogativeEn": "Do you measure flour with a measuring cup?",
+                "interrogativePt": "Você mede farinha com uma xícara de medida?"
+            },
+            {
+                "affirmativeEn": "The measuring cup is graduated.",
+                "affirmativePt": "A xícara de medida é graduada.",
+                "negativeEn": "The measuring cup is not graduated.",
+                "negativePt": "A xícara de medida não é graduada.",
+                "interrogativeEn": "Is the measuring cup graduated?",
+                "interrogativePt": "A xícara de medida é graduada?"
+            },
+            {
+                "affirmativeEn": "He uses a measuring cup for sugar.",
+                "affirmativePt": "Ele usa uma xícara de medida para açúcar.",
+                "negativeEn": "He doesn't use a measuring cup for sugar.",
+                "negativePt": "Ele não usa uma xícara de medida para açúcar.",
+                "interrogativeEn": "Does he use a measuring cup for sugar?",
+                "interrogativePt": "Ele usa uma xícara de medida para açúcar?"
+            }
+        ]
+    },
+    {
+        "en": "whisk",
+        "pt": "batedor de arame",
+        "partOfSpeech": "noun",
+        "category": "kitchen-objects",
+        "description": "A utensil with wire loops used for mixing ingredients",
+        "examples": [
+            {
+                "affirmativeEn": "I whisk eggs with a whisk.",
+                "affirmativePt": "Eu bato ovos com um batedor de arame.",
+                "negativeEn": "I don't whisk eggs with a whisk.",
+                "negativePt": "Eu não bato ovos com um batedor de arame.",
+                "interrogativeEn": "Do you whisk eggs with a whisk?",
+                "interrogativePt": "Você bate ovos com um batedor de arame?"
+            },
+            {
+                "affirmativeEn": "The whisk is stainless steel.",
+                "affirmativePt": "O batedor de arame é de aço inoxidável.",
+                "negativeEn": "The whisk is not stainless steel.",
+                "negativePt": "O batedor de arame não é de aço inoxidável.",
+                "interrogativeEn": "Is the whisk stainless steel?",
+                "interrogativePt": "O batedor de arame é de aço inoxidável?"
+            },
+            {
+                "affirmativeEn": "She mixes cream with the whisk.",
+                "affirmativePt": "Ela mistura creme com o batedor de arame.",
+                "negativeEn": "She doesn't mix cream with the whisk.",
+                "negativePt": "Ela não mistura creme com o batedor de arame.",
+                "interrogativeEn": "Does she mix cream with the whisk?",
+                "interrogativePt": "Ela mistura creme com o batedor de arame?"
+            }
+        ]
+    },
+    {
+        "en": "rolling pin",
+        "pt": "rolo de massa",
+        "partOfSpeech": "noun",
+        "category": "kitchen-objects",
+        "description": "A cylindrical tool used for flattening dough",
+        "examples": [
+            {
+                "affirmativeEn": "I flatten dough with a rolling pin.",
+                "affirmativePt": "Eu achato a massa com um rolo de massa.",
+                "negativeEn": "I don't flatten dough with a rolling pin.",
+                "negativePt": "Eu não achato a massa com um rolo de massa.",
+                "interrogativeEn": "Do you flatten dough with a rolling pin?",
+                "interrogativePt": "Você achata a massa com um rolo de massa?"
+            },
+            {
+                "affirmativeEn": "The rolling pin is wooden.",
+                "affirmativePt": "O rolo de massa é de madeira.",
+                "negativeEn": "The rolling pin is not wooden.",
+                "negativePt": "O rolo de massa não é de madeira.",
+                "interrogativeEn": "Is the rolling pin wooden?",
+                "interrogativePt": "O rolo de massa é de madeira?"
+            },
+            {
+                "affirmativeEn": "She uses the rolling pin for pastry.",
+                "affirmativePt": "Ela usa o rolo de massa para massa folhada.",
+                "negativeEn": "She doesn't use the rolling pin for pastry.",
+                "negativePt": "Ela não usa o rolo de massa para massa folhada.",
+                "interrogativeEn": "Does she use the rolling pin for pastry?",
+                "interrogativePt": "Ela usa o rolo de massa para massa folhada?"
+            }
+        ]
+    },
+    {
+        "en": "tongs",
+        "pt": "pegador",
+        "partOfSpeech": "noun",
+        "category": "kitchen-objects",
+        "description": "A utensil with two arms used for gripping food",
+        "examples": [
+            {
+                "affirmativeEn": "I use tongs to flip the meat.",
+                "affirmativePt": "Eu uso um pegador para virar a carne.",
+                "negativeEn": "I don't use tongs to flip the meat.",
+                "negativePt": "Eu não uso um pegador para virar a carne.",
+                "interrogativeEn": "Do you use tongs to flip the meat?",
+                "interrogativePt": "Você usa um pegador para virar a carne?"
+            },
+            {
+                "affirmativeEn": "The tongs are metal.",
+                "affirmativePt": "O pegador é de metal.",
+                "negativeEn": "The tongs are not metal.",
+                "negativePt": "O pegador não é de metal.",
+                "interrogativeEn": "Are the tongs metal?",
+                "interrogativePt": "O pegador é de metal?"
+            },
+            {
+                "affirmativeEn": "He grabs the pasta with the tongs.",
+                "affirmativePt": "Ele pega a massa com o pegador.",
+                "negativeEn": "He doesn't grab the pasta with the tongs.",
+                "negativePt": "Ele não pega a massa com o pegador.",
+                "interrogativeEn": "Does he grab the pasta with the tongs?",
+                "interrogativePt": "Ele pega a massa com o pegador?"
+            }
+        ]
+    },
+    {
+        "en": "ladle",
+        "pt": "concha",
+        "partOfSpeech": "noun",
+        "category": "kitchen-objects",
+        "description": "A spoon with a deep bowl used for serving soup or sauce",
+        "examples": [
+            {
+                "affirmativeEn": "I serve soup with a ladle.",
+                "affirmativePt": "Eu sirvo sopa com uma concha.",
+                "negativeEn": "I don't serve soup with a ladle.",
+                "negativePt": "Eu não sirvo sopa com uma concha.",
+                "interrogativeEn": "Do you serve soup with a ladle?",
+                "interrogativePt": "Você serve sopa com uma concha?"
+            },
+            {
+                "affirmativeEn": "The ladle is large.",
+                "affirmativePt": "A concha é grande.",
+                "negativeEn": "The ladle is not large.",
+                "negativePt": "A concha não é grande.",
+                "interrogativeEn": "Is the ladle large?",
+                "interrogativePt": "A concha é grande?"
+            },
+            {
+                "affirmativeEn": "She fills the bowl with the ladle.",
+                "affirmativePt": "Ela enche a tigela com a concha.",
+                "negativeEn": "She doesn't fill the bowl with the ladle.",
+                "negativePt": "Ela não enche a tigela com a concha.",
+                "interrogativeEn": "Does she fill the bowl with the ladle?",
+                "interrogativePt": "Ela enche a tigela com a concha?"
+            }
+        ]
+    },
+    {
+        "en": "blender",
+        "pt": "liquidificador",
+        "partOfSpeech": "noun",
+        "category": "kitchen-objects",
+        "description": "An appliance used for mixing and blending ingredients",
+        "examples": [
+            {
+                "affirmativeEn": "I make smoothies in the blender.",
+                "affirmativePt": "Eu faço vitaminas no liquidificador.",
+                "negativeEn": "I don't make smoothies in the blender.",
+                "negativePt": "Eu não faço vitaminas no liquidificador.",
+                "interrogativeEn": "Do you make smoothies in the blender?",
+                "interrogativePt": "Você faz vitaminas no liquidificador?"
+            },
+            {
+                "affirmativeEn": "The blender is powerful.",
+                "affirmativePt": "O liquidificador é poderoso.",
+                "negativeEn": "The blender is not powerful.",
+                "negativePt": "O liquidificador não é poderoso.",
+                "interrogativeEn": "Is the blender powerful?",
+                "interrogativePt": "O liquidificador é poderoso?"
+            },
+            {
+                "affirmativeEn": "He blends fruit for juice.",
+                "affirmativePt": "Ele bate fruta para fazer suco.",
+                "negativeEn": "He doesn't blend fruit for juice.",
+                "negativePt": "Ele não bate fruta para fazer suco.",
+                "interrogativeEn": "Does he blend fruit for juice?",
+                "interrogativePt": "Ele bate fruta para fazer suco?"
+            }
+        ]
+    },
+    {
+        "en": "corkscrew",
+        "pt": "saca-rolha",
+        "partOfSpeech": "noun",
+        "category": "kitchen-objects",
+        "description": "A tool used for removing corks from bottles",
+        "examples": [
+            {
+                "affirmativeEn": "I open wine with a corkscrew.",
+                "affirmativePt": "Eu abro vinho com um saca-rolha.",
+                "negativeEn": "I don't open wine with a corkscrew.",
+                "negativePt": "Eu não abro vinho com um saca-rolha.",
+                "interrogativeEn": "Do you open wine with a corkscrew?",
+                "interrogativePt": "Você abre vinho com um saca-rolha?"
+            },
+            {
+                "affirmativeEn": "The corkscrew is efficient.",
+                "affirmativePt": "O saca-rolha é eficiente.",
+                "negativeEn": "The corkscrew is not efficient.",
+                "negativePt": "O saca-rolha não é eficiente.",
+                "interrogativeEn": "Is the corkscrew efficient?",
+                "interrogativePt": "O saca-rolha é eficiente?"
+            },
+            {
+                "affirmativeEn": "She removes the cork with the corkscrew.",
+                "affirmativePt": "Ela remove a rolha com o saca-rolha.",
+                "negativeEn": "She doesn't remove the cork with the corkscrew.",
+                "negativePt": "Ela não remove a rolha com o saca-rolha.",
+                "interrogativeEn": "Does she remove the cork with the corkscrew?",
+                "interrogativePt": "Ela remove a rolha com o saca-rolha?"
+            }
+        ]
+    },
+    {
+        "en": "mortar and pestle",
+        "pt": "almofariz e pilão",
+        "partOfSpeech": "noun",
+        "category": "kitchen-objects",
+        "description": "A tool used for crushing and grinding spices",
+        "examples": [
+            {
+                "affirmativeEn": "I grind spices with a mortar and pestle.",
+                "affirmativePt": "Eu moo especiarias com um almofariz e pilão.",
+                "negativeEn": "I don't grind spices with a mortar and pestle.",
+                "negativePt": "Eu não moo especiarias com um almofariz e pilão.",
+                "interrogativeEn": "Do you grind spices with a mortar and pestle?",
+                "interrogativePt": "Você mói especiarias com um almofariz e pilão?"
+            },
+            {
+                "affirmativeEn": "The mortar and pestle is stone.",
+                "affirmativePt": "O almofariz e pilão é de pedra.",
+                "negativeEn": "The mortar and pestle is not stone.",
+                "negativePt": "O almofariz e pilão não é de pedra.",
+                "interrogativeEn": "Is the mortar and pestle stone?",
+                "interrogativePt": "O almofariz e pilão é de pedra?"
+            },
+            {
+                "affirmativeEn": "He crushes garlic with the mortar and pestle.",
+                "affirmativePt": "Ele esmiga alho com o almofariz e pilão.",
+                "negativeEn": "He doesn't crush garlic with the mortar and pestle.",
+                "negativePt": "Ele não esmiga alho com o almofariz e pilão.",
+                "interrogativeEn": "Does he crush garlic with the mortar and pestle?",
+                "interrogativePt": "Ele esmiga alho com o almofariz e pilão?"
+            }
+        ]
+    },
+    {
+        "en": "food processor",
+        "pt": "processador de alimentos",
+        "partOfSpeech": "noun",
+        "category": "kitchen-objects",
+        "description": "An appliance used for chopping and mixing food",
+        "examples": [
+            {
+                "affirmativeEn": "I chop vegetables in the food processor.",
+                "affirmativePt": "Eu pico vegetais no processador de alimentos.",
+                "negativeEn": "I don't chop vegetables in the food processor.",
+                "negativePt": "Eu não pico vegetais no processador de alimentos.",
+                "interrogativeEn": "Do you chop vegetables in the food processor?",
+                "interrogativePt": "Você pica vegetais no processador de alimentos?"
+            },
+            {
+                "affirmativeEn": "The food processor is versatile.",
+                "affirmativePt": "O processador de alimentos é versátil.",
+                "negativeEn": "The food processor is not versatile.",
+                "negativePt": "O processador de alimentos não é versátil.",
+                "interrogativeEn": "Is the food processor versatile?",
+                "interrogativePt": "O processador de alimentos é versátil?"
+            },
+            {
+                "affirmativeEn": "She makes pesto in the food processor.",
+                "affirmativePt": "Ela faz pesto no processador de alimentos.",
+                "negativeEn": "She doesn't make pesto in the food processor.",
+                "negativePt": "Ela não faz pesto no processador de alimentos.",
+                "interrogativeEn": "Does she make pesto in the food processor?",
+                "interrogativePt": "Ela faz pesto no processador de alimentos?"
+            }
+        ]
+    },
+    {
+        "en": "baking sheet",
+        "pt": "assadeira",
+        "partOfSpeech": "noun",
+        "category": "kitchen-objects",
+        "description": "A flat rectangular pan used for baking",
+        "examples": [
+            {
+                "affirmativeEn": "I bake cookies on a baking sheet.",
+                "affirmativePt": "Eu asso biscoitos em uma assadeira.",
+                "negativeEn": "I don't bake cookies on a baking sheet.",
+                "negativePt": "Eu não asso biscoitos em uma assadeira.",
+                "interrogativeEn": "Do you bake cookies on a baking sheet?",
+                "interrogativePt": "Você assa biscoitos em uma assadeira?"
+            },
+            {
+                "affirmativeEn": "The baking sheet is non-stick.",
+                "affirmativePt": "A assadeira é antiaderente.",
+                "negativeEn": "The baking sheet is not non-stick.",
+                "negativePt": "A assadeira não é antiaderente.",
+                "interrogativeEn": "Is the baking sheet non-stick?",
+                "interrogativePt": "A assadeira é antiaderente?"
+            },
+            {
+                "affirmativeEn": "He places vegetables on the baking sheet.",
+                "affirmativePt": "Ele coloca vegetais na assadeira.",
+                "negativeEn": "He doesn't place vegetables on the baking sheet.",
+                "negativePt": "Ele não coloca vegetais na assadeira.",
+                "interrogativeEn": "Does he place vegetables on the baking sheet?",
+                "interrogativePt": "Ele coloca vegetais na assadeira?"
+            }
+        ]
+    },
+    {
+        "en": "pot holder",
+        "pt": "pegador de panela",
+        "partOfSpeech": "noun",
+        "category": "kitchen-objects",
+        "description": "A heat-resistant glove used for handling hot cookware",
+        "examples": [
+            {
+                "affirmativeEn": "I use a pot holder to grab the hot pan.",
+                "affirmativePt": "Eu uso um pegador de panela para pegar a frigideira quente.",
+                "negativeEn": "I don't use a pot holder to grab the hot pan.",
+                "negativePt": "Eu não uso um pegador de panela para pegar a frigideira quente.",
+                "interrogativeEn": "Do you use a pot holder to grab the hot pan?",
+                "interrogativePt": "Você usa um pegador de panela para pegar a frigideira quente?"
+            },
+            {
+                "affirmativeEn": "The pot holder is quilted.",
+                "affirmativePt": "O pegador de panela é acolchoado.",
+                "negativeEn": "The pot holder is not quilted.",
+                "negativePt": "O pegador de panela não é acolchoado.",
+                "interrogativeEn": "Is the pot holder quilted?",
+                "interrogativePt": "O pegador de panela é acolchoado?"
+            },
+            {
+                "affirmativeEn": "She protects her hands with the pot holder.",
+                "affirmativePt": "Ela protege suas mãos com o pegador de panela.",
+                "negativeEn": "She doesn't protect her hands with the pot holder.",
+                "negativePt": "Ela não protege suas mãos com o pegador de panela.",
+                "interrogativeEn": "Does she protect her hands with the pot holder?",
+                "interrogativePt": "Ela protege suas mãos com o pegador de panela?"
+            }
+        ]
+    },
+    {
+        "en": "trivets",
+        "pt": "trivet",
+        "partOfSpeech": "noun",
+        "category": "kitchen-objects",
+        "description": "A stand placed under hot dishes to protect surfaces",
+        "examples": [
+            {
+                "affirmativeEn": "I place a trivet under the hot pot.",
+                "affirmativePt": "Eu coloco um trivet sob a panela quente.",
+                "negativeEn": "I don't place a trivet under the hot pot.",
+                "negativePt": "Eu não coloco um trivet sob a panela quente.",
+                "interrogativeEn": "Do you place a trivet under the hot pot?",
+                "interrogativePt": "Você coloca um trivet sob a panela quente?"
+            },
+            {
+                "affirmativeEn": "The trivet is decorative.",
+                "affirmativePt": "O trivet é decorativo.",
+                "negativeEn": "The trivet is not decorative.",
+                "negativePt": "O trivet não é decorativo.",
+                "interrogativeEn": "Is the trivet decorative?",
+                "interrogativePt": "O trivet é decorativo?"
+            },
+            {
+                "affirmativeEn": "She uses a trivet to protect the table.",
+                "affirmativePt": "Ela usa um trivet para proteger a mesa.",
+                "negativeEn": "She doesn't use a trivet to protect the table.",
+                "negativePt": "Ela não usa um trivet para proteger a mesa.",
+                "interrogativeEn": "Does she use a trivet to protect the table?",
+                "interrogativePt": "Ela usa um trivet para proteger a mesa?"
+            }
+        ]
+    },
+    {
+        "en": "saucepan",
+        "pt": "panela de molho",
+        "partOfSpeech": "noun",
+        "category": "kitchen-objects",
+        "description": "A cylindrical cooking vessel with a handle used for sauces",
+        "examples": [
+            {
+                "affirmativeEn": "I heat the sauce in a saucepan.",
+                "affirmativePt": "Eu aqueço o molho em uma panela de molho.",
+                "negativeEn": "I don't heat the sauce in a saucepan.",
+                "negativePt": "Eu não aqueço o molho em uma panela de molho.",
+                "interrogativeEn": "Do you heat the sauce in a saucepan?",
+                "interrogativePt": "Você aquece o molho em uma panela de molho?"
+            },
+            {
+                "affirmativeEn": "The saucepan is stainless steel.",
+                "affirmativePt": "A panela de molho é de aço inoxidável.",
+                "negativeEn": "The saucepan is not stainless steel.",
+                "negativePt": "A panela de molho não é de aço inoxidável.",
+                "interrogativeEn": "Is the saucepan stainless steel?",
+                "interrogativePt": "A panela de molho é de aço inoxidável?"
+            },
+            {
+                "affirmativeEn": "He stirs the butter in the saucepan.",
+                "affirmativePt": "Ele mexe a manteiga na panela de molho.",
+                "negativeEn": "He doesn't stir the butter in the saucepan.",
+                "negativePt": "Ele não mexe a manteiga na panela de molho.",
+                "interrogativeEn": "Does he stir the butter in the saucepan?",
+                "interrogativePt": "Ele mexe a manteiga na panela de molho?"
+            }
+        ]
+    }
+]

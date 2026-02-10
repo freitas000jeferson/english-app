@@ -1,0 +1,1916 @@
+[
+    {
+        "en": "desk",
+        "pt": "mesa",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A piece of furniture with a flat top used for writing or working",
+        "examples": [
+            {
+                "affirmativeEn": "I use a desk to work.",
+                "affirmativePt": "Uso uma mesa para trabalhar.",
+                "negativeEn": "I don't use a desk to work.",
+                "negativePt": "Não uso uma mesa para trabalhar.",
+                "interrogativeEn": "Do you use a desk to work?",
+                "interrogativePt": "Você usa uma mesa para trabalhar?"
+            },
+            {
+                "affirmativeEn": "The desk is very big.",
+                "affirmativePt": "A mesa é muito grande.",
+                "negativeEn": "The desk is not very big.",
+                "negativePt": "A mesa não é muito grande.",
+                "interrogativeEn": "Is the desk very big?",
+                "interrogativePt": "A mesa é muito grande?"
+            },
+            {
+                "affirmativeEn": "She sits at her desk.",
+                "affirmativePt": "Ela senta na sua mesa.",
+                "negativeEn": "She doesn't sit at her desk.",
+                "negativePt": "Ela não senta na sua mesa.",
+                "interrogativeEn": "Does she sit at her desk?",
+                "interrogativePt": "Ela senta na sua mesa?"
+            }
+        ]
+    },
+    {
+        "en": "pencil",
+        "pt": "lápis",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A writing instrument with a dark core used for drawing or writing",
+        "examples": [
+            {
+                "affirmativeEn": "I have a pencil.",
+                "affirmativePt": "Tenho um lápis.",
+                "negativeEn": "I don't have a pencil.",
+                "negativePt": "Não tenho um lápis.",
+                "interrogativeEn": "Do you have a pencil?",
+                "interrogativePt": "Você tem um lápis?"
+            },
+            {
+                "affirmativeEn": "The pencil is sharp.",
+                "affirmativePt": "O lápis é afiado.",
+                "negativeEn": "The pencil is not sharp.",
+                "negativePt": "O lápis não é afiado.",
+                "interrogativeEn": "Is the pencil sharp?",
+                "interrogativePt": "O lápis é afiado?"
+            },
+            {
+                "affirmativeEn": "She writes with a pencil.",
+                "affirmativePt": "Ela escreve com um lápis.",
+                "negativeEn": "She doesn't write with a pencil.",
+                "negativePt": "Ela não escreve com um lápis.",
+                "interrogativeEn": "Does she write with a pencil?",
+                "interrogativePt": "Ela escreve com um lápis?"
+            }
+        ]
+    },
+    {
+        "en": "notebook",
+        "pt": "caderno",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A book with blank or ruled pages for writing notes",
+        "examples": [
+            {
+                "affirmativeEn": "I write in my notebook.",
+                "affirmativePt": "Escrevo no meu caderno.",
+                "negativeEn": "I don't write in my notebook.",
+                "negativePt": "Não escrevo no meu caderno.",
+                "interrogativeEn": "Do you write in your notebook?",
+                "interrogativePt": "Você escreve no seu caderno?"
+            },
+            {
+                "affirmativeEn": "The notebook is blue.",
+                "affirmativePt": "O caderno é azul.",
+                "negativeEn": "The notebook is not blue.",
+                "negativePt": "O caderno não é azul.",
+                "interrogativeEn": "Is the notebook blue?",
+                "interrogativePt": "O caderno é azul?"
+            },
+            {
+                "affirmativeEn": "He has a new notebook.",
+                "affirmativePt": "Ele tem um novo caderno.",
+                "negativeEn": "He doesn't have a new notebook.",
+                "negativePt": "Ele não tem um novo caderno.",
+                "interrogativeEn": "Does he have a new notebook?",
+                "interrogativePt": "Ele tem um novo caderno?"
+            }
+        ]
+    },
+    {
+        "en": "pen",
+        "pt": "caneta",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A writing instrument with ink used for writing on paper",
+        "examples": [
+            {
+                "affirmativeEn": "I use a pen to write.",
+                "affirmativePt": "Uso uma caneta para escrever.",
+                "negativeEn": "I don't use a pen to write.",
+                "negativePt": "Não uso uma caneta para escrever.",
+                "interrogativeEn": "Do you use a pen to write?",
+                "interrogativePt": "Você usa uma caneta para escrever?"
+            },
+            {
+                "affirmativeEn": "The pen is red.",
+                "affirmativePt": "A caneta é vermelha.",
+                "negativeEn": "The pen is not red.",
+                "negativePt": "A caneta não é vermelha.",
+                "interrogativeEn": "Is the pen red?",
+                "interrogativePt": "A caneta é vermelha?"
+            },
+            {
+                "affirmativeEn": "She lost her pen.",
+                "affirmativePt": "Ela perdeu sua caneta.",
+                "negativeEn": "She didn't lose her pen.",
+                "negativePt": "Ela não perdeu sua caneta.",
+                "interrogativeEn": "Did she lose her pen?",
+                "interrogativePt": "Ela perdeu sua caneta?"
+            }
+        ]
+    },
+    {
+        "en": "eraser",
+        "pt": "borracha",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A tool used to remove pencil marks from paper",
+        "examples": [
+            {
+                "affirmativeEn": "I need an eraser.",
+                "affirmativePt": "Preciso de uma borracha.",
+                "negativeEn": "I don't need an eraser.",
+                "negativePt": "Não preciso de uma borracha.",
+                "interrogativeEn": "Do you need an eraser?",
+                "interrogativePt": "Você precisa de uma borracha?"
+            },
+            {
+                "affirmativeEn": "The eraser works well.",
+                "affirmativePt": "A borracha funciona bem.",
+                "negativeEn": "The eraser doesn't work well.",
+                "negativePt": "A borracha não funciona bem.",
+                "interrogativeEn": "Does the eraser work well?",
+                "interrogativePt": "A borracha funciona bem?"
+            },
+            {
+                "affirmativeEn": "He bought a new eraser.",
+                "affirmativePt": "Ele comprou uma nova borracha.",
+                "negativeEn": "He didn't buy a new eraser.",
+                "negativePt": "Ele não comprou uma nova borracha.",
+                "interrogativeEn": "Did he buy a new eraser?",
+                "interrogativePt": "Ele comprou uma nova borracha?"
+            }
+        ]
+    },
+    {
+        "en": "book",
+        "pt": "livro",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A set of printed sheets bound together with pages",
+        "examples": [
+            {
+                "affirmativeEn": "I read a book.",
+                "affirmativePt": "Leio um livro.",
+                "negativeEn": "I don't read a book.",
+                "negativePt": "Não leio um livro.",
+                "interrogativeEn": "Do you read a book?",
+                "interrogativePt": "Você lê um livro?"
+            },
+            {
+                "affirmativeEn": "The book is interesting.",
+                "affirmativePt": "O livro é interessante.",
+                "negativeEn": "The book is not interesting.",
+                "negativePt": "O livro não é interessante.",
+                "interrogativeEn": "Is the book interesting?",
+                "interrogativePt": "O livro é interessante?"
+            },
+            {
+                "affirmativeEn": "She has many books.",
+                "affirmativePt": "Ela tem muitos livros.",
+                "negativeEn": "She doesn't have many books.",
+                "negativePt": "Ela não tem muitos livros.",
+                "interrogativeEn": "Does she have many books?",
+                "interrogativePt": "Ela tem muitos livros?"
+            }
+        ]
+    },
+    {
+        "en": "ruler",
+        "pt": "régua",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A straight-edged tool used for measuring and drawing straight lines",
+        "examples": [
+            {
+                "affirmativeEn": "I use a ruler to draw lines.",
+                "affirmativePt": "Uso uma régua para desenhar linhas.",
+                "negativeEn": "I don't use a ruler to draw lines.",
+                "negativePt": "Não uso uma régua para desenhar linhas.",
+                "interrogativeEn": "Do you use a ruler to draw lines?",
+                "interrogativePt": "Você usa uma régua para desenhar linhas?"
+            },
+            {
+                "affirmativeEn": "The ruler is plastic.",
+                "affirmativePt": "A régua é de plástico.",
+                "negativeEn": "The ruler is not plastic.",
+                "negativePt": "A régua não é de plástico.",
+                "interrogativeEn": "Is the ruler plastic?",
+                "interrogativePt": "A régua é de plástico?"
+            },
+            {
+                "affirmativeEn": "He measured with a ruler.",
+                "affirmativePt": "Ele mediu com uma régua.",
+                "negativeEn": "He didn't measure with a ruler.",
+                "negativePt": "Ele não mediu com uma régua.",
+                "interrogativeEn": "Did he measure with a ruler?",
+                "interrogativePt": "Ele mediu com uma régua?"
+            }
+        ]
+    },
+    {
+        "en": "backpack",
+        "pt": "mochila",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A bag with straps worn on the back to carry items",
+        "examples": [
+            {
+                "affirmativeEn": "I carry my backpack to school.",
+                "affirmativePt": "Carrego minha mochila para a escola.",
+                "negativeEn": "I don't carry my backpack to school.",
+                "negativePt": "Não carrego minha mochila para a escola.",
+                "interrogativeEn": "Do you carry your backpack to school?",
+                "interrogativePt": "Você carrega sua mochila para a escola?"
+            },
+            {
+                "affirmativeEn": "The backpack is heavy.",
+                "affirmativePt": "A mochila é pesada.",
+                "negativeEn": "The backpack is not heavy.",
+                "negativePt": "A mochila não é pesada.",
+                "interrogativeEn": "Is the backpack heavy?",
+                "interrogativePt": "A mochila é pesada?"
+            },
+            {
+                "affirmativeEn": "She bought a new backpack.",
+                "affirmativePt": "Ela comprou uma nova mochila.",
+                "negativeEn": "She didn't buy a new backpack.",
+                "negativePt": "Ela não comprou uma nova mochila.",
+                "interrogativeEn": "Did she buy a new backpack?",
+                "interrogativePt": "Ela comprou uma nova mochila?"
+            }
+        ]
+    },
+    {
+        "en": "stapler",
+        "pt": "grampeador",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A device used to fasten papers together with metal staples",
+        "examples": [
+            {
+                "affirmativeEn": "I use a stapler to bind papers.",
+                "affirmativePt": "Uso um grampeador para prender papéis.",
+                "negativeEn": "I don't use a stapler to bind papers.",
+                "negativePt": "Não uso um grampeador para prender papéis.",
+                "interrogativeEn": "Do you use a stapler to bind papers?",
+                "interrogativePt": "Você usa um grampeador para prender papéis?"
+            },
+            {
+                "affirmativeEn": "The stapler is broken.",
+                "affirmativePt": "O grampeador está quebrado.",
+                "negativeEn": "The stapler is not broken.",
+                "negativePt": "O grampeador não está quebrado.",
+                "interrogativeEn": "Is the stapler broken?",
+                "interrogativePt": "O grampeador está quebrado?"
+            },
+            {
+                "affirmativeEn": "He fixed the stapler.",
+                "affirmativePt": "Ele consertou o grampeador.",
+                "negativeEn": "He didn't fix the stapler.",
+                "negativePt": "Ele não consertou o grampeador.",
+                "interrogativeEn": "Did he fix the stapler?",
+                "interrogativePt": "Ele consertou o grampeador?"
+            }
+        ]
+    },
+    {
+        "en": "clipboard",
+        "pt": "prancheta",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A flat board with a clip to hold papers while writing",
+        "examples": [
+            {
+                "affirmativeEn": "I write on a clipboard.",
+                "affirmativePt": "Escrevo em uma prancheta.",
+                "negativeEn": "I don't write on a clipboard.",
+                "negativePt": "Não escrevo em uma prancheta.",
+                "interrogativeEn": "Do you write on a clipboard?",
+                "interrogativePt": "Você escreve em uma prancheta?"
+            },
+            {
+                "affirmativeEn": "The clipboard is wooden.",
+                "affirmativePt": "A prancheta é de madeira.",
+                "negativeEn": "The clipboard is not wooden.",
+                "negativePt": "A prancheta não é de madeira.",
+                "interrogativeEn": "Is the clipboard wooden?",
+                "interrogativePt": "A prancheta é de madeira?"
+            },
+            {
+                "affirmativeEn": "She held a clipboard.",
+                "affirmativePt": "Ela segurou uma prancheta.",
+                "negativeEn": "She didn't hold a clipboard.",
+                "negativePt": "Ela não segurou uma prancheta.",
+                "interrogativeEn": "Did she hold a clipboard?",
+                "interrogativePt": "Ela segurou uma prancheta?"
+            }
+        ]
+    },
+    {
+        "en": "calendar",
+        "pt": "calendário",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A chart showing all days and months of a year",
+        "examples": [
+            {
+                "affirmativeEn": "I check the calendar daily.",
+                "affirmativePt": "Verifico o calendário diariamente.",
+                "negativeEn": "I don't check the calendar daily.",
+                "negativePt": "Não verifico o calendário diariamente.",
+                "interrogativeEn": "Do you check the calendar daily?",
+                "interrogativePt": "Você verifica o calendário diariamente?"
+            },
+            {
+                "affirmativeEn": "The calendar is on the wall.",
+                "affirmativePt": "O calendário está na parede.",
+                "negativeEn": "The calendar is not on the wall.",
+                "negativePt": "O calendário não está na parede.",
+                "interrogativeEn": "Is the calendar on the wall?",
+                "interrogativePt": "O calendário está na parede?"
+            },
+            {
+                "affirmativeEn": "They bought a new calendar.",
+                "affirmativePt": "Eles compraram um novo calendário.",
+                "negativeEn": "They didn't buy a new calendar.",
+                "negativePt": "Eles não compraram um novo calendário.",
+                "interrogativeEn": "Did they buy a new calendar?",
+                "interrogativePt": "Eles compraram um novo calendário?"
+            }
+        ]
+    },
+    {
+        "en": "scissors",
+        "pt": "tesoura",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A tool with two blades for cutting paper and other materials",
+        "examples": [
+            {
+                "affirmativeEn": "I use scissors to cut paper.",
+                "affirmativePt": "Uso tesoura para cortar papel.",
+                "negativeEn": "I don't use scissors to cut paper.",
+                "negativePt": "Não uso tesoura para cortar papel.",
+                "interrogativeEn": "Do you use scissors to cut paper?",
+                "interrogativePt": "Você usa tesoura para cortar papel?"
+            },
+            {
+                "affirmativeEn": "The scissors are sharp.",
+                "affirmativePt": "A tesoura é afiada.",
+                "negativeEn": "The scissors are not sharp.",
+                "negativePt": "A tesoura não é afiada.",
+                "interrogativeEn": "Are the scissors sharp?",
+                "interrogativePt": "A tesoura é afiada?"
+            },
+            {
+                "affirmativeEn": "He found his scissors.",
+                "affirmativePt": "Ele encontrou sua tesoura.",
+                "negativeEn": "He didn't find his scissors.",
+                "negativePt": "Ele não encontrou sua tesoura.",
+                "interrogativeEn": "Did he find his scissors?",
+                "interrogativePt": "Ele encontrou sua tesoura?"
+            }
+        ]
+    },
+    {
+        "en": "glue",
+        "pt": "cola",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A sticky substance used to join pieces together",
+        "examples": [
+            {
+                "affirmativeEn": "I use glue to stick papers.",
+                "affirmativePt": "Uso cola para colar papéis.",
+                "negativeEn": "I don't use glue to stick papers.",
+                "negativePt": "Não uso cola para colar papéis.",
+                "interrogativeEn": "Do you use glue to stick papers?",
+                "interrogativePt": "Você usa cola para colar papéis?"
+            },
+            {
+                "affirmativeEn": "The glue is strong.",
+                "affirmativePt": "A cola é forte.",
+                "negativeEn": "The glue is not strong.",
+                "negativePt": "A cola não é forte.",
+                "interrogativeEn": "Is the glue strong?",
+                "interrogativePt": "A cola é forte?"
+            },
+            {
+                "affirmativeEn": "She applied glue carefully.",
+                "affirmativePt": "Ela aplicou cola com cuidado.",
+                "negativeEn": "She didn't apply glue carefully.",
+                "negativePt": "Ela não aplicou cola com cuidado.",
+                "interrogativeEn": "Did she apply glue carefully?",
+                "interrogativePt": "Ela aplicou cola com cuidado?"
+            }
+        ]
+    },
+    {
+        "en": "highlighter",
+        "pt": "marca-texto",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A pen with bright color used to mark important text",
+        "examples": [
+            {
+                "affirmativeEn": "I mark with a highlighter.",
+                "affirmativePt": "Eu marco com um marca-texto.",
+                "negativeEn": "I don't mark with a highlighter.",
+                "negativePt": "Não marco com um marca-texto.",
+                "interrogativeEn": "Do you mark with a highlighter?",
+                "interrogativePt": "Você marca com um marca-texto?"
+            },
+            {
+                "affirmativeEn": "The highlighter is yellow.",
+                "affirmativePt": "O marca-texto é amarelo.",
+                "negativeEn": "The highlighter is not yellow.",
+                "negativePt": "O marca-texto não é amarelo.",
+                "interrogativeEn": "Is the highlighter yellow?",
+                "interrogativePt": "O marca-texto é amarelo?"
+            },
+            {
+                "affirmativeEn": "He bought new highlighters.",
+                "affirmativePt": "Ele comprou novos marca-textos.",
+                "negativeEn": "He didn't buy new highlighters.",
+                "negativePt": "Ele não comprou novos marca-textos.",
+                "interrogativeEn": "Did he buy new highlighters?",
+                "interrogativePt": "Ele comprou novos marca-textos?"
+            }
+        ]
+    },
+    {
+        "en": "folder",
+        "pt": "pasta",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A flat container used to store and organize loose papers",
+        "examples": [
+            {
+                "affirmativeEn": "I organize papers in a folder.",
+                "affirmativePt": "Organizo papéis em uma pasta.",
+                "negativeEn": "I don't organize papers in a folder.",
+                "negativePt": "Não organizo papéis em uma pasta.",
+                "interrogativeEn": "Do you organize papers in a folder?",
+                "interrogativePt": "Você organiza papéis em uma pasta?"
+            },
+            {
+                "affirmativeEn": "The folder is red.",
+                "affirmativePt": "A pasta é vermelha.",
+                "negativeEn": "The folder is not red.",
+                "negativePt": "A pasta não é vermelha.",
+                "interrogativeEn": "Is the folder red?",
+                "interrogativePt": "A pasta é vermelha?"
+            },
+            {
+                "affirmativeEn": "She found her folder.",
+                "affirmativePt": "Ela encontrou sua pasta.",
+                "negativeEn": "She didn't find her folder.",
+                "negativePt": "Ela não encontrou sua pasta.",
+                "interrogativeEn": "Did she find her folder?",
+                "interrogativePt": "Ela encontrou sua pasta?"
+            }
+        ]
+    },
+    {
+        "en": "tape",
+        "pt": "fita adesiva",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A sticky strip used to join or repair papers and objects",
+        "examples": [
+            {
+                "affirmativeEn": "I use tape to seal the envelope.",
+                "affirmativePt": "Uso fita adesiva para selar o envelope.",
+                "negativeEn": "I don't use tape to seal the envelope.",
+                "negativePt": "Não uso fita adesiva para selar o envelope.",
+                "interrogativeEn": "Do you use tape to seal the envelope?",
+                "interrogativePt": "Você usa fita adesiva para selar o envelope?"
+            },
+            {
+                "affirmativeEn": "The tape is strong.",
+                "affirmativePt": "A fita adesiva é forte.",
+                "negativeEn": "The tape is not strong.",
+                "negativePt": "A fita adesiva não é forte.",
+                "interrogativeEn": "Is the tape strong?",
+                "interrogativePt": "A fita adesiva é forte?"
+            },
+            {
+                "affirmativeEn": "He wrapped the box with tape.",
+                "affirmativePt": "Ele envolveu a caixa com fita adesiva.",
+                "negativeEn": "He didn't wrap the box with tape.",
+                "negativePt": "Ele não envolveu a caixa com fita adesiva.",
+                "interrogativeEn": "Did he wrap the box with tape?",
+                "interrogativePt": "Ele envolveu a caixa com fita adesiva?"
+            }
+        ]
+    },
+    {
+        "en": "marker",
+        "pt": "marcador",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A pen with a thick tip filled with ink for writing on various surfaces",
+        "examples": [
+            {
+                "affirmativeEn": "I draw with a marker.",
+                "affirmativePt": "Desenho com um marcador.",
+                "negativeEn": "I don't draw with a marker.",
+                "negativePt": "Não desenho com um marcador.",
+                "interrogativeEn": "Do you draw with a marker?",
+                "interrogativePt": "Você desenha com um marcador?"
+            },
+            {
+                "affirmativeEn": "The marker is black.",
+                "affirmativePt": "O marcador é preto.",
+                "negativeEn": "The marker is not black.",
+                "negativePt": "O marcador não é preto.",
+                "interrogativeEn": "Is the marker black?",
+                "interrogativePt": "O marcador é preto?"
+            },
+            {
+                "affirmativeEn": "She used a marker on the whiteboard.",
+                "affirmativePt": "Ela usou um marcador no quadro branco.",
+                "negativeEn": "She didn't use a marker on the whiteboard.",
+                "negativePt": "Ela não usou um marcador no quadro branco.",
+                "interrogativeEn": "Did she use a marker on the whiteboard?",
+                "interrogativePt": "Ela usou um marcador no quadro branco?"
+            }
+        ]
+    },
+    {
+        "en": "printer",
+        "pt": "impressora",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A machine that produces copies of documents on paper",
+        "examples": [
+            {
+                "affirmativeEn": "I print documents on the printer.",
+                "affirmativePt": "Imprimo documentos na impressora.",
+                "negativeEn": "I don't print documents on the printer.",
+                "negativePt": "Não imprimo documentos na impressora.",
+                "interrogativeEn": "Do you print documents on the printer?",
+                "interrogativePt": "Você imprime documentos na impressora?"
+            },
+            {
+                "affirmativeEn": "The printer is broken.",
+                "affirmativePt": "A impressora está quebrada.",
+                "negativeEn": "The printer is not broken.",
+                "negativePt": "A impressora não está quebrada.",
+                "interrogativeEn": "Is the printer broken?",
+                "interrogativePt": "A impressora está quebrada?"
+            },
+            {
+                "affirmativeEn": "He fixed the printer.",
+                "affirmativePt": "Ele consertou a impressora.",
+                "negativeEn": "He didn't fix the printer.",
+                "negativePt": "Ele não consertou a impressora.",
+                "interrogativeEn": "Did he fix the printer?",
+                "interrogativePt": "Ele consertou a impressora?"
+            }
+        ]
+    },
+    {
+        "en": "computer",
+        "pt": "computador",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "An electronic device used for processing data and information",
+        "examples": [
+            {
+                "affirmativeEn": "I work on a computer.",
+                "affirmativePt": "Trabalho em um computador.",
+                "negativeEn": "I don't work on a computer.",
+                "negativePt": "Não trabalho em um computador.",
+                "interrogativeEn": "Do you work on a computer?",
+                "interrogativePt": "Você trabalha em um computador?"
+            },
+            {
+                "affirmativeEn": "The computer is fast.",
+                "affirmativePt": "O computador é rápido.",
+                "negativeEn": "The computer is not fast.",
+                "negativePt": "O computador não é rápido.",
+                "interrogativeEn": "Is the computer fast?",
+                "interrogativePt": "O computador é rápido?"
+            },
+            {
+                "affirmativeEn": "She uses her computer daily.",
+                "affirmativePt": "Ela usa seu computador diariamente.",
+                "negativeEn": "She doesn't use her computer daily.",
+                "negativePt": "Ela não usa seu computador diariamente.",
+                "interrogativeEn": "Does she use her computer daily?",
+                "interrogativePt": "Ela usa seu computador diariamente?"
+            }
+        ]
+    },
+    {
+        "en": "keyboard",
+        "pt": "teclado",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A device with keys used to input text and commands into a computer",
+        "examples": [
+            {
+                "affirmativeEn": "I type on a keyboard.",
+                "affirmativePt": "Digito em um teclado.",
+                "negativeEn": "I don't type on a keyboard.",
+                "negativePt": "Não digito em um teclado.",
+                "interrogativeEn": "Do you type on a keyboard?",
+                "interrogativePt": "Você digita em um teclado?"
+            },
+            {
+                "affirmativeEn": "The keyboard is wireless.",
+                "affirmativePt": "O teclado é sem fio.",
+                "negativeEn": "The keyboard is not wireless.",
+                "negativePt": "O teclado não é sem fio.",
+                "interrogativeEn": "Is the keyboard wireless?",
+                "interrogativePt": "O teclado é sem fio?"
+            },
+            {
+                "affirmativeEn": "He cleaned his keyboard.",
+                "affirmativePt": "Ele limpou seu teclado.",
+                "negativeEn": "He didn't clean his keyboard.",
+                "negativePt": "Ele não limpou seu teclado.",
+                "interrogativeEn": "Did he clean his keyboard?",
+                "interrogativePt": "Ele limpou seu teclado?"
+            }
+        ]
+    },
+    {
+        "en": "mouse",
+        "pt": "mouse",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A pointing device used to control the cursor on a computer screen",
+        "examples": [
+            {
+                "affirmativeEn": "I click with a mouse.",
+                "affirmativePt": "Clico com um mouse.",
+                "negativeEn": "I don't click with a mouse.",
+                "negativePt": "Não clico com um mouse.",
+                "interrogativeEn": "Do you click with a mouse?",
+                "interrogativePt": "Você clica com um mouse?"
+            },
+            {
+                "affirmativeEn": "The mouse is optical.",
+                "affirmativePt": "O mouse é óptico.",
+                "negativeEn": "The mouse is not optical.",
+                "negativePt": "O mouse não é óptico.",
+                "interrogativeEn": "Is the mouse optical?",
+                "interrogativePt": "O mouse é óptico?"
+            },
+            {
+                "affirmativeEn": "She bought a new mouse.",
+                "affirmativePt": "Ela comprou um novo mouse.",
+                "negativeEn": "She didn't buy a new mouse.",
+                "negativePt": "Ela não comprou um novo mouse.",
+                "interrogativeEn": "Did she buy a new mouse?",
+                "interrogativePt": "Ela comprou um novo mouse?"
+            }
+        ]
+    },
+    {
+        "en": "monitor",
+        "pt": "monitor",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A display screen connected to a computer for viewing content",
+        "examples": [
+            {
+                "affirmativeEn": "I watch the monitor.",
+                "affirmativePt": "Assisto ao monitor.",
+                "negativeEn": "I don't watch the monitor.",
+                "negativePt": "Não assisto ao monitor.",
+                "interrogativeEn": "Do you watch the monitor?",
+                "interrogativePt": "Você assiste ao monitor?"
+            },
+            {
+                "affirmativeEn": "The monitor is large.",
+                "affirmativePt": "O monitor é grande.",
+                "negativeEn": "The monitor is not large.",
+                "negativePt": "O monitor não é grande.",
+                "interrogativeEn": "Is the monitor large?",
+                "interrogativePt": "O monitor é grande?"
+            },
+            {
+                "affirmativeEn": "He adjusted the monitor brightness.",
+                "affirmativePt": "Ele ajustou o brilho do monitor.",
+                "negativeEn": "He didn't adjust the monitor brightness.",
+                "negativePt": "Ele não ajustou o brilho do monitor.",
+                "interrogativeEn": "Did he adjust the monitor brightness?",
+                "interrogativePt": "Ele ajustou o brilho do monitor?"
+            }
+        ]
+    },
+    {
+        "en": "filing cabinet",
+        "pt": "arquivo",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A piece of office furniture with drawers for storing documents",
+        "examples": [
+            {
+                "affirmativeEn": "I store files in a filing cabinet.",
+                "affirmativePt": "Armazeno arquivos em um arquivo.",
+                "negativeEn": "I don't store files in a filing cabinet.",
+                "negativePt": "Não armazeno arquivos em um arquivo.",
+                "interrogativeEn": "Do you store files in a filing cabinet?",
+                "interrogativePt": "Você armazena arquivos em um arquivo?"
+            },
+            {
+                "affirmativeEn": "The filing cabinet is full.",
+                "affirmativePt": "O arquivo está cheio.",
+                "negativeEn": "The filing cabinet is not full.",
+                "negativePt": "O arquivo não está cheio.",
+                "interrogativeEn": "Is the filing cabinet full?",
+                "interrogativePt": "O arquivo está cheio?"
+            },
+            {
+                "affirmativeEn": "She organized the filing cabinet.",
+                "affirmativePt": "Ela organizou o arquivo.",
+                "negativeEn": "She didn't organize the filing cabinet.",
+                "negativePt": "Ela não organizou o arquivo.",
+                "interrogativeEn": "Did she organize the filing cabinet?",
+                "interrogativePt": "Ela organizou o arquivo?"
+            }
+        ]
+    },
+    {
+        "en": "whiteboard",
+        "pt": "quadro branco",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A white surface for writing or drawing with markers",
+        "examples": [
+            {
+                "affirmativeEn": "I write on a whiteboard.",
+                "affirmativePt": "Escrevo em um quadro branco.",
+                "negativeEn": "I don't write on a whiteboard.",
+                "negativePt": "Não escrevo em um quadro branco.",
+                "interrogativeEn": "Do you write on a whiteboard?",
+                "interrogativePt": "Você escreve em um quadro branco?"
+            },
+            {
+                "affirmativeEn": "The whiteboard is clean.",
+                "affirmativePt": "O quadro branco está limpo.",
+                "negativeEn": "The whiteboard is not clean.",
+                "negativePt": "O quadro branco não está limpo.",
+                "interrogativeEn": "Is the whiteboard clean?",
+                "interrogativePt": "O quadro branco está limpo?"
+            },
+            {
+                "affirmativeEn": "He cleaned the whiteboard.",
+                "affirmativePt": "Ele limpou o quadro branco.",
+                "negativeEn": "He didn't clean the whiteboard.",
+                "negativePt": "Ele não limpou o quadro branco.",
+                "interrogativeEn": "Did he clean the whiteboard?",
+                "interrogativePt": "Ele limpou o quadro branco?"
+            }
+        ]
+    },
+    {
+        "en": "clock",
+        "pt": "relógio",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A device that shows the time on a wall or table",
+        "examples": [
+            {
+                "affirmativeEn": "I check the clock.",
+                "affirmativePt": "Verifico o relógio.",
+                "negativeEn": "I don't check the clock.",
+                "negativePt": "Não verifico o relógio.",
+                "interrogativeEn": "Do you check the clock?",
+                "interrogativePt": "Você verifica o relógio?"
+            },
+            {
+                "affirmativeEn": "The clock is accurate.",
+                "affirmativePt": "O relógio é preciso.",
+                "negativeEn": "The clock is not accurate.",
+                "negativePt": "O relógio não é preciso.",
+                "interrogativeEn": "Is the clock accurate?",
+                "interrogativePt": "O relógio é preciso?"
+            },
+            {
+                "affirmativeEn": "She wound the clock.",
+                "affirmativePt": "Ela deu corda no relógio.",
+                "negativeEn": "She didn't wind the clock.",
+                "negativePt": "Ela não deu corda no relógio.",
+                "interrogativeEn": "Did she wind the clock?",
+                "interrogativePt": "Ela deu corda no relógio?"
+            }
+        ]
+    },
+    {
+        "en": "lamp",
+        "pt": "lâmpada",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A device that produces light for illuminating a workspace",
+        "examples": [
+            {
+                "affirmativeEn": "I turn on the lamp.",
+                "affirmativePt": "Ligo a lâmpada.",
+                "negativeEn": "I don't turn on the lamp.",
+                "negativePt": "Não ligo a lâmpada.",
+                "interrogativeEn": "Do you turn on the lamp?",
+                "interrogativePt": "Você liga a lâmpada?"
+            },
+            {
+                "affirmativeEn": "The lamp is bright.",
+                "affirmativePt": "A lâmpada é brilhante.",
+                "negativeEn": "The lamp is not bright.",
+                "negativePt": "A lâmpada não é brilhante.",
+                "interrogativeEn": "Is the lamp bright?",
+                "interrogativePt": "A lâmpada é brilhante?"
+            },
+            {
+                "affirmativeEn": "He replaced the lamp bulb.",
+                "affirmativePt": "Ele trocou a lâmpada.",
+                "negativeEn": "He didn't replace the lamp bulb.",
+                "negativePt": "Ele não trocou a lâmpada.",
+                "interrogativeEn": "Did he replace the lamp bulb?",
+                "interrogativePt": "Ele trocou a lâmpada?"
+            }
+        ]
+    },
+    {
+        "en": "chair",
+        "pt": "cadeira",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A piece of furniture with a back and seat for sitting",
+        "examples": [
+            {
+                "affirmativeEn": "I sit on a chair.",
+                "affirmativePt": "Sento em uma cadeira.",
+                "negativeEn": "I don't sit on a chair.",
+                "negativePt": "Não sento em uma cadeira.",
+                "interrogativeEn": "Do you sit on a chair?",
+                "interrogativePt": "Você senta em uma cadeira?"
+            },
+            {
+                "affirmativeEn": "The chair is comfortable.",
+                "affirmativePt": "A cadeira é confortável.",
+                "negativeEn": "The chair is not comfortable.",
+                "negativePt": "A cadeira não é confortável.",
+                "interrogativeEn": "Is the chair comfortable?",
+                "interrogativePt": "A cadeira é confortável?"
+            },
+            {
+                "affirmativeEn": "She moved the chair.",
+                "affirmativePt": "Ela moveu a cadeira.",
+                "negativeEn": "She didn't move the chair.",
+                "negativePt": "Ela não moveu a cadeira.",
+                "interrogativeEn": "Did she move the chair?",
+                "interrogativePt": "Ela moveu a cadeira?"
+            }
+        ]
+    },
+    {
+        "en": "paper",
+        "pt": "papel",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A thin material used for writing, printing, or drawing",
+        "examples": [
+            {
+                "affirmativeEn": "I write on paper.",
+                "affirmativePt": "Escrevo em papel.",
+                "negativeEn": "I don't write on paper.",
+                "negativePt": "Não escrevo em papel.",
+                "interrogativeEn": "Do you write on paper?",
+                "interrogativePt": "Você escreve em papel?"
+            },
+            {
+                "affirmativeEn": "The paper is white.",
+                "affirmativePt": "O papel é branco.",
+                "negativeEn": "The paper is not white.",
+                "negativePt": "O papel não é branco.",
+                "interrogativeEn": "Is the paper white?",
+                "interrogativePt": "O papel é branco?"
+            },
+            {
+                "affirmativeEn": "He bought more paper.",
+                "affirmativePt": "Ele comprou mais papel.",
+                "negativeEn": "He didn't buy more paper.",
+                "negativePt": "Ele não comprou mais papel.",
+                "interrogativeEn": "Did he buy more paper?",
+                "interrogativePt": "Ele comprou mais papel?"
+            }
+        ]
+    },
+    {
+        "en": "envelope",
+        "pt": "envelope",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A paper container used to hold and send letters or documents",
+        "examples": [
+            {
+                "affirmativeEn": "I seal the envelope.",
+                "affirmativePt": "Selo o envelope.",
+                "negativeEn": "I don't seal the envelope.",
+                "negativePt": "Não selo o envelope.",
+                "interrogativeEn": "Do you seal the envelope?",
+                "interrogativePt": "Você sela o envelope?"
+            },
+            {
+                "affirmativeEn": "The envelope is brown.",
+                "affirmativePt": "O envelope é marrom.",
+                "negativeEn": "The envelope is not brown.",
+                "negativePt": "O envelope não é marrom.",
+                "interrogativeEn": "Is the envelope brown?",
+                "interrogativePt": "O envelope é marrom?"
+            },
+            {
+                "affirmativeEn": "She addressed the envelope.",
+                "affirmativePt": "Ela endereçou o envelope.",
+                "negativeEn": "She didn't address the envelope.",
+                "negativePt": "Ela não endereçou o envelope.",
+                "interrogativeEn": "Did she address the envelope?",
+                "interrogativePt": "Ela endereçou o envelope?"
+            }
+        ]
+    },
+    {
+        "en": "hole punch",
+        "pt": "perfurador",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A tool used to make holes in paper for binding",
+        "examples": [
+            {
+                "affirmativeEn": "I use a hole punch on papers.",
+                "affirmativePt": "Uso um perfurador em papéis.",
+                "negativeEn": "I don't use a hole punch on papers.",
+                "negativePt": "Não uso um perfurador em papéis.",
+                "interrogativeEn": "Do you use a hole punch on papers?",
+                "interrogativePt": "Você usa um perfurador em papéis?"
+            },
+            {
+                "affirmativeEn": "The hole punch is handy.",
+                "affirmativePt": "O perfurador é prático.",
+                "negativeEn": "The hole punch is not handy.",
+                "negativePt": "O perfurador não é prático.",
+                "interrogativeEn": "Is the hole punch handy?",
+                "interrogativePt": "O perfurador é prático?"
+            },
+            {
+                "affirmativeEn": "He punched holes with the hole punch.",
+                "affirmativePt": "Ele furou papéis com o perfurador.",
+                "negativeEn": "He didn't punch holes with the hole punch.",
+                "negativePt": "Ele não furou papéis com o perfurador.",
+                "interrogativeEn": "Did he punch holes with the hole punch?",
+                "interrogativePt": "Ele furou papéis com o perfurador?"
+            }
+        ]
+    },
+    {
+        "en": "desk lamp",
+        "pt": "luminária de mesa",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A small lamp placed on a desk for better lighting",
+        "examples": [
+            {
+                "affirmativeEn": "I need a desk lamp.",
+                "affirmativePt": "Preciso de uma luminária de mesa.",
+                "negativeEn": "I don't need a desk lamp.",
+                "negativePt": "Não preciso de uma luminária de mesa.",
+                "interrogativeEn": "Do you need a desk lamp?",
+                "interrogativePt": "Você precisa de uma luminária de mesa?"
+            },
+            {
+                "affirmativeEn": "The desk lamp is adjustable.",
+                "affirmativePt": "A luminária de mesa é ajustável.",
+                "negativeEn": "The desk lamp is not adjustable.",
+                "negativePt": "A luminária de mesa não é ajustável.",
+                "interrogativeEn": "Is the desk lamp adjustable?",
+                "interrogativePt": "A luminária de mesa é ajustável?"
+            },
+            {
+                "affirmativeEn": "She turned on the desk lamp.",
+                "affirmativePt": "Ela ligou a luminária de mesa.",
+                "negativeEn": "She didn't turn on the desk lamp.",
+                "negativePt": "Ela não ligou a luminária de mesa.",
+                "interrogativeEn": "Did she turn on the desk lamp?",
+                "interrogativePt": "Ela ligou a luminária de mesa?"
+            }
+        ]
+    },
+    {
+        "en": "document holder",
+        "pt": "suporte de documentos",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A stand used to display or hold documents while working",
+        "examples": [
+            {
+                "affirmativeEn": "I use a document holder.",
+                "affirmativePt": "Uso um suporte de documentos.",
+                "negativeEn": "I don't use a document holder.",
+                "negativePt": "Não uso um suporte de documentos.",
+                "interrogativeEn": "Do you use a document holder?",
+                "interrogativePt": "Você usa um suporte de documentos?"
+            },
+            {
+                "affirmativeEn": "The document holder is adjustable.",
+                "affirmativePt": "O suporte de documentos é ajustável.",
+                "negativeEn": "The document holder is not adjustable.",
+                "negativePt": "O suporte de documentos não é ajustável.",
+                "interrogativeEn": "Is the document holder adjustable?",
+                "interrogativePt": "O suporte de documentos é ajustável?"
+            },
+            {
+                "affirmativeEn": "He placed the document holder on his desk.",
+                "affirmativePt": "Ele colocou o suporte de documentos na sua mesa.",
+                "negativeEn": "He didn't place the document holder on his desk.",
+                "negativePt": "Ele não colocou o suporte de documentos na sua mesa.",
+                "interrogativeEn": "Did he place the document holder on his desk?",
+                "interrogativePt": "Ele colocou o suporte de documentos na sua mesa?"
+            }
+        ]
+    },
+    {
+        "en": "binder",
+        "pt": "fichário",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A cover with rings or clips to hold papers together",
+        "examples": [
+            {
+                "affirmativeEn": "I organize documents in a binder.",
+                "affirmativePt": "Organizo documentos em um fichário.",
+                "negativeEn": "I don't organize documents in a binder.",
+                "negativePt": "Não organizo documentos em um fichário.",
+                "interrogativeEn": "Do you organize documents in a binder?",
+                "interrogativePt": "Você organiza documentos em um fichário?"
+            },
+            {
+                "affirmativeEn": "The binder is blue.",
+                "affirmativePt": "O fichário é azul.",
+                "negativeEn": "The binder is not blue.",
+                "negativePt": "O fichário não é azul.",
+                "interrogativeEn": "Is the binder blue?",
+                "interrogativePt": "O fichário é azul?"
+            },
+            {
+                "affirmativeEn": "She filled the binder with papers.",
+                "affirmativePt": "Ela preencheu o fichário com papéis.",
+                "negativeEn": "She didn't fill the binder with papers.",
+                "negativePt": "Ela não preencheu o fichário com papéis.",
+                "interrogativeEn": "Did she fill the binder with papers?",
+                "interrogativePt": "Ela preencheu o fichário com papéis?"
+            }
+        ]
+    },
+    {
+        "en": "rubber band",
+        "pt": "elástico",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "An elastic loop used to hold items together",
+        "examples": [
+            {
+                "affirmativeEn": "I use a rubber band to bundle papers.",
+                "affirmativePt": "Uso um elástico para amarrar papéis.",
+                "negativeEn": "I don't use a rubber band to bundle papers.",
+                "negativePt": "Não uso um elástico para amarrar papéis.",
+                "interrogativeEn": "Do you use a rubber band to bundle papers?",
+                "interrogativePt": "Você usa um elástico para amarrar papéis?"
+            },
+            {
+                "affirmativeEn": "The rubber band is strong.",
+                "affirmativePt": "O elástico é forte.",
+                "negativeEn": "The rubber band is not strong.",
+                "negativePt": "O elástico não é forte.",
+                "interrogativeEn": "Is the rubber band strong?",
+                "interrogativePt": "O elástico é forte?"
+            },
+            {
+                "affirmativeEn": "He wrapped the rubber band around the stack.",
+                "affirmativePt": "Ele enrolou o elástico ao redor da pilha.",
+                "negativeEn": "He didn't wrap the rubber band around the stack.",
+                "negativePt": "Ele não enrolou o elástico ao redor da pilha.",
+                "interrogativeEn": "Did he wrap the rubber band around the stack?",
+                "interrogativePt": "Ele enrolou o elástico ao redor da pilha?"
+            }
+        ]
+    },
+    {
+        "en": "pencil sharpener",
+        "pt": "apontador",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A device used to sharpen the tip of pencils",
+        "examples": [
+            {
+                "affirmativeEn": "I sharpen my pencil with a pencil sharpener.",
+                "affirmativePt": "Aponho meu lápis com um apontador.",
+                "negativeEn": "I don't sharpen my pencil with a pencil sharpener.",
+                "negativePt": "Não aponho meu lápis com um apontador.",
+                "interrogativeEn": "Do you sharpen your pencil with a pencil sharpener?",
+                "interrogativePt": "Você aponha seu lápis com um apontador?"
+            },
+            {
+                "affirmativeEn": "The pencil sharpener is electric.",
+                "affirmativePt": "O apontador é elétrico.",
+                "negativeEn": "The pencil sharpener is not electric.",
+                "negativePt": "O apontador não é elétrico.",
+                "interrogativeEn": "Is the pencil sharpener electric?",
+                "interrogativePt": "O apontador é elétrico?"
+            },
+            {
+                "affirmativeEn": "She used the pencil sharpener.",
+                "affirmativePt": "Ela usou o apontador.",
+                "negativeEn": "She didn't use the pencil sharpener.",
+                "negativePt": "Ela não usou o apontador.",
+                "interrogativeEn": "Did she use the pencil sharpener?",
+                "interrogativePt": "Ela usou o apontador?"
+            }
+        ]
+    },
+    {
+        "en": "label maker",
+        "pt": "impressora de rótulos",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A device used to create labels for organizing items",
+        "examples": [
+            {
+                "affirmativeEn": "I use a label maker for organization.",
+                "affirmativePt": "Uso uma impressora de rótulos para organizar.",
+                "negativeEn": "I don't use a label maker for organization.",
+                "negativePt": "Não uso uma impressora de rótulos para organizar.",
+                "interrogativeEn": "Do you use a label maker for organization?",
+                "interrogativePt": "Você usa uma impressora de rótulos para organizar?"
+            },
+            {
+                "affirmativeEn": "The label maker is compact.",
+                "affirmativePt": "A impressora de rótulos é compacta.",
+                "negativeEn": "The label maker is not compact.",
+                "negativePt": "A impressora de rótulos não é compacta.",
+                "interrogativeEn": "Is the label maker compact?",
+                "interrogativePt": "A impressora de rótulos é compacta?"
+            },
+            {
+                "affirmativeEn": "He printed labels with the label maker.",
+                "affirmativePt": "Ele imprimiu rótulos com a impressora de rótulos.",
+                "negativeEn": "He didn't print labels with the label maker.",
+                "negativePt": "Ele não imprimiu rótulos com a impressora de rótulos.",
+                "interrogativeEn": "Did he print labels with the label maker?",
+                "interrogativePt": "Ele imprimiu rótulos com a impressora de rótulos?"
+            }
+        ]
+    },
+    {
+        "en": "desk organizer",
+        "pt": "organizador de mesa",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A container with compartments to organize desk supplies",
+        "examples": [
+            {
+                "affirmativeEn": "I keep my pens in a desk organizer.",
+                "affirmativePt": "Mantenho minhas canetas em um organizador de mesa.",
+                "negativeEn": "I don't keep my pens in a desk organizer.",
+                "negativePt": "Não mantenho minhas canetas em um organizador de mesa.",
+                "interrogativeEn": "Do you keep your pens in a desk organizer?",
+                "interrogativePt": "Você mantém suas canetas em um organizador de mesa?"
+            },
+            {
+                "affirmativeEn": "The desk organizer is wooden.",
+                "affirmativePt": "O organizador de mesa é de madeira.",
+                "negativeEn": "The desk organizer is not wooden.",
+                "negativePt": "O organizador de mesa não é de madeira.",
+                "interrogativeEn": "Is the desk organizer wooden?",
+                "interrogativePt": "O organizador de mesa é de madeira?"
+            },
+            {
+                "affirmativeEn": "She bought a new desk organizer.",
+                "affirmativePt": "Ela comprou um novo organizador de mesa.",
+                "negativeEn": "She didn't buy a new desk organizer.",
+                "negativePt": "Ela não comprou um novo organizador de mesa.",
+                "interrogativeEn": "Did she buy a new desk organizer?",
+                "interrogativePt": "Ela comprou um novo organizador de mesa?"
+            }
+        ]
+    },
+    {
+        "en": "scanner",
+        "pt": "scanner",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A device used to convert documents or images into digital files",
+        "examples": [
+            {
+                "affirmativeEn": "I scan documents with a scanner.",
+                "affirmativePt": "Digitalizo documentos com um scanner.",
+                "negativeEn": "I don't scan documents with a scanner.",
+                "negativePt": "Não digitalizo documentos com um scanner.",
+                "interrogativeEn": "Do you scan documents with a scanner?",
+                "interrogativePt": "Você digitaliza documentos com um scanner?"
+            },
+            {
+                "affirmativeEn": "The scanner is high-resolution.",
+                "affirmativePt": "O scanner é de alta resolução.",
+                "negativeEn": "The scanner is not high-resolution.",
+                "negativePt": "O scanner não é de alta resolução.",
+                "interrogativeEn": "Is the scanner high-resolution?",
+                "interrogativePt": "O scanner é de alta resolução?"
+            },
+            {
+                "affirmativeEn": "He scanned the document with the scanner.",
+                "affirmativePt": "Ele digitalizou o documento com o scanner.",
+                "negativeEn": "He didn't scan the document with the scanner.",
+                "negativePt": "Ele não digitalizou o documento com o scanner.",
+                "interrogativeEn": "Did he scan the document with the scanner?",
+                "interrogativePt": "Ele digitalizou o documento com o scanner?"
+            }
+        ]
+    },
+    {
+        "en": "desk pad",
+        "pt": "protetor de mesa",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A protective mat placed on a desk surface",
+        "examples": [
+            {
+                "affirmativeEn": "I use a desk pad to protect my desk.",
+                "affirmativePt": "Uso um protetor de mesa para proteger minha mesa.",
+                "negativeEn": "I don't use a desk pad to protect my desk.",
+                "negativePt": "Não uso um protetor de mesa para proteger minha mesa.",
+                "interrogativeEn": "Do you use a desk pad to protect your desk?",
+                "interrogativePt": "Você usa um protetor de mesa para proteger sua mesa?"
+            },
+            {
+                "affirmativeEn": "The desk pad is blue.",
+                "affirmativePt": "O protetor de mesa é azul.",
+                "negativeEn": "The desk pad is not blue.",
+                "negativePt": "O protetor de mesa não é azul.",
+                "interrogativeEn": "Is the desk pad blue?",
+                "interrogativePt": "O protetor de mesa é azul?"
+            },
+            {
+                "affirmativeEn": "She placed a desk pad on her workspace.",
+                "affirmativePt": "Ela colocou um protetor de mesa em seu espaço de trabalho.",
+                "negativeEn": "She didn't place a desk pad on her workspace.",
+                "negativePt": "Ela não colocou um protetor de mesa em seu espaço de trabalho.",
+                "interrogativeEn": "Did she place a desk pad on her workspace?",
+                "interrogativePt": "Ela colocou um protetor de mesa em seu espaço de trabalho?"
+            }
+        ]
+    },
+    {
+        "en": "file separator",
+        "pt": "separador de arquivos",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A divider used to separate documents in folders or filing cabinets",
+        "examples": [
+            {
+                "affirmativeEn": "I organize files with a file separator.",
+                "affirmativePt": "Organizo arquivos com um separador de arquivos.",
+                "negativeEn": "I don't organize files with a file separator.",
+                "negativePt": "Não organizo arquivos com um separador de arquivos.",
+                "interrogativeEn": "Do you organize files with a file separator?",
+                "interrogativePt": "Você organiza arquivos com um separador de arquivos?"
+            },
+            {
+                "affirmativeEn": "The file separator is plastic.",
+                "affirmativePt": "O separador de arquivos é de plástico.",
+                "negativeEn": "The file separator is not plastic.",
+                "negativePt": "O separador de arquivos não é de plástico.",
+                "interrogativeEn": "Is the file separator plastic?",
+                "interrogativePt": "O separador de arquivos é de plástico?"
+            },
+            {
+                "affirmativeEn": "He inserted file separators in the cabinet.",
+                "affirmativePt": "Ele inseriu separadores de arquivos no armário.",
+                "negativeEn": "He didn't insert file separators in the cabinet.",
+                "negativePt": "Ele não inseriu separadores de arquivos no armário.",
+                "interrogativeEn": "Did he insert file separators in the cabinet?",
+                "interrogativePt": "Ele inseriu separadores de arquivos no armário?"
+            }
+        ]
+    },
+    {
+        "en": "mounting putty",
+        "pt": "massa de fixação",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A reusable adhesive used to mount or temporarily attach items",
+        "examples": [
+            {
+                "affirmativeEn": "I use mounting putty to hang posters.",
+                "affirmativePt": "Uso massa de fixação para pendurar pôsteres.",
+                "negativeEn": "I don't use mounting putty to hang posters.",
+                "negativePt": "Não uso massa de fixação para pendurar pôsteres.",
+                "interrogativeEn": "Do you use mounting putty to hang posters?",
+                "interrogativePt": "Você usa massa de fixação para pendurar pôsteres?"
+            },
+            {
+                "affirmativeEn": "The mounting putty is removable.",
+                "affirmativePt": "A massa de fixação é removível.",
+                "negativeEn": "The mounting putty is not removable.",
+                "negativePt": "A massa de fixação não é removível.",
+                "interrogativeEn": "Is the mounting putty removable?",
+                "interrogativePt": "A massa de fixação é removível?"
+            },
+            {
+                "affirmativeEn": "She applied mounting putty to the wall.",
+                "affirmativePt": "Ela aplicou massa de fixação na parede.",
+                "negativeEn": "She didn't apply mounting putty to the wall.",
+                "negativePt": "Ela não aplicou massa de fixação na parede.",
+                "interrogativeEn": "Did she apply mounting putty to the wall?",
+                "interrogativePt": "Ela aplicou massa de fixação na parede?"
+            }
+        ]
+    },
+    {
+        "en": "paper clip",
+        "pt": "clipe de papel",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A metal or plastic device used to hold sheets of paper together",
+        "examples": [
+            {
+                "affirmativeEn": "I use a paper clip to hold papers.",
+                "affirmativePt": "Uso um clipe de papel para prender papéis.",
+                "negativeEn": "I don't use a paper clip to hold papers.",
+                "negativePt": "Não uso um clipe de papel para prender papéis.",
+                "interrogativeEn": "Do you use a paper clip to hold papers?",
+                "interrogativePt": "Você usa um clipe de papel para prender papéis?"
+            },
+            {
+                "affirmativeEn": "The paper clip is small.",
+                "affirmativePt": "O clipe de papel é pequeno.",
+                "negativeEn": "The paper clip is not small.",
+                "negativePt": "O clipe de papel não é pequeno.",
+                "interrogativeEn": "Is the paper clip small?",
+                "interrogativePt": "O clipe de papel é pequeno?"
+            },
+            {
+                "affirmativeEn": "He attached a paper clip to the document.",
+                "affirmativePt": "Ele prendeu um clipe de papel ao documento.",
+                "negativeEn": "He didn't attach a paper clip to the document.",
+                "negativePt": "Ele não prendeu um clipe de papel ao documento.",
+                "interrogativeEn": "Did he attach a paper clip to the document?",
+                "interrogativePt": "Ele prendeu um clipe de papel ao documento?"
+            }
+        ]
+    },
+    {
+        "en": "thumbtack",
+        "pt": "percevejo",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A short pin with a flat head used to fasten papers or notices to a wall",
+        "examples": [
+            {
+                "affirmativeEn": "I use a thumbtack to pin the notice.",
+                "affirmativePt": "Uso um percevejo para fixar o aviso.",
+                "negativeEn": "I don't use a thumbtack to pin the notice.",
+                "negativePt": "Não uso um percevejo para fixar o aviso.",
+                "interrogativeEn": "Do you use a thumbtack to pin the notice?",
+                "interrogativePt": "Você usa um percevejo para fixar o aviso?"
+            },
+            {
+                "affirmativeEn": "The thumbtack is colorful.",
+                "affirmativePt": "O percevejo é colorido.",
+                "negativeEn": "The thumbtack is not colorful.",
+                "negativePt": "O percevejo não é colorido.",
+                "interrogativeEn": "Is the thumbtack colorful?",
+                "interrogativePt": "O percevejo é colorido?"
+            },
+            {
+                "affirmativeEn": "She pushed the thumbtack into the board.",
+                "affirmativePt": "Ela empurrou o percevejo no quadro.",
+                "negativeEn": "She didn't push the thumbtack into the board.",
+                "negativePt": "Ela não empurrou o percevejo no quadro.",
+                "interrogativeEn": "Did she push the thumbtack into the board?",
+                "interrogativePt": "Ela empurrou o percevejo no quadro?"
+            }
+        ]
+    },
+    {
+        "en": "file holder",
+        "pt": "suporte para arquivos",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A stand used to hold and display files or folders on a desk",
+        "examples": [
+            {
+                "affirmativeEn": "I keep documents in a file holder.",
+                "affirmativePt": "Mantenho documentos em um suporte para arquivos.",
+                "negativeEn": "I don't keep documents in a file holder.",
+                "negativePt": "Não mantenho documentos em um suporte para arquivos.",
+                "interrogativeEn": "Do you keep documents in a file holder?",
+                "interrogativePt": "Você mantém documentos em um suporte para arquivos?"
+            },
+            {
+                "affirmativeEn": "The file holder is metal.",
+                "affirmativePt": "O suporte para arquivos é de metal.",
+                "negativeEn": "The file holder is not metal.",
+                "negativePt": "O suporte para arquivos não é de metal.",
+                "interrogativeEn": "Is the file holder metal?",
+                "interrogativePt": "O suporte para arquivos é de metal?"
+            },
+            {
+                "affirmativeEn": "He placed the file holder on his desk.",
+                "affirmativePt": "Ele colocou o suporte para arquivos em sua mesa.",
+                "negativeEn": "He didn't place the file holder on his desk.",
+                "negativePt": "Ele não colocou o suporte para arquivos em sua mesa.",
+                "interrogativeEn": "Did he place the file holder on his desk?",
+                "interrogativePt": "Ele colocou o suporte para arquivos em sua mesa?"
+            }
+        ]
+    },
+    {
+        "en": "sticky notes",
+        "pt": "notas adesivas",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "Small pieces of paper with a reusable adhesive backing for writing notes",
+        "examples": [
+            {
+                "affirmativeEn": "I write reminders on sticky notes.",
+                "affirmativePt": "Escrevo lembretes em notas adesivas.",
+                "negativeEn": "I don't write reminders on sticky notes.",
+                "negativePt": "Não escrevo lembretes em notas adesivas.",
+                "interrogativeEn": "Do you write reminders on sticky notes?",
+                "interrogativePt": "Você escreve lembretes em notas adesivas?"
+            },
+            {
+                "affirmativeEn": "The sticky notes are yellow.",
+                "affirmativePt": "As notas adesivas são amarelas.",
+                "negativeEn": "The sticky notes are not yellow.",
+                "negativePt": "As notas adesivas não são amarelas.",
+                "interrogativeEn": "Are the sticky notes yellow?",
+                "interrogativePt": "As notas adesivas são amarelas?"
+            },
+            {
+                "affirmativeEn": "She stuck sticky notes on the wall.",
+                "affirmativePt": "Ela colou notas adesivas na parede.",
+                "negativeEn": "She didn't stick sticky notes on the wall.",
+                "negativePt": "Ela não colou notas adesivas na parede.",
+                "interrogativeEn": "Did she stick sticky notes on the wall?",
+                "interrogativePt": "Ela colou notas adesivas na parede?"
+            }
+        ]
+    },
+    {
+        "en": "correction tape",
+        "pt": "fita corretora",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A tape used to cover and correct typing or writing mistakes",
+        "examples": [
+            {
+                "affirmativeEn": "I use correction tape to fix mistakes.",
+                "affirmativePt": "Uso fita corretora para corrigir erros.",
+                "negativeEn": "I don't use correction tape to fix mistakes.",
+                "negativePt": "Não uso fita corretora para corrigir erros.",
+                "interrogativeEn": "Do you use correction tape to fix mistakes?",
+                "interrogativePt": "Você usa fita corretora para corrigir erros?"
+            },
+            {
+                "affirmativeEn": "The correction tape works quickly.",
+                "affirmativePt": "A fita corretora funciona rapidamente.",
+                "negativeEn": "The correction tape doesn't work quickly.",
+                "negativePt": "A fita corretora não funciona rapidamente.",
+                "interrogativeEn": "Does the correction tape work quickly?",
+                "interrogativePt": "A fita corretora funciona rapidamente?"
+            },
+            {
+                "affirmativeEn": "He applied correction tape to the paper.",
+                "affirmativePt": "Ele aplicou fita corretora no papel.",
+                "negativeEn": "He didn't apply correction tape to the paper.",
+                "negativePt": "Ele não aplicou fita corretora no papel.",
+                "interrogativeEn": "Did he apply correction tape to the paper?",
+                "interrogativePt": "Ele aplicou fita corretora no papel?"
+            }
+        ]
+    },
+    {
+        "en": "business card holder",
+        "pt": "suporte para cartão de visita",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A container used to store and display business cards on a desk",
+        "examples": [
+            {
+                "affirmativeEn": "I keep my business card holder on my desk.",
+                "affirmativePt": "Mantenho meu suporte para cartão de visita em minha mesa.",
+                "negativeEn": "I don't keep my business card holder on my desk.",
+                "negativePt": "Não mantenho meu suporte para cartão de visita em minha mesa.",
+                "interrogativeEn": "Do you keep your business card holder on your desk?",
+                "interrogativePt": "Você mantém seu suporte para cartão de visita em sua mesa?"
+            },
+            {
+                "affirmativeEn": "The business card holder is elegant.",
+                "affirmativePt": "O suporte para cartão de visita é elegante.",
+                "negativeEn": "The business card holder is not elegant.",
+                "negativePt": "O suporte para cartão de visita não é elegante.",
+                "interrogativeEn": "Is the business card holder elegant?",
+                "interrogativePt": "O suporte para cartão de visita é elegante?"
+            },
+            {
+                "affirmativeEn": "She displayed her business card holder proudly.",
+                "affirmativePt": "Ela exibiu seu suporte para cartão de visita com orgulho.",
+                "negativeEn": "She didn't display her business card holder proudly.",
+                "negativePt": "Ela não exibiu seu suporte para cartão de visita com orgulho.",
+                "interrogativeEn": "Did she display her business card holder proudly?",
+                "interrogativePt": "Ela exibiu seu suporte para cartão de visita com orgulho?"
+            }
+        ]
+    },
+    {
+        "en": "inbox tray",
+        "pt": "bandeja de entrada",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A tray used to collect incoming documents or papers on a desk",
+        "examples": [
+            {
+                "affirmativeEn": "I place documents in an inbox tray.",
+                "affirmativePt": "Coloco documentos em uma bandeja de entrada.",
+                "negativeEn": "I don't place documents in an inbox tray.",
+                "negativePt": "Não coloco documentos em uma bandeja de entrada.",
+                "interrogativeEn": "Do you place documents in an inbox tray?",
+                "interrogativePt": "Você coloca documentos em uma bandeja de entrada?"
+            },
+            {
+                "affirmativeEn": "The inbox tray is full.",
+                "affirmativePt": "A bandeja de entrada está cheia.",
+                "negativeEn": "The inbox tray is not full.",
+                "negativePt": "A bandeja de entrada não está cheia.",
+                "interrogativeEn": "Is the inbox tray full?",
+                "interrogativePt": "A bandeja de entrada está cheia?"
+            },
+            {
+                "affirmativeEn": "He sorted papers from the inbox tray.",
+                "affirmativePt": "Ele classificou papéis da bandeja de entrada.",
+                "negativeEn": "He didn't sort papers from the inbox tray.",
+                "negativePt": "Ele não classificou papéis da bandeja de entrada.",
+                "interrogativeEn": "Did he sort papers from the inbox tray?",
+                "interrogativePt": "Ele classificou papéis da bandeja de entrada?"
+            }
+        ]
+    },
+    {
+        "en": "outbox tray",
+        "pt": "bandeja de saída",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A tray used to hold outgoing documents or papers ready to be sent",
+        "examples": [
+            {
+                "affirmativeEn": "I place finished documents in an outbox tray.",
+                "affirmativePt": "Coloco documentos finalizados em uma bandeja de saída.",
+                "negativeEn": "I don't place finished documents in an outbox tray.",
+                "negativePt": "Não coloco documentos finalizados em uma bandeja de saída.",
+                "interrogativeEn": "Do you place finished documents in an outbox tray?",
+                "interrogativePt": "Você coloca documentos finalizados em uma bandeja de saída?"
+            },
+            {
+                "affirmativeEn": "The outbox tray is empty.",
+                "affirmativePt": "A bandeja de saída está vazia.",
+                "negativeEn": "The outbox tray is not empty.",
+                "negativePt": "A bandeja de saída não está vazia.",
+                "interrogativeEn": "Is the outbox tray empty?",
+                "interrogativePt": "A bandeja de saída está vazia?"
+            },
+            {
+                "affirmativeEn": "She emptied the outbox tray.",
+                "affirmativePt": "Ela esvaziou a bandeja de saída.",
+                "negativeEn": "She didn't empty the outbox tray.",
+                "negativePt": "Ela não esvaziou a bandeja de saída.",
+                "interrogativeEn": "Did she empty the outbox tray?",
+                "interrogativePt": "Ela esvaziou a bandeja de saída?"
+            }
+        ]
+    },
+    {
+        "en": "desk calendar",
+        "pt": "calendário de mesa",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A small calendar designed to sit on a desk for daily reference",
+        "examples": [
+            {
+                "affirmativeEn": "I check my desk calendar every morning.",
+                "affirmativePt": "Verifico meu calendário de mesa todas as manhãs.",
+                "negativeEn": "I don't check my desk calendar every morning.",
+                "negativePt": "Não verifico meu calendário de mesa todas as manhãs.",
+                "interrogativeEn": "Do you check your desk calendar every morning?",
+                "interrogativePt": "Você verifica seu calendário de mesa todas as manhãs?"
+            },
+            {
+                "affirmativeEn": "The desk calendar is compact.",
+                "affirmativePt": "O calendário de mesa é compacto.",
+                "negativeEn": "The desk calendar is not compact.",
+                "negativePt": "O calendário de mesa não é compacto.",
+                "interrogativeEn": "Is the desk calendar compact?",
+                "interrogativePt": "O calendário de mesa é compacto?"
+            },
+            {
+                "affirmativeEn": "He updated the desk calendar.",
+                "affirmativePt": "Ele atualizou o calendário de mesa.",
+                "negativeEn": "He didn't update the desk calendar.",
+                "negativePt": "Ele não atualizou o calendário de mesa.",
+                "interrogativeEn": "Did he update the desk calendar?",
+                "interrogativePt": "Ele atualizou o calendário de mesa?"
+            }
+        ]
+    },
+    {
+        "en": "pencil case",
+        "pt": "estojo de lápis",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A container used to store and carry pencils and writing instruments",
+        "examples": [
+            {
+                "affirmativeEn": "I organize my supplies in a pencil case.",
+                "affirmativePt": "Organizo meus materiais em um estojo de lápis.",
+                "negativeEn": "I don't organize my supplies in a pencil case.",
+                "negativePt": "Não organizo meus materiais em um estojo de lápis.",
+                "interrogativeEn": "Do you organize your supplies in a pencil case?",
+                "interrogativePt": "Você organiza seus materiais em um estojo de lápis?"
+            },
+            {
+                "affirmativeEn": "The pencil case is durable.",
+                "affirmativePt": "O estojo de lápis é durável.",
+                "negativeEn": "The pencil case is not durable.",
+                "negativePt": "O estojo de lápis não é durável.",
+                "interrogativeEn": "Is the pencil case durable?",
+                "interrogativePt": "O estojo de lápis é durável?"
+            },
+            {
+                "affirmativeEn": "She packed her pencil case for school.",
+                "affirmativePt": "Ela embalou seu estojo de lápis para a escola.",
+                "negativeEn": "She didn't pack her pencil case for school.",
+                "negativePt": "Ela não embalou seu estojo de lápis para a escola.",
+                "interrogativeEn": "Did she pack her pencil case for school?",
+                "interrogativePt": "Ela embalou seu estojo de lápis para a escola?"
+            }
+        ]
+    },
+    {
+        "en": "paper tray",
+        "pt": "bandeja de papel",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A compartment in a printer that holds paper to be printed",
+        "examples": [
+            {
+                "affirmativeEn": "I refill the paper tray in the printer.",
+                "affirmativePt": "Reabasteci a bandeja de papel na impressora.",
+                "negativeEn": "I don't refill the paper tray in the printer.",
+                "negativePt": "Não reabasteci a bandeja de papel na impressora.",
+                "interrogativeEn": "Do you refill the paper tray in the printer?",
+                "interrogativePt": "Você reabastece a bandeja de papel na impressora?"
+            },
+            {
+                "affirmativeEn": "The paper tray is empty.",
+                "affirmativePt": "A bandeja de papel está vazia.",
+                "negativeEn": "The paper tray is not empty.",
+                "negativePt": "A bandeja de papel não está vazia.",
+                "interrogativeEn": "Is the paper tray empty?",
+                "interrogativePt": "A bandeja de papel está vazia?"
+            },
+            {
+                "affirmativeEn": "He loaded the paper tray.",
+                "affirmativePt": "Ele carregou a bandeja de papel.",
+                "negativeEn": "He didn't load the paper tray.",
+                "negativePt": "Ele não carregou a bandeja de papel.",
+                "interrogativeEn": "Did he load the paper tray?",
+                "interrogativePt": "Ele carregou a bandeja de papel?"
+            }
+        ]
+    },
+    {
+        "en": "headphones",
+        "pt": "fones de ouvido",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "Audio devices worn on the head for listening to sound privately",
+        "examples": [
+            {
+                "affirmativeEn": "I wear headphones while working.",
+                "affirmativePt": "Uso fones de ouvido enquanto trabalho.",
+                "negativeEn": "I don't wear headphones while working.",
+                "negativePt": "Não uso fones de ouvido enquanto trabalho.",
+                "interrogativeEn": "Do you wear headphones while working?",
+                "interrogativePt": "Você usa fones de ouvido enquanto trabalha?"
+            },
+            {
+                "affirmativeEn": "The headphones are wireless.",
+                "affirmativePt": "Os fones de ouvido são sem fio.",
+                "negativeEn": "The headphones are not wireless.",
+                "negativePt": "Os fones de ouvido não são sem fio.",
+                "interrogativeEn": "Are the headphones wireless?",
+                "interrogativePt": "Os fones de ouvido são sem fio?"
+            },
+            {
+                "affirmativeEn": "She connected her headphones to the computer.",
+                "affirmativePt": "Ela conectou seus fones de ouvido ao computador.",
+                "negativeEn": "She didn't connect her headphones to the computer.",
+                "negativePt": "Ela não conectou seus fones de ouvido ao computador.",
+                "interrogativeEn": "Did she connect her headphones to the computer?",
+                "interrogativePt": "Ela conectou seus fones de ouvido ao computador?"
+            }
+        ]
+    },
+    {
+        "en": "webcam",
+        "pt": "webcam",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A camera connected to a computer for video recording and conferencing",
+        "examples": [
+            {
+                "affirmativeEn": "I use a webcam for video calls.",
+                "affirmativePt": "Uso uma webcam para chamadas de vídeo.",
+                "negativeEn": "I don't use a webcam for video calls.",
+                "negativePt": "Não uso uma webcam para chamadas de vídeo.",
+                "interrogativeEn": "Do you use a webcam for video calls?",
+                "interrogativePt": "Você usa uma webcam para chamadas de vídeo?"
+            },
+            {
+                "affirmativeEn": "The webcam is high-definition.",
+                "affirmativePt": "A webcam é de alta definição.",
+                "negativeEn": "The webcam is not high-definition.",
+                "negativePt": "A webcam não é de alta definição.",
+                "interrogativeEn": "Is the webcam high-definition?",
+                "interrogativePt": "A webcam é de alta definição?"
+            },
+            {
+                "affirmativeEn": "He installed a new webcam on his desk.",
+                "affirmativePt": "Ele instalou uma nova webcam em sua mesa.",
+                "negativeEn": "He didn't install a new webcam on his desk.",
+                "negativePt": "Ele não instalou uma nova webcam em sua mesa.",
+                "interrogativeEn": "Did he install a new webcam on his desk?",
+                "interrogativePt": "Ele instalou uma nova webcam em sua mesa?"
+            }
+        ]
+    },
+    {
+        "en": "desk lamp shade",
+        "pt": "cúpula de luminária de mesa",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A covering for a desk lamp that diffuses light and adds decoration",
+        "examples": [
+            {
+                "affirmativeEn": "I changed the desk lamp shade.",
+                "affirmativePt": "Mudei a cúpula da luminária de mesa.",
+                "negativeEn": "I didn't change the desk lamp shade.",
+                "negativePt": "Não mudei a cúpula da luminária de mesa.",
+                "interrogativeEn": "Do you change the desk lamp shade?",
+                "interrogativePt": "Você muda a cúpula da luminária de mesa?"
+            },
+            {
+                "affirmativeEn": "The desk lamp shade is white.",
+                "affirmativePt": "A cúpula da luminária de mesa é branca.",
+                "negativeEn": "The desk lamp shade is not white.",
+                "negativePt": "A cúpula da luminária de mesa não é branca.",
+                "interrogativeEn": "Is the desk lamp shade white?",
+                "interrogativePt": "A cúpula da luminária de mesa é branca?"
+            },
+            {
+                "affirmativeEn": "She replaced the desk lamp shade.",
+                "affirmativePt": "Ela substituiu a cúpula da luminária de mesa.",
+                "negativeEn": "She didn't replace the desk lamp shade.",
+                "negativePt": "Ela não substituiu a cúpula da luminária de mesa.",
+                "interrogativeEn": "Did she replace the desk lamp shade?",
+                "interrogativePt": "Ela substituiu a cúpula da luminária de mesa?"
+            }
+        ]
+    },
+    {
+        "en": "cable organizer",
+        "pt": "organizador de cabos",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A device used to bundle and organize computer cables and wires",
+        "examples": [
+            {
+                "affirmativeEn": "I use a cable organizer to manage wires.",
+                "affirmativePt": "Uso um organizador de cabos para gerenciar fios.",
+                "negativeEn": "I don't use a cable organizer to manage wires.",
+                "negativePt": "Não uso um organizador de cabos para gerenciar fios.",
+                "interrogativeEn": "Do you use a cable organizer to manage wires?",
+                "interrogativePt": "Você usa um organizador de cabos para gerenciar fios?"
+            },
+            {
+                "affirmativeEn": "The cable organizer is plastic.",
+                "affirmativePt": "O organizador de cabos é de plástico.",
+                "negativeEn": "The cable organizer is not plastic.",
+                "negativePt": "O organizador de cabos não é de plástico.",
+                "interrogativeEn": "Is the cable organizer plastic?",
+                "interrogativePt": "O organizador de cabos é de plástico?"
+            },
+            {
+                "affirmativeEn": "He installed cable organizers under his desk.",
+                "affirmativePt": "Ele instalou organizadores de cabos embaixo de sua mesa.",
+                "negativeEn": "He didn't install cable organizers under his desk.",
+                "negativePt": "Ele não instalou organizadores de cabos embaixo de sua mesa.",
+                "interrogativeEn": "Did he install cable organizers under his desk?",
+                "interrogativePt": "Ele instalou organizadores de cabos embaixo de sua mesa?"
+            }
+        ]
+    },
+    {
+        "en": "desk shelf",
+        "pt": "prateleira de mesa",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A shelf mounted above a desk to store books and supplies",
+        "examples": [
+            {
+                "affirmativeEn": "I store books on a desk shelf.",
+                "affirmativePt": "Armazeno livros em uma prateleira de mesa.",
+                "negativeEn": "I don't store books on a desk shelf.",
+                "negativePt": "Não armazeno livros em uma prateleira de mesa.",
+                "interrogativeEn": "Do you store books on a desk shelf?",
+                "interrogativePt": "Você armazena livros em uma prateleira de mesa?"
+            },
+            {
+                "affirmativeEn": "The desk shelf is sturdy.",
+                "affirmativePt": "A prateleira de mesa é robusta.",
+                "negativeEn": "The desk shelf is not sturdy.",
+                "negativePt": "A prateleira de mesa não é robusta.",
+                "interrogativeEn": "Is the desk shelf sturdy?",
+                "interrogativePt": "A prateleira de mesa é robusta?"
+            },
+            {
+                "affirmativeEn": "She organized the desk shelf.",
+                "affirmativePt": "Ela organizou a prateleira de mesa.",
+                "negativeEn": "She didn't organize the desk shelf.",
+                "negativePt": "Ela não organizou a prateleira de mesa.",
+                "interrogativeEn": "Did she organize the desk shelf?",
+                "interrogativePt": "Ela organizou a prateleira de mesa?"
+            }
+        ]
+    },
+    {
+        "en": "microphone",
+        "pt": "microfone",
+        "partOfSpeech": "noun",
+        "category": "office-school-objects",
+        "description": "A device used to capture and record sound or audio input",
+        "examples": [
+            {
+                "affirmativeEn": "I use a microphone for recording presentations.",
+                "affirmativePt": "Uso um microfone para gravar apresentações.",
+                "negativeEn": "I don't use a microphone for recording presentations.",
+                "negativePt": "Não uso um microfone para gravar apresentações.",
+                "interrogativeEn": "Do you use a microphone for recording presentations?",
+                "interrogativePt": "Você usa um microfone para gravar apresentações?"
+            },
+            {
+                "affirmativeEn": "The microphone is sensitive.",
+                "affirmativePt": "O microfone é sensível.",
+                "negativeEn": "The microphone is not sensitive.",
+                "negativePt": "O microfone não é sensível.",
+                "interrogativeEn": "Is the microphone sensitive?",
+                "interrogativePt": "O microfone é sensível?"
+            },
+            {
+                "affirmativeEn": "He connected his microphone to the computer.",
+                "affirmativePt": "Ele conectou seu microfone ao computador.",
+                "negativeEn": "He didn't connect his microphone to the computer.",
+                "negativePt": "Ele não conectou seu microfone ao computador.",
+                "interrogativeEn": "Did he connect his microphone to the computer?",
+                "interrogativePt": "Ele conectou seu microfone ao computador?"
+            }
+        ]
+    }
+]
