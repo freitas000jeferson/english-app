@@ -34,7 +34,7 @@ export const StudyRepository = {
 		});
 	},
 
-	getStudyQueue(limit: number, categoryId?: number) {
+	getStudyQueue(categoryId?: number, limit = 10) {
 		const now = new Date();
 
 		return prisma.word.findMany({

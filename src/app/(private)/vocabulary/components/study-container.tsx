@@ -53,7 +53,7 @@ export function StudyContainer({ initialQueue }: StudyContainerProps) {
 						<CardContent className="">
 							<div className="flex flex-row gap-4 justify-between">
 								<H3>{current.en}</H3>
-								<SpeechPlayer text="Dog" variant="secondary" />
+								<SpeechPlayer text={current.en} variant="secondary" />
 							</div>
 							<P className="text-muted-foreground text-sm">{current.partOfSpeech}</P>
 						</CardContent>

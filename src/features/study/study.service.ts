@@ -26,8 +26,8 @@ export const StudyService = {
 		});
 	},
 
-	async getQueue(limit = 10, categoryId?: number) {
-		return StudyRepository.getStudyQueue(limit, categoryId);
+	async getQueue( categoryId?: number, limit = 10) {
+		return StudyRepository.getStudyQueue(categoryId, limit);
 	},
 	// busca mesclada
 	async getQueueV2(categoryId?: number) {

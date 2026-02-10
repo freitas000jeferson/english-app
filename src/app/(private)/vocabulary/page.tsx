@@ -37,11 +37,17 @@ export default async function VocabularyPage() {
 	return (
 		<Container variant="narrow" className="py-8 flex flex-col items-start gap-4">
 			<p>Select the exercise type</p>
-			<div className="flex flex-row gap-4 flex-wrap">
-				<ShortcutCard key={'Random'} title={'Aleatorio'} href={'/vocabulary/play'} />
+			<div className="columns-2 sm:columns-3 lg:columns-4 gap-4">
+				<ShortcutCard
+					key={'Random'}
+					className="mb-4 break-inside-avoid"
+					title={'Aleatorio'}
+					href={'/vocabulary/play'}
+				/>
 				{categories.map((category) => (
 					<ShortcutCard
 						key={category.id}
+						className="mb-4 break-inside-avoid"
 						icon={Icons[category.slug]}
 						title={category.name}
 						description={category.description ?? undefined}
