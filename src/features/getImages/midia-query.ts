@@ -1,7 +1,7 @@
 import type { Word } from '@prisma/client';
-import { prismaDB as prisma } from '@/lib/prisma';
+import { prisma } from '@/lib/prisma';
 import { rateLimit } from '@/lib/rateLimit';
-import { decideMedia } from '@/utils/detectAbstractWords';
+import { decideMedia } from '@/utils/detect-abstract-words';
 import { fetchGif } from './fetch-gif';
 import { fetchImage } from './fetch-image';
 

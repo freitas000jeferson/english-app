@@ -44,17 +44,19 @@ export default async function VocabularyPage() {
 					title={'Aleatorio'}
 					href={'/vocabulary/play'}
 				/>
-				{categories.map((category) => (
-					<ShortcutCard
-						key={category.id}
-						className="mb-4 break-inside-avoid"
-						icon={Icons[category.slug]}
-						title={category.name}
-						description={category.description ?? undefined}
-						shortcut={category.level ?? undefined}
-						href={`/vocabulary/${category.id}/play`}
-					/>
-				))}
+				{categories
+					.filter(({ _count }) => _count.words > 0)
+					.map((category) => (
+						<ShortcutCard
+							key={category.id}
+							className="mb-4 break-inside-avoid"
+							icon={Icons[category.slug]}
+							title={category.name}
+							description={category.description ?? undefined}
+							shortcut={category.level ?? undefined}
+							href={`/vocabulary/${category.id}/play`}
+						/>
+					))}
 			</div>
 		</Container>
 	);

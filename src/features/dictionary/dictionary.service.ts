@@ -4,7 +4,7 @@ export async function lookupDictionary(word: string) {
 	return {
 		word: data.word,
 		phonetic: data.phonetic,
-		audio: data.phonetics?.filter((p) => p?.audio?.length > 0),
+		audio: data.phonetics?.filter((p: { audio: string | any[] }) => p?.audio?.length > 0),
 		meanings: data.meanings,
 	};
 }

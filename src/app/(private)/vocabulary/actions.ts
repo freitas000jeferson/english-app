@@ -26,6 +26,6 @@ export async function Action(data: unknown) {
 	return StudyService.answer(input);
 }
 
-export async function getStudyQueueAction(categoryId?:number, limit = 10) {
+export async function getStudyQueueAction(categoryId?: number, limit = 40) {
 	return StudyService.getQueue(categoryId, limit);
 }
